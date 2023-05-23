@@ -8,10 +8,18 @@ services:
     ports:
       - 5432:5432
 
-  app:
+  api:
     build: .
-    command: npx postgraphile -n 0.0.0.0 --legacy-relations omit --no-ignore-indexes --simple-collections omit --append-plugins @graphile-contrib/pg-simplify-inflector,postgraphile-plugin-connection-filter,@pyramation/postgraphile-plugin-fulltext-filter --enhance-graphiql -c postgres://postgres:example@db:5432/postgres -w
+    command: npx postgraphile -n 0.0.0.0 --cors --legacy-relations omit --no-ignore-indexes --simple-collections omit --append-plugins @graphile-contrib/pg-simplify-inflector,postgraphile-plugin-connection-filter,@pyramation/postgraphile-plugin-fulltext-filter --enhance-graphiql -c postgres://postgres:example@db:5432/postgres -w
     depends_on:
       - db
     ports:
       - 5000:5000
+
+  
+  website:
+    image: halverneus/static-file-server:latest
+    volumes:
+      - ./index.html:/web/index.html
+    ports:
+      - 8081:8080
