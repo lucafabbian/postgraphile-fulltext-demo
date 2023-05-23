@@ -1,6 +1,11 @@
+<center>
+
+![Logo](logo.png)
+
+</center>
+
 # postgraphile-fulltext-demo
 In this repository, you find a demo about how to build a search api from a postgres database with the postgraphile-fulltext-filter plugin.
-
 
 
 ## Getting started
