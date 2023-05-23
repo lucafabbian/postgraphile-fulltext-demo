@@ -1,0 +1,57 @@
+An elevated highway is a controlled-access highway that is raised above grade for its entire length. Elevation is usually constructed as viaducts, typically a long pier bridge. Technically, the entire highway is a single bridge.
+
+
+== Reason to construct ==
+Elevated highways are more expensive to build  than at-grade highways, and are usually only used where there is some combination of the following on the desired route:
+
+difficulty controlling access at grade, for example where it would be very disruptive or expensive to eliminate existing crossings at grade
+at grade construction would not allow for optimal traffic flow, for example due to hilly terrain or existing crossings
+budget or time to eliminate impeding structures is high, due to acquisition costs, demolition costs, or environmental factors; for example:
+right of way through an urban area, where private property would have to be purchased or condemned, and might have to be litigated
+hills that are costly to level or carve a path through
+protected wetlands where foundations and paving may cause unacceptable environmental damage, or mitigation would be long and expensive
+a safety issue at grade, for example, where there are many pedestrians or wildlife
+
+
+== Alternatives ==
+Alternatives to elevated highways are:
+At grade uncontrolled highways, but these often have safety or traffic flow issues
+At grade controlled access highways, which may have the issues listed earlier in this article
+At grade controlled access highways with grade-separated crossings, which may mitigate some or all of the issues listed earlier in the article, at less expense than a fully elevated highway
+Tunnels, which have similar advantages to elevated highways, but are significantly more expensive to build. Other advantages to tunnels are that they do not occupy as much valuable real estate (since they can be built on at the surface), cause less noise pollution, may cause less long-term environmental damage, and protect travellers from surface weather.
+Below-grade open cuts, which are typically less costly to maintain, but often (though not always) more expensive to build
+
+
+== History ==
+
+
+=== Railway predecessors ===
+Early engineering for elevated highways owes much to early elevated railway design, which preceded them. Elevated highways were first used to:
+
+create free traffic flow
+prevent accidents in busy cities
+provide some of the first regional connections between nearby cities, in early arterial traffic plansIn the late 19th century and early 20th century, railways and streetcars had frequent accidents where they traversed through population centers. These lead to the first "death avenues", such as 11th Avenue in New York City. Aside from safety, carts and pedestrians crossing trains' paths slowed service.In addition, it became difficult to lay down rail lines, as the construction process was disruptive to normal traffic flow. The existing street grid also made it difficult to lay some railroad lines, as the trains required a wide turn radius.
+This led to the first elevated railways in the late 19th century. The elevated rails, being grade-separated, prevented almost all pedestrian/vehicle accidents, and could allow track bends above existing structures. Their construction could still be disruptive, but was usually less so, as pier construction to support their elevated structures did not necessarily close an entire roadway or long stretches of roadway for an extended period. However, conversion from at grade railways to elevated (or below ground) did not always take place, and many lines continued to be at grade in urban areas well into the 20th century.
+
+
+=== Dawn of the automobile ===
+Concurrently, the increase of automobile and truck traffic early in the 20th century exacerbated many of the safety and free flow issues the railways already presented - and in fact, created additional hazards with railways. The increase in traffic also meant that for the first time, there was a need to develop new and improved roads between cities.
+By the 1920s, truck traffic in warehouse and dock areas was high enough that there was frequent congestion and frequent accidents. In 1924, New York City began looking for ways to relieve the problems of the combination of trucks, cars, trains, and pedestrians on 11th Avenue, which had been known as Death Avenue even before the advent of the car and truck. The mayor, the Manhattan borough president, the police commissioner, the Port Authority, the New York Central Railroad (owner of the West Side Line whose tracks were on 11th Avenue), and others worked on various plans to take the railroad and passenger cars off the street, eliminating the major conflicts that led to injury, death, property damage, traffic jams, and delays in service. The Miller Highway, named after its chief proponent, Borough President Julius Miller, was constructed in sections, primarily from 1929 through 1937, and became the world's first elevated, controlled access highway. After an interruption for World War II, several extensions were built from 1947 to 1951, under the leadership of urban planner Robert Moses, primarily connecting it to his other projects, such as the Henry Hudson Parkway and Brooklyn-Battery Tunnel.The Miller Highway influenced many other subsequent projects, such as Boston's Central Artery and the Pulaski Skyway, and Moses' own Gowanus Parkway. At the start the 20th century, New York and New Jersey state officials realized that car traffic on ferries was increasing beyond the ability of the then-current ferry system. Planning for the Holland Tunnel started in 1919, and it was constructed from 1922 to 1927. As construction started, New Jersey began planning traffic flows between the tunnel and nearby cities. The legislature passed a bill to extend existing highway Route 1 east through Newark and Jersey City. Due  to local opposition to having new highways disrupt local traffic patterns, the engineers elected to use a viaduct, which became the Pulaski Skyway for the eastern portions of the new route (until close to the entrance of the tunnel). It opened in 1933. Like the Miller Highway, it included left lane exits and entrances, narrow lanes, and local surface lanes underneath the highway.The Miller Highway, through immature design and resulting problems, became a case study for highway engineering improvements. Engineering of paving, exit orientation, turn radius, drainage, curb height, ramp length, speed optimization, shoulders, maintenance procedures, noise abatement, and minimizing the "highway wall" effect that could divide communities, were all improved in the 1940s through 1970s, partially by examining the deficiencies of this early elevated highway.
+
+
+=== The Interstate system ===
+
+In the mid-1930s, US Federal Highway legislation allocated budget for surveying and planning of roads, including "superhighways", across the nation, and ordered the chief of the Bureau of Public Roads to report findings and recommendations. The report, submitted in 1939, included a master plan, which recommended that urban highways be "depressed or elevated". In 1944, President Franklin D. Roosevelt submitted a follow-on report, Interregional Highways, which contained illustrations of the depressed and elevated designs. The elevated illustration, reminiscent of the Miller Highway and some of its descendants, featured partial left lane ramps, a highway running across the width a populated boulevard, almost building-to-building, a local traffic lanes underneath the highway. The report also includes a picture of the then-recently constructed Gowanus Parkway, and noted how it was thought to have been an appropriate placement that had a minimal effect on the community. (This was later disputed, and the Gowanus is also a case study for how elevated highways divide neighborhoods and contribute to urban blight.)The phrase Interregional Highways gave way to Interstate Highways in a Congressional bill in 1944, and included $125 million for urban highways. The lead agency, the Federal Public Roads Administration (PRA) worked with state engineer associations to develop planning and design criteria. The PRA's leaders, especially Thomas H. MacDonald and Herbert S. Fairbank, were especially concerned about urban highways. Design standards were issued, with some opposition, which were significant improvements over existing designs. For example, minimum lane width of 12 feet and with a median of at least 4 feet (later standards would increase median sizing), minimal overpass heights were set at 14 feet, recommendations to acquire right of way sufficient for proper ramps of 3° great or less, right-side exit only and only to arterial connections. The Interstate standards have set the pace in the United States for optimal highway design, including those of elevated highways.
+
+
+=== Today ===
+
+Elevated expressways are now common around the world, particularly in the central urban areas where traffic volumes and urban densities are high such as cities in the Americas, East and Southeast Asia. Entire networks of elevated expressways exist in the central areas of cities such as Metro Manila, Guangzhou, Bangkok, Osaka, Shanghai, Tokyo, and Wuhan.
+
+
+== See also ==
+Elevated railway
+Mancunian Way, Manchester
+
+
+== References ==

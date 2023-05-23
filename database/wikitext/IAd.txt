@@ -1,0 +1,23 @@
+iAd is a discontinued mobile advertising platform developed by Apple Inc. for its iPhone, iPod Touch, and iPad line of mobile devices allowing third-party developers to directly embed advertisements into their applications. iAd is part of Apple's iOS 4. Announced on April 8, 2010, and originally slated for release on June 21, 2010, the actual date was changed to July 1, 2010. iAd was announced at Apple's June 7, 2010 keynote, with an iPad version appearing in the fall. Hosted and sold by Apple, the iAd platform was expected to compete with Google's AdMob mobile advertising service.Similar to AdMob, iAd facilitates integrating advertisements into applications sold on the iOS App Store. If the user tapped on an iAd banner, a full-screen advertisement appeared within the application, unlike other ads that would send the user into the Safari web browser. Ads were promised to be more interactive than on other advertising services, and users were able to close them at any time, returning to where they left their app. Former Apple CEO Steve Jobs initially indicated that Apple would retain 40% of the ad revenue, in line with what he called "industry standard", with the other 60% going to the developers. The amount paid to developers was later increased to 70%. iAd was expected to benefit free applications as well. The iAd App Network was discontinued as of June 30, 2016.
+
+
+== Timeline ==
+March 2010 - acquisition of Quattro Wireless, which specializes in mobile advertising.
+July 1, 2010 - launched platform iAd in iOS 4.0 for iPhone/iPod touch only.
+November 2010  - began serving iAds in iOS 4.2(.1) for iPad.
+December 2010 - launched in the UK and France.
+January 2011 - starting in Germany.
+February 2011 - lowered the minimum amount of advertising contract to $500,000. This is done to attract smaller advertisers.
+July 8, 2011 - lowered the minimum amount of advertising contract to $300,000. This is due to return to a few large customers who have gone to a competitor. In particular, Citigroup and American retailer JC Penney Company.
+February 2012 - lowered the minimum amount of advertising contract to $100,000. This is done to deal effectively with Google.
+April 2012 - developer share of advertising revenue increased to 70%.
+June 2013 - lowered the minimum amount of advertising to $50. It was speculated this was done due to low fill rates.
+January 2016 - Apple announced the iAd App Network (not iAd, just the advertise-your-app component) will be discontinued as of June 30, 2016. Apple disbands the iAd sales team.
+June 2016 - The iAd App Network, an ads developer platform for the company's iPhone, iPod Touch, and iPad devices, officially shut down.
+
+
+== References ==
+
+
+== External links ==
+Official website

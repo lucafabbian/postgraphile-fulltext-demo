@@ -1,0 +1,19 @@
+The Württemberg Tss 3 was a class of four 750 mm (2 ft 5+1⁄2 in) gauge 0-6-0T locomotives of the Royal Württemberg State Railways (Königlich Württembergischen Staats-Eisenbahnen, K.W.St.E.). They were bought in 1896 for service on the Zabergäubahn (Lauffen-Leonbronn) und Federseebahn (Schussenried–Buchau–Riedlingen). They were fitted with Klose drive.
+
+
+== History ==
+
+The locomotives, numbered 21 to 24,  were designed by Adolf Klose; they were manufactured by Maschinenfabrik Esslingen, who assigned serial numbers 2794 to 2797. Locomotives 21 and 22 were pallned for the Zabergäubahn, numbers 23 and 24 were for the Federseebahn. Yjey were mostly used for passenger trains. There is also information for the years between 1896 and 1901, according to which numbers 23 and 24 were stationed in Beilstein and used on the Bottwartalbahn.From 1899, the first of the Tssd class appeared; they were a series of more modern mallet locomotives with a gauge of 750 mm (2 ft 5+1⁄2 in). They took over a good part of the train subsidies and were still procured. The K.W.St.E., however, it did not part with the Tss 3, because the Deutsche Reichsbahn, established in 1920, initially provided for the series numbers 99 501 to 99 504 for it. The dates of the renumbering itself can no longer be determined and probably never took place. Overall, very little is known about the history of the Tss 3 in use. By 1927 at the latest, all locomotives were scrapped.
+
+
+== Technical features ==
+The Tss 3 had a riveted plate metal outside frame that was stiffened with cast steel cross braces. The valve gear, the drive and coupling rods as well as the length compensation of the Klose drive system were arranged on the outside. The cylinders lay on the footplate next to the smokebox and each worked on a two-armed lever (black in front of the bright, parallelogram-like rods in the works' photograph), which in turn worked on the second drive axle, which had no lateral motion. Due to their parallogram-like arrangement, the coupling rods could adapt to the track curves. So the first and last axles could swivel to match the curve radius of the track. However, the Klose drive system was very complex to design and maintain.
+The Tss 3 had a Westinghouse air brake for the train, as well as an Exter's spindle brake, which worked on both sides at an angle from above on the driving axle.
+On delivery, the locomotives had a Kobel chimney as a spark arrester. The cab was similar to the longer, four-axle Tss 4.
+
+
+== References ==
+
+Kenning, Ludger (2004). Die Bottwartal- und die Zabergäubahn (in German). Nordhorn: Kenning. ISBN 3-933613-47-7.{{cite book}}:  CS1 maint: date and year (link)
+Weisbrod, Manfred; Petznik, Wolfgang (1981). Dampflokomotiven deutscher Eisenbahnen, Baureihe 97–99 (EFA 1.4) (in German) (2nd ed.). Düsseldorf: Alba. pp. 155–156. ISBN 3-87094-087-5.
+Weisbrod, Manfred; Wiegard, Hans; Müller, Hans; Petznick, Wolfgang (1995). Dampflokomotiven 4. Baureihe 99 (in German). Berlin: Transpress. pp. 74–75. ISBN 3-344-70903-8.

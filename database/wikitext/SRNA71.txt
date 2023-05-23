@@ -1,0 +1,10 @@
+sRNA71 is a Bacterial small RNA discovered by RNA-seq analysis of the multiresistant Staphylococcus aureus strain ST239 grown in the presence of antibiotics  and found throughout the Staphylococcus genus.
+It is thought to be a trans-encoded small RNA expressed in diverse conditions and media. The 5’ position is uncertain, this record adds 12 bases to the initial sRNA71 sequence to include additional conserved nucleotides. 
+
+
+== References ==
+
+
+== External links ==
+
+Page for sRNA71 small RNA at Rfam

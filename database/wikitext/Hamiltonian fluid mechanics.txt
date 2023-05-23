@@ -1,0 +1,438 @@
+Hamiltonian fluid mechanics is the application of Hamiltonian methods to fluid mechanics. Note that this formalism only applies to nondissipative fluids.
+
+
+== Irrotational barotropic flow ==
+Take the simple example of a barotropic, inviscid vorticity-free fluid.
+Then, the conjugate fields are the mass density field ρ and the velocity potential φ. The Poisson bracket is given by
+
+  
+    
+      
+        {
+        ρ
+        (
+        
+          
+            
+              y
+              →
+            
+          
+        
+        )
+        ,
+        φ
+        (
+        
+          
+            
+              x
+              →
+            
+          
+        
+        )
+        }
+        =
+        
+          δ
+          
+            d
+          
+        
+        (
+        
+          
+            
+              x
+              →
+            
+          
+        
+        −
+        
+          
+            
+              y
+              →
+            
+          
+        
+        )
+      
+    
+    {\displaystyle \{\rho ({\vec {y}}),\varphi ({\vec {x}})\}=\delta ^{d}({\vec {x}}-{\vec {y}})}
+  and the Hamiltonian by:
+
+  
+    
+      
+        H
+        =
+        ∫
+        
+          
+            d
+          
+          
+            d
+          
+        
+        x
+        
+          
+            H
+          
+        
+        =
+        ∫
+        
+          
+            d
+          
+          
+            d
+          
+        
+        x
+        
+          (
+          
+            
+              
+                1
+                2
+              
+            
+            ρ
+            (
+            ∇
+            φ
+            
+              )
+              
+                2
+              
+            
+            +
+            e
+            (
+            ρ
+            )
+          
+          )
+        
+        ,
+      
+    
+    {\displaystyle H=\int \mathrm {d} ^{d}x{\mathcal {H}}=\int \mathrm {d} ^{d}x\left({\frac {1}{2}}\rho (\nabla \varphi )^{2}+e(\rho )\right),}
+  where e is the internal energy density, as a function of ρ. 
+For this barotropic flow, the internal energy is related to the pressure p by:
+
+  
+    
+      
+        
+          e
+          ″
+        
+        =
+        
+          
+            1
+            ρ
+          
+        
+        
+          p
+          ′
+        
+        ,
+      
+    
+    {\displaystyle e''={\frac {1}{\rho }}p',}
+  where an apostrophe ('), denotes differentiation with respect to ρ.
+This Hamiltonian structure gives rise to the following two equations of motion:
+
+  
+    
+      
+        
+          
+            
+              
+                
+                  
+                    
+                      ∂
+                      ρ
+                    
+                    
+                      ∂
+                      t
+                    
+                  
+                
+              
+              
+                
+                =
+                +
+                
+                  
+                    
+                      ∂
+                      
+                        
+                          H
+                        
+                      
+                    
+                    
+                      ∂
+                      φ
+                    
+                  
+                
+                =
+                −
+                ∇
+                ⋅
+                (
+                ρ
+                
+                  
+                    
+                      u
+                      →
+                    
+                  
+                
+                )
+                ,
+              
+            
+            
+              
+                
+                  
+                    
+                      ∂
+                      φ
+                    
+                    
+                      ∂
+                      t
+                    
+                  
+                
+              
+              
+                
+                =
+                −
+                
+                  
+                    
+                      ∂
+                      
+                        
+                          H
+                        
+                      
+                    
+                    
+                      ∂
+                      ρ
+                    
+                  
+                
+                =
+                −
+                
+                  
+                    1
+                    2
+                  
+                
+                
+                  
+                    
+                      u
+                      →
+                    
+                  
+                
+                ⋅
+                
+                  
+                    
+                      u
+                      →
+                    
+                  
+                
+                −
+                
+                  e
+                  ′
+                
+                ,
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}{\frac {\partial \rho }{\partial t}}&=+{\frac {\partial {\mathcal {H}}}{\partial \varphi }}=-\nabla \cdot (\rho {\vec {u}}),\\{\frac {\partial \varphi }{\partial t}}&=-{\frac {\partial {\mathcal {H}}}{\partial \rho }}=-{\frac {1}{2}}{\vec {u}}\cdot {\vec {u}}-e',\end{aligned}}}
+  where 
+  
+    
+      
+        
+          
+            
+              u
+              →
+            
+          
+        
+         
+        
+          
+            
+              
+                =
+              
+              
+                
+                  d
+                  e
+                  f
+                
+              
+            
+          
+        
+         
+        ∇
+        φ
+      
+    
+    {\displaystyle {\vec {u}}\ {\stackrel {\mathrm {def} }{=}}\ \nabla \varphi }
+   is the velocity and is vorticity-free. The second equation leads to the Euler equations:
+
+  
+    
+      
+        
+          
+            
+              ∂
+              
+                
+                  
+                    u
+                    →
+                  
+                
+              
+            
+            
+              ∂
+              t
+            
+          
+        
+        +
+        (
+        
+          
+            
+              u
+              →
+            
+          
+        
+        ⋅
+        ∇
+        )
+        
+          
+            
+              u
+              →
+            
+          
+        
+        =
+        −
+        
+          e
+          ″
+        
+        ∇
+        ρ
+        =
+        −
+        
+          
+            1
+            ρ
+          
+        
+        ∇
+        
+          p
+        
+      
+    
+    {\displaystyle {\frac {\partial {\vec {u}}}{\partial t}}+({\vec {u}}\cdot \nabla ){\vec {u}}=-e''\nabla \rho =-{\frac {1}{\rho }}\nabla {p}}
+  after exploiting the fact that the vorticity is zero:
+
+  
+    
+      
+        ∇
+        ×
+        
+          
+            
+              u
+              →
+            
+          
+        
+        =
+        
+          
+            
+              0
+              →
+            
+          
+        
+        .
+      
+    
+    {\displaystyle \nabla \times {\vec {u}}={\vec {0}}.}
+  As fluid dynamics is described by non-canonical dynamics, which possess an infinite amount of Casimir invariants, an alternative formulation of Hamiltonian formulation of fluid dynamics can be introduced through the use of Nambu mechanics
+
+
+== See also ==
+Luke's variational principle
+Hamiltonian field theory
+
+
+== Notes ==
+
+
+== References ==
+Badin, Gualtiero; Crisciani, Fulvio (2018). Variational Formulation of Fluid and Geophysical Fluid Dynamics - Mechanics, Symmetries and Conservation Laws -. Springer. p. 218. Bibcode:2018vffg.book.....B. doi:10.1007/978-3-319-59695-2. ISBN 978-3-319-59694-5. S2CID 125902566.
+Morrison, P.J. (2006). "Hamiltonian Fluid Mechanics" (PDF).  In Elsevier (ed.). Encyclopedia of Mathematical Physics. Vol. 2. Amsterdam. pp. 593–600.
+Morrison, P. J. (April 1998). "Hamiltonian Description of the Ideal Fluid" (PDF). Reviews of Modern Physics. Austin, Texas. 70 (2): 467–521. Bibcode:1998RvMP...70..467M. doi:10.1103/RevModPhys.70.467. hdl:2152/61087.
+R. Salmon (1988). "Hamiltonian Fluid Mechanics". Annual Review of Fluid Mechanics. 20: 225–256. Bibcode:1988AnRFM..20..225S. doi:10.1146/annurev.fl.20.010188.001301.
+Shepherd, Theodore G (1990). "Symmetries, Conservation Laws, and Hamiltonian Structure in Geophysical Fluid Dynamics". Advances in Geophysics Volume 32. Advances in Geophysics. Vol. 32. pp. 287–338. Bibcode:1990AdGeo..32..287S. doi:10.1016/S0065-2687(08)60429-X. ISBN 9780120188321.
+Swaters, Gordon E. (2000). Introduction to Hamiltonian Fluid Dynamics and Stability Theory. Boca Raton, Florida: Chapman & Hall/CRC. p. 274. ISBN 1-58488-023-6.
+Nevir, P.; Blender, R. (1993). "A Nambu representation of incompressible hydrodynamics using helicity and enstrophy". J. Phys. A. 26 (22): 1189–1193. Bibcode:1993JPhA...26L1189N. doi:10.1088/0305-4470/26/22/010.
+Blender, R.; Badin, G. (2015). "Hydrodynamic Nambu mechanics derived by geometric constraints". J. Phys. A. 48 (10): 105501. arXiv:1510.04832. Bibcode:2015JPhA...48j5501B. doi:10.1088/1751-8113/48/10/105501. S2CID 119661148.

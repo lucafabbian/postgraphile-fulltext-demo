@@ -1,0 +1,89 @@
+Chratze (German pronunciation: [xratsə]; "raking") is a trick taking card game, mainly played in the German-speaking part of Switzerland as well as in Bavaria (there known as Zwicken and played with 3 cards). It is one of over 70 variants of Jass and played with a pack of 36 cards, either a Swiss-German or French one. It appears to be related to the Austrian game, Kratzen.
+Theoretically it can be played by 2-7 people, however it is most common and enjoyable are 4-5 players.
+Four cards are dealt, therefore there are 4 tricks to be taken.
+
+
+== Basics ==
+Chratze is played with a pack of four suits, each of 9 cards however, unlike other Jass games, the cards have no point value and only the trick itself counts. Each player receive 4 cards and there is an auction during which players may bid to be the declarer (the Chratzer), to stay in or to drop out of the current game. After the auction, active players may improve their hand by exchanging.
+
+
+== Rules ==
+Deal, auction and play are anticlockwise.
+
+
+=== Deal ===
+Before dealing starts every player antes the basic stake, usually 20 cents, to the middle of the table.
+The first dealer is chosen by prior agreement; thereafter the deal rotates to the right. The dealer shuffles the pack, gives it to the player on the left to be cut and then deals 4 cards each in batches of 2, beginning with forehand to the right. After dealing the first batch, the dealer turns the next card and places it in the middle face up to determine the trump suit. The dealer then deals the second batch.
+
+
+=== Auction ===
+There are three possible bids:
+
+"Chratze" (German pronunciation: [ xʀatsɛ ]): "rake" i.e. the player elects to become the declarer (known as the "Chratzer" - the "Raker") and commits to making at least 2 tricks
+"Metcho" (German pronunciation: [ mɛtxoː ]): "stay" or "play" (lit. "with you") i.e. the  player will play the current game aiming to make at least 1 trick
+"Weg" (German pronunciation: [ vɛɡ ]): "pass" or "out" (lit. "away") i.e. the player will drop out of the current gameThe dealer asks the players in turn if they wish to become the declarer. As soon as a player does so by saying "chratze", the remainder are then asked, in turn beginning with forehand, whether they wish to join in. A player says "metcho" ("play") to participate or "weg" to drop out. Only one player may be the declarer. If nobody bids to be the Chratzer, the cards are reshuffled and redealt by the same dealer. After the third re-deal, the deal passes to the right.
+
+
+=== Exchange ===
+Each active player (i.e. those who announced "chratze" or "metcho") may now exchange cards with the remaining stock. Exchanging begins with the Chratzer and proceeds anticlockwise. The dealer now asks the players how many cards they wish to exchange. Each player in turn lays down the number of cards to be exchanged and receives the same number of cards from the stock from the dealer. The next player to the right does the same and so on. A player laying down all 4 cards gets 5 in return, but subsequently has to discard one to have a hand of 4 before the game starts. There is only one round of exchanging. Cards exchanged or discarded must not be revealed. If a player holds the trump 6, it may be exchanged with the trump upcard before the first card is led.
+
+
+=== Play ===
+The Chratzer leads to the first trick. All other active players must follow suit. A player unable to follow suit, must play a trump card. Unlike Jass, players must to play a trump even if their it is lower than any previous trump. A player unable to follow the suit or play a trump is free to play any card. The trick is won by the highest trump or by the highest card of the led suit if no trumps are played. The trick winner leads to the next trick.
+If a trump is led, trumps must be followed if possible; otherwise any card may be played.
+The player with the highest-ranking card wins the trick; all the trump suit cards are higher than any card of a plain suit, with the trump and plain suits ranking from Ace (highest) to 6 (lowest). In Chratze, there are no matadors like the Jack (Puur) and Nine (Nell) as in Jass. At the end of 4 tricks, the Chratzer must have 2 tricks or more to win a share of the pot; the other active players must have at least 1 trick to win a share of the pot.
+
+
+== Pot ==
+Usually Chratze is played for a pot which is set openly on the table for everyone to know the stakes being played for. Usually only cash is accepted (e.g. no cheques, etc.).
+
+
+=== Stakes ===
+The pot is usually filled by the ante (usually 20 cents per person) made before the cards are dealt.
+In addition, any player who fails to make the required number of tricks must pay a penalty to the pot as follows:
+
+Chratzer: pays double the current stake
+Other active players: pay the current stakeThe current stake is distributed to the winner(s) of the current game before the penalties are paid in for the next game.
+
+
+=== Winnings ===
+If the Chratzer takes 2 or more tricks or if another active player takes 1 or more, they earn winnings as follows:
+Chratzer – ⅔ of the pot
+Others - ⅓ of the pot, sharedExceptions:
+
+If the Chratzer takes all 4 tricks, he or she sweeps the pot
+If the Chratzer fails to take at least 2 tricks, the pot is divided equally by the remaining active players who took at least 1 trick.
+If there are no other active players, the Chratzer sweeps the pot.
+
+
+=== Example ===
+File players ante the basic stake so that the pot amounts to 1 euro. The Chratzer only makes 1 trick and there were 3 other active players, 2 of whom made 1 or more tricks and one who failed to take any tricks.
+
+The active players that took tricks share the pot, earning 50 cents each. The pot is emptied
+The Chratzer now pays 2 euros plus the ante of 20 cents to the next game
+The active player who took no tricks pays 1 euro plus the ante of 20 cents
+Everyone else pays the ante of 20 cents.
+
+
+== Advanced variations ==
+
+
+=== Blind Chratze ===
+The term blind refers to the fact that a dealer (and only the dealer) announces to Chratze without knowing his deck and the trump suit (double blind) or without knowing his deck (blind). In the case of any "Blind", the trump displayed (flipped card by the dealer) can not be exchanged by any other player with the trump 6.
+Blind: having dealt the 1st batch of cards and turned for trumps, the dealer may choose to make 2 tricks or more without knowing his hand but with the advantage of exchanging with the trump upcard. In this case, the dealer deals the 2nd batch of 2 cards each, thus ending up with 5 cards in hand and having to discard one to reduce to 4 cards. He or she may still exchange up to 4 cards as normal.
+Double blind: before dealing or at least before turning for trump, the dealer may opt to play double blind. In this case, the dealer receives the trump upcard and an additional 3rd card in the 2nd batch giving a total of 6 hand cards of which 2 must be discarded. Again, up to 4 cards may be exchanged as normal.
+Playing a single blind makes some sense, for example if the trump upcard is an Ace, which assures the dealer of at least 1 certain trick. A double blind is pure chance.
+
+
+=== "Susi" ===
+The "Susi" rule is designed to prevent the Chratzer winning the pot without playing a single card when no-one else bids. It is not so much a rule, as good manners that the last person to bid should play if no-one else has. If the last person asked does not challenge the Chratzer and the pot is lost without a fight, the others may tease him by calling call him e.g. "Susi" for the rest of the evening.
+
+
+== Footnotes ==
+
+
+== References ==
+
+
+== External links ==
+Chratze - Das ultimative schweizerische Kartenspiel by Dirkster Seibert (2018). A variant of the above rules.

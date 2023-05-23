@@ -1,0 +1,58 @@
+Tight junction proteins (TJ proteins) are molecules situated at the tight junctions of epithelial, endothelial and myelinated cells. This multiprotein junctional complex has a regulatory function in passage of ions, water and solutes through the paracellular pathway. It can also coordinate the motion of lipids and proteins between the apical and basolateral surfaces of the plasma membrane. Thereby tight junction conducts signaling molecules, that influence the differentiation, proliferation and polarity of cells. So tight junction plays a key role in maintenance of osmotic balance and trans-cellular transport of tissue specific molecules. Nowadays is known more than 40 different proteins, that are involved in these selective TJ channels.
+
+
+== Structure of tight junction ==
+The morphology of tight junction is formed by transmembrane strands in the inner side of plasma membrane with complementary grooves on the outer side. This TJ strand network is composed by transmembrane proteins, that interact with the actin in cytoskeleton and with submembrane proteins, which send a signal into the cell. The complexity of the network structure depends on the cell type and it can be visualized and analyzed by freeze-fracture electron microscopy, which shows the individual strands of the tight junction.
+
+
+== Function of tight junction proteins ==
+TJ proteins could be divided in different groups according to their function or localization in tight junction.  TJ proteins are mostly described in the epithelia and endothelia but also in myelinated cells. In the central and peripheral nervous system are TJ localized between a glia and an axon and within myelin sheaths, where they facilitate the signaling. Some of TJ proteins act as a scaffolds, that connect integral proteins with the actin in a cytoskeleton. Others have an ability to crosslink junctional molecules or transport vesicles through the tight junction. Some submembrane proteins are involved in the cell signaling and gene expression due to their specific binding to the transcription factor. The most important tight junction proteins are occludin, claudin and JAM family, that establish the backbone of tight junction and allow to passing of immune cells through the tissue.
+
+
+== TJ proteins in epithelia and endothelia ==
+Proteins in epithelial and endothelial cells are occludin, claudin and tetraspanin, that each has a one or two different types of the conformation. All of them are created by four transmembrane regions with two (amino-, carboxyl-) extracellular domains, that are orientated towards the cytoplasm. But occludin has a structure with two similar extracellular loops compared to claudin and tetraspanin, which have one extracellular loop significantly longer than the other one.
+
+
+=== Occludin ===
+Occludin (60kDa) was the first identified component of tight junction. The tetraspan membrane protein is established by two extracellular loops, two extracellular domains and one short intracellular domain. The C-terminal domain of occludin is directly bound to ZO-1, which interacts with actin filaments in cytoskeleton. It works as a transmitter from and to the tight junction, because of its association with signaling molecules (PI3-kinase, PKC, YES, protein phosphases 2A, 1). This TJ protein also participate in a selective diffusion of solutes along concentration gradient and transmigration of leukocytes across the endothelium and epithelium. Therefore the result of the overexpression of mutant occludin in epithelial cells leads to break down the barrier function of tight junction and changes in a migration of neutrophils. Occludin cooperates with members of the claudin family directly or indirectly and together they form the long strands of tight junction.
+
+
+=== Claudin ===
+The claudin family is composed by 24 members. Some of them haven´t been well characterized yet but all members are encoded by 20-27kDa tetraspan proteins with two extracellular domains, one short intracellular domain and two extracellular loops, where is the first one notably larger than the second one. The C-terminal domain of claudins is required for their stability and targeting. This domain contains PDZ-binding motif, that facilitate to bind them to the PDZ membrane proteins, like a ZO-1, ZO-2, ZO-3,MUPP1. Each claudin has a specific variation and amount of charged aminoacids in the first extracellular loop. So through the repolarization of aminoacids could claudins selectively regulate the molecule transfer. In contrast to occludin, which makes paracellular holes for ion-trafficking between neighbour cells. Claudins seem to be on a tissue specific manner, because some of them are expressed only in a specific cell type. Claudin 11 is expressed in oligodendrocytes and Sertoli cells or Claudin 5 is expressed in the vascular endothelial cells.Claudin 2,3,4,7,8,12,15 are present in epithelial cells throughout the segments of intestinal tract. Claudin 7 is occurred also in epithelial cells of the lung and kidney. Claudin-18 is expressed in the alveolar epithelial cells of the lung. Most types of claudins have more than two isoforms, that have a distinguish size or function. The specific combination of these isoforms creates tight junction strands, while the occulin is not required for. Occludin play a role in selective regulation by an incorporating itself into the claudin-based strands. The different proportion of claudin species in the cell gives them specific barrier properties. Claudins also have a function in a signaling of the cell adhesion, for example Cldn 7 binds directly to adhesion molecule EpCAM on the cell membrane. And Cldn 16 is associated with reabsorption of divalent cations, because it locates in epithelial cells of thick ascending loop of Henle.
+
+
+== TJ proteins in myelin sheaths ==
+
+
+=== OSP/Claudin 11 ===
+OSP/Claudin 11 is occurred in a myelin of nerve cells and between Sertoli cells, so it forms tight junctions in the CNS. This protein in a cooperation with the second loop of occludin maintains the blood-testis barrier and spermatogenesis.
+
+
+=== PMP22/gas-3 ===
+PMP22/gas-3, called peripheral myelin protein, is located in the myelin sheath. The expression of this protein is associated with a differentiation of Schwann cells,  an establishment of tight junction in the Schwamm cell membrane or a compact formation of myelin. It is also present in epithelial cells of lungs and intestine, where interacts with occludin and ZO-1, that together create the TJ in the epithelia. PMP22/gas-3 belongs to the epithelial membrane protein family (EMP1-3), which conducts a growth and differentiation of cells.
+
+
+=== OAP-1/TSPAN-3 ===
+OAP-1/TSPAN-3 cooperates with β1-integrin and OSP/Claudin11 within myelin sheaths of oligodendrocytes, thereby affects the proliferation and migration.
+
+
+== Junctional adhesion molecules ==
+
+
+=== JAM ===
+Junctional adhesion molecules are divided in subgroups according to their composition and binding motif.
+Glycosylated transmembrane proteins JAMs are classified in the immunoglobulin superfamily, that are formed by two extracellular Ig-like domains: the transmembrane region and the C-terminal cytoplasmatic domain. Members of this JAM family could express two distinguish binding motifs.  First subgroup composed by JAM-A, JAM-B, JAM-C  has a PDZ-domain binding motif type II at their C-termini, which interacts with the PDZ domain of ZO-1, AF-6, PAR-3 and MUPP1. JAM proteins are not a part of tight junction strands but they participate in a signalization that leads to an adhesion of monocytes and neutrophils and their transmigration through the epithelium. JAMs in epithelial cells can aggregate with TJ strands, that are made of polymers of claudin and occludin.  JAM-A maintains barrier properties in the endothelium and the epithelium as well as JAM-B and -C in Sertoli cells and spermatids.The second subgroup of CAR, ESAM, CLMP and JAM4 proteins contains a PDZ-domain binding motif type I at their C-termini.
+CAR (coxsackie and adenovirus receptor) also belongs to the immunoglobulin superfamily, same like JAM proteins. CAR is expressed in the epithelia of trachea, bronchi, kidney, liver and intestine, where positively contributes to the barrier function of the tight junction.  This protein mediates a neutrophil migration, cells contacts and an aggregation. It´s necessary for the embryonal heart development, especially for the organization of myofibrils in cardiomyocytes. CAR is associated with PDZ-scaffolding proteins MAGI-1b, PICK, PSD-95, MUPP1 and LNX.ESAM (endothelial cell selective adhesion molecule) is an immunoglobulin-transmembrane protein, which influences properties of the endothelial TJ. ESAM is present in endothelial cells and platelets but not in the epithelium and leukocytes. There, it directly binds to the MAGI-1 molecules through the ligation of C-terminal domain and PDZ-domain. This cooperation provides the formation of large molecular complex at tight junctions in the endothelium.JAM4 is a component of immunoglobulin superfamily JAM but it expresses a PDZ-domain binding motif class I (doesn´t express a class II like members JAM-A,-B,-C). The JAM4 is situated in a kidney glomeruli and an intestine epithelium, where cooperates with MAGI-1, ZO-1, occludin and effectively regulates the permeability of these cells. JAM4 has a cell adhesion activity, which is conducted by MAGI-1.
+
+
+=== Myelin Protein 0 ===
+Protein 0 is a major myelin protein of the peripheral nervous system, which integrates with PMP22. Together they form and compact myelin sheaths of nerve cells.
+
+
+== Plaque proteins in the tight junction ==
+Plaque proteins are molecules, that are required for the coordination of signals coming from the plasma membrane. In recent years exist about 30 different proteins associated with cytoplasmatic properties of the tight junction.
+One group of these proteins are attended in the organization of transmembrane proteins and the interaction with actin filaments. This PDZ-containing group is composed by ZO-1, ZO-2, ZO-3, AF-6, MAGI, MUPP1, PAR, PATJ, and the PDZ domain gives them a scaffolding function. PDZ domains are important for a clustering and an anchoring of transmembrane proteins. With the first group interacts one plaque protein without PDZ domain, called cingulin, which plays a key role in the cell adhesion.
+The second group of plague proteins are used for a vesicular trafficking, barrier regulation and gene transcription, because certain of them are transcription factors or proteins with nuclear functions. Members of this second group are ZONAB, Ral-A, Raf-1, PKC, symplekin, cingulin and some more. They are characterized by lacking of the PDZ domain.
+
+
+== References ==

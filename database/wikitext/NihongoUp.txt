@@ -1,0 +1,13 @@
+NihongoUp was an Adobe AIR desktop Japanese educational game and reviewing tool. The program featured several game modes which allowed the player to improve their kana typing and reading speed, review JLPT kanji and vocabulary, and learn Japanese grammar in context. The game was compatible with Microsoft Windows, Mac OS X and Linux. iPhone, Android, and Windows Phone 7 versions of the game were also available.
+In 2010, NihongoUp evolved into a full-fledged online Japanese language learning community which included interactive lessons, online review exercises, downloadable applications, and cheat sheets, designed to provide a complete solution for learners of the Japanese language. In 2011, this content was ported to LinguaLift, a blended learning platform offering courses for several world languages.
+
+
+== Features ==
+The NihongoUp game was separated into four different modes. In the Hiragana and Katakana modes, the player was supposed to shoot down balloons by typing the correct reading of the characters written on them. In the Kanji, Vocabulary, Particles and Counters modes, the player was presented with an incomplete sentence and had to choose the correct character or word to be placed into the marked part of the sentence.
+
+
+== Awards and recognition ==
+NihongoUp is a Serious Games Showcase & Challenge winner
+
+
+== References ==

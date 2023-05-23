@@ -1,0 +1,94 @@
+Xcitium, formerly known as Comodo Security Solutions, Inc., is a cybersecurity company headquartered in Bloomfield, New Jersey.
+
+
+== History ==
+The company was founded in 1998 in the United Kingdom by Melih Abdulhayoğlu. The company relocated to the United States in 2004. Its products are focused on computer and internet security. The firm operates a certificate authority that issues SSL certificates. The company also helped on setting standards by contributing to the IETF (Internet Engineering Task Force) DNS Certification Authority Authorization (CAA) Resource Record.In October 2017, Francisco Partners acquired Comodo Certification Authority (Comodo CA) from Comodo Security Solutions, Inc. Francisco Partners rebranded Comodo CA in November 2018 to Sectigo. The change in name came less than a year after Comodo CA was acquired by Francisco Partners.On June 28, 2018, the new organization announced that it was expanding from TLS/SSL certificates into IoT security with the announcement of its IoT device security platform. The company announced its new headquarters in Roseland, New Jersey on July 3, 2018 and its acquisition of CodeGuard, a website maintenance and disaster recovery company, on August 16, 2018.On June 29, 2020, Comodo announced their strategic partnership with the company CyberSecOp. The firm has partnered with Comodo in the past, and seeks to provide a range of cybersecurity products and consulting services.
+
+
+== Companies ==
+Comodo CA Limited (Sectigo): Based in the City of Salford, Greater Manchester, UK, is a digital certificate authority that issues SSL and other digital certificates. In November 2018, Francisco Partners announced that Comodo Certificate Authority (Comodo CA) is rebranding as Sectigo.
+Comodo Security Solutions, Inc: Based in Clifton, New Jersey, US, develops security software for commercial and consumer use.
+DNS.com: Based in Louisville, Kentucky, US, the company provides managed DNS services.
+
+
+== Industry affiliations ==
+Comodo is a member of the following industry organizations:
+
+Certificate Authority Security Council (CASC): In February 2013, Comodo became a founding member of this industry advocacy organization dedicated to addressing industry issues and educating the public on internet security.
+Common Computing Security Standards Forum (CCSF): In 2009 Comodo was a founding member of the CCSF, an industry organization that promotes industry standards that protect end users.  Comodo CEO Melih Abdulhayoğlu is considered the founder of the CCSF.
+CA/Browser Forum: In 2005, Comodo was a founding member of a new consortium of certificate authorities and web browser vendors dedicated to promoting industry standards and baseline requirements for internet security. Melih Abdulhayoğlu invited top browser providers and certification authorities to a round table to discuss the creation of a central authority responsible for delivering digital certificate issuance best practice guidelines.
+
+
+== Products ==
+Comodo Dragon (web browser)
+Comodo Ice Dragon (web browser)
+Comodo Internet Security
+Comodo System Utilities
+Comodo Mobile Security
+Comodo Endpoint Protection
+Xcitium EDR
+
+
+== Controversies ==
+
+
+=== LinkedIn ===
+After a competitor commented on a Comodo employee posting that Comodo "stops all malware", the company CEO aggressively engaged on LinkedIn, such as insinuating that commenters were not qualified to work in cybersecurity, and replying to the majority of posts that the competitor's CEO was the one who "started it".
+
+
+=== Symantec ===
+In response to Symantec's comment asserting paid antivirus is superior to free antivirus, the CEO of Comodo Group challenged Symantec on 18 September 2010 to see whether paid or free products can better defend the consumer against malware. GCN'S John Breeden understood Comodo's stance on free Antivirus software and challenging Symantec: "This is actually a pretty smart move based on previous reviews of AV performance we've done in the GCN Lab. Our most recent AV review this year showed no functional difference between free and paid programs in terms of stopping viruses, and it's been that way for many years. In fact you have to go all the way back to 2006 to find an AV roundup where viruses were missed by some companies."Symantec responded saying that if Comodo is interested they should have their product included in tests by independent reviewers.Comodo volunteered to a Symantec vs. Comodo independent review.  Though this showdown did not take place, Comodo has since been included in multiple independent reviews with AV-Test, PC World, Best Antivirus Reviews, AV-Comparatives, and PC Mag.
+
+
+=== Certificate hacking ===
+On 23 March 2011, Comodo posted a report that 8 days earlier, on 15 March 2011, a user account with an affiliate registration authority had been compromised and was used to create a new user account that issued nine certificate signing requests. Nine certificates for seven domains were issued. The attack was traced to IP address 212.95.136.18, which originates in Tehran, Iran. Moxie Marlinspike analyzed the IP address on his website the next day and found it to have English localization. Though the firm initially reported that the breach was the result of a "state-driven attack", it subsequently stated that the origin of the attack may be the "result of an attacker attempting to lay a false trail.".The attack was immediately thwarted, with Comodo revoking all of the bogus certificates. Comodo also stated that it was actively looking into ways to improve the security of its affiliates.In an update on 31 March 2011, Comodo stated that it detected and thwarted an intrusion into a reseller user account on 26 March 2011. The new controls implemented by Comodo following the incident on 15 March 2011, removed any risk of the fraudulent issue of certificates. Comodo believed the attack was from the same perpetrator as the incident on 15 March 2011.In regards to this second incident, Comodo stated, "Our CA infrastructure was not compromised. Our keys in our HSMs were not compromised. No certificates have been fraudulently issued. The attempt to fraudulently access the certificate ordering platform to issue a certificate failed."
+On 26 March 2011, a person under the username "ComodoHacker" verified that they were the attacker by posting the private keys online and posted a series of messages detailing how poor Comodo's security is and bragging about his abilities:I hacked Comodo from InstantSSL.it, their CEO's e-mail address mfpenco@mfpenco.com
+Their Comodo username/password was: user: gtadmin password: globaltrust
+Their DB name was: globaltrust and instantsslcms
+Enough said, huh? Yes, enough said, someone who should know already knows...
+Anyway, at first I should mention we have no relation to Iranian Cyber Army, we don't change DNSes, we
+just hack and own.
+I see Comodo CEO and other wrote that it was a managed attack, it was a planned attack, a group of
+cyber criminals did it, etc.
+Let me explain:
+a) I'm not a group, I'm single hacker with experience of 1000 hacker, I'm single programmer with
+experience of 1000 programmer, I'm single planner/project manager with experience of 1000 project
+managers, so you are right, it's managed by 1000 hackers, but it was only I with experience of 1000
+
+hackers.Such issues have been widely reported, and have led to criticism of how certificates are issued and revoked. As of 2016, all of the certificates remain revoked. Microsoft issued a security advisory and update to address the issue at the time of the event.For Comodo's lacking response on the issue computer security researcher Moxie Marlinspike called the whole event extremely embarrassing for Comodo and rethinking SSL security. It was also implied that the attacker followed an online video tutorial and searched for basic opsecSuch attacks are not unique to Comodo – the specifics will vary from CA to CA, RA to RA, but there are so many of these entities, all of them trusted by default, that further holes are deemed to be inevitable.
+
+
+=== Association with PrivDog ===
+In February 2015, Comodo was associated with a man-in-the-middle enabling tool known as PrivDog, which claims to protect users against malicious advertising.PrivDog issued a statement on 23 February 2015, saying, "A minor intermittent defect has been detected in a third party library used by the PrivDog standalone application which potentially affects a very small number of users. This potential issue is only present in PrivDog versions, 3.0.96.0 and 3.0.97.0. The potential issue is not present in the PrivDog plug-in that is distributed with Comodo Browsers, and Comodo has not distributed this version to its users. there are potentially a maximum of 6,294 users in the USA and 57,568 users globally that this could potentially impact. The third party library used by PrivDog is not the same third party library used by Superfish....The potential issue has already been corrected. There will be an update tomorrow which will automatically update all 57,568 users of these specific PrivDog versions."
+
+
+=== Certificates issued to known malware distributors ===
+In 2009 Microsoft MVP Michael Burgess accused Comodo of issuing digital certificates to known malware distributors. Comodo responded when notified and revoked the certificates in question, which were used to sign the known malware.
+
+
+=== Chromodo browser, ACL, no ASLR, VNC weak authentication ===
+In January 2016, Tavis Ormandy reported that Comodo's Chromodo browser exhibited a number of vulnerabilities, including disabling of the same-origin policy.The vulnerability wasn't in the browser itself, which was based on the open-source code behind Google's Chrome browser. Rather, the issue was with an add-on. As soon as Comodo became aware of the issue in early February 2016, the company released a statement and a fix: "As an industry, software in general is always being updated, patched, fixed, addressed, improved – it goes hand in hand with any development cycle...What is critical in software development is how companies address an issue if a certain vulnerability is found – ensuring it never puts the customer at risk." Those using Chromodo immediately received an update. The Chromodo browser was subsequently discontinued by Comodo.
+Ormandy noted that Comodo received a "Excellence in Information Security Testing" award from Verizon despite the vulnerability in its browser, despite having its VNC delivered with a default of weak authentication, despite not enabling address space layout randomization (ASLR), and despite using access control lists (ACLs) throughout its product. Ormandy has the opinion that Verizon's certification methodology is at fault here.
+
+
+=== Let's Encrypt trademark registration application ===
+In October 2015, Comodo applied for "Let's Encrypt", "Comodo Let's Encrypt", and "Let's Encrypt with Comodo" trademarks. These trademark applications were filed almost a year after the Internet Security Research Group, parent organization of Let's Encrypt, started using the name Let's Encrypt publicly in November 2014, and despite the fact Comodo's "intent to use" trademark filings acknowledge that it has never used "Let's Encrypt" as a brand.
+On 24 June 2016, Comodo publicly posted in its forum that it had filed for "express abandonment" of their trademark applications.Comodo's Chief Technical Officer Robin Alden said, "Comodo has filed for express abandonment of the trademark applications at this time instead of waiting and allowing them to lapse. Following collaboration between Let's Encrypt and Comodo, the trademark issue is now resolved and behind us, and we'd like to thank the Let's Encrypt team for helping to bring it to a resolution."
+
+
+=== Dangling markup injection vulnerability ===
+On 25 July 2016, Matthew Bryant showed that Comodo's website is vulnerable to dangling markup injection attacks and can send emails to system administrators from Comodo's servers to approve a wildcard certificate issue request which can be used to issue arbitrary wildcard certificates via Comodo's 30-Day PositiveSSL product.Bryant reached out in June 2016, and on 25 July 2016, Comodo's Chief Technical Officer Robin Alden confirmed a fix was put in place, within the responsible disclosure date per industry standards.
+
+
+== See also ==
+Comparison of antivirus software
+Comparison of computer viruses
+Internet Security
+Comparison of firewalls
+
+
+== References ==
+
+
+== External links ==
+Official website

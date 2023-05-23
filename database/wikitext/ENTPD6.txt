@@ -1,0 +1,15 @@
+Ectonucleoside triphosphate diphosphohydrolase 6 is an enzyme that in humans is encoded by the ENTPD6 gene.
+
+
+== Function ==
+ENTPD6 is similar to E-type nucleotidases (NTPases). NTPases, such as CD39, mediate catabolism of extracellular nucleotides. ENTPD6 contains 4 apyrase-conserved regions which is characteristic of NTPases.
+
+
+== Model organisms ==
+Model organisms have been used in the study of ENTPD6 function. A conditional knockout mouse line called Entpd6tm1a(KOMP)Wtsi was generated at the Wellcome Trust Sanger Institute. Male and female animals underwent a standardized phenotypic screen to determine the effects of deletion. Additional screens performed:  - In-depth immunological phenotyping
+
+
+== References ==
+
+
+== Further reading ==

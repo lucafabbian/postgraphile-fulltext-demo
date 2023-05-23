@@ -1,0 +1,44 @@
+The Matrimonial Causes Act 1857 (20 & 21 Vict. c. 85) was an Act of the Parliament of the United Kingdom. The Act reformed the law on divorce, moving litigation from the jurisdiction of the ecclesiastical courts to the civil courts, establishing a model of marriage based on contract rather than sacrament and widening the availability of divorce beyond those who could afford to bring proceedings for annulment or to promote a private Bill. It was one of the Matrimonial Causes Acts 1857 to 1878.
+
+
+== Background ==
+Before the Act, divorce was governed by the ecclesiastical Court of Arches and the canon law of the Church of England. As such, it was not administered by the barristers who practised in the common law courts but by the "advocates" and "proctors" who practised civil law from Doctors' Commons, adding to the obscurity of the proceedings. Divorce allowing remarriage was de facto restricted to the very wealthy, as it demanded either a complex annulment process or a private bill, either at great cost. The latter entailed sometimes lengthy debates about a couple's intimate marital relationship in public in the House of Commons.A bill to create a civil court to regulate divorce and to allow it to proceed by ordinary civil litigation had been proposed by Lord Aberdeen's coalition but had made no progress. The procedure had largely been designed by Lord Chief Justice Lord Campbell. When Lord Palmerston came to power in 1855, the bill was relaunched. The bill was introduced in the House of Lords and supported by Archbishop of Canterbury John Bird Sumner and the usually conservative Henry Phillpotts, Bishop of Exeter.The bill proved controversial, raising particular opposition from future Liberal Party leader William Ewart Gladstone, who saw it as an usurpation of the authority of the Church, and from Bishop of Oxford Samuel Wilberforce. Caroline Norton, a campaigner for women's rights, supported the bill by writing a political pamphlet and lobbying her contacts in Parliament. Palmerston eventually steered the bill through Parliament, despite Gladstone's attempted filibuster.
+
+
+== The Act ==
+The Act abolished Ecclesiastical jurisdiction regarding matrimonial matters, and for the first time made secular divorces possible (by court order). The Act created a new Court of Divorce and Matrimonial Causes and gave it jurisdiction to hear and decide civil actions for divorce. Further, it gave rights of audience both to common law barristers and civil law advocates, removing the advocates' previous monopoly in divorce proceedings.The Act allowed legal separation by either husband or wife on grounds of adultery, cruelty, or desertion. However, were the petitioner an accessory to or condoned the adultery, a divorce could not be obtained. Section 57 of the Act also enabled the parties to remarry after divorce as though the marriage had been dissolved by the death of one of the spouses.It also altered the handling of adultery in English law: it abolished the crime of criminal conversation, but maintained the principle that 'since a wife's adultery caused injury to the husband, it entitled him to claim compensation from the adulterer', implying that the wife was the property of the husband – not least because wives could not claim compensation from adulterous husbands. Compensation was no longer, however, paid to the cuckold, but to the court, and damages were not to be punitive or exemplary but purely to compensate a husband's loss of consortium (marital services) of his wife and damages to his reputation, honour, and family life.The Act did not treat women's and men's grounds for divorce equally (largely on the grounds that women's adultery was more serious because it introduced doubt as to the paternity of possible heirs). Thus a husband could petition for divorce on the sole grounds that his wife had committed adultery, whereas a wife could only hope for a divorce based on adultery combined with other offences such as incest, cruelty, bigamy, desertion, etc. (or based on cruelty alone).The Act also required that a suit by a husband for adultery name the adulterer as a co-respondent, whereas this was not required in a suit by a wife.
+
+
+== Implementation and impact ==
+The Act came into force on 1 January 1858.
+
+
+=== In England and Wales ===
+Such a court would require sensitive but firm supervision and Palmerston appointed Sir Cresswell Cresswell as its first judge-in-ordinary with bipartisan support. Cresswell was not an obvious appointment. A mercantile lawyer who had been somewhat diffident as a junior judge in the Court of Common Pleas, Cresswell was a bachelor with a reputation for impatience and a short temper. However, he succeeded superbly in establishing the authority, dignity and efficiency of the new regime.In the first year of operation of the Act, there were three hundred divorce petitions, as against three in the previous year and there were fears of chaos. Campbell sat in some of the earliest hearings but was afraid that he had created a "Frankenstein". However, Cresswell took a managerial role in regulating the new flood of litigation. He showed great sensitivity in dealing with genuine grievances but upheld the sanctity of marriage and was capable of being severe when necessary. However, he was also instrumental in moving the legal view of divorce from that based on a sacrament to that based on contract. He worked with colossal speed and energy, deciding over one thousand cases in six years, only one of which was reversed on appeal. He achieved some public fame and huge respect, popularly being held as representing the five million married women of Britain.The Act was also an important enabling step in unifying and rationalising the legal system of England and Wales, a process that was largely effected by the Judicature Acts (1873–1875). It also catalysed the unification of the legal profession. By the abolition of any remaining important role for canon lawyers, it ultimately led to the demise of the Doctors' Commons.
+
+
+=== Overseas impact ===
+The Matrimonial Causes Act 1857 also had impact in some of Britain's overseas possessions. In a series of decisions, the Judicial Committee of the Privy Council held that the Act was part of the local law of the four western provinces of Canada, having been received by those provinces under the doctrine of the reception of English statute law. In 1930, the Parliament of Canada extended its application to the province of Ontario. The Act formed the basis for divorce law in those provinces until the Parliament passed a uniform Divorce Act in 1968 which applied nationwide.
+
+
+== See also ==
+Caroline Norton
+Matrimonial Causes Act 1864
+Matrimonial Causes Act 1937
+
+
+== References ==
+
+
+== Bibliography ==
+Cornish, W. & Clarke, G. (1989). Law and Society in England 1750–1950. London: Sweet & Maxwell. pp. 382–398. ISBN 0-421-31150-9.
+Cretney, S. M. (2005). Family Law in the Twentieth Century: A History. Oxford: Oxford University Press. pp. Ch.5–6. ISBN 0-19-928091-6.
+Diamond, M. (2003). Victorian sensation. Anthem Press. pp. 124–126. ISBN 1-84331-150-X.
+Fenn, H. E. (1910). Thirty Five Years in the Divorce Courts. London: T Werner Laurie.
+Getzler, J. S. (2004) "Cresswell, Sir Cresswell (1793–1863)", Oxford Dictionary of National Biography, Oxford University Press, accessed 12 August 2007 (subscription or UK public library membership required)
+Horstman, A. (1985). Victorian divorce. Taylor & Francis. ISBN 0-7099-3765-2.
+Nelson, Horace (1889). Selected cases, statutes and orders. London: Stevens and Sons Limited. p. 114.
+Squibb, G. D. (1977). Doctors' Commons. Oxford: Oxford University Press. ISBN 0-19-825339-7.
+Stone, Lawrence. Road to Divorce: England 1530-1987 (1990), the standard scholarly history
+Swabey & Tristram (1858–65) Probate and Divorce Reports, vols. 1–4, English Reports, vol.164
+Woodhouse, M. K. (1959). "The Marriage and Divorce Bill of 1857". American Journal of Legal History. Temple University. 3 (3): 273. doi:10.2307/843999. JSTOR 843999.

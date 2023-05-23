@@ -1,0 +1,43 @@
+F♯ (F-sharp; also known as fa dièse or fi) is the seventh semitone of the solfège.
+It lies a chromatic semitone above F and a diatonic semitone below G, thus being enharmonic to sol bémol or G♭ (G-flat).  However, in some temperaments, it is not the same as G♭.  G♭ is a major third below B♭, whereas F♯ is a major third above D (a minor third below A). Another enharmonic note is E (E-double sharp).
+When calculated in equal temperament with a reference of A above middle C as 440 Hz, the frequency of the F♯ above middle C (or F♯4) is approximately 369.994 Hz. See pitch (music) for a discussion of historical variations in frequency.
+
+
+== Designation by octave ==
+
+
+== Scales ==
+
+
+=== Common scales beginning on F♯ ===
+F♯ major: F♯ G♯ A♯ B C♯ D♯ E♯ F♯
+F♯ natural minor: F♯ G♯ A B C♯ D E F♯
+F♯ harmonic minor: F♯ G♯ A B C♯ D E♯ F♯
+F♯ melodic minor ascending: F♯ G♯ A B C♯ D♯ E♯ F♯
+F♯ melodic minor descending: F♯ E D C♯ B A G♯ F♯
+
+
+=== Diatonic scales ===
+F♯ Ionian: F♯ G♯ A♯ B C♯ D♯ E♯ F♯
+F♯ Dorian: F♯ G♯ A B C♯ D♯ E F♯
+F♯ Phrygian: F♯ G A B C♯ D E F♯
+F♯ Lydian: F♯ G♯ A♯ B♯ C♯ D♯ E♯ F♯
+F♯ Mixolydian: F♯ G♯ A♯ B C♯ D♯ E F♯
+F♯ Aeolian: F♯ G♯ A B C♯ D E F♯
+F♯ Locrian: F♯ G A B C D E F♯
+
+
+=== Jazz melodic minor ===
+F♯ ascending melodic minor: F♯ G♯ A B C♯ D♯ E♯ F♯
+F♯ Dorian ♭2: F♯ G A B C♯ D♯ E F♯
+F♯ Lydian augmented: F♯ G♯ A♯ B♯ C D♯ E♯ F♯
+F♯ Lydian dominant: F♯ G♯ A♯ B♯ C♯ D♯ E F♯
+F♯ Mixolydian ♭6: F♯ G♯ A♯ B C♯ D E F♯
+F♯ Locrian ♮2: F♯ G♯ A B C D E F♯
+F♯ altered: F♯ G A B♭ C D E F♯
+
+
+== See also ==
+Piano key frequencies
+F-sharp major
+F-sharp minor

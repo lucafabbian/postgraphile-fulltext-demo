@@ -1,0 +1,32 @@
+Fire is a discontinued instant messaging client for macOS that can access IRC, XMPP, AIM, ICQ, Microsoft, Yahoo!, and Bonjour. All services are built on GPL’d libraries, including firetalk, libfaim,  libmsn, XMPP, and libyahoo2. Fire supports OS X v10.1 and higher.
+The latest version of Fire is 1.5.6. The program is released under the GNU General Public License.
+On 23 February 2007, it was announced that there would be no future versions of Fire released.  The official Fire website stated there were several reasons, the biggest being the loss of developers, followed by the fact that most of the libraries used by Fire are no longer in active development. Two of Fire's developers joined the Adium team and wrote a transition path for users to move from Fire to Adium.  The announcement recommended Adium for future IM needs.
+
+
+== History ==
+In the early beta of Mac OS X, Eric Peyton wanted to have an IM client which would run on this new OS. However, all of the official client vendors had not yet supported Mac OS X, so Peyton started expanding on an OPENSTEP project he had been working on, which used an open source library to connect with AIM servers. He started porting this using the new Cocoa libraries on Mac OS X and a new IM client began to take shape.
+Early development was fast and Fire was touted by Apple as one of the keystone applications on Mac OS X v10.0. Initially Peyton hosted the application and did all the development on his own equipment. He then formed the corporation "Epicware" to protect himself from the lawyers of the huge corporations he was interacting with.
+The application was expanded to include the ability to talk to multiple servers. First Yahoo! and ICQ were added, followed later by IRC, Microsoft, and XMPP. Most recently, support for Bonjour was added.
+Because service providers at this time used proprietary protocols to facilitate vendor lock in, Fire would often stop working with one or another major service until the application or one of its component libraries was updated.
+In 2001, Colter Reed started contributing to the development of Fire on a regular basis and became the second major developer of Fire. They collaborated for a while still using the Epicware hardware and finally decided to move the project to SourceForge to take advantage of the free hosting, download, and mirror services available there. Version 0.28.a was the first release which used the SourceForge System.
+From 2003 to 2007, primary development of the Fire application was transferred to Graham Booker and Alan Humpherys with many others participating in development and localization of the product.
+On 23 February 2007, development of Fire officially ended as the Fire developers merged with he Adium development team to focus on a single IM application supporting Mac OS X.
+
+
+=== Creation ===
+Firetalk was created in 1997 by Multitude Communications in South San Francisco. The product, Firetalk, had its birth in a program that Multitude created called FireTeam. FireTeam was a multi-user game played over the internet. The game received good reviews, with the most favorable review highlighting the VoIP feature that FireTeam used so that users could communicate and plan over the internet. It was at that time that Multitude decided to branch off and create a program strictly for VoIP called Firetalk and Multitude adopted a "DBA" as Firetalk.
+
+
+== See also ==
+List of XMPP client software
+Comparison of instant messaging clients
+
+
+== References ==
+
+
+== External links ==
+
+Official website 
+Fire's Public Forums
+MacWorld review Archived 2008-07-06 at the Wayback Machine

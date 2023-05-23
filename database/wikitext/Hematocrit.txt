@@ -1,0 +1,57 @@
+The hematocrit () (Ht or HCT), also known by several other names, is the volume percentage (vol%) of red blood cells (RBCs) in blood, measured as part of a blood test. The measurement depends on the number and size of red blood cells. It is normally 40.7–50.3% for males and 36.1–44.3% for females. It is a part of a person's complete blood count results, along with hemoglobin concentration, white blood cell count and platelet count.
+Because the purpose of red blood cells is to transfer oxygen from the lungs to body tissues, a blood sample's hematocrit—the red blood cell volume percentage—can become a point of reference of its capability of delivering oxygen. Hematocrit levels that are too high or too low can indicate a blood disorder, dehydration, or other medical conditions. An abnormally low hematocrit may suggest anemia, a decrease in the total amount of red blood cells, while an abnormally high hematocrit is called polycythemia. Both are potentially life-threatening disorders.
+
+
+== Names ==
+There are other names for the hematocrit, such as packed cell volume (PCV), volume of packed red cells (VPRC), or erythrocyte volume fraction (EVF). The term hematocrit (or haematocrit in British English) comes from the Ancient Greek words haima (αἷμα, "blood") and kritēs (κριτής, "judge"), and hematocrit means "to separate blood". It was coined in 1891 by Swedish physiologist Magnus Blix as haematokrit, modeled after lactokrit.
+
+
+== Measurement methods ==
+
+With modern lab equipment, the hematocrit can be calculated by an automated analyzer or directly measured, depending on the analyzer manufacturer. Calculated hematocrit is determined by multiplying the red cell count by the mean cell volume. The hematocrit is slightly more accurate, as the PCV includes small amounts of blood plasma trapped between the red cells. An estimated hematocrit as a percentage may be derived by tripling the hemoglobin concentration in g/dL and dropping the units.The packed cell volume (PCV) can be determined by centrifuging EDTA-treated or heparinized blood in a capillary tube (also known as a microhematocrit tube) at 10,000 RPM for five minutes. This separates the blood into layers. The volume of packed red blood cells divided by the total volume of the blood sample gives the PCV. Since a tube is used, this can be calculated by measuring the lengths of the layers.Another way of measuring hematocrit levels is by optical methods such as spectrophotometry. Through differential spectrophotometry, the differences in optical densities of a blood sample flowing through small-bore glass tubes at isosbestic wavelengths for deoxyhemoglobin and oxyhemoglobin and the product of the luminal diameter and hematocrit create a linear relationship that is used to measure hematocrit levels.There are some risks and side effects that accompany the tests of hematocrit because blood is being extracted from subjects. Subjects may experience a more than normal amount of hemorrhaging, hematoma, fainting, and possibly infection.While known hematocrit levels are used in detecting conditions, it may fail at times due to hematocrit being the measure of concentration of red blood cells through volume in a blood sample. It does not account for the mass of the red blood cells, and thus the changes in mass can alter a hematocrit level or go undetected while affecting a subject's condition. Additionally, there have been cases in which the blood for testing was inadvertently drawn proximal to an intravenous line that was infusing packed red cells or fluids. In these situations, the hemoglobin level in the blood sample will not be the true level for the patient because the sample will contain a large amount of the infused material rather than what is diluted into the circulating whole blood. That is, if packed red cells are being supplied, the sample will contain a large amount of those cells and the hematocrit will be artificially very high.
+
+
+== Levels ==
+Hematocrit can vary from the determining factors of the number of red blood cells. These factors can be from the age and sex of the subject. Typically, a higher hematocrit level signifies the blood sample's ability to transport oxygen, which has led to reports that an "optimal hematocrit level" may exist. Optimal hematocrit levels have been studied through combinations of assays on blood sample's hematocrit itself, viscosity, and hemoglobin level.Hematocrit levels also serve as an indicator of health conditions. Thus, tests on hematocrit levels are often carried out in the process of diagnosis of such conditions, and may be conducted prior to surgery. Additionally, the health conditions associated with certain hematocrit levels are the same as ones associated with certain hemoglobin levels. As blood flows from the arterioles into the capillaries, a change in pressure occurs. In order to maintain pressure, the capillaries branch off to a web of vessels that carry blood into the venules. Through this process blood undergoes micro-circulation. In micro-circulation, the Fåhræus effect will take place, resulting in a large change in hematocrit. As blood flows through the arterioles, red cells will act a feed hematocrit (Hf), while in the capillaries, a tube hematocrit (Ht) occurs. In tube hematocrit, plasma fills most of the vessel while the red cells travel through in somewhat of a single file line. From this stage, blood will enter the venules increasing in hematocrit, in other words the discharge hematocrit (Hd).In large vessels with low hematocrit, viscosity dramatically drops and red cells take in a lot of energy. While in smaller vessels at the micro-circulation scale, viscosity is very high. With the increase in shear stress at the wall, a lot of energy is used to move cells.
+
+
+== Shear rate relations ==
+
+Relationships between hematocrit, viscosity, and shear rate are important factors to put into consideration. Since blood is non-Newtonian, the viscosity of the blood is in relation to the hematocrit, and as a function of shear rate. This is important when it comes to determining shear force, since a lower hematocrit level indicates that there is a need for more force to push the red blood cells through the system. This is because shear rate is defined as the rate to which adjacent layers of fluid move in respect to each other. Plasma is a more viscous material than typically red blood cells, since they are able to adjust their size to the radius of a tube; the shear rate is purely dependent on the amount of red blood cells being forced in a vessel.
+
+
+=== Elevated ===
+Generally at both sea levels and high altitudes, hematocrit levels rise as children mature. These health-related causes and impacts of elevated hematocrit levels have been reported:
+
+Fall in blood plasma levels
+Dehydration
+Administering of testosterone supplement therapy
+In cases of dengue fever, a high hematocrit is a danger sign of an increased risk of dengue shock syndrome. Hemoconcentration can be detected by an escalation of over 20% in hematocrit levels that will come before shock. For early detection of dengue hemorrhagic fever, it is suggested that hematocrit levels be kept under observations at a minimum of every 24 hours; 3–4 hours is suggested in suspected dengue shock syndrome or critical cases of dengue hemorrhagic fever.
+Polycythemia vera (PV), a myeloproliferative disorder in which the bone marrow produces excessive numbers of red cells, is associated with elevated hematocrit.
+Chronic obstructive pulmonary disease (COPD) and other pulmonary conditions associated with hypoxia may elicit an increased production of red blood cells. This increase is mediated by the increased levels of erythropoietin by the kidneys in response to hypoxia.
+Professional athletes' hematocrit levels are measured as part of tests for blood doping or erythropoietin (EPO) use; the level of hematocrit in a blood sample is compared with the long-term level for that athlete (to allow for individual variations in hematocrit level), and against an absolute permitted maximum (which is based on maximum expected levels within the population, and the hematocrit level that causes increased risk of blood clots resulting in strokes or heart attacks).
+Anabolic androgenic steroid (AAS) use can also increase the amount of RBCs and, therefore, impact the hematocrit, in particular the compounds boldenone and oxymetholone.
+Capillary leak syndrome also leads to abnormally high hematocrit counts, because of the episodic leakage of plasma out of the circulatory system.
+At higher altitudes, there is a lower oxygen supply in the air and thus hematocrit levels may increase over time.Hematocrit levels were also reported to be correlated with social factors that influence subjects. In the 1966–80 Health Examination Survey, there was a small rise in mean hematocrit levels in female and male adolescents that reflected a rise in annual family income. Additionally, a higher education in a parent has been put into account for a rise in mean hematocrit levels of the child.
+
+
+=== Lowered ===
+Lowered hematocrit levels also pose health impacts. These causes and impacts have been reported:
+
+A low hematocrit level is a sign of a low red blood cell count. One way to increase the ability of oxygen transport in red blood cells is through blood transfusion, which is carried out typically when the red blood cell count is low. Prior to the blood transfusion, hematocrit levels are measured to help ensure the transfusion is necessary and safe.
+A low hematocrit with a low mean corpuscular volume (MCV) with a high red cell distribution width (RDW) suggests a chronic iron-deficient anemia resulting in abnormal hemoglobin synthesis during erythropoiesis. The MCV and the RDW can be quite helpful in evaluating a lower-than-normal hematocrit, because they can help the clinician determine whether blood loss is chronic or acute, although acute blood loss typically does not manifest as a change in hematocrit, since hematocrit is simply a measure of how much of the blood volume is made up of red blood cells. The MCV is the size of the red cells and the RDW is a relative measure of the variation in size of the red cell population.
+Decreased hematocrit levels could indicate life-threatening diseases such as leukemia. When the bone marrow no longer produces normal red blood cells, hematocrit levels deviate from normal as well and thus can possibly be used in detecting acute myeloid leukemia. It can also be related to other conditions, such as malnutrition, water intoxication, anemia, and bleeding.
+Pregnancy may lead to women having additional fluid in blood. This could potentially lead to a small drop in hematocrit levels.
+
+
+== See also ==
+Blood tests
+Hematology
+Reference ranges for blood tests
+
+
+== References ==
+
+
+== External links ==
+Hematocrit – Lab Tests Online

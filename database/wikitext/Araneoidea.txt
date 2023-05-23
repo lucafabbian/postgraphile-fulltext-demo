@@ -1,0 +1,50 @@
+Araneoidea is a taxon of araneomorph spiders, termed "araneoids", treated as a superfamily. As with many such groups, its circumscription has varied; in particular some families that had at one time moved to the Palpimanoidea have more recently been restored to Araneoidea. A 2014 treatment includes 18 families, with the araneoids making up about 26% of the total number of known spider species; a 2016 treatment includes essentially the same taxa, but now divided into 17 families.
+
+
+== Taxonomy ==
+Many of the differences in circumscription concern the relationship between Araneoidea and Palpimanoidea. In 1984, Raymond R. Forster and Norman I. Platnick proposed that some groups previously considered araneoid actually belonged in the distantly related Palpimanoidea, including the families Holarchaeidae, Micropholcommatidae, Mimetidae and Pararchaeidae. Subsequent phylogenetic studies have rejected this proposal, firmly placing these four families in Araneoidea (some included in other families).
+
+
+=== Phylogeny ===
+Although there is an increasing consensus on the circumscription of Araneoidea, the relationship between many of its families remains uncertain. In 2014, Hormiga and Griswold produced the summary cladogram shown below, based on what they considered to be the nine most comprehensive phylogenetic studies of Araneoidea prior to their article. Polytomies in the cladogram represent either conflicting results from the different studies or the absence of sufficiently comprehensive studies. A subsequent study by Dimitrov et al. in 2016 produced more resolved cladograms; their maximum likelihood cladogram based on the analysis of their entire dataset is shown below. Some of their other analyses produced different results; for example, a Bayesian analysis produced a monophyletic Anapidae rather than splitting it into two clades. They concluded that "the amount of information available to resolve these families is limited, particularly at the interfamilial and deeper levels. Only some of the interfamilial groupings ... were recovered with high support." One clade which is well supported is (Mimetidae + (Arkyidae + Tetragnathidae)). Both Hormiga and Griswold and Dimitrov et al. conclude that the sister taxon of Araneoidea is Nicodamidae s.l. (which Dimitrov et al. split into two families and call Nicodamoidea).
+
+It is likely that relationships will change further when more studies are carried out, since "currently available molecular and morphological data are insufficient to robustly resolve relationships".
+
+
+=== Included families ===
+After Dimitrov et al. 2016
+Anapidae
+Theridiidae
+Theridiosomatidae
+Synotaxidae
+Araneidae
+Nesticidae
+Synaphridae
+Symphytognathidae
+Cyatholipidae
+Physoglenidae
+Pimoidae
+Linyphiidae
+Mysmenidae
+Malkaridae
+Mimetidae
+Arkyidae
+Tetragnathidae
+
+
+==== Extinct families ====
+After Dunlop et al. 2013 and Magalhaes et al. 2020
+†Baltsuccinidae
+†Burmascutidae
+†Cretamysmenidae
+†Juraraneidae
+†Leviunguidae
+†Praetheridiidae
+†Protheridiidae
+†Pumiliopimoidae
+†Zarqaraneidae
+
+
+== References ==
+
+ Data related to Araneoidea at Wikispecies

@@ -1,0 +1,16 @@
+The ICT Development Index (IDI) is an index published by the United Nations International Telecommunication Union based on internationally agreed information and communication technologies (ICT) indicators. This makes it a valuable tool for benchmarking the most important indicators for measuring the information society. The IDI is a standard tool that governments, operators, development agencies, researchers and others can use to measure the digital divide and compare ICT performance within and across countries. 
+The ICT Development Index is based on 11 ICT indicators, grouped in three clusters: access, use and skills.
+
+
+== Top 30 countries ==
+The following is a list of top 30 countries as ranked by the ICT Development Index in 2013 -2019
+
+
+== References ==
+
+
+=== Primary reference ===
+"ITU, Measuring the Information Society Report 2014" (PDF). Geneva, Switzerland: International Telecommunication Union (ITU). 2014. Retrieved 2014-12-08.
+
+
+=== Inline citations ===

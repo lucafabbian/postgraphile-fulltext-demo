@@ -1,0 +1,29 @@
+MaSat-1 (from the words Magyar and Satellite, the first meaning "Hungarian" in Hungarian, maszat, pronounced IPA [ˈmɒsɒt], meaning "smudge") is the first indigenous Hungarian satellite, developed and built by students at the Technical University of Budapest. The 1U CubeSat-type satellite was launched into low Earth orbit on 13 February 2012. The satellite provided telemetric data as well as VGA resolution color images at the 70 cm amateur radio wavelength (437.345 MHz frequency) received at the tracking center at Budapest. The center was tested on 31 March 2009 with the help of Charles Simonyi on board the International Space Station. With the successful launch of MaSat-1, Hungary became the 47th nation to orbit a satellite. Between 9 and 10 January 2015, the satellite reentered into the atmosphere.
+
+
+== Operations ==
+Weeks following its launch, after the first high-quality images were available was it revealed to the public that a camera was on board.
+
+
+== Technical specifications ==
+Satellite class: 1U CubeSat
+Dimensions: 10 cm × 10 cm ×10 cm
+Mass: 1 kg
+Propulsion: no
+Expected life: minimum 3 months
+Input power: 1.2 – 2.2 W
+Communication type: Half-duplex
+Frequency: 437,345 MHz
+Data rate: 625 or 1250 bps
+Modulation: 2-GFSK
+Transmission power: 100/400 mW
+Telemetry protocol: modified ESA PUS v1
+Callsign: HA5MASAT
+Digital camera: VGA sensor, 640×480 pixels
+
+
+== See also ==
+List of CubeSats
+
+
+== References ==

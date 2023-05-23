@@ -1,0 +1,16 @@
+Kinetic Traction Systems is a business founded in November 2010, producing Flywheel energy storage systems for electric railways and grid storage.
+
+
+== Technology ==
+Kinetic Traction Systems' main product uses flywheel energy storage technology developed by Pentadyne Power Corp; staff from Pentadyne joined Kinetic. The 36000 RPM flywheels are originally based on uranium centrifuge technology developed by UrencoKTS' rail-side device uses a brushless DC motor/generator to spin up the flywheel to store electrical energy (for instance, from regenerative braking on trains) as kinetic energy; later to be converted back to electrical energy on demand.
+
+
+== Uses ==
+This system allows significant energy-efficiency improvements in urban rail systems; it has been used by NYC Transit and the London Underground.Their grid storage system helps stabilise the microgrid on the island of Eigg
+
+
+== Capacity ==
+Usable stored energy is approximately 6 megajoules (1.7 kWh). The devices can provide bursts of 200 kilowatt-hours (720 MJ).
+
+
+== References ==

@@ -1,0 +1,150 @@
+In thermodynamics, superheating (sometimes referred to as boiling retardation, or boiling delay) is the phenomenon in which a liquid is heated to a temperature higher than its boiling point, without boiling. This is a so-called metastable state or metastate, where boiling might occur at any time, induced by external or internal effects. Superheating is achieved by heating a homogeneous substance in a clean container, free of nucleation sites, while taking care not to disturb the liquid. 
+This may occur by microwaving water in a very smooth container. Disturbing the water may cause an unsafe eruption of hot water and result in burns.
+
+
+== Cause ==
+
+Water is said to "boil" when bubbles of water vapor grow without bound, bursting at the surface. For a vapor bubble to expand, the temperature must be high enough that the vapor pressure exceeds the ambient pressure (the atmospheric pressure, primarily). Below that temperature, a water vapor bubble will shrink and vanish.
+Superheating is an exception to this simple rule; a liquid is sometimes observed not to boil even though its vapor pressure does exceed the ambient pressure. The cause is an additional force, the surface tension, which suppresses the growth of bubbles.Surface tension makes the bubble act like an elastic balloon. The pressure inside is raised slightly by the "skin" attempting to contract. For the bubble to expand, the temperature must be raised slightly above the boiling point to generate enough vapor pressure to overcome both surface tension and ambient pressure.
+What makes superheating so explosive is that a larger bubble is easier to inflate than a small one; just as when blowing up a balloon, the hardest part is getting started. It turns out the excess pressure 
+  
+    
+      
+        Δ
+        p
+      
+    
+    {\displaystyle \Delta p}
+   due to surface tension is inversely proportional to the diameter 
+  
+    
+      
+        d
+      
+    
+    {\displaystyle d}
+   of the bubble. That is, 
+  
+    
+      
+        Δ
+        p
+        ∝
+        
+          d
+          
+            −
+            1
+          
+        
+      
+    
+    {\displaystyle \Delta p\propto d^{-1}}
+  . 
+This can be derived by imagining a plane cutting a bubble into two halves. Each half is pulled towards the middle with a surface tension force 
+  
+    
+      
+        F
+        ∝
+        π
+        d
+      
+    
+    {\displaystyle F\propto \pi d}
+  , which must be balanced by the force from excess pressure 
+  
+    
+      
+        Δ
+        p
+        ×
+        (
+        π
+        
+          d
+          
+            2
+          
+        
+        
+          /
+        
+        4
+        )
+      
+    
+    {\displaystyle \Delta p\times (\pi d^{2}/4)}
+  . So we obtain 
+  
+    
+      
+        Δ
+        p
+        (
+        π
+        
+          d
+          
+            2
+          
+        
+        
+          /
+        
+        4
+        )
+        ∝
+        π
+        d
+      
+    
+    {\displaystyle \Delta p(\pi d^{2}/4)\propto \pi d}
+  , which simplifies to 
+  
+    
+      
+        Δ
+        p
+        ∝
+        
+          d
+          
+            −
+            1
+          
+        
+      
+    
+    {\displaystyle \Delta p\propto d^{-1}}
+  .
+This means if the largest bubbles in a container are small, only a few micrometres in diameter, overcoming the surface tension may require a large 
+  
+    
+      
+        Δ
+        p
+      
+    
+    {\displaystyle \Delta p}
+  , requiring exceeding the boiling point by several degrees Celsius. Once a bubble does begin to grow, the surface tension pressure decreases, so it expands explosively in a positive feedback loop. In practice, most containers have scratches or other imperfections which trap pockets of air that provide starting bubbles, and impure water contains small particles can also trap air pockets. Only a smooth container of purified liquid can reliably superheat.
+
+
+== Occurrence via microwave oven ==
+Superheating can occur when an undisturbed container of water is heated in a microwave oven. At the time the container is removed, the lack of nucleation sites prevents boiling, leaving the surface calm. However, once the water is disturbed, some of it violently flashes to steam, potentially spraying boiling water out of the container. The boiling can be triggered by jostling the cup, inserting a stirring device, or adding a substance like instant coffee or sugar. The chance of superheating is greater with smooth containers, because scratches or chips can house small pockets of air, which serve as nucleation points. Superheating is more likely after repeated heating and cooling cycles of an undisturbed container, as when a forgotten coffee cup is re-heated without being removed from a microwave oven. This is due to heating cycles releasing dissolved gases such as oxygen and nitrogen from the solvent. There are ways to prevent superheating in a microwave oven, such as putting a non-metallic object (such as a stir stick) into the container beforehand or using a scratched container. It is recommended not to microwave water for an excessive amount of time.
+
+
+== Applications ==
+Superheating of hydrogen liquid is used in bubble chambers.
+
+
+== See also ==
+
+
+== References ==
+
+
+== External links ==
+Video of superheated water in a microwave explosively flash boiling, why it happens, and why it's dangerous.
+Bloomfield, Louis A. "A series of superheated water with oil film experiments done in the microwave by Louis A. Bloomfield, physics professor at the University of Virginia. Experiment #13 proceeds with surprising violence". Archived from the original on 2 June 2008.
+Video of superheated water in a pot.

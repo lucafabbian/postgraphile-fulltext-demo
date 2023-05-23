@@ -1,0 +1,149 @@
+The British Rail Class 150 Sprinter is a class of diesel multiple unit passenger trains; they were developed and constructed by BREL York between 1984 and 1987 for use on regional services across the UK. The type is a second-generation design, built to more modern standards and based on BR's Mark 3 body design for longer-distance services. It was developed alongside the lower-cost Pacers, which were built using bus parts, for use on short-distance services. Two prototype units were built, followed by 135 production units in two batches. 
+Subsequently, further members of the Sprinter family were also developed and introduced to service, including the Class 155, Class 156, Class 158 and Class 159.
+
+
+== Background ==
+By the beginning of the 1980s, British Rail (BR) was operating a large fleet of  first-generation DMUs of various designs. While formulating its long-term strategy for this sector of its operations, BR planners recognised that there would be considerable costs incurred by undertaking refurbishment programmes necessary for the continued use of these ageing multiple units, particularly due to the necessity of handling and removing hazardous materials such as asbestos. In light of the high costs involved in retention, planners examined the prospects for the development and introduction of a new generation of DMUs to succeed the first generation.In the concept stage, two separate approaches were devised, one involving a so-called railbus that prioritised the minimisation of both initial (procurement) and ongoing (maintenance and operational) costs, while the second was a more substantial DMU that could deliver better performance than the existing fleet, particularly on long-distance services. The initial specification developed for the latter type was relatively ambitious for the era, calling for a maximum speed of 90 mph (140 km/h), a rate of acceleration compatible to contemporary EMUs, the ability to couple/work in multiple with existing EMUs, facilitate through-access for passengers, feature pressure ventilation, the ability to assist another failed unit, and to comprise either a three or four-car consist.This specification led to the development of the experimental British Rail Class 210 DMU. However, to deliver the performance specified, it was found that relatively expensive equipment had to be used, particularly to provide sufficient speed, acceleration, and through-passenger access; it also had maintainability problems due to space limitations. Despite these shortcomings, it was recognised that a production fleet that was assembled from proven components would possess both a greater reliability level and lower maintenance costs; it was forecast to achieve an availability rate of 85 percent. As such, the type had sufficiently demonstrated a promising reduction in maintenance costs was achievable, especially once initial teething problems were dealt with, as well as the wider value represented by a new generation of DMUs in the reduction of ongoing costs for BR.By 1983, experience with the Class 210 had influenced planners to favour the procurement of a new generation of DMUs, but also to adopt a new set of specifications somewhat less demanding than the prior set. Specifically, it was decided to lower the top speed from 90 to 75 mph (145 to 121 km/h), as testing had shown that the higher rate brought no perceptible improvement in journey times due to the typically short distances between the stations that the type was intended to serve. Furthermore, it was determined that a propulsion system delivering 7 hp (5.2 kW) per tonne would deliver sufficient acceleration. The requests for compatibility with other rolling stock were eliminated, although auto-coupling and auto-connecting functionality were added. In addition to a good ride quality, the specification included a sound level of 90 dB when at full speed, an operational range of 1,000 miles (1,600 km), and an interval between major overhauls of five years or 350,000 miles (560,000 km).In comparison to the previous generation of DMUs, which typically used a pair of engines for each power car, the new generation DMU would use only a single engine per car; sufficient cooling was also provided that even with one failed engine, a two-car unit could continue to perform typical services without incurring a major performance deficit. From an operational perspective, it was intended that the DMU could be assembled akin to building blocks, comprising between two and four cars that may or may not be outfitted with various passenger amenities such as toilets and luggage spaces.Initially formalised as a business specification, these requirements were transferred into a relatively broad technical specification that avoided any specifics other than those deemed essential for compatibility purposes. Thereafter, it was issued to various rolling-stock manufacturers for a competitive tender. As part of this process, these manufacturers submitted bids to construct an initial series of three-car prototypes as demonstration units. A relatively constrained timetable of 18 months from the date of order to delivery of these prototypes was also specified; this has been blamed for restricting manufacturers to existing industrial practices for their submissions.In response to the specification, several submissions were received by BR. The bid submitted by British Rail Engineering Limited (BREL) was heavily based on its successful Class 455 EMU, sharing its body and the majority of its running gear, albeit equipped with two different power trains. The railway engineering company Metro-Cammell also bid, offering its own design that employed rivetted aluminium construction; this feature was credited with enabling a meaningful reduction in weight over conventional methods. BR officials quickly opted to proceed with a pair of prototypes from both BREL and Metro-Cammell, issuing orders to these manufacturers thenceforth.
+
+
+== Design ==
+The Class 150 is a two- or three-car commuter diesel multiple unit. The steel bodyshell is shared with the Class 455 suburban EMU, with doors at 1/3 and 2/3. With the exception of units 150001 and 150002 in their original prototype configurations, each vehicle in the unit is powered by an underframe-mounted 14.01-litre (855-cubic-inch) Cummins six-cylinder turbo-diesel engine that develops 213 kW (286 hp). The engine drives a Voith T 211 r hydrokinetic transmission that in turn drives both axles on the inner bogie via a Cardan shaft and Gmeinder GM 180 final drive units. The design speed is 75 mph (121 km/h). The majority of units are formed of a DMS (Driving Motor Second - numbered 57xxx) vehicle and a DMSL (Driving Motor Second Lavatory - numbered 52xxx) vehicle. Both vehicles are single class while the DMSL contains the toilet. The two prototype units were built as three-car sets with the addition of a MS (Motor Second) vehicle. In common with other non-intercity stock of the time the trains lack air conditioning, ventilation is provided though opening hopper windows. As built passenger seating was in a 3+2 configuration.
+The second batch of production vehicles featured a new cab with gangway connection along with a revised interior.
+
+
+== Prototypes ==
+
+During 1984, BREL constructed a pair of prototype three-car Class 150/0 units, numbered 150001 and 150002; the first unit was delivered to BR only 15 months following the date of order. 150001 was fitted with Cummins engines and Voith hydraulic transmission, and 150002 was fitted with Perkins (Rolls-Royce) engines and a fully automatic gearbox developed by the Self-Changing Gears company. Other than the power train, the two units were identical.The design specifications of the prototypes were similar to the later production units, but they were to remain as the only Class 150s to be built as three-car units. Additional three-car units were created later by re-marshalling a 150/2 car in the middle of a 150/1 set, but only the prototypes had purpose-built centre cars without driving cabs. Both cab doors are air-operated, unlike the Class 150/1 production model, but seen later on in the 150/2 variant.150002 proved to be the worse of the two for reliability, and was consequently chosen for use as the testbed for the Class 158, being re-geared to a maximum speed of 90 mph (140 km/h) and fitted with Cummins engines and Voith transmission, and with a Class 158 interior. One car was fitted with the Class 151 Twin Disc 'hot-shift' transmission, which it used successfully, once the control software was sorted out. To distinguish this unit, it was reclassified as the Class 154. It has since been returned to the standard configuration and reverted to its original number.  Both prototypes were still in service with London Midland until 2011. 150001 entered service with First Great Western in January 2012, with 150002 to follow after refurbishment and re-livery.  150001 & 150002 then operated for Great Western Railway. 150001 was based at Bristol's St. Phillips Marsh Depot, primarily working the Bristol Parkway-Weston Super Mare route. 150002 was based at Exeter St. Davids Depot and mainly operated the Riviera Line alongside Class 143 Pacers. In April 2020, both units transferred to Northern's Newton Heath Depot. Both units have since entered into service, initially being used mainly on the Manchester Victoria - Todmorden - Blackburn diagram, and subsequently on Rochdale - Manchester - Bolton - Clitheroe services.
+At the same time that BREL built the 150/0s, Metro-Cammell built two prototype Class 151 units at its Washwood Heath plant. The two types of unit were exhaustively tested, with a view to placing further orders for the more successful. These tests revealed that the Class 150 had exceptional ride quality, as well as fully meeting the 50 percent engine-out performance requirements. In the event, the two Class 150 units proved to be more reliable and, as a result, an order for 50 two-car units was placed with BREL.
+
+
+== Production units ==
+
+This second batch of fifty units were classified as Class 150/1 and numbered in the range 150101-150. Like the prototype units, they did not have front-end gangway connections which allowed passengers to move between two units that were working in multiple. Originally based at Derby Etches Park depot, these units were introduced in 1985, mainly concentrated around Birmingham and Manchester, and in later years restricted mainly to commuter services.The final batch of 85 two-car units were built with front-end gangway connections. These units were classified as Class 150/2 and numbered in the range 150201-285. They were used on longer-distance services. The end gangways make them very similar in appearance to the Class 317/2 and Class 455/7 and 455/9 EMUs, also based on the Mark 3 bodyshell.
+Some of the Class 150/2 units were later disbanded, and the vehicles were used to make some of the Birmingham and Manchester-based Class 150/1 units into three-car sets. The units in Manchester were later returned to their original configuration, but the Birmingham-based units were renumbered into the 1500xx range by subtracting 100 from the previous number (e.g. 150103 became 150003). This also gave the operational advantage of there being an extra set of passenger door controls within the train for use by the conductor, making it easier to collect revenue without having to run the full length of the unit between stations.The Class 150 units have BSI couplers which enable them to work in multiple with Class 142, Class 143, Class 144, Class 153, Class 155, Class 156, Class 158, and Class 170 units, as well as with units of the same class. However, they cannot work in multiple with Class 165 or Class 166 units due to incompatible wiring arrangements.When introduced, the Class 150s had unique interior door open/close buttons. In the north of England, they were square and blue. In the south of Scotland they were yellow in colour and lit up turquoise when enabled. The button lit up bright yellow in the south of England. The illumination feature was intended to aid visually impaired people, although they did not meet the subsequent standards set out by disability regulations that were later introduced, because they had no raised braille and were too small for some disabled people to reasonably locate. During the 2000s, these blue buttons were replaced across the fleet by the standard EAO series 56 'easy to see, easy to press' raised circular door button, with braille writing for the visually impaired, over a yellow surround to comply with the Rail Vehicle Accessibility Regulations.The 450 Class was built using the Class 150 bodyshell and was operated by Northern Ireland Railways. It came to the end of its design life in 2014, so most of them were scrapped, although two remained.One further unit was built specifically for testing duties. Originally numbered in the Class 180 series, the unit is now in the departmental Class 950 series, numbered 950001 and carries the yellow Network Rail livery.The performance of the Class 150 was such that BR decided to procure similar trains for the Provincial fleet, such as the Class 156 and Class 158 for longer regional routes, replacing a significant portion of the locomotive-hauled stock previously operated by BR.
+
+
+== Current operations ==
+
+
+=== Northern England ===
+
+After privatisation, North Western Trains (which was later taken over by First Group and re-branded First North Western shortly afterwards) and Arriva Trains Northern operated Class 150/1 and 150/2s on their routes. The North Western Trains units underwent refurbishment by Hunslet-Barclay in Kilmarnock. The Arriva Trains Northern trains did not. When Northern Rail took over, both the former FNW and ATN Class 150s were transferred to Newton Heath depot, Manchester, with the former North Western Trains Class 158s taking the 150s' places at Northern's Neville Hill depot (Leeds). All Northern 150s contain high-density 2+3 seating. During late 2011, Northern Rail received various ex London Midland 150/1s and 150/2s when the brand-new Class 172 units entered service in the Midlands. This enabled Northern Rail to increase capacity on its most overcrowded services.
+In 2015, the then-new Northern franchise (Northern) announced that 24 of their Class 150 units would be reformed into three-car units by March 2019. The three-car sets would be used on routes including the Penistone Line and Leeds to Goole, though this did not end up happening. The current operator, Northern Trains received the Angel Trains 150/0s, previously leased to GWR, on 1 April 2020.
+
+
+=== South-West England ===
+
+After British Rail was privatised, the fleet passed to Porterbrook who leased the trains to Wales & West, which was later split up into Wessex Trains and Wales & Borders (later Arriva Trains Wales) in 2001.
+Great Western Railway currently operates a fleet of 20 Class 150/2 units which are mainly used for services on the local branch lines in Devon. This includes the Avocet Line/Riviera Line between Exmouth and Paignton plus the Tarka Line between Barnstaple and Exeter Central (occasionally usually if a Class 158 isn't available). They are also used on the Cornish branch lines which includes the Tamar Valley Line between Plymouth and Gunnislake, Atlantic Coast Line between Par and Newquay, Looe Valley Line between Liskeard and Looe, Maritime Line between Truro and Falmouth Docks and St Ives Bay Line between St Erth and St Ives.GWR previously operated the two prototype three-car Class 150/0 units, which had transferred from London Midland and replaced the Class 165 and 166 Turbo units which were being used on the Reading to Basingstoke Line, which allowed the Turbo units to reinforce Thames Valley services. 150001 had entered service in January 2012. The two prototype units later cascaded down to the West fleet in response to the Class 387s taking over from the Class 165s and 166s on the London Paddington to Didcot Parkway services, hence releasing Turbos to take over on the Reading to Basingstoke Line again. Until the end of their operation by GWR, the two 150/0s were based at St Phillips Marsh depot in Bristol and were used on local services around Bristol and Exeter. In April 2020, they transferred to Northern Trains.
+
+
+=== Wales ===
+
+Following privatisation, Wales & Borders continued to use the fleet of Class 150 units on branch-line services as well as on the commuter services around Cardiff known as the Valley Lines and the Vale of Glamorgan Line. The units transferred to Arriva Trains Wales in December 2003, with more later acquired for the reopened Ebbw Vale line. All of the ATW units were transferred to KeolisAmey Wales on 14 October 2018 and all KeolisAmey Wales units were transferred to Transport for Wales Rail on 7 February 2021.
+
+
+== Former operations ==
+
+
+=== Scotland ===
+Upon the privatisation of British Rail, the bus company National Express ran ScotRail, and its successor First ScotRail operated 18 Class 150s out of Edinburgh Waverley on Fife Circle services. Other workings included Dundee and Carnoustie, as well as operating alongside other DMUs such as Class 158s on the Crossrail services between Newcraighall through Edinburgh to Bathgate, Stirling, Dunblane and occasionally Perth. In 2005, 15 were transferred to Arriva Trains Wales and three to Northern Rail.
+
+
+=== Eastern England ===
+Anglia Railways was created upon privatisation of British Rail, and it initially inherited a small fleet of nine Class 150/2 units, later supplemented with a tenth. The units were based at Crown Point TMD, and put to use on rural services in Suffolk and Norfolk. Lines using the units included the Bittern Line, the East Suffolk Line, and the Wherry Lines, as well as services from Ipswich to Cambridge. One unit each weekday was sub-leased to First Great Eastern for use on the Sudbury Branch Line.Anglia Railways named all bar one unit (150245) of its fleet after famous local figures. On 1 April 2004, Anglia Railways became part of the new 'One' franchise. The Class 150 units were transferred to Arriva Trains Wales (no. 150245) and Central Trains (all other units), having been replaced by Class 156 units from Central Trains.
+
+
+=== Silverlink/London Overground ===
+
+National Express operated the North London Railways franchise from 1997 under the Silverlink brand. They had eight Class 150s; seven were cascaded from Central Trains following delivery of new Turbostar units in 2000, to replace the ageing fleet of Class 117 and Class 121 units. The eighth unit, no. 150121, was transferred to Silverlink in late 2005.London Overground, which took over the North London network in 2007, inherited the eight Class 150/1 units. Six were employed on the Gospel Oak to Barking Line, while two were sent on long-term loan to First Great Western.
+All units had names. The majority of the names are references to the Marston Vale Line on which they operated during Silverlink's franchise: Leslie Crabbe was a long-standing railway employee, who worked on the route; Richard Crane is the chairman of the Bletchley to Bedford Rail Users Association who has campaigned for the line to be retained and expanded. Three of the names (marked with an asterisk) were inherited from the previously incumbent Class 121 units. All the units were then transferred to GWR in 2010 before being transferred again to Arriva Rail North in 2018, and their names are no longer applied.
+By the end of October 2010, all London Overground's Class 150/1s had been replaced by a new fleet of eight two-car Class 172 units operating exclusively on the Gospel Oak to Barking Line. Their final use was on 28 October 2010, when unit 150128 formed the 19:02 Barking to Gospel Oak service. The six units were cascaded to First Great Western, together with nine of the London Midland fleet.
+
+
+=== Midlands ===
+
+Following privatisation of British Rail, both Silverlink and Central Trains operated Class 150s in the midland regions of England and both companies were run by National Express.
+In 2010, London Midland ordered Class 172 replacements for its Class 150s. It initially hoped to retain some of the 150s as additional capacity, although they were also wanted by First Great Western and Northern Rail. London Midland was expected to lose all of its Class 150s, but a change in plan saw it retain three Class 150 units as additional capacity, following a statement from the Department for Transport on 10 August 2011. However, London Midland lost two Class 153s to First Great Western as a result.On 29 April 2019, the Class 150s that were still in operation with West Midlands Trains transferred to Northern, having been replaced by Class 230s and Class 172s.
+
+
+== Fleet details ==
+
+
+== Named units ==
+The following Class 150 units are currently or were previously named:
+
+150105 - Hutchie/Bernie
+150108 - "Phil"
+150120 - Gospel Oak - Barking 2000 (denamed)
+150121 - Willesden Eight (denamed)
+150121 - Silver Star (denamed)
+150123 - Bletchley Seven (denamed)
+150123 - Richard Crane (denamed)
+150127 - Bletchley TMD (denamed)
+150128 - Community Forest (denamed)
+150128 - Bedford - Bamberg 30 (denamed)
+150129 - Marston Vale (denamed)
+150129 - Devon & Cornwall Rail Partnership (denamed)
+150130 - Bedford - Bletchley 150 (denamed)
+150130 - Severnside Community Rail Partnership (denamed)
+150131 - Leslie Crabbe (denamed)
+150133 - Northern Star (renamed)
+150213 - Lord Nelson (denamed)
+150214 - The Bentham Line - A Dementia-Friendly Railway
+150217 - Oliver Cromwell (denamed)
+150227 - Sir Alf Ramsey (denamed)
+150229 - George Borrow (denamed)
+150230 - The Tamar Kingfisher (denamed)
+150231 - King Edmund (denamed)
+150233 - Peter West OBE (denamed)
+150235 - Cardinal Wolsey (denamed)
+150237 - Hereward the Wake (denamed)
+150255 - Henry Blogg (denamed)
+150257 - Queen Boadicea (denamed)
+150261 - The Tarka Line - The First 25 Years 1989-2014 (denamed)
+150275 - The Yorkshire Regiment - Yorkshire Warrior
+
+
+== Accidents and incidents ==
+On 15 December 1987, 150212 collided with an engineer's crane near Seamer West signal box in North Yorkshire. Carriage 52212 scrapped, 57212 married with 57209 to form 150209.
+On 11 November 1988, 150209 derailed at St Helens Central, Merseyside. The train struck the abutment of an overbridge, crushing the leading cab and killing the driver. Sixteen passengers sustained minor injuries. Carriage 52209 scrapped, 57209 married with 57212.
+On 12 July 2012, 150217 collided with cattle at Letterston, Pembrokeshire, and was derailed. There were no injuries amongst the 30 passengers and crew on the train.
+On 11 May 2014, 150239 collided with a motorcycle on a level crossing at Frampton Mansell, Gloucestershire, killing the rider.
+On 14 May 2015, two Class 150 units formed a train that collided with an agricultural tractor on an occupation crossing between Knaresborough and Cattal, North Yorkshire. Three people were injured.
+On 7 November 2015, units 150133 and 150204 formed a passenger train that was derailed near Knaresborough due to a signalman's error.
+On 3 April 2016, 150219 collided with a stationary InterCity 125 train at Plymouth. Thirty-five people were injured, and both trains were damaged.
+On 3 September 2017, 150217 collided with a tree near Llanbradach in Caerphilly, Wales, at around 10 pm. Three people were injured and five fire crews were in attendance.
+On 7 February 2018, 150203 divided on the approach to Leeds. There were no injuries, but passengers had to be evacuated across the tracks.
+On 31 January 2019, 150234 derailed in a low speed derailment at Penryn shortly before 1 pm. No injuries were reported. A reduced service was run on the line between Truro and Falmouth until the unit was removed.
+On 15 October 2019, 150245 collided with a fallen tree near Spittal, Pembrokeshire and was severely damaged.
+On 27 August 2021, 150271 collided with the outrigger of a crane lorry that was obstructing the line at Penistone.
+On 26 November 2021, 150284 collided with a fallen tree and was derailed at Balderton, Cheshire.
+On 22 May 2022, a train formed of 150240, 150242 and 150279 struck a mini digger near Craven Arms, causing a fuel leak, igniting a fire under one of the carriages. Two units were severely damaged.
+
+
+== Notes ==
+
+
+== References ==
+
+
+=== Citations ===
+
+
+=== Sources ===
+Fox, Peter (1987). Multiple Unit Pocket Book. British Railways Pocket Book No.2 (Summer/Autumn 1987 ed.). Platform 5. ISBN 978-0-906579-74-9. OCLC 613347580. Wikidata Q112224537.
+Fox, Peter; Hughes, Barry (1994). DMUs & Channel Tunnel Stock. British Railways Pocket Book No.3 (7th ed.). Platform 5. ISBN 978-1-8725-2459-7. OL 12078214M. Wikidata Q112224435.
+
+
+== Further reading ==
+"Class 150: Debut Day". Rail Enthusiast. EMAP National Publications. June 1984. p. 11. ISSN 0262-561X. OCLC 49957965.
+Fox, Peter (August 1984). "Class 150 — BREL's new-generation DMU". Rail Enthusiast. EMAP National Publications. pp. 12–14. ISSN 0262-561X. OCLC 49957965.
+Smith, Stuart (May 1986). "Herald the Sprinters". Rail Enthusiast. No. 56. EMAP National Publications. pp. 6–8. ISSN 0262-561X. OCLC 49957965.
+
+
+== External links ==
+
+Class 150 BREL prototype Sprinters
+Porterbrook Class 150 brochure
+Angel Trains - Class 150/1 and /2- First Great Western, Northern Rail, London Midland

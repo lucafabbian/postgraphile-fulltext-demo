@@ -1,0 +1,29 @@
+Amazon Route 53 (Route 53) is a scalable and highly available Domain Name System (DNS) service. Released on December 5, 2010,  it is part of Amazon.com's cloud computing platform, Amazon Web Services (AWS). The name is a possible reference to U.S. Routes, and "53" is a reference to the TCP/UDP port 53, where DNS server requests are addressed. In addition to being able to route users to various AWS services, including EC2 instances, Route 53 also enables AWS customers to route users to non-AWS infrastructure and to monitor the health of their application and its endpoints. Route 53's servers are distributed throughout the world. Amazon Route 53 supports full, end-to-end DNS resolution over IPv6. Recursive DNS resolvers on IPv6 networks can use either IPv4 or IPv6 transport to send DNS queries to Amazon Route 53.Customers create "hosted zones" that act as a container for four name servers. The name servers are spread across four different TLDs. Customers are able to add, delete, and change any DNS records in their hosted zones. Amazon also offers domain registration services to AWS customers through Route 53. Amazon provides an SLA of the service always being available at all times (100% available).One of the key features of Route 53 is programmatic access to the service that allows customers to modify DNS records via web service calls. Combined with other features in AWS, this allows a developer to programmatically bring up a machine and point to components that have been created via other service calls such as those to create new S3 buckets or EC2 instances.
+
+
+== Supported DNS record types ==
+
+A
+AAAA
+CAA
+CNAME
+MX
+NAPTR
+NS
+PTR
+SOA
+SPF
+SRV
+TXTAdditionally, there is a Route 53-specific virtual record type called "Alias". Alias records act similarly to CNAME records but are resolved on the server side and appear to clients as an A record. They can be used to create transparent references to other AWS resources that only provide DNS names and not IP addresses, such as an Elastic Load Balancer or a CloudFront distribution. Because alias records are resolved on the server-side and return A records to clients they can be used in domain apex records in a similar way to a CNAME record, where CNAME records are disallowed for this use by RFC 2181.
+
+
+== See also ==
+List of managed DNS providers
+
+
+== References ==
+
+
+== External links ==
+Amazon Route 53 main page
+Amazon Route 53 API Reference

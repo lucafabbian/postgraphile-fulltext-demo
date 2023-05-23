@@ -1,0 +1,146 @@
+The Air Traffic Organization (ATO) is an air navigation service provider in the United States of America. The ATO is the operational division of the Federal Aviation Administration (FAA).
+ATO provides air navigation services to private and commercial clients, as well as the U.S. military. Their operational range covers 29.4 million square miles of airspace over the US and portions of the Atlantic Ocean, Pacific Ocean and the Gulf of Mexico.
+The organization operates a number of service units whose functions range from safety monitoring, workforce training, information technology, operational performance metrics, weather observation, and interface with the US Department of Defense.
+
+
+== Service Units ==
+
+
+=== Air Traffic Control System Command Center ===
+The Air Traffic Control System Command Center serves as the principal element of the Systems Operations Division of the Air Traffic Organization and is responsible for the real-time command, control and oversight of the National Airspace System (NAS). It was first established in April, 1970 at FAA Headquarters. In 1994 it was moved to Herndon, Virginia. In 2011 it was relocated to the Vint Hill area of Northern Virginia near Warrenton, Virginia.
+
+
+=== En Route and Oceanic Services ===
+Air traffic controllers in En Route and Oceanic Services manage aircraft at the highest levels over the continental U.S., Alaska, the Arctic Ocean north of Alaska, and far out regions into the Atlantic and Pacific oceans. Controllers at 20 air route traffic control centers coordinate with Terminal, Technical Operations and Systems Operations services to provide seamless air traffic services.
+En Route and Oceanic Services provide air traffic services to ATO customers operating in the national airspace system, as well as international airspace assigned to U.S. control.
+
+Works with Terminal, Technical Operations and Systems Operations Services to provide air traffic services that meet customer target levels of efficiency, safety and security.
+Creates validated operations and programmatic requirements for En Route and Oceanic air traffic services that provide for the safe, secure and efficient use of navigable airspace.
+Establishes and maintains policies, standards and procedures to enable safe, secure and efficient En Route and Oceanic operations.
+Maintains and reports on operational performance metrics and conducts trend analysis.
+
+
+=== Communications Services ===
+Communications Services uses all types of media to keep ATO employees, Congress and the aviation industry well-informed about developments in the organization.
+Communications is responsible for:
+
+Providing timely, relevant ATO information to all ATO audiences
+Keeping employees, owners and customers informed about and supportive of the objectives and *progress of the ATOCommunications services, assets and policies related to the ATO
+
+Liaison to customers, owners, employees, Government and Industry Affairs and FAA
+
+
+==== Publications ====
+FAA Today
+A Plan for the Future ATC Plan 2011–2020
+View More Publications
+
+
+=== Finance Services ===
+Finance Services is in charge of financial metrics, comparative analysis productivity measures, business case evaluation and competitive sourcing. Their management has helped the ATO establish credibility with Congress and enabled the performance-based organization to deliver services to customers more efficiently.
+
+
+=== NextGen and Operations Planning Services ===
+NextGen and Operations Planning works to get the ATO ready for the air traffic of tomorrow and the strategies and solutions that achieve national and international goals by taking the lead on developing the Next Generation Air Transportation System.
+
+
+=== Office of Safety ===
+The Office of Safety monitors the ATO's transcendent level of safety by tracking, reporting and analyzing performance. It also develops policies, processes and training for safety improvement.
+
+
+=== Program Management Organization ===
+Provides program and acquisition management for the FAA infrastructure programs that transform, modernize and sustain the National Airspace System (NAS), including:
+
+The air traffic operation
+Mission support systems
+Business support systems
+Aviation safety
+Commercial Space Transportation
+Unmanned Aircraft SystemsThe PMO is the program office for the U.S. Air Navigation Service in the United States and airspace delegated to the United States by the International Civil Aviation Organization. Officially endorsed by Congress in 2011. 
+
+
+=== System Operations Services ===
+System Operations is responsible for traffic flow management, real-time evaluation of air traffic control services and coordination with other government agencies on air transportation security issues.
+System Operations' roles:
+
+Holds ATO authority for policy, technical standards and procedures for overall national directives on air traffic procedures and airspace matters;
+Traffic flow management for the NAS;
+Real-time evaluation of air traffic control services;
+ATO interface with Department of Defense (DoD) and Department of Homeland Security (DHS) regarding Air Transportation security issues;
+Focal point for customer interaction;
+ATO point of contact for litigation stemming from aircraft accidents or incidents involving employees of the ATO;
+Requirements for weather observation and reporting standards in accordance with National Weather Service (NWS) standards.
+
+
+=== Technical Operations Services ===
+More than 9,000 Technical Operations employees make sure that more than 41,000 pieces of equipment operate every day.
+
+
+=== Terminal Services ===
+Air traffic controllers in Terminal Services are positioned in TRACONs and airport towers to guide aircraft in and out of airports across the country.
+
+
+== ATO Strategy Map and SMP ==
+The Air Traffic Organization Strategy indicates where the ATO is going, how it's going to get there, who is involved, and how it all fits together. While the ATO has adopted the Strategic Management Process (SMP), a proven business management concept used by high-performing corporations, it is not a fill-in-the-blanks template. Rather, the SMP is a framework that the ATO can use to effectively formulate and implement its strategy. Part of the process is the visualization of the critical drivers of success in the form of a Strategy Map.
+The ATO's Executive Council has developed four strategic pathways. Each pathway is a cluster of related objectives that are important to the ATO's Owners (Congress, the Office of Management and Budget, and the Office of the Secretary of Transportation), Customers (commercial and cargo airlines, business aviation, general aviation and military aviation), the Processes needed to meet customer needs and owner expectations, and the Employee and technical capabilities that must be developed for the internal processes to work well.
+A critical component of the ATO's strategy is changing, which is necessary to meet the objectives of the organization and prepare the FAA, the ATO and its employees for the transition to NextGen programs.
+
+
+== History ==
+The Air Traffic Organization was created as the operations arm of the FAA by executive order of President Bill Clinton in December 2000 to apply businesslike practices to the delivery of air traffic services.  A few months later, Congress passed enabling legislation which laid the foundation for the creation of a performance-based organization to manage the national airspace system, and the hiring of a chief operating officer to lead it.
+The FAA began designing the ATO in 2001 but was delayed by the impact of 9/11. Implementation began in 2003 and Russell Chew, a former American Airlines pilot and system operations manager, was hired in August. The official formation of the ATO was announced in November 2003.
+Chew resigned in February 2007. FAA Deputy Administrator Bobby Sturgell was appointed to serve as acting chief operating officer of the ATO during a search for a replacement. Hank Krakowski became the ATO's Chief Operating Officer in 2007 and tendered his resignation in April 2011.
+
+
+== Facilities ==
+The Air Traffic Organization is composed of 35,000 employees. Many of these employees, including more than 14,000 air traffic controllers, 5,000 air traffic supervisors and air traffic managers, 1,100 engineers and 6,100 maintenance technicians, directly serve customers.
+Some 8,000 additional employees work in a wide variety of jobs to sustain the operations of the ATO. These employees research, plan and build air traffic control equipment and programs; manage payroll and benefits programs; provide procurement service for both the ATO and the FAA at large; maintain relationships with the aviation industry and the general public; and ensure that the environment and ATO employees are protected.
+The ATO operates 315 air traffic control facilities.
+Types of Facilities:
+
+Airport Traffic Control Towers
+Each major airport maintains a control tower which houses air traffic controllers who monitor all aircraft taxiing, taking off and landing at that airport. They own the airspace up to 3,000 feet (910 m) above the airport and a radius of five miles (8.0 km) around the airport. Tower controllers have three different positions through which each rotate during their shift assignment: clearance delivery, ground control and local control.
+
+Air Traffic Control System Command Center (ATCSCC)
+The Command Center exercises command, control and oversight of air traffic activity within the NAS. The facility, located in northern Virginia, coordinates all air traffic movement, both civil and military, in domestic and oceanic airspace. Its staff strategically manages air traffic to minimize delays and congestion, while maximizing the overall use of the NAS. Decisions are carried out in cooperation with airline personnel, traffic management specialists and controllers at affected facilities.
+
+Air Route Traffic Control Centers (ARTCCs)
+The airspace over the U.S. is divided into 21 large areas (20 are in the contiguous U.S. plus Alaska). These centers are designated with a three-letter identifier starting with the letter Z, such as ZSE and ZDC for Seattle and Washington. Center controllers monitor aircraft in the en route phase of its flight. They receive traffic from TRACONs and hand off traffic to TRACONs
+
+Terminal Radar Approach Control Facilities (TRACONs)
+Controllers in TRACONs monitor aircraft in the departure, descent and approach phases of a flight. Each TRACON can handle air traffic for several different airports in its vicinity. Recently, TRACONs in major metropolitan areas have been consolidated to handle many busy airports from a single facility. Consolidated TRACONs include Potomac Consolidated TRACON, New York TRACON, Boston Consolidated TRACON, Southern California TRACON and Northern California TRACON.  Some smaller regions have also received consolidated TRACON facilities, such as Great Lakes TRACON at Kalamazoo Airport in Central and Western Michigan.
+
+Combined Center Radar Approach Control (CERAPs)
+The FAA has 3 CERAPS, essentially a cross between a Center and a TRACON.  These are HCF in Honolulu, ZSU in San Juan and ZUA in Guam.
+
+The William J. Hughes Technical Center
+The William J. Hughes Technical Center at Atlantic City International Airport in Egg Harbor, NJ, serves as the national scientific test base for the FAA. Technical Center programs include testing and evaluation in air traffic control, communications, navigation, airports, aircraft safety, and security. They also include long-range development of innovative aviation systems and concepts, development of new air traffic control equipment and software, and modification of existing systems and procedures.
+
+Mike Monroney Aeronautical Center
+The FAA Mike Monroney Aeronautical Center in Oklahoma City is best known for the FAA Academy, which provides technical and managerial training and development for the FAA workforce and the aviation community. Notably, the Academy trains new air traffic controllers.
+The Aeronautical Center also houses the Civil Aerospace Medical Institute, which is involved in such diverse aviation matters as drop-down oxygen masks, emergency lighting, water evacuation plans and crash tests; the FAA Logistics Center, which offers repair and technical support for air traffic control equipment and aircraft for the U.S. and 44 other countries; the Transportation Safety Institute, which examines aviation safety; and the Civil Aviation Registry, which records every privately owned U.S. plane and licensed pilot.
+
+
+== Next Generation Air Transportation System (NextGen) ==
+The future of U.S. aviation is the Next Generation Air Transportation System, or NextGen. In the 21st century, the growing global demand for aviation, development of new and exciting airborne vehicles, and security and environmental concerns, are going to require a new kind of aviation system.
+That's why there is a concerted effort by the United States to design, plan and build NextGen.
+NextGen is a wide-ranging transformation of the entire national air transportation system – not just certain pieces of it – to meet future demands and avoid gridlock in the sky and at airports. State-of-the-art technology, new procedures, and new airport infrastructure will allow the U.S. Federal Aviation Administration (FAA) to safely handle dramatic increases in the number and type of aircraft, without being overwhelmed by congestion. NextGen is a curb-to-curb transformation of the U.S. air transportation system. This transformation involves going from today's ground-based, human-dependent communications, navigation, and surveillance system to one that takes advantage of satellite navigation and surveillance, digital communications and advanced networking. It shifts some decision-making from the ground to the cockpit.
+NextGen is consistent with the FAA's mission to maintain the safest, most efficient national airspace system possible. The FAA does this by enforcing aviation safety regulations, and certifying 320,000 aircraft and over 700,000 pilots. The FAA provides air traffic control services, handling about 55,000 flights per day, and serving over 700 million passengers a year. NextGen Through Multi-Agency Involvement As part of the NextGen effort, the FAA is working closely with several government agencies that make up the Joint Planning and Development Office. JPDO includes the U.S. departments of Transportation, Defense, Homeland Security and Commerce; the White House Office of Science and Technology Policy; and the National Aeronautics and Space Administration.
+NextGen cannot be realized by government efforts alone. More than 200 industry members are involved at every stage of NextGen's development through the NextGen Institute. This is an unprecedented government-industry partnership on such a large-scale initiative.
+
+
+== See also ==
+Next Generation Air Transportation System
+
+
+== References ==
+
+
+== External links ==
+ATO News
+FAA.gov
+Interactive: Controlling a Flight
+Fly FAA - View Airport Status
+Joint Planning and Development Office (JPDO)
+National Air Traffic Controllers Association
+ATO videos on YouTube

@@ -1,0 +1,148 @@
+The Ukrainian alphabet (Ukrainian: абе́тка, áзбука or алфа́ві́т, romanized: abetka, azbuka or alfavit) is the set of letters used to write Ukrainian, which is the official language of Ukraine. It is one of several national variations of the Cyrillic script. It comes from the Cyrillic script, which was devised in the 9th century for the first Slavic literary language, called Old Slavonic. In the 10th century, it became used in Kievan Rus' to write Old East Slavic, from which the Belarusian, Russian, Rusyn, and Ukrainian alphabets later evolved. The modern Ukrainian alphabet has 33 letters in total: 20 consonants, 2 semivowels, 10 vowels and 1 palatalization sign. Sometimes the apostrophe (') is also included, which has a phonetic meaning and is a mandatory sign in writing, but is not considered as a letter and is not included in the alphabet.
+In Ukrainian, it is called українська абетка (IPA: [ʊkrɐˈjinʲsʲkɐ ɐˈbɛtkɐ]; tr. ukrayins'ka abetka), from the initial letters а (tr. a) and б (tr. b); алфавіт (tr. alfavit); or, archaically, азбука (tr. azbuka), from the acrophonic early Cyrillic letter names азъ (tr. az) and буки (tr. buki).
+Ukrainian text is sometimes romanised (written in the Latin alphabet) for non-Cyrillic readers or transcription systems. There are several common methods for romanizing Ukrainian including the international Cyrillic-to-Latin transcription standard ISO 9. There have also been several historical proposals for a native Ukrainian Latin alphabet, but none have caught on.
+
+
+== Alphabet ==
+The alphabet comprises 34 letters, representing 40 phonemes including the apostrophe. Ukrainian orthography is based on the phonemic principle, with one letter generally corresponding to one phoneme. The orthography also has cases in which semantic, historical, and morphological principles are applied. In the Ukrainian alphabet the “Ь” could also be the last letter in the alphabet (this was its official position from 1932 to 1991).
+Twenty letters represent consonants (б,в, г, ґ, д, ж, з, к, л, м, н, п, р, с, т, ф, х, ц, ч, ш, щ), ten vowels (а, е, є, и, і, ї, о, у, ю, я), and one semivowel (й/yot). The soft sign (ь), which appears only after consonants, indicates that the preceding consonant is soft (palatalized).
+Also, alveolar consonants are palatalized when followed by certain vowels: д, з, л, н, р, с, т, ц and дз are softened when they are followed by a “soft” vowel: є, і, ю, я. See iotation.
+The apostrophe negates palatalization in places that it would be applied by normal orthographic rules. It also appears after labial consonants in some words, such as ім'я "name". And it is retained in transliterations from the Latin alphabet: Кот-д'Івуар (Côte d'Ivoire) and О'Тул (O'Toole).
+There are other exceptions to the phonemic principle in the alphabet. Some letters represent two phonemes: щ /ʃt͡ʃ/, ї /ji/ or /jɪ/, and є /jɛ/, ю /ju/, я /jɑ/ when they do not palatalize a preceding consonant. The digraphs дз and дж are normally used to represent single affricates /d͡z/ and /d͡ʒ/. Palatalization of consonants before е, у, а is indicated by writing the corresponding letter є, ю, я instead (theoretical palatalization before и is not indicated as і already corresponds to the palatized or “soft” counterpart of и).
+Compared to other Cyrillic alphabets, the modern Ukrainian alphabet is most similar to those of the other East Slavic languages: Belarusian, Russian, and Rusyn. It has retained the two early Cyrillic letters і (i) and izhe (и) to represent related sounds /i/ and /ɪ/ as well as the two historical forms e (е) and ye (є). Its unique letters are the following:
+
+ge (ґ), used for the less-common velar plosive /ɡ/ sound, whereas in Ukrainian the common Cyrillic г represents a glottal fricative, /ɦ/.
+yi (ї) /ji/ or /jɪ/.The apostrophe is used similarly in Belarusian orthography, while the same function is served in Russian by the hard sign (ъ): compare Ukrainian об'єкт and Belarusian аб'ект vs. Russian объект (“object”).
+
+
+== History ==
+
+
+=== Early Cyrillic alphabet ===
+The Cyrillic script was a writing system developed in the First Bulgarian Empire in the tenth century, to write the Old Church Slavonic liturgical language. It was named after Saint Cyril, who with his brother Methodius had created the earlier Glagolitic Slavonic script. Cyrillic was based on Greek uncial script, and adopted Glagolitic letters for some sounds which were absent in Greek – it also had some letters which were only used almost exclusively for Greek words or for their numeric value: Ѳ, Ѡ, Ѱ, Ѯ, Ѵ.
+The early Cyrillic alphabet was brought to Kievan Rus' at the end of the first millennium, along with Christianity and the Old Church Slavonic language. The alphabet was adapted to the local spoken Old East Slavic language, leading to the development of indigenous East Slavic literary language alongside the liturgical use of Church Slavonic. The alphabet changed to keep pace with changes in language, as regional dialects developed into the modern Ukrainian, Belarusian and Russian languages. Spoken Ukrainian has an unbroken history, but the literary language has suffered from two major historical fractures.
+Various reforms of the alphabet by scholars of Church Slavonic, Ruthenian, and Russian languages caused the written and spoken word to diverge by varying amounts. Etymological rules from Greek and South Slavic languages made the orthography imprecise and difficult to master.
+Meletii Smotrytskyi's Slavonic Grammar of 1619 was very influential on the use of Church Slavonic, and codified the use of the letters Я (ya), Е (e), and Ґ (g). Various Russian alphabet reforms were influential as well, especially Peter the Great's Civil Script of 1708 (the Grazhdanka). It created a new alphabet specifically for non-religious use, and adopted Latin-influenced letterforms for type. The Civil Script eliminated some archaic letters (Ѯ, Ѱ, Ѡ, Ѧ), but reinforced an etymological basis for the alphabet, influencing Mykhailo Maksymovych's nineteenth-century Galician Maksymovychivka script for Ukrainian, and its descendant, the Pankevychivka, which is still in use, in a slightly modified form, for the Rusyn language in Carpathian Ruthenia.
+
+
+=== Nineteenth-century reforms ===
+
+In reaction to the hard-to-learn etymological alphabets, several reforms attempted to introduce a phonemic Ukrainian orthography during the nineteenth century, based on the example of Vuk Karadžić's Serbian Cyrillic. These included Panteleimon Kulish's Kulishivka alphabet used in his 1857 Notes on Southern Rus' and Hramatka, the Drahomanivka alphabet promoted in the 1870s by Mykhailo Drahomanov, and Yevhen Zhelekhivskyi's Zhelekhivka alphabet from 1886, which standardized the letters ї (yi) and ґ (g).
+A Ukrainian cultural revival of the late nineteenth and early twentieth centuries stimulated literary and academic activity in both Dnieper Ukraine and western Ukraine (Austrian-controlled Galicia). In Galicia, the Polish-dominated local government tried to introduce a Latin alphabet for Ukrainian, which backfired by prompting a heated “War of the Alphabets”, bringing the issue of orthography into the public eye. The Cyrillic script was favoured, but conservative Ukrainian cultural factions (the Old Ruthenians and Russophiles) opposed publications which promoted a pure Ukrainian orthography. 
+In Dnieper Ukraine, proposed reforms suffered from periodic bans of publication and performance in the Ukrainian language.  One such decree was the notorious 1876 Ems Ukaz, which banned the Kulishivka and imposed a Russian orthography until 1905 (called the Yaryzhka, after the Russian letter yery ы). The Kulishivka was adopted by Ukrainian publications, only to be banned again from 1914 until after the February Revolution of 1917.
+The Zhelekhivka became official in Galicia in 1893, and was adopted by many eastern Ukrainian publications after the Revolution. The People's Republic of Ukraine adopted official Ukrainian orthographies in 1918 and 1919, and Ukrainian publication increased, and then flourished under Skoropadsky's Hetmanate. Under the Bolshevik government of Ukraine, Ukrainian orthographies were confirmed in 1920 and 1921.
+
+
+=== Unified orthography ===
+In 1925, the Ukrainian SSR created a Commission for the Regulation of Orthography. During the period of Ukrainization in Soviet Ukraine, the 1927 International Orthographic Conference was convened in Kharkiv, from May 26 to June 6. At the conference, a standardized Ukrainian orthography and method for transliterating foreign words were established, a compromise between Galician and Soviet proposals, called the Ukrainian orthography of 1928, or Skrypnykivka, after Ukrainian Commissar of Education Mykola Skrypnyk. It was officially recognized by the Council of People's Commissars in 1928, and by the Lviv Shevchenko Scientific Society in 1929, and adopted by the Ukrainian diaspora.  The Skrypnykivka was the first universally adopted native Ukrainian orthography.
+However, by 1930 Stalin's government started to reverse the Ukrainization policy as part of an effort to centralize power in Moscow. In 1933, the orthographic reforms were abolished, decrees were passed to bring the orthography steadily closer to Russian. His reforms discredited and labelled “nationalist deviation”, Skrypnyk committed suicide rather than face a show trial and execution or deportation. The Ukrainian letter ge ґ, and the phonetic combinations ль, льо, ля were eliminated, and Russian etymological forms were reintroduced (for example, the use of -іа- in place of -я-). An official orthography was published in Kyiv in 1936, with revisions in 1945 and 1960. This orthography is sometimes called Postyshivka, after Pavel Postyshev, Stalin's official who oversaw the dismantling of Ukrainisation.
+In the meantime, the Skrypnykivka continued to be used by Ukrainians in Galicia and the worldwide diaspora.
+During the period of Perestroika in the USSR, a new Ukrainian Orthographic Commission was created in 1986. A revised orthography was published in 1991, reintroducing the letter ge ґ. It also revised the alphabetical order, moving the soft sign ь from the end of the alphabet, to a position before the letter ю, which helps sort Ukrainian text together with Belarusian (following a proposal by L. M. Ivanenko of the Glushkov Institute of Cybernetics).
+On 21 May 2019, the Cabinet of Ministers of Ukraine approved a new version of the orthography prepared by the Ukrainian National Commission on Spelling. The new edition brought to life some features of orthography in 1928, which were part of the Ukrainian orthographic tradition. At the same time, the commission was guided by the understanding that the language practice of Ukrainians in the second half of the 20th century and the beginning of the 21st century has already become part of the Ukrainian orthographic tradition.
+
+
+== Letter names and pronunciation ==
+For other transliteration systems, see romanisation of Ukrainian.
+Notes:
+
+There are also digraphs which are pronounced as a single sound: ⟨дж⟩, which is pronounced /dʒ/, like dg in knowledge, and ⟨дз⟩, which is realized as /d͡z/. Examples: джміль (dzhmil, "a bumble bee"), бджола (bdzhola, "a bee"), дзвоник (dzvonyk, "a bell").
+
+
+== Historic letters ==
+
+
+== Letterforms and typography ==
+In print, several lowercase Cyrillic letters resemble smaller versions of their corresponding uppercase forms.
+Handwritten Cyrillic cursive letterforms vary somewhat from their corresponding printed (typeset) counterparts, particularly for the letters г, д, и, й, and т.
+
+Like Latin script, whose typefaces have roman and italic forms, a Cyrillic type face (шрифт, shryft) has upright (прямий, priamyi) and cursive (курсивний, kursyvnyi) font forms, the latter of which later came to be called (письмівка, pys’mivka). Several lowercase letters in the cursive printed form bear little resemblance to the corresponding lowercase letters in the upright printed form, more closely resembling the corresponding handwritten lowercase cursive forms instead, particularly for the letters г, д, и, й, п, and т.
+Quoted text is typically enclosed in unspaced French guillemets («angle-quotes»), or in lower and upper quotation marks as in German.
+
+Reference: Bringhurst, Robert (2002). The Elements of Typographic Style (version 2.5), pp. 262–264.  Vancouver, Hartley & Marks. ISBN 0-88179-133-4.
+
+
+== Encoding Ukrainian ==
+There are various character encodings for representing Ukrainian with computers.
+
+
+=== ISO 8859-5 ===
+ISO 8859-5 encoding is missing the letter ґ.
+
+
+=== KOI8-U ===
+KOI8-U stands for Код обміну інформації 8 бітний — український, "Code for information
+interchange 8 bit — Ukrainian", analogous to "ASCII". KOI8-U is a Ukrainianized version of KOI8-R.
+
+
+=== Windows-1251 ===
+Windows-1251 works for the Ukrainian alphabet, as well as for other Cyrillic alphabets.
+
+
+=== Unicode ===
+
+Ukrainian falls within the Cyrillic (U+0400 to U+04FF) and Cyrillic Supplementary (U+0500 to U+052F) blocks of Unicode. The characters in the range U+0400–U+045F are basically the characters from ISO 8859-5 moved upward by 864 positions.
+In the following table, Ukrainian letters have titles indicating their Unicode information and HTML entity. In a visual browser you can hold the mouse pointer over the letter to see this information.
+
+
+=== Web pages and XML ===
+Elements in HTML and XML would normally have the Ukrainian language indicated using the IETF language tag uk (lang="uk" in HTML and xml:lang="uk" in XML). Although indicating the writing system is normally not necessary, this can be accomplished by adding a script subtag, for example to distinguish Cyrillic Ukrainian text (uk-Cyrl) from romanized Ukrainian (uk-Latn).
+
+
+== Keyboard layout ==
+
+The standard Ukrainian keyboard layout for personal computers is as follows:
+
+
+== See also ==
+Bulgarian alphabet
+Cyrillic script
+Cyrillic alphabets
+Euro-Ukrainian alphabet
+Greek alphabet
+Macedonian alphabet
+The hryvnia sign (₴) derives from the cursive minuscule letter He (г)
+Montenegrin alphabet
+Romanization of Belarusian
+Romanization of Bulgarian
+Romanization of Greek
+Romanization of Macedonian
+Romanization of Russian
+Romanization of Ukrainian
+Russian alphabet
+Scientific transliteration of Cyrillic
+Serbian Cyrillic alphabet
+
+
+== Notes ==
+
+
+== References ==
+Peter T. Daniels and William Bright, eds. (1996). The World's Writing Systems, pp 700, 702. Oxford University Press. ISBN 0-19-507993-0.
+Volodymyr Kubijovyč ed. (1963). "Ukrainian Writing and Orthography" in Ukraine: A Concise Encyclopædia, vol 1, pp 511–520. Toronto, University of Toronto Press. ISBN 0-8020-3105-6.
+
+
+== Further reading ==
+Meletius Smotrytsky (1619). Slavonic Grammar. (Reprint edition, with Ukrainian interface.)
+Ivan Ohienko (1918). Naiholovnishi pravyla ukrainskoho pravopysu. Kyiv, UNR Ministry of Education.
+Ivan Ohienko (1919). Holovnishi pravyla ukrainskoho pravopysu. Kyiv, UNR Ministry of Education.
+All-Ukrainian Academy of Sciences (VUAN, 1920).
+People's Commissariat of Education (1921).
+(1928) Ukrainskyi pravopys. Kharkiv, Academy of Science of the Ukrainian SSR.
+(1936) Ukrainskyi pravopys. Kyiv, Academy of Science of the Ukrainian SSR.
+L. Bulakhovsky, ed. (1946). Ukrainskyi pravopys. Kyiv, May 8, 1945: Academy of Science of the Ukrainian SSR.
+(1960) Ukrainskyi pravopys. Kyiv, Academy of Science of the Ukrainian SSR.
+(1990) Ukrainskyi pravopys. Kyiv, Academy of Science of the Ukrainian SSR.
+(2007) Ukrainskyi pravopys. Kyiv, Naukova Dumka. Online version.
+(2012) Ukrainskyi pravopys. Kyiv, Naukova Dumka. Online version.
+(2015) Ukrainskyi pravopys. Kyiv, Naukova Dumka. Online version.
+(2019) Ukrainskyi pravopys.  Ministry of Education and Science of Ukraine. Home page.
+Elias Shklanka, Ukrainian Primer. New York: Knyho-Spilka.
+Orest Dubas, ed., Mii naikrashchyi Slovnyk. (Мій найкращий Словник), 2nd edition. Ukrainian adaptation of Richard Scarry's Best Word Book Ever.
+
+
+== External links ==
+
+The Cyrillic Charset Soup — Roman Czyborra's site contains an exhaustive history of Cyrillic character set encoding schemes.
+Проєкт нового “Українського правопису” Archived 2016-03-05 at the Wayback Machine — Proposal for a new Ukrainian orthography (in Ukrainian).
+At the Encyclopedia of Ukraine: Cyrillic script, Orthography, Hrazhdanka, Maksymovychivka, Kulishivka, Zhelekhivka, Pankevychivka.
+Ukrajinśka Latynka is the online project that promotes Latin alphabet for the Ukrainian language.

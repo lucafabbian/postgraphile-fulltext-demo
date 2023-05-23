@@ -1,0 +1,33 @@
+Unbundled network elements (UNEs) are a requirement mandated by the United States Telecommunications Act of 1996. They are the parts of the telecommunications network that the incumbent local exchange carriers (ILECs) are required to offer on an unbundled basis. Together, these parts make up a local loop that connects to a digital subscriber line access multiplexer (DSLAM), a voice switch or both. The loop allows non-facilities-based telecommunications providers to deliver service without having to lay network infrastructure such as copper wire, optical fiber, and coaxial cable.
+
+
+== UNE-Platform ==
+A UNE-Platform (or UNE-P) is a combination of UNEs that allow end-to-end service delivery without any facilities. Despite not involving any CLEC facilities, a UNE-P still requires facilities-based certification from the Public Utilities Commission to deliver services.
+
+
+== Availability ==
+In Telecommunications Act of 1996 sections 251(c)(3), incumbent local exchange carriers (LECs) are required to lease certain parts of their network specified by the FCC or by state PUCs. According to section 252(d)(1), these network elements must be provided on an unbundled basis at cost-based rates.
+
+
+== FCC orders ==
+In the UNE Remand Order issued on November 5, 1999, the FCC specified the UNE to which a competitor must be provided access: "the 'loops' that connect the switches to end users, including high-capacity loops; the switches (with some exceptions), the transport facilities between switches and other networks, and the software needed to operate the telephone network".In the Line Sharing Orders (Line Sharing Order, 14 FCC Rcd at 20951), the LECs are required to unbundle the high-frequency portion of the loop of DSL.However, both the UNE Remand Order and the Line Sharing Orders were remanded by the D.C. Circuit Court of Appeals in United States Telecom Association v. FCC (290 F.3d 415), decided on May 24, 2002; the Line Sharing Orders were vacated. The court concluded that the FCC had not considered the availability of competitive facilities on a sufficiently granular basis. The FCC eliminated mandatory  DSL unbundling in 2003.
+
+
+== Prices ==
+Based on the Telecommunications Act of 1996, the FCC could require LECs to provide UNEs at a cost-based price, which may include a "reasonable profit". The FCC has determined that "cost" means forward-looking economic cost and has required the states to use a methodology called total element long-run incremental cost (TELRIC).
+
+
+== See also ==
+Leased line
+Local loop unbundling
+Product bundling
+
+
+== References ==
+
+
+== External links ==
+FCC, Network Unbundling.
+FCC Releases Interim Order on Unbundled Network Elements.
+FCC cracks down on "gamesmanship" of line-sharing rules
+290 F.3d 415

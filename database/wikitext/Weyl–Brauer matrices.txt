@@ -1,0 +1,817 @@
+In mathematics, particularly in the theory of spinors, the Weyl–Brauer matrices are an explicit realization of a Clifford algebra as a matrix algebra of 2⌊n/2⌋ × 2⌊n/2⌋ matrices. They generalize the Pauli matrices to n dimensions, and are a specific construction of higher-dimensional gamma matrices. They are named for Richard Brauer and Hermann Weyl, and were one of the earliest systematic constructions of spinors from a representation theoretic standpoint.
+The matrices are formed by taking tensor products of the Pauli matrices, and the space of spinors in n dimensions may then be realized as the column vectors of size 2⌊n/2⌋ on which the Weyl–Brauer matrices act.
+
+
+== Construction ==
+Suppose that V = Rn is a Euclidean space of dimension n.  There is a sharp contrast in the construction of the Weyl–Brauer matrices depending on whether the dimension n is even or odd.
+Let n = 2k  (or 2k+1) and suppose that the Euclidean quadratic form on V is given by
+
+  
+    
+      
+        
+          q
+          
+            1
+          
+          
+            2
+          
+        
+        +
+        ⋯
+        +
+        
+          q
+          
+            k
+          
+          
+            2
+          
+        
+        +
+        
+          p
+          
+            1
+          
+          
+            2
+          
+        
+        +
+        ⋯
+        +
+        
+          p
+          
+            k
+          
+          
+            2
+          
+        
+         
+         
+        (
+        +
+        
+          p
+          
+            n
+          
+          
+            2
+          
+        
+        )
+         
+        ,
+      
+    
+    {\displaystyle q_{1}^{2}+\dots +q_{k}^{2}+p_{1}^{2}+\dots +p_{k}^{2}~~(+p_{n}^{2})~,}
+  where (pi, qi) are the standard coordinates on Rn.
+Define matrices 1, 1', P, and Q by
+
+  
+    
+      
+        
+          
+            
+              
+                
+                  
+                    1
+                  
+                
+                =
+                
+                  σ
+                  
+                    0
+                  
+                
+                =
+                
+                  (
+                  
+                    
+                      
+                        
+                          1
+                        
+                        
+                          0
+                        
+                      
+                      
+                        
+                          0
+                        
+                        
+                          1
+                        
+                      
+                    
+                  
+                  )
+                
+                ,
+              
+              
+                
+                  
+                    
+                      1
+                    
+                  
+                  ′
+                
+                =
+                
+                  σ
+                  
+                    3
+                  
+                
+                =
+                
+                  (
+                  
+                    
+                      
+                        
+                          1
+                        
+                        
+                          0
+                        
+                      
+                      
+                        
+                          0
+                        
+                        
+                          −
+                          1
+                        
+                      
+                    
+                  
+                  )
+                
+                ,
+              
+            
+            
+              
+                P
+                =
+                
+                  σ
+                  
+                    1
+                  
+                
+                =
+                
+                  (
+                  
+                    
+                      
+                        
+                          0
+                        
+                        
+                          1
+                        
+                      
+                      
+                        
+                          1
+                        
+                        
+                          0
+                        
+                      
+                    
+                  
+                  )
+                
+                ,
+              
+              
+                Q
+                =
+                −
+                
+                  σ
+                  
+                    2
+                  
+                
+                =
+                
+                  (
+                  
+                    
+                      
+                        
+                          0
+                        
+                        
+                          i
+                        
+                      
+                      
+                        
+                          −
+                          i
+                        
+                        
+                          0
+                        
+                      
+                    
+                  
+                  )
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{matrix}{\mathbf {1} }=\sigma _{0}=\left({\begin{matrix}1&0\\0&1\end{matrix}}\right),&{\mathbf {1} }'=\sigma _{3}=\left({\begin{matrix}1&0\\0&-1\end{matrix}}\right),\\P=\sigma _{1}=\left({\begin{matrix}0&1\\1&0\end{matrix}}\right),&Q=-\sigma _{2}=\left({\begin{matrix}0&i\\-i&0\end{matrix}}\right)\end{matrix}}}
+  .In even or in odd dimensionality, this quantization procedure amounts to replacing the ordinary p, q coordinates with non-commutative coordinates constructed from P, Q in a suitable fashion.
+
+
+=== Even case ===
+In the case when n = 2k is even, let
+
+  
+    
+      
+        
+          P
+          
+            i
+          
+        
+        =
+        
+          
+            
+              1
+            
+          
+          ′
+        
+        ⊗
+        ⋯
+        ⊗
+        
+          
+            
+              1
+            
+          
+          ′
+        
+        ⊗
+        P
+        ⊗
+        
+          
+            1
+          
+        
+        ⊗
+        ⋯
+        ⊗
+        
+          
+            1
+          
+        
+      
+    
+    {\displaystyle P_{i}={\mathbf {1} }'\otimes \dots \otimes {\mathbf {1} }'\otimes P\otimes {\mathbf {1} }\otimes \dots \otimes {\mathbf {1} }}
+  
+
+  
+    
+      
+        
+          Q
+          
+            i
+          
+        
+        =
+        
+          
+            
+              1
+            
+          
+          ′
+        
+        ⊗
+        ⋯
+        ⊗
+        
+          
+            
+              1
+            
+          
+          ′
+        
+        ⊗
+        Q
+        ⊗
+        
+          
+            1
+          
+        
+        ⊗
+        ⋯
+        ⊗
+        
+          
+            1
+          
+        
+      
+    
+    {\displaystyle Q_{i}={\mathbf {1} }'\otimes \dots \otimes {\mathbf {1} }'\otimes Q\otimes {\mathbf {1} }\otimes \dots \otimes {\mathbf {1} }}
+  for i = 1,2,...,k (where the P or Q is considered to occupy the i-th position).  The operation 
+  
+    
+      
+        ⊗
+      
+    
+    {\displaystyle \otimes }
+   is the tensor product of matrices.  It is no longer important to distinguish between the Ps and Qs, so we shall simply refer to them all with the symbol P, and regard the index on Pi as ranging from i = 1 to i = 2k.  For instance, the following properties hold:
+
+  
+    
+      
+        
+          P
+          
+            i
+          
+          
+            2
+          
+        
+        =
+        1
+        ,
+        i
+        =
+        1
+        ,
+        2
+        ,
+        .
+        .
+        .
+        ,
+        2
+        k
+      
+    
+    {\displaystyle P_{i}^{2}=1,i=1,2,...,2k}
+  , and 
+  
+    
+      
+        
+          P
+          
+            i
+          
+        
+        
+          P
+          
+            j
+          
+        
+        =
+        −
+        
+          P
+          
+            j
+          
+        
+        
+          P
+          
+            i
+          
+        
+      
+    
+    {\displaystyle P_{i}P_{j}=-P_{j}P_{i}}
+   for all unequal pairs i and j. (Clifford relations.)Thus the algebra generated by the Pi is the Clifford algebra of euclidean n-space.
+Let A denote the algebra generated by these matrices.  By counting dimensions, A is a complete 2k×2k matrix algebra over the complex numbers.  As a matrix algebra, therefore, it acts on 2k-dimensional column vectors (with complex entries).  These column vectors are the spinors.
+We now turn to the action of the orthogonal group on the spinors.  Consider the application of an orthogonal transformation to the coordinates, which in turn acts upon the Pi via
+
+  
+    
+      
+        
+          P
+          
+            i
+          
+        
+        ↦
+        R
+        (
+        P
+        
+          )
+          
+            i
+          
+        
+        =
+        
+          ∑
+          
+            j
+          
+        
+        
+          R
+          
+            i
+            j
+          
+        
+        
+          P
+          
+            j
+          
+        
+      
+    
+    {\displaystyle P_{i}\mapsto R(P)_{i}=\sum _{j}R_{ij}P_{j}}
+  .That is, 
+  
+    
+      
+        R
+        ∈
+        S
+        O
+        (
+        n
+        )
+      
+    
+    {\displaystyle R\in SO(n)}
+  . Since the Pi generate A, the action of this transformation extends to all of A and produces an automorphism of A.  From elementary linear algebra, any such automorphism must be given by a change of basis.  Hence there is a matrix S, depending on R, such that
+
+  
+    
+      
+        R
+        (
+        P
+        
+          )
+          
+            i
+          
+        
+        =
+        S
+        (
+        R
+        )
+        
+          P
+          
+            i
+          
+        
+        S
+        (
+        R
+        
+          )
+          
+            −
+            1
+          
+        
+      
+    
+    {\displaystyle R(P)_{i}=S(R)P_{i}S(R)^{-1}}
+    (1).In particular, S(R) will act on column vectors (spinors).  By decomposing rotations into products of reflections, one can write down a formula for S(R) in much the same way as in the case of three dimensions.
+There is more than one matrix S(R) which produces the action in (1).  The ambiguity defines S(R) up to a nonevanescent scalar factor c.  Since S(R) and cS(R) define the same transformation (1), the action of the orthogonal group on spinors is not single-valued, but instead descends to an action on the projective space associated to the space of spinors.  This multiple-valued action can be sharpened by normalizing the constant c in such a way that (det S(R))2 = 1.  In order to do this, however, it is necessary to discuss how the space of spinors (column vectors) may be identified with its dual (row vectors).
+In order to identify spinors with their duals, let C be the matrix defined by
+
+  
+    
+      
+        C
+        =
+        P
+        ⊗
+        Q
+        ⊗
+        P
+        ⊗
+        ⋯
+        ⊗
+        Q
+        .
+      
+    
+    {\displaystyle C=P\otimes Q\otimes P\otimes \dots \otimes Q.}
+  Then conjugation by C converts a Pi matrix to its transpose: tPi = C Pi C−1.  Under the action of a rotation,
+
+  
+    
+      
+        
+          
+            
+               
+            
+          
+          
+            t
+          
+        
+        
+          P
+          
+            i
+          
+        
+        →
+        
+          
+          
+            t
+          
+        
+        S
+        (
+        R
+        
+          )
+          
+            −
+            1
+          
+        
+        
+          
+          
+            t
+          
+        
+        
+          P
+          
+            i
+          
+        
+        
+          
+          
+            t
+          
+        
+        S
+        (
+        R
+        )
+        =
+        (
+        C
+        S
+        (
+        R
+        )
+        
+          C
+          
+            −
+            1
+          
+        
+        )
+        
+          
+          
+            t
+          
+        
+        
+          P
+          
+            i
+          
+        
+        (
+        C
+        S
+        (
+        R
+        )
+        
+          C
+          
+            −
+            1
+          
+        
+        
+          )
+          
+            −
+            1
+          
+        
+      
+    
+    {\displaystyle {\hbox{ }}^{t}P_{i}\rightarrow \,^{t}S(R)^{-1}\,^{t}P_{i}\,^{t}S(R)=(CS(R)C^{-1})\,^{t}P_{i}(CS(R)C^{-1})^{-1}}
+  whence C S(R) C−1 = α tS(R)−1 for some scalar α.  The scalar factor α can be made to equal one by rescaling S(R).  Under these circumstances, (det S(R))2 = 1, as required.
+In physics, the matrix C is conventionally interpreted as charge conjugation. 
+
+
+==== Weyl spinors ====
+Let U be the element of the algebra A defined by
+
+  
+    
+      
+        U
+        =
+        
+          
+            
+              1
+            
+          
+          ′
+        
+        ⊗
+        ⋯
+        ⊗
+        
+          
+            
+              1
+            
+          
+          ′
+        
+      
+    
+    {\displaystyle U={\mathbf {1} }'\otimes \dots \otimes {\mathbf {1} }'}
+  , (k factors).Then U is preserved under rotations, so in particular its eigenspace decomposition (which necessarily corresponds to the eigenvalues +1 and -1, occurring in equal numbers) is also stabilized by rotations.  As a consequence, each spinor admits a decomposition into eigenvectors under U:
+
+ξ = ξ+ + ξ−into a right-handed Weyl spinor ξ+ and a left-handed Weyl spinor ξ−.  Because rotations preserve the eigenspaces of U, the rotations themselves act diagonally as matrices S(R)+, S(R)− via
+
+(S(R)ξ)+ = S+(R) ξ+, and
+(S(R)ξ)− = S−(R) ξ−.This decomposition is not, however, stable under improper rotations (e.g., reflections in a hyperplane). A reflection in a hyperplane has the effect of interchanging the two eigenspaces. Thus there are two irreducible spin representations in even dimensions given by the left-handed and right-handed Weyl spinors, each of which has dimension 2k-1. However, there is only one irreducible pin representation (see below) owing to the non-invariance of the above eigenspace decomposition under improper rotations, and that has dimension 2k.
+
+
+==== Odd case ====
+In the quantization for an odd number 2k+1 of dimensions, the matrices Pi may be introduced as above for i = 1,2,...,2k, and the following matrix may be adjoined to the system:
+
+  
+    
+      
+        
+          P
+          
+            n
+          
+        
+        =
+        
+          
+            
+              1
+            
+          
+          ′
+        
+        ⊗
+        ⋯
+        ⊗
+        
+          
+            
+              1
+            
+          
+          ′
+        
+      
+    
+    {\displaystyle P_{n}={\mathbf {1} }'\otimes \dots \otimes {\mathbf {1} }'}
+  , (k factors),so that the Clifford relations still hold.  This adjunction has no effect on the algebra A of matrices generated by the Pi, since in either case A is still a complete matrix algebra of the same dimension.  Thus A, which is a complete 2k×2k matrix algebra, is not the Clifford algebra, which is an algebra of dimension 2×2k×2k.  Rather A is the quotient of the Clifford algebra by a certain ideal.
+Nevertheless, one can show that if R is a proper rotation (an orthogonal transformation of determinant one), then the rotation among the coordinates
+
+  
+    
+      
+        R
+        (
+        P
+        
+          )
+          
+            i
+          
+        
+        =
+        
+          ∑
+          
+            j
+          
+        
+        
+          R
+          
+            i
+            j
+          
+        
+        
+          P
+          
+            j
+          
+        
+      
+    
+    {\displaystyle R(P)_{i}=\sum _{j}R_{ij}P_{j}}
+  is again an automorphism of A, and so induces a change of basis
+
+  
+    
+      
+        R
+        (
+        P
+        
+          )
+          
+            i
+          
+        
+        =
+        S
+        (
+        R
+        )
+        
+          P
+          
+            i
+          
+        
+        S
+        (
+        R
+        
+          )
+          
+            −
+            1
+          
+        
+      
+    
+    {\displaystyle R(P)_{i}=S(R)P_{i}S(R)^{-1}}
+  exactly as in the even-dimensional case.  The projective representation S(R) may again be normalized so that (det S(R))2 = 1.  It may further be extended to general orthogonal transformations by setting S(R) = -S(-R) in case det R = -1 (i.e., if R is a reversal).
+In the case of odd dimensions it is not possible to split a spinor into a pair of Weyl spinors, and spinors form an irreducible representation of the spin group.  As in the even case, it is possible to identify spinors with their duals, but for one caveat.  The identification of the space of spinors with its dual space is invariant under proper rotations, and so the two spaces are spinorially equivalent.  However, if improper rotations are also taken into consideration, then the spin space and its dual are not isomorphic.  Thus, while there is only one spin representation in odd dimensions, there are a pair of inequivalent pin representations.  This fact is not evident from the Weyl's quantization approach, however, and is more easily seen by considering the representations of the full Clifford algebra.
+
+
+== See also ==
+Higher-dimensional gamma matrices
+Clifford algebra
+
+
+== Notes ==

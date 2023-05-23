@@ -1,0 +1,157 @@
+An XML schema is a description of a type of XML document, typically expressed in terms of constraints on the structure and content of documents of that type, above and beyond the basic syntactical constraints imposed by XML itself. These constraints are generally expressed using some combination of grammatical rules governing the order of elements, Boolean predicates that the content must satisfy, data types governing the content of elements and attributes, and more specialized rules such as uniqueness and referential integrity constraints.
+There are languages developed specifically to express XML schemas. The document type definition (DTD) language, which is native to the XML specification, is a schema language that is of relatively limited capability, but that also has other uses in XML aside from the expression of schemas. Two more expressive XML schema languages in widespread use are XML Schema (with a capital S) and RELAX NG.
+The mechanism for associating an XML document with a schema varies according to the schema language. The association may be achieved via markup within the XML document itself, or via some external means.
+The XML Schema Definition is commonly referred to as XSD.
+
+
+== Validation ==
+The process of checking to see if a XML document conforms to a schema is called validation, which is separate from XML's core concept of syntactic well-formedness. All XML documents must be well-formed, but it is not required that a document be valid unless the XML parser is "validating", in which case the document is also checked for conformance with its associated schema. DTD-validating parsers are most common, but some support XML Schema or RELAX NG as well.
+Validation of an instance document against a schema can be regarded as a conceptually separate operation from XML parsing. In practice, however, many schema validators are integrated with an XML parser.
+
+
+== Languages ==
+There are several different languages available for specifying an XML schema. Each language has its strengths and weaknesses.
+The primary purpose of a schema language is to specify what the structure of an XML document can be. This means which elements can reside in which other elements, which attributes are and are not legal to have on a particular element, and so forth. A schema is analogous to a grammar for a language; a schema defines what the vocabulary for the language may be and what a valid "sentence" is.
+There are historic and current XML schema languages:
+
+The main ones (see also the ISO 19757's endorsed languages) are described below.
+Though there are a number of schema languages available, the primary three languages are Document Type Definitions, W3C XML Schema, and RELAX NG. Each language has its own advantages and disadvantages.
+
+
+=== Document Type Definitions ===
+
+
+==== Tool support ====
+DTDs are perhaps the most widely supported schema language for XML. Because DTDs are one of the earliest schema languages for XML, defined before XML even had namespace support, they are widely supported. Internal DTDs are often supported in XML processors; external DTDs are less often supported, but only slightly. Most large XML parsers, ones that support multiple XML technologies, will provide support for DTDs as well.
+
+
+=== W3C XML Schema ===
+
+
+==== Advantages over DTDs ====
+Features available in XSD that are missing from DTDs include:
+
+Names of elements and attributes are namespace-aware
+Constraints ("simple types") can be defined for the textual content of elements and attributes, for example to specify that they are numeric or contain dates. A wide repertoire of simple types are provided as standard, and additional user-defined types can be derived from these, for example by specifying ranges of values, regular expressions, or by enumerating the permitted values.
+Facilities for defining uniqueness constraints and referential integrity are more powerful: unlike the ID and IDREF constraints in DTDs, they can be scoped to any part of a document, can be of any data type, can apply to element as well as attribute content, and can be multi-part (for example the combination of first name and last name must be unique).
+Many requirements that are traditionally handled using parameter entities in DTDs have explicit support in XSD: examples include substitution groups, which allow a single name (such as "block" or "inline") to refer to a whole class of elements; complex types, which allow the same content model to be shared (or adapted by restriction or extension) by multiple elements; and model groups and attribute groups, which allow common parts of component models to be defined in one place and reused.
+XSD 1.1 adds the ability to define arbitrary assertions (using XPath expressions) as constraints on element content.XSD schemas are conventionally written as XML documents, so familiar editing and transformation tools can be used.
+As well as validation, XSD allows XML instances to be annotated with type information (the Post-Schema-Validation Infoset (PSVI)) which is designed to make manipulation of the XML instance easier in application programs. This may be by mapping the XSD-defined types to types in a programming language such as Java ("data binding") or by enriching the type system of XML processing languages such as XSLT and XQuery (known as "schema-awareness").
+
+
+==== Commonality with RELAX NG ====
+RELAX NG and W3C XML Schema allow for similar mechanisms of specificity. Both allow for a degree of modularity in their languages, including, for example, splitting the schema into multiple files. And both of them are, or can be, defined in an XML language.
+
+
+==== Advantages over RELAX NG ====
+
+RELAX NG does not have any analog to PSVI. Unlike W3C XML Schema, RELAX NG was designed so that validation and augmentation (adding type information and default values) are separate.
+W3C XML Schema has a formal mechanism for attaching a schema to an XML document, while RELAX NG intentionally avoids such mechanisms for security and interoperability reasons.
+RELAX NG has no ability to apply default attribute data to an element's list of attributes (i.e., changing the XML info set), while W3C XML Schema does. Again, this design is intentional and is to separate validation and augmentation.W3C XML Schema has a rich "simple type" system built-in (xs:number, xs:date, etc., plus derivation of custom types), while RELAX NG has an extremely simplistic one because it is meant to use type libraries developed independently of RELAX NG, rather than grow its own. This is seen by some as a disadvantage. In practice it is common for a RELAX NG schema to use the predefined "simple types" and "restrictions" (pattern, maxLength, etc.) of W3C XML Schema.
+In W3C XML Schema a specific number or range of repetitions of patterns can be expressed whereas it is practically not possible to specify at all in RELAX NG (<oneOrMore> or <zeroOrMore>).
+
+
+==== Disadvantages ====
+W3C XML Schema is complex and hard to learn, although that is partially because it tries to do more than mere validation (see PSVI).
+Although being written in XML is an advantage, it is also a disadvantage in some ways. The W3C XML Schema language, in particular, can be quite verbose, while a DTD can be terse and relatively easily editable.
+Likewise, WXS's formal mechanism for associating a document with a schema can pose a potential security problem. For WXS validators that will follow a URI to an arbitrary online location, there is the potential for reading something malicious from the other side of the stream.W3C XML Schema does not implement most of the DTD ability to provide data elements to a document.
+Although W3C XML Schema's ability to add default attributes to elements is an advantage, it is a disadvantage in some ways as well. It means that an XML file may not be usable in the absence of its schema, even if the document would validate against that schema. In effect, all users of such an XML document must also implement the W3C XML Schema specification, thus ruling out minimalist or older XML parsers. It can also slow down the processing of the document, as the processor must potentially download and process a second XML file (the schema); however, a schema would normally then be cached, so the cost comes only on the first use.
+
+
+==== Tool Support ====
+WXS support exists in a number of large XML parsing packages. Xerces and the .NET Framework's Base Class Library both provide support for WXS validation.
+
+
+=== RELAX NG ===
+
+RELAX NG provides for most of the advantages that W3C XML Schema does over DTDs.
+
+
+==== Advantages over W3C XML Schema ====
+While the language of RELAX NG can be written in XML, it also has an equivalent form that is much more like a DTD, but with greater specifying power. This form is known as the compact syntax. Tools can easily convert between these forms with no loss of features or even commenting. Even arbitrary elements specified between RELAX NG XML elements can be converted into the compact form.
+RELAX NG provides very strong support for unordered content. That is, it allows the schema to state that a sequence of patterns may appear in any order.
+RELAX NG also allows for non-deterministic content models.  What this means is that RELAX NG allows the specification of a sequence like the following:
+
+When the validator encounters something that matches the "odd" pattern, it is unknown whether this is the optional last "odd" reference or simply one in the zeroOrMore sequence without looking ahead at the data. RELAX NG allows this kind of specification. W3C XML Schema requires all of its sequences to be fully deterministic, so mechanisms like the above must be either specified in a different way or omitted altogether.
+RELAX NG allows attributes to be treated as elements in content models. In particular, this means that one can provide the following:
+
+This block states that the element "some_element" must have an attribute named "has_name". This attribute can only take true or false as values, and if it is true, the first child element of the element must be "name", which stores text. If "name" did not need to be the first element, then the choice could be wrapped in an "interleave" element along with other elements. The order of the specification of attributes in RELAX NG has no meaning, so this block need not be the first block in the element definition.
+W3C XML Schema cannot specify such a dependency between the content of an attribute and child elements.
+RELAX NG's specification only lists two built-in types (string and token), but it allows for the definition of many more. In theory, the lack of a specific list allows a processor to support data types that are very problem-domain specific.
+Most RELAX NG schemas can be algorithmically converted into W3C XML Schemas and even DTDs (except when using RELAX NG features not supported by those languages, as above). The reverse is not true. As such, RELAX NG can be used as a normative version of the schema, and the user can convert it to other forms for tools that do not support RELAX NG.
+
+
+==== Disadvantages ====
+Most of RELAX NG's disadvantages are covered under the section on W3C XML Schema's advantages over RELAX NG.
+Though RELAX NG's ability to support user-defined data types is useful, it comes at the disadvantage of only having two data types that the user can rely upon. Which, in theory, means that using a RELAX NG schema across multiple validators requires either providing those user-defined data types to that validator or using only the two basic types. In practice, however, most RELAX NG processors support the W3C XML Schema set of data types.
+
+
+=== Schematron ===
+
+Schematron is a fairly unusual schema language. Unlike the main three, it defines an XML file's syntax as a list of XPath-based rules. If the document passes these rules, then it is valid.
+
+
+==== Advantages ====
+Because of its rule-based nature, Schematron's specificity is very strong. It can require that the content of an element be controlled by one of its siblings. It can also request or require that the root element, regardless of what element that happens to be, have specific attributes. It can even specify required relationships between multiple XML files.
+
+
+==== Disadvantages ====
+While Schematron is good at relational constructs, its ability to specify the basic structure of a document, that is, which elements can go where, results in a very verbose schema.
+The typical way to solve this is to combine Schematron with RELAX NG or W3C XML Schema. There are several schema processors available for both languages that support this combined form. This allows Schematron rules to specify additional constraints to the structure defined by W3C XML Schema or RELAX NG.
+
+
+==== Tool Support ====
+Schematron's reference implementation is actually an XSLT transformation that transforms the Schematron document into an XSLT that validates the XML file. As such, Schematron's potential toolset is any XSLT processor, though libxml2 provides an implementation that does not require XSLT. Sun Microsystems's Multiple Schema Validator for Java has an add-on that allows it to validate RELAX NG schemas that have embedded Schematron rules.
+
+
+=== Namespace Routing Language (NRL) ===
+
+This is not technically a schema language. Its sole purpose is to direct parts of documents to individual schemas based on the namespace of the encountered elements. An NRL is merely a list of XML namespaces and a path to a schema that each corresponds to. This allows each schema to be concerned with only its own language definition, and the NRL file routes the schema validator to the correct schema file based on the namespace of that element.
+This XML format is schema-language agnostic and works for just about any schema language.
+
+
+== Terminology ==
+Capitalization in the schema word: there is some confusion as to when to use the capitalized spelling "Schema" and when to use the lowercase spelling. The lowercase form is a generic term and may refer to any type of schema, including DTD, XML Schema (aka XSD), RELAX NG, or others, and should always be written using lowercase except when appearing at the start of a sentence. The form "Schema" (capitalized) in common use in the XML community always refers to W3C XML Schema.
+
+
+== Schema authoring choices ==
+The focus of the schema definition  is structure and some semantics of documents. However, schema design, just like design of databases, computer program, and other formal constructs, also involve many considerations of style, convention, and readability. Extensive discussions of schema design issues can be found in (for example) Maler (1995) and
+DeRose (1997).
+Consistency
+One obvious consideration is that tags and attribute names should use consistent conventions. For example, it would be unusual to create a schema where some element names are camelCase but others use underscores to separate parts of names, or other conventions.Clear and mnemonic names
+As in other formal languages, good choices of names can help understanding, even though the names per se have no formal significance. Naming the appropriate tag "chapter" rather than "tag37" is a help to the reader. At the same time, this brings in issues of the choice of natural language. A schema to be used for Irish Gaelic documents will probably use the same language for element and attribute names, since that will be the language common to editors and readers.Tag vs attribute choice
+Some information can "fit" readily in either an element or an attribute. Because attributes cannot contain elements in XML, this question only arises for components that have no further sub-structure that XML needs to be aware of (attributes do support multiple tokens, such as multiple IDREF values, which can be considered a slight exception). Attributes typically represent information associated with the entirety of the element on which they occur, while sub-elements introduce a new scope of their own.Text content
+Some XML schemas, particularly ones that represent various kinds of documents, ensure that all "text content" (roughly, any part that one would speak if reading the document aloud) occurs as text, and never in attributes. However, there are many edge cases where this does not hold: First, there are XML documents which do not involve "natural language" at all, or only minimally, such as for telemetry, creation of vector graphics or mathematical formulae, and so on. Second, information like stage directions in plays, verse numbers in Classical and Scriptural works, and correction or normalization of spelling in transcribed works, all pose issues of interpretation that schema designers for such genres must consider.Schema reuse
+A new XML schema can be developed from scratch, or can reuse some fragments of other XML schemas. All schema languages offer some tools (for example, include and modularization control over namespaces) and recommend reuse where practical. Various parts of the extensive and sophisticated Text Encoding Initiative schemas are also re-used in an extraordinary variety of other schemas.Semantic vs syntactic
+Except for a RDF-related one, no schema language express formally semantic, only structure and data-types. Despite being the ideal, the inclusion of RDF assumptions is very poor and is not a recommendation in the schema development frameworks.
+
+
+== See also ==
+Data structure
+List of XML schemas
+Schema (disambiguation) (for other uses of the term)
+Structuring information
+XML Information Set
+XML logLanguages:
+
+CLiX
+Document Structure Description
+Document Type Definition
+Namespace Routing Language
+Namespace-based Validation Dispatching Language
+OASIS CAM
+RELAX NG
+Schematron
+W3C XML Schema
+
+
+== References ==
+
+Comparative Analysis of Six XML Schema Languages by Dongwon Lee, Wesley W. Chu, In ACM SIGMOD Record, Vol. 29, No. 3, page 76-87, September 2000
+Taxonomy of XML Schema Languages using Formal Language Theory by Makoto Murata, Dongwon Lee, Murali Mani, Kohsuke Kawaguchi, In ACM Trans. on Internet Technology (TOIT), Vol. 5, No. 4, page 1-45, November 2005
+
+
+== External links ==
+Comparing XML Schema Languages by Eric van der Vlist (2001)
+Application of XML Schema in Web Services Security by Sridhar Guthula, W3C Schema Experience Report, May 2005
+March 2009 DEVX article "Taking XML Validation to the Next Level: Introducing CAM" by Michael Sorens

@@ -1,0 +1,53 @@
+HP calculators are various calculators manufactured by the Hewlett-Packard company over the years.
+Their desktop models included the HP 9800 series, while their handheld models started with the HP-35. Their focus has been on high-end scientific, engineering and complex financial uses.
+
+
+== History ==
+In the 1960s, Hewlett-Packard was becoming a diversified electronics company with product lines in electronic test equipment, scientific instrumentation, and medical electronics, and was just beginning its entry into computers. The corporation recognized two opportunities: it might be possible to automate the instrumentation that HP was producing, and HP's customer base were likely to buy a product that could replace the slide rules and adding machines that were being used for computation.
+With this in mind, HP built the HP 9100 desktop scientific calculator. This was a full-featured calculator that included not only standard "adding machine" functions but also powerful capabilities to handle floating-point numbers, trigonometric functions, logarithms, exponentiation, and square roots.
+This new calculator was well received by the customer base, but William Hewlett saw additional opportunities if the desktop calculator could be made small enough to fit into his shirt pocket. He charged his engineers with this exact goal using the size of his shirt pocket as a guide. The result was the HP-35 calculator. This calculator provided functionality that was revolutionary for a pocket calculator at that time.Through the years, HP released several calculators that varied in their mathematical capabilities, programmability, and I/O capabilities. Some of them could be used (via HP-IL) to control the instruments other Hewlett Packard divisions produced.
+
+
+== Characteristics ==
+HP calculators are well known for their use of Reverse Polish Notation (RPN).
+Programmable HP calculators allow users to create their own programs.
+
+
+== Calculators ==
+Below are some of HP's handheld calculator models produced over the years, in numeric rather than chronological order:
+
+
+== References ==
+
+
+== External links ==
+HPMuseum.org Museum of slide rules and significant HP calculators
+HPCalc.org Information about and software for HP programmable calculators
+hpcalc.org's channel on YouTube — HP Handheld Conference videos 2011–
+MyCalcDB HP calculators list.
+Calc Pages Articles and programs for classic HP calculators
+Programmable Calculators Pictures, specifications, and details for most HP calculator
+The HPDATAbase, a collection of data about all HP calculators
+wiki4hp. Community driven wiki about HP calculators and related resources.
+Kahan, William (2020-11-16). Kahan on HP calculators: Solve, Integrate and Matrix Operations. Turing Awardee Clips.
+Schwartz, Jake (2021). "The PPC Calculator Archive". — A comprehensive collection.
+Shore, Edward (2017-04-07). "Retro Review: Hewlett Packard HP 20S and 21S". Retrieved 2022-01-19.
+
+
+== Simulators ==
+HP12C Simulator Web based
+HP15C Simulator for Windows (XP and following), Mac OS X (Intel) and Linux (x86)
+HP25C Simulator for Windows NT/2K/XP and Vista (32 bit only)
+HP29C Simulator for Windows NT/2K/XP and Vista (32 bit only)
+HP33C Simulator for Windows NT/2K/XP and Vista (32 bit only)
+HP67  Simulator for Windows NT/2K/XP and Vista (32 bit only)
+HP97 Simulator for Windows XP and Vista (32 bit only)
+Nonpareil free source HP simulator set for Linux, Mac OS X and Windows
+nonpareil for Mac OS X
+debug4x ?
+x49gp for Unix machines
+HP emulators for the PC
+HP page of Christoph Giesselink
+emu48 emulator quick setup
+The RPN/RPL Implementations list includes many simulators
+HP Calculator emulators, 12c, 15c, 42s, 48GX, etc. for iPhone and iPad (by various developers)

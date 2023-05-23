@@ -1,0 +1,14 @@
+Re Smith and Fawcett Ltd. [1942] Ch 304 is a UK company law case, concerning the meaning of "the interests of the company". It is relevant for the provisions of company law now embodied in Companies Act 2006, section 172.
+
+
+== Facts ==
+Article 10 of the company's constitution said that directors could refuse to register share transfers. Mr. Fawcett, one of the two directors and shareholders, had died. Mr. Smith co-opted another director and refused to register a transfer of shares to the late Mr. Fawcett’s executors. Half the shares were bought, and the other half offered to the executors.
+
+
+== Judgment ==
+Lord Greene MR said:The principles to be applied in cases where the articles of a company confer a discretion on directors. are, for present purposes, free from doubt. They must exercise their discretion bona fide in what they consider – not what a court may consider – is in the interests of the company, and not for any collateral purpose. The question, therefore, simply is whether on the true construction of the particular article the directors are limited by anything except their bona fide view as to the interests of the company.
+
+
+== See also ==
+Business judgment rule
+Australian Securities and Investments Commission v Rich [2009] NSWSC 1229

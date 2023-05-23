@@ -1,0 +1,22 @@
+Acyl-homoserine-lactone synthase (EC 2.3.1.184) is an enzyme with systematic name acyl-(acyl-carrier protein):S-adenosyl-L-methionine acyltranserase (lactone-forming, methylthioadenosine-releasing). This enzyme catalyses the following chemical reaction
+
+acyl-[acyl-carrier protein] + S-adenosyl-L-methionine 
+  
+    
+      
+        ⇌
+      
+    
+    {\displaystyle \rightleftharpoons }
+   [acyl-carrier protein] + S-methyl-5'-thioadenosine + N-acyl-L-homoserine lactoneAcyl-homoserine lactones (AHLs) are produced by a number of bacterial species and are used by them to regulate the expression of virulence genes in a process known as quorum-sensing.
+
+
+== Alternate names ==
+acyl-homoserine lactone synthase, acyl homoserine lactone synthase, acyl-homoserinelactone synthase, acylhomoserine lactone synthase, AHL synthase, AHS, AHSL synthase, AhyI, AinS, AinS protein, autoinducer synthase, autoinducer synthesis protein rhlI, EsaI, ExpISCC1, ExpISCC3065, LasI, LasR, LuxI, LuxI protein, LuxM, N-acyl homoserine lactone synthase, RhlI, YspI, acyl-[acyl carrier protein]:S-adenosyl-L-methionine acyltranserase (lactone-forming, methylthioadenosine-releasing)
+
+
+== References ==
+
+
+== External links ==
+Acyl-homoserine-lactone+synthase at the U.S. National Library of Medicine Medical Subject Headings (MeSH)

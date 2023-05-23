@@ -1,0 +1,44 @@
+A bank statement is an official summary of financial transactions occurring within a given period for each bank account held by a person or business with a financial institution. Such statements are prepared by the financial institution, are numbered and indicate the period covered by the statement, and may contain other relevant information for the account type, such as how much is payable by a certain date. The start date of the statement period is usually the day after the end of the previous statement period.
+Once produced and delivered to the customer, details on the statement are not normally alterable; any error found would normally be corrected on a future statement, usually with some correspondence explaining the reason for the adjustment.
+Bank statements are commonly used by the customer to monitor cash flow, check for possible fraudulent transactions, and perform bank reconciliations. Historically they have been printed on one or more pieces of paper, and either mailed directly to the account holder or kept at the financial institution's local branch for pick-up. In recent years there has been a shift towards paperless electronic statements, and many financial institutions now also offer direct downloads of financial information into the account holders' accounting software to streamline the reconciliation process. Bank statements are important documents and are usually required to be retained for audit and tax purposes for a period set by relevant tax authorities.
+To enable account holders to track account activity on an ongoing basis, many financial institutions offer a non-official transaction history before the official bank statement is produced. Such activity may be viewed on or printed from the financial institution's website, a smartphone application, available via telephone banking, or printed by some ATMs.
+Transaction histories or account balances may also be shared with other financial institutions, when the account holder gives permission, through open banking to provide services such as account aggregation. An aggregation service only lets the software view an account balance, not actual transactions.
+
+
+== Paper statements ==
+Historically, bank statements were paper statements produced periodically on a monthly, quarterly or annual basis. Since the introduction of computers in banks in the 1960s, bank statements have generally been produced monthly. Bank statements for accounts with small transaction volumes, such as investments or savings accounts, may be produced less frequently. Depending on the financial institution, bank statements may also include certain features such as the canceled cheques (or their images) that cleared through the account during the statement period. Paper statements are typically posted to a customer's home address, and sometimes a copy may be posted to, say, an accountant or guardian.
+Some financial institutions use the occasion of posting bank statements to include notices such as changes in fees or interest rates or to include promotional material.
+Financial institutions are required to produce paper statements to customers unless the customer requests either electronic statements or no statements at all. Historically, the production of statements was regarded as part of the banking function, the cost of which was part of providing the service. More recently, however, to encourage customers to opt to receive electronic statements, some financial institutions charge a fee for paper statements.
+Some countries such as Japan never had a tradition of mailing statements, with individual account holders being expected to keep track of deposits, withdrawals, and balances using their own passbooks at ATMs.
+
+
+== Electronic statements ==
+Since the late 1990s, banks have encouraged customers to receive statements electronically. The switch normally requires express customer consent, which is typically obtained through an online banking system. Producing electronic statements saves financial institutions the significant cost of printing statements, folding them into envelopes and postage. In addition, customers could receive statements more promptly, and not be dependent on the postal delivery service. The customer could print the statement at their premises if they needed one, or have access to historic statements on the institution's website as needed. Other parties may be authorized to have access to the customer's financial information on the institution's website.
+Electronic statements may be sent as attachments to emails or, as a security measure, as a reminder that a new statement is available on the financial institution's website. Whether such statements are transmitted as attachments or from the website, they are commonly generated in PDF format, to reduce the ability of the recipient to electronically alter the statement.
+Due to identity theft concerns, an electronic statement may not be seen as a dangerous alternative against physical theft as it does not contain tangible personal information and does not require extra safety measures of disposal such as shredding. However, an electronic statement can be easier to obtain than a physical one through computer fraud, data interception, and/or theft of storage media.
+
+
+== Statement conventions ==
+A bank deposit account is at the same time an asset of the depositor and debt of the bank. A statement typically presents the bank's view of the account, with credit entries increasing the bank's debit and debit entries reducing it. A customer tracking the same account as an asset would reverse the debits and credits from what appears on the statement.
+
+
+== Laws by county ==
+
+
+=== United Kingdom ===
+In the United Kingdom, all banks and building societies are required by law to provide a bank statement on paper or in another durable medium to customers, unless where the customer has a passbook, is a customer of an online only bank or has elected not to receive paper statements.
+
+
+=== United States ===
+Banks in the United States are only required to send a statement for a checking account if one transaction has been made from that account in a month. Customers also have the option to receive electronic statements.
+
+
+== See also ==
+Bank account
+Passbook
+Telephone banking
+Transaction account
+Open banking
+
+
+== References ==

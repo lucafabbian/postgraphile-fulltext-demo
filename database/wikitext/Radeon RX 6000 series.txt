@@ -1,0 +1,77 @@
+The Radeon RX 6000 series is a series of graphics processing units developed by AMD, based on their RDNA 2 architecture. It was announced on October 28, 2020 and is the successor to the Radeon RX 5000 series. It consists of the RX 6400, RX 6500 XT, RX 6600, RX 6600 XT, RX 6650 XT, RX 6700, RX 6700 XT, RX 6750 XT, RX 6800, RX 6800 XT, RX 6900 XT and RX 6950XT for desktop computers; and the RX 6600M, RX 6700M, and RX 6800M for laptops. A sub-series for mobile, Radeon RX 6000S (consisting of RX 6600S, RX 6700S, and RX 6800S), was announced in CES 2022, targeting thin and light laptop designs. 
+The series is designed to compete with Nvidia's GeForce 30 series,  and does compete with Intel's Arc Alchemist series of cards. It is also the first generation of AMD GPUs that supports hardware accelerated real-time ray tracing, variable-rate shading and mesh shaders.
+
+
+== History ==
+On September 14, 2020, AMD hinted at the physical design of its RX 6000 series through a tweet shared on social messaging service Twitter. At the same time, it launched a virtual island inside the video game Fortnite containing a large-scale rendition of the RX 6000 hardware design, which players could freely explore using the game's Creative mode.AMD officially unveiled the first three cards, the RX 6800, RX 6800 XT, and RX 6900 XT, in an event titled "Where Gaming Begins: Ep. 2" on October 28. In the event, they announced the RX 6800 XT as its flagship graphics processor, comparing its performance to that of Nvidia's RTX 3080 graphics card in 1440p and 4K resolution gaming. The 6800 XT was announced with a price tag of $649 USD, $50 lower than the RTX 3080's starting price of $699. They then introduced the RX 6800 as a competitor to Nvidia's previous-generation RTX 2080 Ti, priced at $579 compared to the 2080 Ti's $999; and the RX 6900 XT as its top card, claiming performance comparable with Nvidia's RTX 3090, but with lower power consumption and a launch price of $999, $500 cheaper than the 3090.The Radeon RX 6800 and 6800 XT were released on November 18, 2020, and the RX 6900 XT was released on December 8, 2020.On February 3, 2021, Gigabyte registered a range of RX 6700 XT graphics cards with the Eurasian Economic Commission (EEC), with the filing indicating that all seven would ship with 12 GB of memory. On March 3, 2021, AMD officially announced the RX 6700 XT card, set to compete with Nvidia's RTX 3060 Ti and 3070 cards. It launched on March 18, 2021.On May 31, 2021, AMD announced the RX 6000M series of GPUs designed for laptops, including the RX 6600M, RX 6700M, and RX 6800M. They became available on June 1.On June 23, Gigabyte registered six RX 6600 XT graphics cards with the EEC, indicating they would all have 8 GB of memory. This was just over a month after ASRock made similar filings for both the RX 6600 and 6600 XT, each with 8 GB of memory. On July 5, VideoCardz discovered that Taiwanese graphics card retailer PowerColor had already created product pages for the unannounced Radeon 6600 and 6600 XT GPUs.On July 30, AMD announced the RX 6600 and 6600 XT GPUs, which were released on August 11, 2021. The RX 6600 XT is available for $379 USD MSRP.In early 2022, AMD announced the low-end SKUs of the 6000 series; the RX 6400 and RX 6500 XT. These cards support only 4 PCIe lanes (albeit at PCIe 4.0 speeds), which can bottleneck performance on low-end machines lacking PCIe 4.0. They also lack GPU-accelerated video encoding features offered by the higher-end models.
+
+
+== Availability issues ==
+
+Much like Nvidia's competing GeForce 30 series, releases sold out almost immediately due to a combination of low stock and scalping bots.
+
+
+=== RX 6800 and 6800 XT ===
+The RX 6800 and 6800 XT were launched on November 18, 2020, but due to low stock availability, sold out at most retailers that day. American retailer Micro Center restricted sales to in-store only, claiming that stock "will be extremely limited at launch". PCMag reported that both cards on Newegg sold out as early as 6:05 a.m. PST, and that they were unavailable on AMD's own store website by 6:11 a.m. Retailer B&H Photo Video refused to accept orders for the cards, stating in part, "We do not know and are therefore unable to provide a date or time for when these items will become available to purchase."Scalpers were reportedly reselling the GPUs on eBay for around US$1000–1500, roughly double the launch price. Frustrated social media users tried to derail the listings by using bots to make fake bids on the scalped GPUs at absurd prices; in one instance, an auction for an RX 6800 XT saw bids as high as US$70,000.
+
+
+=== RX 6900 XT ===
+The RX 6900 XT was launched on December 8, 2020, and similarly to the RX 6800 and 6800 XT, it sold out on the same day it was released. According to PCMag, it was listed as out of stock on Newegg by 6:02 a.m. PST, just two minutes after it went on sale. AMD's store website, struggling to keep up with the high number of visitors, kept displaying 503 Service Temporarily Unavailable errors to customers attempting to buy the graphics card; by 6:35 a.m., it was sold out.
+
+
+== Products ==
+
+
+=== Desktop ===
+
+
+=== Mobile ===
+
+
+=== Workstation ===
+
+
+==== Radeon Pro W6000 series ====
+
+
+==== Radeon Pro W6000X series ====
+
+
+=== Mobile Workstation ===
+
+
+==== Radeon Pro W6000M series ====
+
+
+== Radeon RX 6000 series features ==
+Features of the AMD Radeon RX 6000 series:
+
+RDNA 2 microarchitecture
+New TSMC N7 manufacturing process
+New TSMC N6 manufacturing process for RX 6500 and RX 6400
+DirectX 12 Ultimate support
+Added L3 cache (branded as Infinity Cache), up to 128 MB
+GDDR6 memory
+PCIe gen 4 interface
+Added ray-tracing support with RT cores
+AV1 video decoding support
+Added Resizable BAR functionality
+DisplayPort 1.4a
+HDMI 2.1 support
+
+
+== See also ==
+Radeon RX 5000 series
+Radeon Pro
+AMD Instinct
+RDNA (microarchitecture)
+List of AMD graphics processing units
+
+
+== References ==
+
+
+== External links ==
+Official website
+Comparative Chipset Specs Table - AMD Radeon RX 6950 XT, RX 6900 XT, RX 6800 XT, RX 6800 and RX 6750 XT
+RDNA 2 Instruction Set Architecture

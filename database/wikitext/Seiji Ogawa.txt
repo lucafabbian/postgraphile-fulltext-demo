@@ -1,0 +1,43 @@
+Seiji Ogawa (小川 誠二 Ogawa Seiji, born January 19, 1934) is a Japanese biophysicist and neuroscientist known for discovering the technique that underlies Functional Magnetic Resonance Imaging (fMRI). He is regarded as the father of modern functional brain imaging. He determined that the changes in blood oxygen levels cause its magnetic resonance imaging properties to change, allowing a map of blood, and hence, functional, activity in the brain to be created.  This map reflected which neurons of the brain responded with electrochemical signals to mental processes. He was the first scientist who demonstrated that the functional brain imaging is dependent on the oxygenation status of the blood, the BOLD effect. The technique was therefore called blood oxygenation level-dependent or BOLD contrast. Functional MRI (fMRI) has been used to map the visual, auditory, and sensory regions and moving toward higher brain functions such as cognitive functions in the brain.
+In 2020, Ogawa was appointed as Osaka University Distinguished Honorary Professor. He is the second scholar to receive this title after Nobel Prize winner Yoichiro Nambu.
+
+
+== Early career ==
+Seiji Ogawa trained as an applied physicist in the University of Tokyo and got a Ph.D. in chemistry from Stanford. He worked for 33 years in Biophysics research at AT&T Bell Laboratories in Murray Hill, New Jersey, and was a Distinguished Member of the technical staff. In 2001, he became Director of the Ogawa Laboratories for Brain Function Research in Tokyo. Professor Ogawa joined NRI (Neuroscience Research Institute, Gachon University of Medicine and Science, Korea) in 2008 as a Distinguished Professor and leading the fMRI research in conjunction with the new 7.0T MRI system. He has received several awards for his magnetic resonance work, is a member of the Institute of Medicine of the National Academy of Sciences and has been awarded the Japan Prize.
+
+
+== fMRI ==
+Ogawa discovered the principle which is now widely used to functionally and physiologically image the brain, particularly the human brain. He built on the technology of magnetic resonance imaging by using the difference in blood oxygenation level to generate a brain map corresponding to blood flow to active neurons. This helped to map the functional activity of the brain noninvasively, adding to the structural mapping provided by MRI. FMRI is now widely used in biology, neurobiology, psychology, neurology, and other branches of research and to diagnose the physiological basis of mental illnesses and organic brain dysfunction in clinical medicine.
+
+
+== Recognition ==
+1967 Eastman Kodak Award in Chemistry for PhD student
+1995 GOLD Medal Award from Society of Magnetic Resonance in Medicine
+1996 Biological Physics Prize of the American Physical Society
+1998 Nakayama Prize from Nakayama Foundation for Human Science, Japan
+1999 Asahi Prize from Asahi-Shinbun Cultural Foundation, Japan
+2000 Member of Institute of Medicine
+2003 Japan Prize
+2003 Gairdner Foundation International Award
+2007  International Society of Magnetic Resonance Prize
+2008  Olli V. Lounasmaa Memorial Prize of Finland
+2009 Thomson Reuters Citation Laureates
+2014 Tateishi Grand Prize, Tateishi Science and Technology Foundation, Japan
+2017 Keio Medical Science Prize
+2018 Prime Minister’s Prize, The Japan Medical Research and Development Grand Prize
+2020 Distinguished Honorary Professor, Osaka University
+
+
+== See also ==
+Paul Lauterbur
+Peter Mansfield
+
+
+== References ==
+
+
+== Additional sources ==
+"Japan Prize 2003". Retrieved 12 October 2010.
+"Bell Labs Biography". Archived from the original on 25 March 2006. Retrieved 17 July 2006.
+Chemical & Engineering News (published by American Chemical Society); 19 March 2007, page 71
+"Original research article - Ogawa et al. (1990) Proc Natl Acad Sci 87:9868-9872".

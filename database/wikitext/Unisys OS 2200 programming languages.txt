@@ -1,0 +1,28 @@
+OS 2200 has had several generations of compilers and linkers in its history supporting a wide variety of programming languages.  In the first releases, the Exec II assembler (SLEUTH) and compilers were used.  The assembler was quickly replaced with an updated version (ASM) designed specifically for the 1108 computer and Exec 8 but the early compilers continued in use for quite some time.
+
+
+== Universal Compiling System ==
+The modern compiling system for OS 2200 is known as UCS, Universal Compiling System.  The UCS architecture uses a common syntax analyzer, separate semantic front ends for each language and a common back-end and optimizer.  There is also a common language runtime environment.  The UCS system was developed starting in 1969 and initially included PL/I and Pascal.  FORTRAN and COBOL were soon added.  Ada was added later.  The currently supported languages include COBOL, FORTRAN, C, and PLUS.   PLUS, Programming Language for Unisys (originally UNIVAC) Systems, is a block structured language somewhat similar to Pascal which it predates.
+
+
+== Legacy compilers ==
+Previous PLUS, COBOL and FORTRAN compilers are also still supported.  An even earlier FORTRAN compiler (FORTRAN V), while no longer supported, is still in use for an application developed in the 1960s in that language.
+Compilers previously existed for ALGOL, Simula, BASIC, Lisp, NELIAC, JOVIAL, and other programming languages that are no longer in use on the ClearPath OS 2200 systems.
+
+
+== Assembler ==
+The assembler, MASM, is heavily used both to obtain the ultimate in efficiency and to implement system calls that are not native to the programming language.  Much of the MASM code in current use is a carryover from earlier days when compiler technology was not as advanced and when the machines were much slower and more constrained by memory size than today.
+
+
+== Linking ==
+There are two linking systems used.  The collector (@MAP) combines the output relocatable elements of the basic-mode compilers and assemblers into an absolute element which is directly executable.  While this linker is intended primarily to support basic mode, the relocatable and absolute elements may contain extended-mode as well.  This is often the case when an existing application is enhanced to use extended mode or call extended mode libraries but still contains some basic mode code.  The Exec is an example of such a program.
+The linker (@LINK) is the modern linking environment which combines object modules into a new object module.  It provides both static and dynamic linking capabilities.  The most common usage is to combine the object modules of a program statically but to allow dynamic linking to libraries.
+
+
+== Java ==
+OS 2200 provides a complete Java environment.
+
+Java on OS 2200 has evolved from an interesting additional capability for small servlets and tools to a full environment capable of handling large applications.  The Virtual Machine for the Java Platform on ClearPath OS 2200 JProcessor is a Linux port of the Oracle Corporation Java release.  The environment includes a full J2EE application server environment using the Tomcat open source web server from the Apache Software Foundation and the JBoss application server.  All of this has been integrated with the OS 2200 security, databases, and recovery environment.
+
+
+== References ==

@@ -1,0 +1,17 @@
+Werner Jacobi (March 31, 1904 – probably May 3, 1985) was a German physicist and inventor.
+
+
+== Life and work ==
+Jacobi studied mechanical engineering at the Technical University of Munich and then physics at the University of Munich. In his dissertation, initially supervised by Wilhelm Wien and after Wein's death by Eduard Rüchardt, he dealt with the charges of the mercury atoms in the canal jet (German: Ladungen der Quecksilberatome im Kanalstrahl). With this work he was awarded a Doctorate of Philosophy.
+On November 4, 1929, Jacobi joined Siemens & Halske AG. He worked at the Siemens tube factory in Berlin, where he became head of the laboratory in 1934 and quickly rose further, becoming chief engineer in 1937 and authorized representative in 1938. Shortly after his appointment to the authorized signatory in 1941, he was transferred to the Wernerwerk für Funktechnik in Vienna, where he became department director in 1944. In 1949, he briefly worked in the Wernerwerk für Radiotechnik, then went to the Wernerwerk in Erlangen. One of the most important of his more than 100 inventions, the "semiconductor amplifier", which he registered for a patent on April 15, 1949, was invented during this period. This circuit, consisting of five transistors on a semiconductor serving as a carrier material, may be the first integrated circuit designated. However, it remained largely unknown and was not used commercially.
+From 1946 to 1956 Jacobi played a key role in setting up the Siemens tube factories and then became the overall manager of the tube works. After he was appointed general representative in 1962, he retired in 1969. Up until his 68th birthday, he was available to the management of the building elements division for questions, then he left the company entirely.
+The Technical University of Vienna awarded him the title of honorary doctorate of the technical sciences “in recognition of his special achievements as a scientist and inventor in the field of electronic components and of electronic circuit technology."
+The British electronics engineer Geoffrey Dummer is also often referred to as the inventor of the IC, although he only published his work three years after the Siemens patent application was filed.
+
+
+== Sources ==
+Werner Jacobis personnel index card in the Siemens archive
+Beitrag zur Verleihung der Ehrendoktorwürde. In: Informationen der Technischen Hochschule Wien. Jahrgang 3, 1972, Heft 2, S. 27 (mit Porträtfoto).
+
+
+== References ==

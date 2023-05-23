@@ -1,0 +1,64 @@
+This is a list of cases reported in volume 32 (7 Pet.) of United States Reports, decided by the Supreme Court of the United States in 1833.
+
+
+== Nominative reports ==
+In 1874, the U.S. government created the United States Reports, and retroactively numbered older privately-published case reports as part of the new series.  As a result, cases appearing in volumes 1–90 of U.S. Reports have dual citation forms; one for the volume number of U.S. Reports, and one for the volume number of the reports named for the relevant reporter of decisions (these are called "nominative reports").
+
+
+=== Richard Peters, Jr. ===
+Starting with the 26th volume of U.S. Reports, the Reporter of Decisions of the Supreme Court of the United States was Richard Peters, Jr. Peters was Reporter of Decisions from 1828 to 1843, covering volumes 26 through 41 of United States Reports which correspond to volumes 1 through 16 of his Peters's Reports. As such, the dual form of citation to, for example, Livingston v. Moore is 32 U.S. (7 Pet.) 469 (1833).
+
+
+== Justices of the Supreme Court at the time of 32 U.S. (7 Pet.) ==
+
+The Supreme Court is established by Article III, Section 1 of the Constitution of the United States, which says: "The judicial Power of the United States, shall be vested in one supreme Court . . .". The size of the Court is not specified; the Constitution leaves it to Congress to set the number of justices. Under the Judiciary Act of 1789 Congress originally fixed the number of justices at six (one chief justice and five associate justices). Since 1789 Congress has varied the size of the Court from six to seven, nine, ten, and back to nine justices (always including one chief justice).
+When the cases in 32 U.S. (7 Pet.) were decided, the Court comprised these seven justices:
+
+
+== Notable Cases in 32 U.S. (7 Pet.) ==
+
+
+=== Barron v. Baltimore ===
+Barron v. Baltimore, 32 U.S. (7 Pet.) 243 (1833), is a landmark United States Supreme Court case which helped define the concept of federalism in US constitutional law. The Supreme Court ruled that the Bill of Rights applied only to the United States government, and not to the state governments. Over time, in the later 19th and into the 20th Centuries, however, the Court incorporated parts of the Bill of Rights to apply to state governments.
+
+
+== Citation style ==
+
+Under the Judiciary Act of 1789 the federal court structure at the time comprised District Courts, which had general trial jurisdiction; Circuit Courts, which had mixed trial and appellate (from the US District Courts) jurisdiction; and the United States Supreme Court, which had appellate jurisdiction over the federal District and Circuit courts—and for certain issues over state courts. The Supreme Court also had limited original jurisdiction (i.e., in which cases could be filed directly with the Supreme Court without first having been heard by a lower federal or state court). There were one or more federal District Courts and/or Circuit Courts in each state, territory, or other geographical region.
+Bluebook citation style is used for case names, citations, and jurisdictions.  
+
+"C.C.D." = United States Circuit Court for the District of . . .
+e.g.,"C.C.D.N.J." = United States Circuit Court for the District of New Jersey
+"D." = United States District Court for the District of . . .
+e.g.,"D. Mass." = United States District Court for the District of Massachusetts
+"E." = Eastern; "M." = Middle; "N." = Northern; "S." = Southern; "W." = Western
+e.g.,"C.C.S.D.N.Y." = United States Circuit Court for the Southern District of New York
+e.g.,"M.D. Ala." = United States District Court for the Middle District of Alabama
+"Ct. Cl." = United States Court of Claims
+The abbreviation of a state's name alone indicates the highest appellate court in that state's judiciary at the time.
+e.g.,"Pa." = Supreme Court of Pennsylvania
+e.g.,"Me." = Supreme Judicial Court of Maine
+
+
+== List of cases in 32 U.S. (7 Pet.) ==
+
+
+== Notes and references ==
+
+
+== See also ==
+certificate of division
+
+
+== External links ==
+[1] Case reports in volume 32 (7 Pet.) from Library of Congress
+[2] Case reports in volume 32 (7 Pet.) from Court Listener
+[3] Case reports in volume 32 (7 Pet.) from the Caselaw Access Project of Harvard Law School
+[4] Case reports in volume 32 (7 Pet.) from Google Scholar
+[5] Case reports in volume 32 (7 Pet.) from Justia
+[6] Case reports in volume 32 (7 Pet.) from Open Jurist
+Website of the United States Supreme Court
+United States Courts website about the Supreme Court
+National Archives, Records of the Supreme Court of the United States
+American Bar Association, How Does the Supreme Court Work?
+The Supreme Court Historical Society

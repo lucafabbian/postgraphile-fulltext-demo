@@ -1,0 +1,23 @@
+ARPABET (also spelled ARPAbet) is a set of phonetic transcription codes developed by Advanced Research Projects Agency (ARPA) as a part of their Speech Understanding Research project in the 1970s. It represents phonemes and allophones of General American English with distinct sequences of ASCII characters. Two systems, one representing each segment with one character (alternating upper- and lower-case letters) and the other with one or two (case-insensitive), were devised, the latter being far more widely adopted.ARPABET has been used in several speech synthesizers, including Computalker for the S-100 system, SAM for the Commodore 64, SAY for the Amiga, TextAssist for the PC and Speakeasy from Intelligent Artefacts which used the Votrax SC-01 speech synthesiser IC. It is also used in the CMU Pronouncing Dictionary. A revised version of ARPABET is used in the TIMIT corpus.
+
+
+== Symbols ==
+Stress is indicated by a digit immediately following a vowel. Auxiliary symbols are identical in 1- and 2-letter codes. In 2-letter notation, segments are separated by a space.
+
+
+=== TIMIT ===
+In TIMIT, the following symbols are used in addition to the ones listed above:
+
+
+== See also ==
+Comparison of ASCII encodings of the International Phonetic Alphabet
+SAMPA, language-specific
+X-SAMPA, encoding the whole International Phonetic Alphabet
+Pronunciation respelling for English
+
+
+== References ==
+
+
+== External links ==
+The CMU Pronouncing Dictionary

@@ -1,0 +1,20 @@
+CoNETS (Connecting to the Next Education for Teachers and Students) is a consortium established in September 2013 by 12 textbook publishers and Hitachi Solutions to promote digital textbooks for primary and secondary schools in Japan.
+
+
+== Members ==
+The consortium consists of 13 companies. They are Dainippon Tosho, Jikkyo Shuppan, Kairyudo, Sanseido, Kyoiku Geijyutusha, Mitsumura Tosho, Teikoku-Shoin, Taishukan Publishing, Keirinkan, Yamakawa Shuppansha, Suken Shuppan, Nihon Bunkyou Shuppan and Hitachi Solutions.
+The consortium began developing a virtual distribution platform for textbooks. The adopted data format for the platform is EPUB 3.
+
+
+== Chronology ==
+September 5, 2013: Established.
+December 20, 2013: A prototype began testing at Ritsumeikan Primary School.
+May 21, 2014: A prototype was demonstrated at the fifth EDIX (Educational IT Solutions Expo).
+September 17, 2014: A prototype was demonstrated at EDUPUB Tokyo 2014.
+
+
+== References ==
+
+
+== External links ==
+Official website (in Japanese)

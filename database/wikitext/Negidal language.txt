@@ -1,0 +1,40 @@
+Negidal (also spelled Neghidal) is a language of the Tungusic family spoken in the Russian Far East, mostly in Khabarovskij Kraj, along the lower reaches of the Amur River. Negidal belongs to the Northern branch of Tungusic, together with Evenki and Even. It is particularly close to Evenki, to the extent that it is occasionally referred to as a dialect of Evenki.
+
+
+== Language Status ==
+According to the Russian Census of 2002, there were 567 Negidals, 147 of which still spoke the language. The Russian Census of 2010 reported lower speaker numbers, with only 19 of 513 ethnic Negidals reported to still speak the language.However, recent reports from the field reveal that the linguistic situation of Negidal is much worse than the census reports. According to Kalinina (2008), whose data stem from the fieldwork conducted in 2005-2007, there are only three full speakers left, and a handful of semi-speakers. Pakendorf & Aralova (2018) report from fieldwork conducted in 2017 that there remain only six active speakers of Upper Negidal and there are no speakers of Lower Negidal. The language is thus classified as severely endangered and is predicted to become dormant within the next decade.
+
+
+== Dialects ==
+There were formerly two dialects: the Upper Negidal dialect (Verkhovskoj in Russian) along the Amgun River (village of Vladimirovka), still residually spoken, and the now extinct Lower dialect (Nizovskoj) in its lower reaches (villages of Tyr and Beloglinka, the town of Nikolaevsk-on-Amur). The Lower dialect was especially close to Evenki.
+
+
+== Phonology ==
+
+
+=== Vowels ===
+/o/ may also be heard as [ɔ] in some areas.
+An /o/ when appearing in more than two syllables in a word, it may also be heard as [ɑ] or [ɒ].
+
+
+=== Consonants ===
+/ɡ/ can also have an allophone of [ɣ].
+/w/ becomes voiceless before a voiceless consonant and is heard as a fricative [ɸ].
+
+
+== Notes ==
+
+
+== Bibliography ==
+Aralova, N. B. & N. R. Sumbatova. (2016). Negidal’skij jazyk (Negidal). In Vida Ju. Mikhal’čenko (ed.), Jazyk i obščestvo. Sociolingvističeskaja enciklopedija (Language and society. A sociolinguistic encyclopedia) 307–308. Moscow: Azbukovnik.
+Cincius, V.I. (1982). Негидальский язык (The Negidal language). Leningrad: Nauka.
+Kalinina, E. J. (2008). Etjud o garmonii glasnykh v negidal’skom jazyke, ili neglasnye prezumpcii o glasnykh zvukakh (A study of vowel harmony in the Negidal language or unstated assumptions about vowels). In Arkhipov, Aleksandr V., Leonid M. Zakharov, Andrey A. Kibrik, Aleksandr E. Kibrik, Irina M. Kobozeva, Ol’ga F. Krivnova, Ekaterina A. Ljutikova & Ol’ga V. Fedorova, (eds.), Fonetika i nefonetika. K 70-letju S.V. Kodzasova (Phonetics and non-phonetics. On the occasion of the 70th birthday of S.V. Kodzasov), 272–282. Moscow: Jazyki slavjanskikh kul’tur.
+Kazama, Shinjiro (2002). ネギダール語 テキストと文法概説 (Negidal Texts and Grammar). Publications on Tungus languages and cultures 19. Endangered languages of the Pacific Rim, A2-021. Kyoto: Nakanishi.
+Myl'nikova, K.M.; Cincius, V.I. (1931). "Материалы по исследованию негидальского языка (Materials on the Negidal language)". Tungusskij Sbornik I:107-218.
+Pakendorf, B. & Aralova, N. (2018). The endangered state of Negidal: a field report. Language Documentation & Conservation 12: 1-14. http://hdl.handle.net/10125/24760
+Xasanova, M.M.; Pevnov, A.M. (2003). Мифы и сказкы негидальцев (Myths and tales of the Negidals). Publications on Tungus Languages and Cultures 21. Endangered languages of the Pacific Rim, A2-024. Kyoto: Nakanishi.
+
+
+== External links ==
+ELAR archive of Endangered Tungusic Languages of Khabarovskij Kraj (including Negidal)
+The Endangered Languages Project - Negidal

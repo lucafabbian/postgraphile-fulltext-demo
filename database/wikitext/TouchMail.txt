@@ -1,0 +1,4 @@
+TouchMail is an email client for Microsoft Windows, launched on April 17, 2013 at the DEMO Mobile Conference in San Francisco.TouchMail was developed by a Seattle-based startup founded in 2012 by former Microsoft employees Matthew Carlson and Alex Frank as an e-mail client designed for touch input. It runs on both Windows 8.1 and Windows 10. The emails in the client can be color-coded with zoom out features to view more messages. The application integrates work and social messaging using visual and touch capabilities of computing devices.
+
+
+== References ==

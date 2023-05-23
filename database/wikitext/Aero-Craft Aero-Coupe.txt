@@ -1,0 +1,27 @@
+The Aero-Craft Aero-Coupe is an American, 2-passenger, semi-cabin, all-purpose, commercial biplane that was designed by Captain Clement Brown in 1928 and manufactured by Aero-Craft Manufacturing Company. The aircraft was intended for use as an air taxi, as well as for mail and express feeder service. The Aero-Coupe was manufactured by Aero-Craft Manufacturing Company, based in Detroit, Michigan. Aero-Craft Mfg. Co. was founded in 1928, and the Aero-Coupe was the first production model that was released by the company. The Aero-Coupe was a "semi-cabin" aircraft: the three passengers were situated within a closed cabin in the aircraft's fuselage near the nose, while the aircraft's single pilot was positioned in an open cockpit, above and behind the passenger cabin, behind the wings. The aircraft was first introduced to the public in 1928 during the Detroit Aero Show, also known as the All-American Aircraft Show, which occurred from April 14–21. Its price, as mentioned in Volume 20 of Flight International, was $6500, when it was first exhibited to the public. It was powered by a single, seven-cylinder Warner Scarab rotary engine, which provided 120 hp. The aircraft had a range of 740 kilometres, and was capable of flying as fast as 185 km/h. The wings were of unequal span.
+
+
+== Specifications ==
+Data from Jane's all the World's Aircraft 1928General characteristics
+Crew: 1
+Capacity: 2 passengers
+Length: 7.32 m (24 ft 0 in)
+Upper wingspan: 9.76 m (32 ft 0 in)
+Lower wingspan: 8.54 m (28 ft 0 in)
+Height: 2.59 m (8 ft 6 in)
+Empty weight: 499 kg (1,100 lb)
+Gross weight: 953 kg (2,100 lb)
+Fuel capacity: 40 US gal (33 imp gal; 150 L) in two centre-section tanks; 4 US gal (3.3 imp gal; 15 L) oil in engine mount tank
+Powerplant: 1 × Warner Scarab 7-cylinder air-cooled radial piston engine, 82 kW (110 hp)Performance
+
+Maximum speed: 185 km/h (115 mph, 100 kn)
+Cruise speed: 160 km/h (100 mph, 87 kn)
+Stall speed: 61 km/h (38 mph, 33 kn)
+Range: 970 km (600 mi, 520 nmi) "cruising radius"
+Service ceiling: 3,700 m (12,000 ft)
+Rate of climb: 4.6 m/s (900 ft/min)
+Wing loading: 41 kg/m2 (8.4 lb/sq ft)
+Power/mass: 0.054 hp/lb (0.089 kW/kg)
+
+
+== References ==

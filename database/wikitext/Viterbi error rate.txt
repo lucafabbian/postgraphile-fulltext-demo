@@ -1,0 +1,15 @@
+In digital transmission, the Viterbi error rate, also known as the Viterbi bit error rate (VBER), is a measurement of error in the transmission of digital Information after the original signal has been corrected for errors and aberrations, usually noise and/or distortion. The value of the VBER is directly linked to the quality of the Channel Bit Error Rate (CBER), a measurement of the strength & quality of the original signal.
+
+
+== Example ==
+Here is an example of transmitted digital code.
+1 0 1 0 1 
+The following, distorted signal is received.
+1 1 0 1 0
+The VBER is determined by dividing the number of incorrectly received digits, or bits, (in this case 4), by the total number of bits received.
+So, in this case, the VBER is equal to 4/5 which equals 0.8, or 80%. That is, 80% of the bits were incorrectly received. Except for extreme cases of interference, a signal can be completely corrected (using an error correction code technique) and thus achieve a VBER of 0. That is, a signal with 0 post correction errors can be achieved.
+
+
+== See also ==
+Bit error rate
+Channel bit error rate

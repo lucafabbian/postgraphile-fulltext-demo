@@ -1,0 +1,5 @@
+The roundness or sharpness of handwriting patterns is caused by the phase of the horizontal and vertical pen-tip movements. The velocity signal components of these movements, which are virtually sinusoidal in shape, have a phase delay close to 90 degrees for very round handwriting. The correlation between Vx(t) and Vy(t) will be low. Sharp handwriting is characterized by a much higher correlation between the horizontal and vertical velocity signal, and a corresponding smaller phase delay.
+
+
+== See also ==
+Graphonomics

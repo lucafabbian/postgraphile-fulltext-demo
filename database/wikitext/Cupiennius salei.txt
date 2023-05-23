@@ -1,0 +1,48 @@
+Cupiennius salei, commonly called the tiger bromeliad spider, are large bodied, actively-hunting spiders that are part of the family Trechaleidae. They are found in Central America and Mexico, while other species in the genus are also found in various parts of South America. They are visually similar to another group called wandering spiders (but also see that diverse kinds often get mistakenly called banana spiders). More precisely, this species naturally occurs in Eastern Mexico, Guatemala, Belize, Honduras, Nicaragua and possibly into northwestern Costa Rica. Yet, it has also been introduced to various parts of the world either by accidental imports (such as in the early 20th century from banana plantations), or deliberately introduced elsewhere as either a laboratory model organism or an exotic pet. However, it has not yet been recorded as established in the wild outside of its native Mexico and Central America.
+In the mid-1950s it was realised that the spider is an ideal model for biological research because of its large size, inactive behaviour, and ease of breeding in laboratories. From an initial 1963 publication on its biological characteristics, it has become the most studied species of spider.As with most spiders, it uses venom to subdue its prey, but its bite is not medically significant for humans, therefore should not be considered dangerous. The compounds of the venom have also become one of the most studied among those of spiders. Due to studies, its venom is now known to include complex Neurotoxins, such as cupiennins and CSTX. In particular, a peptide called CsTx-1 is highly potent for paralysing its prey. As the spider does not produce a web for trapping prey, their bite effect plays an important part of their hunting strategy alongside grasping with the chelicerae, forelegs and pedipalps. Both ambush and pursuit are key parts of active prey capture. It is known to prey on a wide range of invertebrates especially insects, and small vertebrates.
+
+
+== Description ==
+
+Cupiennius salei is a large spider with distinct sexual dimorphism. The females are relatively larger than the males, measuring up to 3.5 cm in body length, with a 10 cm legspan. The dorsal side of the body is chocolate-brown with small, lighter spots on the abdomen and many darker longitudinal stripes, particularly on the carapace. The ventral side is red-orange with thick black central region under the abdomen. Males measure up to 2.5 cm long and have very long and thin legs. The males are much lighter in colour than the females. They are distinct, with conspicuous palpal bulbs.Cupiennius salei have one pair of principal eyes and three pairs of secondary eyes located on the prosoma (the anterior end of the head) and they are colour blind. Being adapted to nocturnality, their visual capability is reduced and they rely on their tactile sensation to detect movements or vibrations in their environment.Under laboratory conditions, females make cocoons every three to four weeks, each containing up to 1,500 embryos. The embryo is typically 1.3 mm in diameter. The complete life cycle takes between 9 and 12 months from fertilized egg to mature adult. After hatching from the cocoon, the larvae start feeding. Generally they are fed first with fruit flies and later with crickets. They become reproductively mature after the final moult.
+
+
+== Behavior ==
+In the wild, Cupiennius salei are arboreal, living in trees and bushes, favoring plants such as banana with broad flat leaves and wide joints that provide shelter. Although they tend to generally be inactive, they are much faster than many other arachnids when provoked. Cupiennius salei is a nocturnal, "sit-and-wait" ambush predator behaving with a strong circadian rhythmicity. They hide during daylight, mostly under leaves, and emerge at dusk. At sunset, when the light intensity falls to about 15 lux, they leave their refuge but remain nearby. They remain there motionless for about 30 mins until it is dark (less than 0.1 lux) then move to the surface of the leaf and lie in-wait for prey, occasionally briefly walking about the leaf. Their activity is greatest during the first three hours of the night. They retreat back to their refuge after six to seven hours.
+
+
+=== During mating ===
+During courtship, Cupiennius salei communicate using sex pheromones. Females are usually solitary and to attract males, release the pheromones on trees along a silk thread. When a male detects the pheromone, he shows patterned oscillatory movement that creates vibrations on the leaves (an average frequency of 76 Hz). The female responds to this by creating a counter vibration, and in this way guides the receptive male to her exact location. The female pheromone has been identified as (S)-1,1'-dimethyl citrate. The male's pheromone sensory cells are located in tip pore sensilla and respond to touching with either female silk or the synthetic compound of the pheromone.
+
+
+== Venom ==
+Cupiennius salei produces a neurotoxic venom which is composed of a complex mixture of compounds. The venom contains at least 286 compounds and 49 novel proteins. In addition, there are many low molecular compounds, nine neurotoxic acting peptides (CSTX), at least eight neurotoxic and cytolytic acting peptides (collectively called cupiennins), highly active hyaluronidases. The most powerful neurotoxin is a peptide called CsTx-1. In 2002 a new family of peptides called cupiennins (cupiennin 1a, cupiennin 1b, cupiennin 1c, cupiennin 1d) was discovered from the venom. These proteins are all composed of 35 amino acid residues, and have high antimicrobial activities. It was subsequently discovered that the cupiennins are broad-spectrum bioactive compounds having bactericidal, insecticidal and haemolytic activities.
+
+
+=== Venom gland ===
+Cupiennius salei produces its venom in a pair of cylindrical pouch-like glands located at the anterior end of the head (prosoma). In adult females, each gland measures 1.8 mm in diameter and 6.5 mm in length. The glands are connected to a small duct through which the venom is discharged via its fang-like chelicera. Just before entering the chelicera, the duct enlarges to a muscle-invested ampulla and then constricts again. This specific arrangement is believed to be the regulatory system on the amount of venom that is released.
+
+
+=== Venom optimization ===
+
+Cupiennius salei is a non-web producing spider and therefore depends entirely on its venom for predation. It is known to prey on a variety of insects including butterflies, moths, earwigs, cockroaches, flies, grasshoppers and small vertebrates such as frogs and lizards. Its venom glands store only about 10 μl of crude venom. Refilling of the glands takes 2–3 days and the lethal efficacy of the venom is very low for several days after envenomation, requiring 8 to 18 days to regain full effect. It has been determined that the amount of venom released differs between types of prey. For larger and stronger insects such as beetles, the spider uses the entire amount of its venom; for smaller prey, it uses only small amounts, thus economising use of the biologically costly venom.
+
+
+== Gallery ==
+
+		
+
+
+== References ==
+
+
+== External links ==
+
+i5k Insect and other Arthropod Genome Sequencing Initiative
+Photograph
+Photograph at fineartamerica
+Taxonomy at Encyclopedia of Life
+Taxonomy at UniProt
+Taxonomic information at ITIS Report
+Classification at Animal Diversity Web
+Information at ZipcodeZoo

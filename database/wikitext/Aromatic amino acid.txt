@@ -1,0 +1,53 @@
+An aromatic amino acid is an amino acid that includes an aromatic ring. 
+Among the 20 standard amino acids, the following are classically considered aromatic: phenylalanine, tryptophan and tyrosine. Although histidine contains an aromatic ring, its basic properties cause it to be predominantly classified as a polar amino acid.
+
+
+== Chemical structure and properties ==
+Aromatic amino acids absorb ultraviolet light at a wavelength above 250 nm and produce fluorescence. This characteristic is used in quantitative analysis, notably in determining the concentrations of these amino acids in solution. This achieved through the utilization of a UV spectrophotomer and the Beer-Lambert Law equation. Most proteins will have an absorption maximum at 280 nm due to the presence of aromatic amino acids in their primary structure. However, because several aromatic amino acids exist, this method has low accuracy; in order to mitigate this issue, the desired protein must be pure, and its molar absorptivity is known. In addition, a protein without aromatic amino acids will not have an absorption maximum at approximately 280 nm. The presence of nucleic acids in the protein can further decrease the method's accuracy due to the presence of purine and pyrimidine rings, which have an absorption maximum at approximately 260 nm. Phenylalanine has a relatively weak absorbance in comparison to the other standard aromatic amino acids; its presence in a protein can only be detected if tryptophan and tyrosine are not present. Its absorption maximum occurs at 257 nm. Consequently, it has a relatively weak fluorescence. Tryptophan has the highest relative absorbance in comparison to the other standard aromatic amino acids; its absorption maximum occurs at 280 nm. The side chain of tryptophan does not titrate. The absorption maximum of tyrosine occurs at 274 nm. In chemical reactions, tyrosine can function as a nucleophile. Aromatic amino acids also play a crucial role in glycan-protein interactions.
+
+
+== Occurrence and functions in biochemistry ==
+
+
+=== Role in protein structure and function ===
+Aromatic amino acids play critical roles in stabilizing the folded structures of many proteins.  Aromatic residues are found predominantly sequestered within the cores of globular proteins, although often comprise key portions of protein-protein or protein-ligand interaction interfaces on the protein surface.
+
+
+=== Biosynthesis pathways ===
+
+
+==== Shikimate pathway ====
+In plants, the shikimate pathway first leads to the formation of chorismate, which is the precursor of phenylalanine, tyrosine, and tryptophan. These aromatic amino acids are the derivatives of many secondary metabolites, all essential to a plant's biological functions, such as the hormones salicylate and auxin. This pathway contains enzymes that can be regulated by inhibitors, which can cease the production of chorismate, and ultimately the organism's biological functions. Herbicides and antibiotics work by inhibiting these enzymes involved in the biosynthesis of aromatic amino acids, thereby rendering them toxic to plants. Glyphosate, a type of herbicide, is used to control the accumulation of excess greens. In addition to destroying greens, Glyphosate can easily affect the maintenance of the gut microbiota in host organisms by specifically inhibiting the 5-enolpyruvylshikinate-3-phosphate synthase which prevents the biosynthesis of essential aromatic amino acids. Inhibition of this enzyme results in disorders such as gastrointestinal diseases and metabolic diseases.
+
+
+==== Aromatic amino acids as precursors ====
+Aromatic amino acids often serve as the precursors to other molecules. For instance, in the production of epinephrine, phenylalanine is the starting molecule. The reaction is indicated below:
+
+Phenylalanine → Tyrosine → L-DOPA → Dopamine → Norepinephrine → EpinephrineTyrosine is also a precursor for the synthesis of octopamine and melanin in numerous organisms. In the production of thyroxine, phenylalanine also serves as the initial precursor:
+
+Phenylalanine → Tyrosine → ThyroxineIn the production of serotonin, tryptophan is the starting molecule, as indicated below: 
+
+Tryptophan → 5-hydroxytryptophan → SerotoninIn addition, histidine is the precursor to histamine. Tryptophan is the starting molecule in the synthesis of tryptamine, serotonin, auxin, kynurenines, and melatonin.
+
+
+=== Nutritional requirements ===
+Animals obtain aromatic amino acids from their diet, but all plants and micro-organisms must synthesize their aromatic amino acids through the metabolically costly shikimate pathway in order to make them. Phenylalanine, tryptophan, and histidine are essential amino acids for animals. Since they are not synthesized in the human body, they must be derived from the diet. Tyrosine is semi-essential; therefore, it can be synthesized by the animal, but only from phenylalanine. Phenylketonuria, a genetic disorder that occurs as a result of the inability to breakdown phenylalanine, is due to a lack of the enzyme phenylalanine hydroxylase. A dietary lack of tryptophan can cause stunted skeletal development. Excessive intake of aromatic amino acids far beyond levels obtained through normal protein consumption might lead to hypertension, something which could go un-noticed for a long time in healthy individuals. It could be caused by other factors as well such as the use of various herbs and foods like chocolate which inhibit monoamine oxidase enzymes to varying degrees, and also some medications. Aromatic trace amines like tyramine can displace norepinephrine from peripheral monoamine vesicles and in people taking MAOIs this occurs to the extent of being life threatening. for Blue diaper syndrome is an autosomal recessive disease that is caused by poor tryptophan absorption in the body.   
+
+
+== See also ==
+Aromatic L-amino acid decarboxylase
+Expanded genetic code
+Phenylketonuria
+Tyrosine hydroxylase
+Neurotransmitter
+
+
+== References ==
+
+
+== Further reading ==
+
+
+== External links ==
+ Media related to Aromatic amino acids at Wikimedia Commons
+Aromatic+Amino+Acids at the U.S. National Library of Medicine Medical Subject Headings (MeSH)

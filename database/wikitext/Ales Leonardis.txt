@@ -1,0 +1,8 @@
+Aleš Leonardis is professor of computer and information science at the University of Birmingham and at the University of Ljubljana. He is also an adjunct professor at the Faculty of Computer Science of the Graz University of Technology and a former visiting researcher of the Laboratory at the University of Pennsylvania, postdoc of TU Wien and visiting professor at ETH Zurich.His research concerns computer vision, including object recognition, tracking, and image segmentation. He has also been one of the organizers of an annual series of Visual Object Tracking challenges.
+
+
+== References ==
+
+
+== External links ==
+Ales Leonardis publications indexed by Google Scholar

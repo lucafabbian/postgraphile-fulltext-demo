@@ -1,0 +1,68 @@
+The Health Protection (Coronavirus, Wearing of Face Coverings on Public Transport) (England) Regulations 2020 (SI 2020/592) is a statutory instrument (SI) brought into force on 15 June 2020 by the Secretary of State for Transport, Grant Shapps, in response to the COVID-19 pandemic. The regulations required the wearing of a face covering when travelling on public transport such as trains, buses and aircraft in England, later extended to include taxis and private hire vehicles. The regulations were revoked on 18 July 2021, five minutes before they would otherwise have expired.
+
+
+== Initial regulations ==
+
+
+=== Legal basis ===
+The regulations were introduced by way of a Statutory Instrument made by the Secretary of State for Transport, Grant Shapps, using emergency powers available to him under the Public Health (Control of Disease) Act 1984. The regulations themselves state the legal basis for using such powers, namely "the serious and imminent threat to public health which is posed by the incidence and spread of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) in England"; he also certified that the restrictions "are proportionate to what they seek to achieve, which is a public health response to that threat."The regulations were made on 14 June, and were laid before parliament and simultaneously came into force the next day. The Secretary of State used section 45R of the Public Health (Control of Disease) Act 1984 to enact the regulations without prior parliamentary consideration, subject to retrospective approval by resolution of each House of Parliament within twenty-eight days.
+
+
+=== Geographical scope ===
+The regulations covered England only (the rules in Scotland, Wales and Northern Ireland differed). They also extended to any aircraft while in English airspace that took off from or is to land in England, as well as any vessel in UK territorial waters adjacent to England, apart from vessels just passing through.
+
+
+=== Requirement to wear a face covering when on public transport ===
+Subject to a number of exceptions, nobody was allowed – unless they had a "reasonable excuse" – to use public transport without wearing a face covering. For this purpose, "public transport" did not include school transport, a taxi or private hire vehicle, nor a cruise ship.Any type of face covering was considered acceptable, provided that it covered the wearer's nose and mouth; the regulations did not require or mention a mask. The covering had to be worn both while boarding and while actually on board any public transport vehicle.Several groups of people were exempt from the requirement to wear a face covering, including children under the age of 11, public transport staff, police officers, and emergency responders while on duty, as well as travellers who had their own private cabin or berth. Face coverings were not required where travellers were transported and remain in a separate vehicle, for example a car ferry.
+
+
+=== Reasonable excuse ===
+The regulations provided a list of excuses for not wearing a covering which were considered to be "reasonable", while not excluding other possibilities: where the traveller was unable to wear a covering due to a disability, or where it would cause severe distress;  to facilitate lip reading; where the covering was removed to avoid the risk of harm; where a person travelling to escape a risk of harm had no covering with them; where reasonably necessary to eat, drink or take medication; or where instructed to do so by an official.
+
+
+=== Offences and enforcement ===
+It was a criminal offence to contravene the regulations, and offenders could be prosecuted. Both police officers and public transport staff had the power to deny boarding to anyone not wearing a covering; and a traveller already on a vehicle could be directed to wear a covering or to disembark. Police and Transport for London officials (but not public transport staff) also had the power to remove from a vehicle anyone not complying with a direction, using force if necessary, and to issue a fixed penalty notice of £100 (reduced to £50 if paid within 14 days).
+
+
+=== Review and expiry ===
+The Secretary of State was required to review the regulations by 15 December 2020. The original expiry date was stated to be 15 June 2021, later replaced by 21 June 2021, then by 18 July 2021.
+
+
+== Main changes to the regulations ==
+
+
+=== New penalties, 28 August 2020 ===
+From 28 August, new penalties were introduced by The Health Protection (Coronavirus, Wearing of Face Coverings in a Relevant Place and on Public Transport) (England) (Amendment) Regulations 2020 (SI 2020/906). Repeat offenders faced a sliding scale of penalties up to a maximum of £3200 for the sixth and subsequent fixed penalty notice.
+
+
+=== Taxis and private hire vehicles, 23 September 2020 ===
+From 23 September, The Health Protection (Coronavirus, Wearing of Face Coverings in a Relevant Place and on Public Transport) (England) (Amendment) (No. 2) Regulations 2020 (SI 2020/1021) redefined taxis and private hire vehicles as 'public transport', making it mandatory to wear a face covering when in such a vehicle.
+
+
+=== Doubling of penalties, 24 September 2020 ===
+From 24 September, The Health Protection (Coronavirus, Wearing of Face Coverings in a Relevant Place and on Public Transport) (England) (Amendment) (No. 3) Regulations 2020 (SI 2020/1026) doubled the penalties for breach to a minimum of £200 (£100 if paid within 14 days).
+
+
+=== Extensions and revocation ===
+On 14 May 2021, the expiry date of the regulations was changed from 14 June to 20 June by the Health Protection (Coronavirus, Restrictions) (Steps and Other Provisions) (England) (Amendment) Regulations 2021 (SI 2020/585). On 15 June, the expiry date was changed to 18 July by the Health Protection (Coronavirus, Restrictions) (Steps and Other Provisions) (England) (Amendment) (No. 2) Regulations 2021 (SI 2020/705). On 15 July, The regulations were revoked with effect from 23:55 on 18 July 2021, five minutes before they would in any event have expired.
+
+
+== See also ==
+Coronavirus Act 2020
+Health Protection (Coronavirus) Regulations 2020
+The Health Protection (Coronavirus, Restrictions) (England) Regulations 2020
+The Health Protection (Coronavirus, Wearing of Face Coverings in a Relevant Place) (England) Regulations 2020
+List of Statutory Instruments of the United Kingdom, 2020
+
+
+== References ==
+
+
+== Bibliography ==
+"SI 592". Legislation.gov.uk. 15 June 2020. The Health Protection (Coronavirus, Wearing of Face Coverings on Public Transport) (England) Regulations 2020. Retrieved 14 June 2020.
+"SI 906". Legislation.gov.uk. 28 August 2020. The Health Protection (Coronavirus, Wearing of Face Coverings in a Relevant Place and on Public Transport) (England) (Amendment) Regulations 2020. Retrieved 30 August 2020.
+"SI 1021". Legislation.gov.uk. 23 September 2020. The Health Protection (Coronavirus, Wearing of Face Coverings in a Relevant Place and on Public Transport) (England) (Amendment) (No. 2) Regulations 2020. Retrieved 23 September 2020.
+"SI 1026". Legislation.gov.uk. 23 September 2020. The Health Protection (Coronavirus, Wearing of Face Coverings in a Relevant Place and on Public Transport) (England) (Amendment) (No. 3) Regulations 2020. Retrieved 23 September 2020.
+"SI 585". Legislation.gov.uk. 17 May 2021. The Health Protection (Coronavirus, Restrictions) (Steps and Other Provisions) (England) (Amendment) Regulations 2021. Retrieved 16 May 2021.
+"SI 705". Legislation.gov.uk. 20 June 2021. The Health Protection (Coronavirus, Restrictions) (Steps and Other Provisions) (England) (Amendment)(No. 2) Regulations 2021. Retrieved 15 June 2021.
+"SI 848". legislation.gov.uk. 18 July 2021. The Health Protection (Coronavirus, Restrictions) (Steps etc.) (England) (Revocation and Amendment) Regulations 2021. Retrieved 19 July 2021.

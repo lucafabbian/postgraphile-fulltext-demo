@@ -1,0 +1,48 @@
+Federal Statistical Research Data Centers are partnerships between U.S. federal government statistical agencies and leading research institutions to provide secure facilities located throughout the United States that provide access to restricted-use microdata for statistical purposes to authorized individuals. There are 29 FSRDCs across the country, primarily located at academic institutions and federal reserve banks. 
+
+
+== History ==
+The first Census Research Data Center (RDC) was in Suitland, Maryland at Census Bureau Headquarters, established at the same time as the Center for Economic Studies in 1982. The first remote RDC was established in Boston in 1994.
+In 1998, the Census Bureau partnered with the National Science Foundation (NSF) to create the Census Research Data Center program. Under this program, proposed new RDC core locations are evaluated for their potential contribution to scientific research. Approved location are provided initial financial support by the NSF. This program expansion was documented in 1998 Federal Register notice, Vol. 68 No. 14.In 2016, the Census Research Data Center program was rebranded as the Federal Statistical Research Data Center (FSRDC) program. The FSRDCs include data from the National Center for Health Statistics (NCHS), from the Agency for Healthcare Research and Quality (AHRQ), from the Bureau of Labor Statistics (BLS), from the Census Bureau, and data the Census Bureau collects on behalf of other agencies.
+
+
+== Locations ==
+There are 29 FSRDCs around the United States:
+Atlanta
+Boston
+California - Berkeley
+California - Irvine
+California - Stanford
+California - UCLA
+California - USC
+Census Bureau Headquarters
+Central Plains (Lincoln, Nebraska)
+Chicago
+Dallas-Fort Worth (opening in 2018)
+Georgetown
+Kansas City
+Kentucky (Lexington)
+Maryland (College Park)
+Michigan (Ann Arbor)
+Minnesota (Minneapolis)
+Missouri (Columbia)
+New York - Baruch
+New York - Cornell
+Northwest (Seattle)
+Penn State
+Philadelphia
+Rocky Mountain (Colorado)
+Texas (College Station)
+Texas - UT Austin
+Triangle - Duke
+Triangle - RTI
+University of Illinois Urbana-Champaign (Opening 2018)
+Wisconsin (Madison)
+Yale
+
+
+== See also ==
+Federal Statistical System of the United States
+
+
+== References ==

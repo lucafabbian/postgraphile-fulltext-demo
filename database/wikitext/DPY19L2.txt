@@ -1,0 +1,15 @@
+Dpy-19-like 2 (C. elegans) is a protein that in humans is encoded by the DPY19L2 gene.
+
+
+== Function ==
+The C. elegans gene dpy-19 belongs to the dpy ("dumpy" phenotype)
+gene class and encodes DPY-19, transmembrane protein with C-linked mannosyltransferase activity.
+In humans, it is highly expressed in testis, and is required for sperm head elongation and acrosome formation during spermatogenesis. Mutations in this gene are associated with an infertility disorder, spermatogenic failure type 9 (SPGF9).
+
+
+== References ==
+
+
+== Further reading ==
+
+This article incorporates text from the United States National Library of Medicine, which is in the public domain.

@@ -1,0 +1,57 @@
+Jacob Theodor Klein (nickname Plinius Gedanensium; 15 August 1685 – 27 February 1759) was a German jurist, historian, botanist, zoologist, mathematician and diplomat in service of Polish King August II the Strong.
+
+
+== Life ==
+Klein was born on 15 August 1685 in Königsberg, Duchy of Prussia (now Kaliningrad, Russia). He studied natural history and history at the University of Königsberg. Between 1706 and 1712, Klein travelled through England, Germany, Holland and Austria in an educational journey, before returning to Königsberg.He moved to Danzig after the death of his father, where he was elected city secretary in 1713. Between 1714 and 1716 he served as the city's representative, or “resident secretary at court,” (residierender Sekretär) in Dresden and then Warsaw.Klein began his scientific works in 1713 and began publishing his findings by 1722, as a member of the Institute of Sciences in Bologna. Influenced by Johann Philipp Breyne, his works dealt with matters of zoological nomenclature, and he set up his own system of classification of animals, which was based on the number, shape, and position of the limbs. He used his position as secretary to found a botanical garden there (now called Ogród Botaniczny w Oliwie).For his work in the natural sciences, Klein had been rewarded with membership of several scientific societies, including the Royal Society in London, the Academy of in St. Petersburg, the Deutsche Gesellschaft in Jena, and the Danzig Research Society.One of Klein's daughters, Dorothea Juliane Klein, married physicist Darniel Gralath, who would become mayor of Danzig. Gralath inherited Klein's library, which was praised by Swiss mathematician Jogann Bernoulli.Klein died on 27 February 1759 in Danzig.
+
+
+== Botanical garden and "Museum Kleinianum" ==
+
+Using his position as secretary of Danzig and with the help of other scholars, Klein set up a botanical garden in 1718, which was one of, if not the largest of its time. The garden was expanded to include live animals, zoological, fossil and amber collections, the shell collection of the mayor of Amsterdam Nicolaus Witsen, as well as a greenhouse which he used for experimentation with exotic plants. The collection became known as the Museum Kleinianum. It was sold to  Margrave Friedrich of Brandenburg-Kulmbach in 1740. After the Margrave's death in 1763, the collection was donated to the Friedrich-Alexander Universität Erlangen-Nürnberg (FAU). It was praised by prominent Swiss mathematician Johann Bernoulli, who visited the museum in 1777 or 1778.
+
+
+== Scientific works ==
+
+
+=== System of classification ===
+Inspired by Johann Phillipp Breyne, Klein developed an interest in science as early as 1713 and began publishing in 1722. He was especially interested in the systematic classification of living organisms, but excluded insects from his classifications. His system was based on external, easily identifiable traits, such as the number, shape and position of limbs. This put his work in opposition with that of Carl von Linné, of whom he was critical, and whose work has since garnered more widespread recognition, though some of Klein's classifications are still in use, for example, in the naming of echidnoderms. His work on sea urchins was the most prominent source of information on the species at the time. His essay Tentamen Herpetologiae (1755) featured the first mention of the term herpetology - the study of amphibians. However, his system of classification meant that species such as frogs and lizards, which belong to amphibians and reptiles respectively, were not distinguished as belonging to separate classes. Klein was critical of Linnaeus' system of classification, believing only easily recognisable features could be used to classify animals, as Adam had done when naming animals according to the Biblical story of creation.
+
+
+=== Historiae Piscium Naturalis ===
+
+Klein published Historiae Piscium Naturalis promovendae Missus primus Gedani in 1744. The publication, dedicated to the Royal Society, focused on understanding the auditory capacity of cartilaginous and spinose fishes. According to John Eames, until the publication of the work, it was believed to have been understood that only cetaceous fish were known to have auditory passages, or ear holes, and that the question of whether fish could hear was still not understood. Aristotle claimed, in his "History of Animals," that fishes possessed no evident auditory organs, but believed that nonetheless they must hear. In the Preface, Klein cites the work of Giulio Casare Casseri, who discovered bones in the heads of Pike or Jack fish, which he understood to be their organs of hearing, though he did not discover any manifest external auditory passages. In section of the essay titled De Lapillis, eorumque Numero in Craniis Piscium (roughly translated as “The bones, their number in the skull of Fish”) Klein considers what parts of the head of fish serve as the organ of hearing, and by what passages the sensation of sound is communicated to them. He refers to these bones as Ossicula – little bones – and considers them essential parts of the head, generated with the brain itself. He notes that the bones scale proportional to the size of the fish, and are most easily discovered in the heads of Spinose fish. Klein identifies three pairs of bones to which he attributes the sense of hearing, and he takes to correspond to the Incus, Malleus and Stapes of other animals. The first are the two largest, which he explains are easily found; the other two pairs, he explains, are small, difficult to find, enveloped in distinct fine membranes. Klein believed one could determine the age of fish by analysing the number and thickness of the Laminae and fibres of these bones. The bone to which Klein was referring, now called the otolith, acquires a growth ring every day for at least the first six months of its life. Klein inquiries into the nature of the passages by which vibrations produce a sense of hearing. He inspects the head of a Pike fish and observes several holes with bristles which lead to the auditory bones. He later dissected a Sturgeon fish and traced the auditory duct to the membrane in which the three bones are placed. Klein concludes that fishes do indeed have hearing organs and passages, communicated to through slight vibrations, though these passages are not easily demonstrable in many species. He observes that the auditory organs of cetaceous, cartilaginous and spinose fish differ from one another in structure and substance. The auditory organs of cetaceous fish are bony, while they are more fragile for cartilaginous fishes, he explains. He adds that water does not act as an impediment to hearing, but rather is the “intermedium” by which sound is communicated.
+
+
+== Honours ==
+Klein had been awarded the membership of several scientific societies, including the Royal Society in London, the St. Petersburg Academy, and the Danzig Research Society. The name of the genus Kleinia was given to the plant family of Compositae (Asteraceae) by Linnaeus in honour of Klein's works. He was described as the most important natural philosopher of his century by Professor Johann Daniel Titius.
+
+
+== Criticism ==
+Although well respected by his colleagues, Klein was nonetheless accused by some contemporaries of being unscientific, alleging that he based his beliefs on the hearsay and the claims of ‘credulous’ people. The 1760 edition of the Philosophical Transactions of the Royal Society of London published a letter by 18th Century botanist and Fellow of the Royal Society, Peter Collinson, criticizing Klein for his belief that swallows (sand martins) are not migratory birds, and instead ‘retire under water’ during winters. Collinson accused Klein's assertion as being “contrary to nature and reason,” and provided observations of Marine officers, such as Sir Charles Wager, to further his claim.
+
+
+== List of works ==
+
+Natürliche Ordnung und vermehrte Historie der vierfüssigen Thiere. Schuster, Danzig 1760
+Verbesserte und vollständigere Historie der Vögel Schmidt, Leipzig, Lübeck 1760
+Stemmata avium. Holle, Leipzig 1759
+Tentamen herpetologiae. Luzac jun., Leiden, Göttingen 1755
+Doutes ou observations de M. Klein, sur la revûe des animaux, faite par le premier homme, sur quelques animaux des classes des quadrupedes & amphibies du systême de la nature, de M. Linnaeus. Bauche, Paris 1754
+Ordre naturel des oursins de mer et fossiles, avec des observations sur les piquans des oursins de mer, et quelques remarques sur les bélemnites ... Bauche, Paris 1754
+Tentamen methodi ostracologicæ  sive  Dispositio naturalis cochlidum et concharum in suas classes, genera et species. Wishoff, Leiden 1753
+Quadrupedum dispositio brevisque historia naturalis. Schmidt, Leipzig 1751
+Historiae avium prodromus. Schmidt, Lübeck 1750
+Mantissa ichtyologica de sono et auditu piscium  sive  Disquisitio rationum, quibus autor epistolae in Bibliotheca Gallica de auditu piscium, omnes pisces mutos surdosque esse, contendit. Leipzig 1746
+Historiæ piscium naturlais promovendæ missus quartus de piscibus per branchias apertas spirantibus ad justum numerum et ordinem redigendis. Gleditsch & Schreiber, Leipzig, Danzig 1744
+Summa dubiorum circa classes quadrupedum et amphibiorum in celebris domini Caroli Linnaei systemate naturae. Leipzig, Danzig 1743
+Naturalis dispositio echinodermatum. Schreiber, Danzig 1734
+Descriptiones tubulorum marinorum. Knoch, Danzig 1731
+An Tithymaloides. Schreiber, Danzig 1730
+Petri Artedi operum brevis recensio, 1738, British Library, Sloane MS 4020, ff. 194–197; Theodore W. Pietsch & Hans Aili, "Jacob Theodor Klein's critique of Peter Artedi's Ichthyologia (1738), Svenska Linnésällskapets Årsskrift Årgång 2014, p. 39–84.
+
+
+== See also ==
+Category:Taxa named by Jacob Theodor Klein
+
+
+== References ==

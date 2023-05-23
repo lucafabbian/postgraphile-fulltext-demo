@@ -1,0 +1,24 @@
+There are 39 known isotopes and 17 nuclear isomers of tellurium (52Te), with atomic masses that range from 104 to 142. These are listed in the table below.
+Naturally-occurring tellurium on Earth consists of eight isotopes. Two of these have been found to be radioactive: 128Te and 130Te undergo double beta decay with half-lives of, respectively, 2.2×1024 (2.2 septillion) years (the longest half-life of all nuclides proven to be radioactive) and 8.2×1020 (820 quintillion) years. The longest-lived artificial radioisotope of tellurium is 121Te with a half-life of about 19 days. Several nuclear isomers have longer half-lives, the longest being 121mTe with a half-life of 154 days.
+The very-long-lived radioisotopes 128Te and 130Te are the two most common isotopes of tellurium. Of elements with at least one stable isotope, only indium and rhenium likewise have a radioisotope in greater abundance than a stable one.
+It has been claimed that electron capture of 123Te was observed, but the recent measurements of the same team have disproved this. The half-life of 123Te is longer than 9.2 × 1016 years, and probably much longer.124Te can be used as a starting material in the production of radionuclides by a cyclotron or other particle accelerators. Some common radionuclides that can be produced from tellurium-124 are iodine-123 and iodine-124.
+The short-lived isotope 135Te (half-life 19 seconds) is produced as a fission product in nuclear reactors. It decays, via two beta decays, to 135Xe, the most powerful known neutron absorber, and the cause of the iodine pit phenomenon.
+With the exception of beryllium, tellurium is the lightest element observed to commonly undergo alpha decay, with isotopes 104Te to 109Te being seen to undergo this mode of decay. Some lighter elements, namely those in the vicinity of 8Be, have isotopes with delayed alpha emission (following proton or beta emission) as a rare branch.
+
+
+== List of isotopes ==
+
+
+== References ==
+
+Isotope masses from:
+Audi, Georges; Bersillon, Olivier; Blachot, Jean; Wapstra, Aaldert Hendrik (2003), "The NUBASE evaluation of nuclear and decay properties", Nuclear Physics A, 729: 3–128, Bibcode:2003NuPhA.729....3A, doi:10.1016/j.nuclphysa.2003.11.001
+Isotopic compositions and standard atomic masses from:
+de Laeter, John Robert; Böhlke, John Karl; De Bièvre, Paul; Hidaka, Hiroshi; Peiser, H. Steffen; Rosman, Kevin J. R.; Taylor, Philip D. P. (2003). "Atomic weights of the elements. Review 2000 (IUPAC Technical Report)". Pure and Applied Chemistry. 75 (6): 683–800. doi:10.1351/pac200375060683.
+Wieser, Michael E. (2006). "Atomic weights of the elements 2005 (IUPAC Technical Report)". Pure and Applied Chemistry. 78 (11): 2051–2066. doi:10.1351/pac200678112051.
+"News & Notices: Standard Atomic Weights Revised". International Union of Pure and Applied Chemistry. 19 October 2005.
+Half-life, spin, and isomer data selected from the following sources.
+Audi, Georges; Bersillon, Olivier; Blachot, Jean; Wapstra, Aaldert Hendrik (2003), "The NUBASE evaluation of nuclear and decay properties", Nuclear Physics A, 729: 3–128, Bibcode:2003NuPhA.729....3A, doi:10.1016/j.nuclphysa.2003.11.001
+National Nuclear Data Center. "NuDat 2.x database". Brookhaven National Laboratory.
+Holden, Norman E. (2004). "11. Table of the Isotopes".  In Lide, David R. (ed.). CRC Handbook of Chemistry and Physics (85th ed.). Boca Raton, Florida: CRC Press. ISBN 978-0-8493-0485-9.
+Alduino, C.; Alfonso, K.; Artusa, D. R.; Avignone, F. T.; Azzolini, O.; Banks, T. I.; Bari, G.; Beeman, J. W.; Bellini, F. (2017-01-01). "Measurement of the two-neutrino double-beta decay half-life of 130Te with the CUORE-0 experiment". The European Physical Journal C. 77 (1): 13. arXiv:1609.01666. Bibcode:2017EPJC...77...13A. doi:10.1140/epjc/s10052-016-4498-6. ISSN 1434-6044. S2CID 254105128.

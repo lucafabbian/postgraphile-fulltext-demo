@@ -1,0 +1,13 @@
+The European ITEA 2 research project OSAMI (Open Source AMbient Intelligence) targets open source common foundations for a dynamic service-oriented platform which is able to personalize itself in large diversity of cooperating Software Intensive Systems (SIS).
+According to the vision of this project the relationship between humans, computers and electronic devices has evolved rapidly, defining technology eras with shifts in the related information technology (IT) business leadership. From the one-to-many relationship – computer versus human users – in the enterprise during the mainframe era in the 1960s, computers moved to the family environment with the personal computer (PC) in the 1980s. With the mobile phone, they established a personal one-to-one relationship ten years later.
+The emergence of Ambient Intelligence is a consequence of moving to a one-to-many relationship with phone complements, WiFi routers, gaming consoles, MP3 players, set-top boxes (STBs), TVs and infrastructures with impressive computing and storage capabilities. This environment is an enabler for a new concept of global and transversal platform that will exploit the real potential of the network affecting all business areas.
+In this convergence process, the Ambient Intelligence can be defined as an automated service provider embedding the devices. The Ambient Intelligence platform will be able to personalise itself dynamically in devices according to the context (i.e. physical containers, user needs and environment). The consortium shares the vision of this platform emerging from a community process. The software infrastructure is progressively embedding users in a virtual world. In the long term, everyone will contribute as individual and community playing service-provider and consumer roles. This interaction will lead the evolution of the platform.
+The global ITEA OSAMI project consists of a number of networked national sub-projects focussing on different areas from common technology foundations.
+
+
+== External links ==
+ITEA
+OSAMI-D German subproject
+OSAMI-E Spanish subproject
+OSAMI-F French subproject
+OSAMI-TR Turkish subproject

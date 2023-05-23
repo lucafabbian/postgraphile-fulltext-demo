@@ -1,0 +1,73 @@
+Petroleum engineering is a field of engineering concerned with the activities related to the production of Hydrocarbons, which can be either crude oil or natural gas. Exploration and production are deemed to fall within the upstream sector of the oil and gas industry. Exploration, by earth scientists, and petroleum engineering are the oil and gas industry's two main subsurface disciplines, which focus on maximizing economic recovery of hydrocarbons from subsurface reservoirs. Petroleum geology and geophysics focus on provision of a static description of the hydrocarbon reservoir rock, while petroleum engineering focuses on estimation of the recoverable volume of this resource using a detailed understanding of the physical behavior of oil, water and gas within porous rock at very high pressure.
+The combined efforts of geologists and petroleum engineers throughout the life of a hydrocarbon accumulation determine the way in which a reservoir is developed and depleted, and usually they have the highest impact on field economics. Petroleum engineering requires a good knowledge of many other related disciplines, such as geophysics, petroleum geology, formation evaluation (well logging), drilling, economics, reservoir simulation, reservoir engineering, well engineering, artificial lift systems, completions and petroleum production engineering.
+Recruitment to the industry has historically been from the disciplines of physics, mechanical engineering, chemical engineering and mining engineering. Subsequent development training has usually been done within oil companies.
+
+
+== Overview ==
+The profession got its start in 1914 within the American Institute of Mining, Metallurgical and Petroleum Engineers (AIME). The first Petroleum Engineering degree was conferred in 1915 by the University of Pittsburgh. Since then, the profession has evolved to solve increasingly difficult situations. Improvements in computer modeling, materials and the application of statistics, probability analysis, and new technologies like horizontal drilling and enhanced oil recovery, have drastically improved the toolbox of the petroleum engineer in recent decades. Automation, sensors, and robots are being used to propel the industry to more efficiency and safety.
+Deep-water, arctic and desert conditions are usually contended with. High temperature and high pressure (HTHP) environments have become increasingly commonplace in operations and require the petroleum engineer to be savvy in topics as wide-ranging as thermo-hydraulics, geomechanics, and intelligent systems.
+The Society of Petroleum Engineers (SPE) is the largest professional society for petroleum engineers and publishes much technical information and other resources to support the oil and gas industry. It provides free online education (webinars), mentoring, and access to SPE Connect, an exclusive platform for members to discuss technical issues, best practices, and other topics. SPE members also are able to access the SPE Competency Management Tool to find knowledge and skill strengths and opportunities for growth. SPE publishes peer-reviewed journals, books, and magazines. SPE members receive a complimentary subscription to the Journal of Petroleum Technology and discounts on SPE's other publications. SPE members also receive discounts on registration fees for SPE organized events and training courses. SPE provides scholarships and fellowships to undergraduate and graduate students.
+According to the United States Department of Labor's Bureau of Labor Statistics, petroleum engineers are required to have a bachelor's degree in engineering, generally a degree focused on petroleum engineering is preferred, but degrees in mechanical, chemical, and civil engineering are satisfactory as well. Petroleum engineering education is available at many universities in the United States and throughout the world - primarily in oil producing regions. U.S. News & World Report maintains a list of the Best Undergraduate Petroleum Engineering Programs. SPE and some private companies offer training courses. Some oil companies have considerable in-house petroleum engineering training classes.
+
+
+=== Petroleum engineering salaries ===
+Petroleum engineering has historically been one of the highest-paid engineering disciplines, although there is a tendency for mass layoffs when oil prices decline and waves of hiring as prices rise. In 2020, the United States Department of Labor's Bureau of Labor Statistics reported the median pay for petroleum engineers was US$137,330, or roughly $66.02 per hour. The same summary projects there will be 3% job growth in this field from 2019 to 2029.SPE annually conducts a salary survey. In 2017, SPE reported that the average SPE professional member reported earning US$194,649 (including salary and bonus).  The average base pay reported in 2016 was $143,006. Base pay and other compensation was on average was highest in the United States where the base pay was US$174,283. Drilling and production engineers tended to make the best base pay, US$160,026 for drilling engineers and US$158,964 for production engineers. Base pay on average ranged from US$96,382-174,283. There are still significant gender pay gaps, plus or minus 5% of the US average pay gap which was 18% difference in 2017.Also in 2016, U.S. News & World Report named petroleum engineering the top college major in terms of highest median annual wages of college-educated workers (age 25–59). The 2010 National Association of Colleges and Employers survey showed petroleum engineers as the highest paid 2010 graduates, at an average annual salary of $125,220. For individuals with experience, salaries can range from $170,000 to $260,000. They make an average of $112,000 a year and about $53.75 per hour. In a 2007 article, Forbes.com reported that petroleum engineering was the 24th best paying job in the United States.
+
+
+== Sub-disciplines ==
+Petroleum engineers divide themselves into several types:
+Reservoir engineers work to optimize production of oil and gas via proper placement, production rates, and enhanced oil recovery techniques.
+Drilling engineers manage the technical aspects of drilling exploratory, production and injection wells.
+Drilling fluid engineers A mud engineer (correctly called a Drilling Fluids Engineer, but most often referred to as the "Mud Man") works on an oil well or gas well drilling rig, and is responsible ensuring the properties of the drilling fluid, also known as drilling mud, are within designed specifications.
+Completion engineers (also known as subsurface engineers) work to design and oversee the implementation of techniques aimed at ensuring wells are drilled stably and with the maximum opportunity for oil and gas production.
+Production engineers manage the interface between the reservoir and the well, including perforations, sand control, downhole flow control, and downhole monitoring equipment; evaluate artificial lift methods; and select surface equipment that separates the produced fluids (oil, natural gas, and water).
+Petrophysicists gather information about subsurface properties to build wellbore stability models and study rock properties
+
+
+== Education ==
+Petroleum Engineering, like most forms of engineering, requires a strong foundation in physics, chemistry, and mathematics. Other fields pertinent to petroleum engineering include geology, formation evaluation, fluid flow in porous media, well drilling technology, economics, geostatistics, etc.
+
+
+=== Petroleum Geostatistics ===
+Geostatistics as applied to petroleum engineering uses statistical analysis to characterize reservoirs and create flow simulations that quantify uncertainties of the location of oil and gas.
+
+
+=== Petroleum Geology ===
+Petroleum geology is an interdisciplinary field composed of geophysics, geochemistry, and paleontology. The main focus of petroleum geology is the exploration and appraisal of reservoirs containing hydrocarbons via technical forms of analysis.
+
+
+=== Well Drilling Technology ===
+Well drilling technology is primarily the focus for drilling engineers. The two forms of well drilling are percussion and rotary drilling, rotary being the most common of the two. An important aspect of drilling is the drill bit, which creates a borehole of approximately three and a half to thirty inches in diameter. The three classes of drill bits, roller cone, fixed cutter, and hybrid, each use teeth to break up the rock. To optimize drilling efficiency and cost, drilling engineers make use of drilling simulators that allow them to identify drilling conditions. Drilling technologies including horizontal drilling and directional drilling have been developed to obtain hydrocarbons profitably from impermeable and coal-bed methane accumulations.
+
+
+== Professional Associations ==
+Society of Petroleum Engineers
+American Institute of Mining, Metallurgical and Petroleum Engineers
+
+
+== See also ==
+Petroleum industry
+Petroleum geology
+Seismic to simulation
+Society of Petroleum Engineers
+SPE Certified Petroleum Professional
+
+
+== References ==
+
+
+== Bibliography ==
+Bradley, Howard B. (1987). Petroleum Engineering Handbook. Richardson, Texas: Society of Petroleum Engineers. ISBN 1-55563-010-3.
+
+
+== External links ==
+
+The Society of Petroleum Engineers
+Schlumberger Oilfield Glossary: An Online Glossary of Oilfield Terms
+Society of Petroleum Evaluation Engineers
+Petroleum Engineering Schools
+What is Forensic Petroleum Engineering?
+Petroleum Engineering - Best Petroleum Engineering Schools & Colleges, Jobs in USA
+About Petroleum Engineering 
+Career Opportunities in Petroleum Engineering
+oil and gas online certification courses

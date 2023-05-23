@@ -1,0 +1,7 @@
+This is a list of cities, towns and villages of Hungary
+
+KEY: T = Town ; V = Village
+
+
+== Notes ==
+Cities marked with * have several different post codes, the one here is only the most general one.

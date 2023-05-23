@@ -1,0 +1,31 @@
+Apoptotic protease activating factor 1, also known as APAF1, is a human homolog of C. elegans CED-4 gene.
+
+
+== Function ==
+The protein was identified in the laboratory of Xiaodong Wang as an activator of caspase-3 in the presence of cytochromeC and dATP. This gene encodes a cytoplasmic protein that forms one of the central hubs in the apoptosis regulatory network. This protein contains (from the N terminal) a caspase recruitment domain (CARD), an ATPase domain (NB-ARC), few short helical domains and then several copies of the WD40 repeat domain. Upon binding cytochrome c and dATP, this protein forms an oligomeric apoptosome. The apoptosome binds and cleaves Procaspase-9 protein, releasing its mature, activated form.  The precise mechanism for this reaction is still debated though work published by Guy Salvesen suggests that the apoptosome may induce caspase-9 dimerization and subsequent autocatalysis. Activated caspase-9 stimulates the subsequent caspase cascade that commits the cell to apoptosis.
+Alternative splicing results in several transcript variants encoding different isoforms.
+
+
+== Structure ==
+APAF1 contains a CARD domain with a Greek key motif composed of six helices, a Rossman fold nucleotide binding domains, a short helical motif and a winged-helix domain.
+
+
+== Interactions ==
+APAF1 has been shown to interact with:
+
+APIP,
+BCL2-like 1
+Caspase-9,
+HSPA4, and
+NLRP1.
+
+
+== References ==
+
+
+== External links ==
+Human APAF1 genome location and APAF1 gene details page  in the UCSC Genome Browser.
+Overview of all the structural information available in the PDB for UniProt: O14727 (Apoptotic protease-activating factor 1) at the PDBe-KB.
+
+
+== Further reading ==

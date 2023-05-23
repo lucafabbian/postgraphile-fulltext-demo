@@ -1,0 +1,9 @@
+Schematic driven layout is the concept in integrated circuit layout or PCB layout where the EDA software links the schematic and layout databases. It was one of the first big steps forward in layout software from the days when editing tools were simply handling drawn polygons. 
+
+
+== Features ==
+Schematic-driven layout allows for several features that make the layout designer's job easier and faster. One of the most important is that changes to the circuit schematic are easily translated to the layout. Another is that the connections between components in the schematic are graphically displayed in the layout ensuring work is correct by construction.
+
+
+== References ==
+Clein, Dan. (2000). CMOS IC Layout. Newnes. ISBN 0-7506-7194-7

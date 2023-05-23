@@ -1,0 +1,26 @@
+In classical logic, propositions are typically unambiguously considered as being true or false. For instance, the proposition one is both equal and not equal to itself is regarded as simply false, being contrary to the Law of Noncontradiction; while the proposition one is equal to one is regarded as simply true, by the Law of Identity. However, some mathematicians, computer scientists, and philosophers have been attracted to the idea that a proposition might be more or less true, rather than wholly true or wholly false. Consider My coffee is hot.
+In mathematics, this idea can be developed in terms of fuzzy logic. In computer science, it has found application in artificial intelligence. In philosophy, the idea has proved particularly appealing in the case of vagueness. Degrees of truth is an important concept in law.
+The term is an older concept than conditional probability. Instead of determining the objective probability, only a subjective assessment is defined. Especially for novices in the field, the chance for confusion is high. They are highly likely to confound the concept of probability with the concept of degree of truth. To overcome the misconception, it makes sense to see probability theory as the preferred paradigm to handle uncertainty.
+In adjudicative processes,‘substantive truth’ is distinct from ‘formal legal truth' which comes in four degrees: hearsay, balance of probabilities, proven beyond reasonable doubt and absolute truth (knowledge reserved unto God)
+
+
+== See also ==
+Language
+Meaning (linguistics) — SemioticsTechnology
+Artificial intelligenceLogic
+Bivalence
+Fuzzy logic
+Fuzzy set
+Half-truth
+Multi-valued logic
+Paradox of the heap
+Truth
+Truth value
+VaguenessBooks
+Vagueness and Degrees of Truth
+
+
+== Bibliography ==
+
+
+== References ==

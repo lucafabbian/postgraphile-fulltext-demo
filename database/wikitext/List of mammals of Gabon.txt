@@ -1,0 +1,492 @@
+This is a list of the mammal species recorded in Gabon. Of the mammal species in Gabon, four are endangered, nine are vulnerable, and seven are near threatened.The following tags are used to highlight each species' conservation status as assessed by the International Union for Conservation of Nature:
+
+Some species were assessed using an earlier set of criteria. Species assessed using this system have the following instead of near threatened and least concern categories:
+
+
+== Order: Afrosoricida (tenrecs and golden moles) ==
+The order Afrosoricida contains the golden moles of southern Africa and the tenrecs of Madagascar and Africa, two families of small mammals that were traditionally part of the order Insectivora.
+
+Family: Tenrecidae (tenrecs)
+Subfamily: Potamogalinae
+Genus: Potamogale
+Giant otter shrew, Potamogale velox LC
+
+
+== Order: Hyracoidea (hyraxes) ==
+The hyraxes are any of four species of fairly small, thickset, herbivorous mammals in the order Hyracoidea. About the size of a domestic cat they are well-furred, with rounded bodies and a stumpy tail. They are native to Africa and the Middle East.
+
+Family: Procaviidae (hyraxes)
+Genus: Dendrohyrax
+Western tree hyrax, D. dorsalis LC
+
+
+== Order: Proboscidea (elephants) ==
+
+The elephants comprise three living species and are the largest living land animals.
+
+Family: Elephantidae (elephants)
+Genus: Loxodonta
+African forest elephant, L. cyclotis CR
+
+
+== Order: Sirenia (manatees and dugongs) ==
+Sirenia is an order of fully aquatic, herbivorous mammals that inhabit rivers, estuaries, coastal marine waters, swamps, and marine wetlands. All four species are endangered.
+
+Family: Trichechidae
+Genus: Trichechus
+African manatee, Trichechus senegalensis VU
+
+
+== Order: Primates ==
+
+The order Primates contains humans and their closest relatives: lemurs, lorisoids, tarsiers, monkeys, and apes.
+
+Suborder: Strepsirrhini
+Infraorder: Lemuriformes
+Superfamily: Lorisoidea
+Family: Lorisidae
+Genus: Arctocebus
+Golden angwantibo, Arctocebus aureus LR/nt
+Genus: Perodicticus
+Potto, Perodicticus potto LR/lc
+Family: Galagidae
+Genus: Sciurocheirus
+Bioko Allen's bushbaby, Sciurocheirus alleni LR/nt
+Genus: Galagoides
+Prince Demidoff's bushbaby, Galagoides demidovii LR/lc
+Thomas's bushbaby, Galagoides thomasi LR/lc
+Genus: Euoticus
+Southern needle-clawed bushbaby, Euoticus elegantulus LR/nt
+Suborder: Haplorhini
+Infraorder: Simiiformes
+Parvorder: Catarrhini
+Superfamily: Cercopithecoidea
+Family: Cercopithecidae (Old World monkeys)
+Genus: Miopithecus
+Gabon talapoin, Miopithecus ogouensis LR/lc
+Genus: Cercopithecus
+Moustached guenon, Cercopithecus cephus LR/lc
+De Brazza's monkey, Cercopithecus neglectus LR/lc
+Greater spot-nosed monkey, Cercopithecus nictitans LR/lc
+Crowned guenon, Cercopithecus pogonias LR/lc
+Sun-tailed monkey, Cercopithecus solatus VU
+Genus: Lophocebus
+Grey-cheeked mangabey, Lophocebus albigena LR/lc
+Genus: Cercocebus
+Collared mangabey, Cercocebus torquatus LR/nt
+Genus: Mandrillus
+Drill, Mandrillus leucophaeus EN
+Mandrill, Mandrillus sphinx VU
+Subfamily: Colobinae
+Genus: Colobus
+Mantled guereza, Colobus guereza LR/lc
+Black colobus, Colobus satanas VU
+Superfamily: Hominoidea
+Family: Hominidae (great apes)
+Subfamily: Homininae
+Tribe: Gorillini
+Genus: Gorilla
+Western lowland gorilla, Gorilla gorilla EN
+Tribe: Panini
+Genus: Pan
+Common chimpanzee, Pan troglodytes EN
+
+
+== Order: Rodentia (rodents) ==
+Rodents make up the largest order of mammals, with over 40% of mammalian species. They have two incisors in the upper and lower jaw which grow continually and must be kept short by gnawing. Most rodents are small though the capybara can weigh up to 45 kg (99 lb).
+
+Suborder: Hystricognathi
+Family: Hystricidae (Old World porcupines)
+Genus: Atherurus
+African brush-tailed porcupine, Atherurus africanus LC
+Family: Thryonomyidae (cane rats)
+Genus: Thryonomys
+Greater cane rat, Thryonomys swinderianus LC
+Suborder: Sciurognathi
+Family: Anomaluridae
+Subfamily: Anomalurinae
+Genus: Anomalurus
+Lord Derby's scaly-tailed squirrel, Anomalurus derbianus LC
+Dwarf scaly-tailed squirrel, Anomalurus pusillus LC
+Genus: Anomalurops
+Beecroft's scaly-tailed squirrel, Anomalurops beecrofti LC
+Subfamily: Zenkerellinae
+Genus: Idiurus
+Long-eared flying mouse, Idiurus macrotis LC
+Genus: Zenkerella
+Flightless scaly-tailed squirrel, Zenkerella insignis DD
+Family: Sciuridae (squirrels)
+Subfamily: Xerinae
+Tribe: Protoxerini
+Genus: Epixerus
+Baifran palm squirrel, Epixerus wilsoni DD
+Genus: Funisciurus
+Lady Burton's rope squirrel, Funisciurus isabella LC
+Fire-footed rope squirrel, Funisciurus pyrropus LC
+Genus: Myosciurus
+African pygmy squirrel, Myosciurus pumilio DD
+Genus: Paraxerus
+Green bush squirrel, Paraxerus poensis LC
+Genus: Protoxerus
+Forest giant squirrel, Protoxerus stangeri LC
+Family: Gliridae (dormice)
+Subfamily: Graphiurinae
+Genus: Graphiurus
+Nagtglas's African dormouse, Graphiurus nagtglasii LC
+Silent dormouse, Graphiurus surdus DD
+Family: Nesomyidae
+Subfamily: Cricetomyinae
+Genus: Cricetomys
+Emin's pouched rat, Cricetomys emini LC
+Gambian pouched rat, Cricetomys gambianus LC
+Family: Muridae (mice, rats, voles, gerbils, hamsters, etc.)
+Subfamily: Deomyinae
+Genus: Deomys
+Link rat, Deomys ferrugineus LC
+Genus: Lophuromys
+Fire-bellied brush-furred rat, Lophuromys nudicaudus LC
+Rusty-bellied brush-furred rat, Lophuromys sikapusi LC
+Subfamily: Murinae
+Genus: Colomys
+African wading rat, Colomys goslingi LC
+Genus: Grammomys
+Shining thicket rat, Grammomys rutilans LC
+Genus: Heimyscus
+African smoky mouse, Heimyscus fumosus LC
+Genus: Hybomys
+Peters's striped mouse, Hybomys univittatus LC
+Genus: Hylomyscus
+Beaded wood mouse, Hylomyscus aeta LC
+Allen's wood mouse, Hylomyscus alleni LC
+Little wood mouse, Hylomyscus parvus LC
+Stella wood mouse, Hylomyscus stella LC
+Genus: Malacomys
+Big-eared swamp rat, Malacomys longipes LC
+Genus: Mastomys
+Natal multimammate mouse, Mastomys natalensis LC
+Genus: Mus
+African pygmy mouse, Mus minutoides LC
+Peters's mouse, Mus setulosus LC
+Thomas's pygmy mouse, Mus sorella LC
+Genus: Oenomys
+Common rufous-nosed rat, Oenomys hypoxanthus LC
+Genus: Praomys
+Jackson's soft-furred mouse, Praomys jacksoni LC
+Tullberg's soft-furred mouse, Praomys tullbergi LC
+Genus: Stochomys
+Target rat, Stochomys longicaudatus LC
+
+
+== Order: Soricomorpha (shrews, moles, and solenodons) ==
+The "shrew-forms" are insectivorous mammals. The shrews and solenodons closely resemble mice while the moles are stout-bodied burrowers.
+
+Family: Soricidae (shrews)
+Subfamily: Crocidurinae
+Genus: Crocidura
+Bates's shrew, Crocidura batesi LC
+Long-footed shrew, Crocidura crenata LC
+Dent's shrew, Crocidura denti LC
+Long-tailed musk shrew, Crocidura dolichura LC
+Goliath shrew, Crocidura goliath LC
+Grasse's shrew, Crocidura grassei LC
+Dark shrew, Crocidura maurisca DD
+African giant shrew, Crocidura olivieri LC
+Turbo shrew, Crocidura turba LC
+Genus: Paracrocidura
+Lesser large-headed shrew, Paracrocidura schoutedeni LC
+Genus: Suncus
+Remy's pygmy shrew, Suncus remyi LC
+Genus: Sylvisorex
+Johnston's forest shrew, Sylvisorex johnstoni LC
+Greater forest shrew, Sylvisorex ollula LC
+Subfamily: Myosoricinae
+Genus: Congosorex
+Lesser Congo shrew, Congosorex verheyeni LC
+
+
+== Order: Chiroptera (bats) ==
+The bats' most distinguishing feature is that their forelimbs are developed as wings, making them the only mammals capable of flight. Bat species account for about 20% of all mammals.
+
+Family: Pteropodidae (flying foxes, Old World fruit bats)
+Subfamily: Pteropodinae
+Genus: Eidolon
+Straw-coloured fruit bat, Eidolon helvum LC
+Genus: Epomophorus
+Wahlberg's epauletted fruit bat, Epomophorus wahlbergi LC
+Genus: Epomops
+Franquet's epauletted fruit bat, Epomops franqueti LC
+Genus: Hypsignathus
+Hammer-headed bat, Hypsignathus monstrosus LC
+Genus: Micropteropus
+Peters's dwarf epauletted fruit bat, Micropteropus pusillus LC
+Genus: Myonycteris
+Little collared fruit bat, Myonycteris torquata LC
+Genus: Rousettus
+Egyptian fruit bat, Rousettus aegyptiacus LC
+Genus: Scotonycteris
+Zenker's fruit bat, Scotonycteris zenkeri NT
+Subfamily: Macroglossinae
+Genus: Megaloglossus
+Woermann's bat, Megaloglossus woermanni LC
+Family: Vespertilionidae
+Subfamily: Kerivoulinae
+Genus: Kerivoula
+Lesser woolly bat, Kerivoula lanosa LC
+Subfamily: Myotinae
+Genus: Myotis
+Rufous mouse-eared bat, Myotis bocagii LC
+Subfamily: Vespertilioninae
+Genus: Glauconycteris
+Beatrix's bat, Glauconycteris beatrix NT
+Butterfly bat, Glauconycteris variegata LC
+Genus: Hypsugo
+Mouselike pipistrelle, Hypsugo musciculus DD
+Genus: Mimetillus
+Moloney's mimic bat, Mimetillus moloneyi LC
+Genus: Neoromicia
+Dark-brown serotine, Neoromicia brunneus NT
+Cape serotine, Neoromicia capensis LC
+Banana pipistrelle, Neoromicia nanus LC
+White-winged serotine, Neoromicia tenuipinnis LC
+Genus: Pipistrellus
+Tiny pipistrelle, Pipistrellus nanulus LC
+Rüppell's pipistrelle, Pipistrellus rueppelli LC
+Subfamily: Miniopterinae
+Genus: Miniopterus
+Greater long-fingered bat, Miniopterus inflatus LC
+Family: Molossidae
+Genus: Chaerephon
+Duke of Abruzzi's free-tailed bat, Chaerephon aloysiisabaudiae NT
+Genus: Mops
+Sierra Leone free-tailed bat, Mops brachypterus LC
+Railer bat, Mops thersites LC
+Genus: Myopterus
+Bini free-tailed bat, Myopterus whitleyi LC
+Family: Emballonuridae
+Genus: Saccolaimus
+Pel's pouched bat, Saccolaimus peli NT
+Genus: Taphozous
+Mauritian tomb bat, Taphozous mauritianus LC
+Family: Nycteridae
+Genus: Nycteris
+Bate's slit-faced bat, Nycteris arge LC
+Large slit-faced bat, Nycteris grandis LC
+Hairy slit-faced bat, Nycteris hispida LC
+Intermediate slit-faced bat, Nycteris intermedia NT
+Large-eared slit-faced bat, Nycteris macrotis LC
+Family: Megadermatidae
+Genus: Lavia
+Yellow-winged bat, Lavia frons LC
+Family: Rhinolophidae
+Subfamily: Rhinolophinae
+Genus: Rhinolophus
+Halcyon horseshoe bat, Rhinolophus alcyone LC
+Rüppell's horseshoe bat, Rhinolophus fumigatus LC
+Lander's horseshoe bat, Rhinolophus landeri LC
+Forest horseshoe bat, Rhinolophus silvestris VU
+Subfamily: Hipposiderinae
+Genus: Hipposideros
+Benito roundleaf bat, Hipposideros beatus LC
+Sundevall's roundleaf bat, Hipposideros caffer LC
+Cyclops roundleaf bat, Hipposideros cyclops LC
+Sooty roundleaf bat, Hipposideros fuliginosus NT
+Giant roundleaf bat, Hipposideros gigas LC
+Noack's roundleaf bat, Hipposideros ruber LC
+
+
+== Order: Pholidota (pangolins) ==
+The order Pholidota comprises the eight species of pangolin. Pangolins are anteaters and have the powerful claws, elongated snout and long tongue seen in the other unrelated anteater species.
+Family: Manidae
+Genus: Manis
+Giant pangolin, Manis gigantea LR/lc
+Long-tailed pangolin, Manis tetradactyla LR/lc
+Tree pangolin, Manis tricuspis LR/lc
+
+
+== Order: Cetacea (whales) ==
+
+The order Cetacea includes whales, dolphins and porpoises. They are the mammals most fully adapted to aquatic life with a spindle-shaped nearly hairless body, protected by a thick layer of blubber, and forelimbs and tail modified to provide propulsion underwater.
+
+Suborder: Mysticeti
+Family: Balaenopteridae
+Subfamily: Balaenopterinae
+Genus: Balaenoptera
+Common minke whale, Balaenoptera acutorostrata LC
+Antarctic minke whale, Balaenoptera bonaerensis DD
+Sei whale, Balaenoptera borealis EN
+Bryde's whale, Balaenoptera edeni DD
+Blue whale, Balaenoptera musculus EN
+Fin whale, Balaenoptera physalus EN
+Subfamily: Megapterinae
+Genus: Megaptera
+Humpback whale, Megaptera novaeangliae VU
+Family: Balaenidae
+Genus: Eubalaena
+Southern right whale, Eubalaena australis LR/cd
+Suborder: Odontoceti
+Superfamily: Platanistoidea
+Family: Physeteridae
+Genus: Physeter
+Sperm whale, Physeter macrocephalus VU
+Family: Kogiidae
+Genus: Kogia
+Pygmy sperm whale, Kogia breviceps LR/lc
+Dwarf sperm whale, Kogia sima LR/lc
+Family: Ziphidae
+Subfamily: Hyperoodontinae
+Genus: Mesoplodon
+Blainville's beaked whale, Mesoplodon densirostris DD
+Gervais' beaked whale, Mesoplodon europaeus DD
+Genus: Ziphius
+Cuvier's beaked whale, Ziphius cavirostris DD
+Family: Delphinidae (marine dolphins)
+Genus: Steno
+Rough-toothed dolphin, Steno bredanensis DD
+Genus: Tursiops
+Common bottlenose dolphin, Tursiops truncatus LC
+Genus: Delphinus
+Long-beaked common dolphin, Delphinus capensis DD
+Genus: Stenella
+Pantropical spotted dolphin, Stenella attenuata LR/cd
+Striped dolphin, Stenella coeruleoalba LR/cd
+Atlantic spotted dolphin, Stenella frontalis DD
+Clymene dolphin, Stenella clymene DD
+Spinner dolphin, Stenella longirostris LR/cd
+Genus: Lagenodelphis
+Fraser's dolphin, Lagenodelphis hosei DD
+Genus: Sousa
+Atlantic humpback dolphin, Sousa teuszii
+Genus: Orcinus
+Orca, Orcinus orca LR/cd
+Genus: Feresa
+Pygmy killer whale, Feresa attenuata DD
+Genus: Pseudorca
+False killer whale, Pseudorca crassidens LR/lc
+Genus: Globicephala
+Short-finned pilot whale, Globicephala macrorhynchus LR/cd
+Genus: Peponocephala
+Melon-headed whale, Peponocephala electra DD
+
+
+== Order: Carnivora (carnivorans) ==
+
+There are over 260 species of carnivorans, the majority of which feed primarily on meat. They have a characteristic skull shape and dentition.
+
+Suborder: Feliformia
+Family: Felidae (cats)
+Subfamily: Felinae
+Genus: Caracal
+Caracal, C. caracal LC
+African golden cat, C. aurata VU
+Genus: Leptailurus
+Serval, Leptailurus serval LC
+Subfamily: Pantherinae
+Genus: Panthera
+Lion, Panthera leo VU
+Leopard, Panthera pardus VU
+Family: Viverridae
+Subfamily: Viverrinae
+Genus: Civettictis
+African civet, Civettictis civetta LC
+Genus: Genetta
+Rusty-spotted genet, Genetta maculata LC
+Servaline genet, Genetta servalina LC
+Hausa genet, Genetta thierryi LC
+Genus: Poiana
+Central African oyan, Poiana richardsonii LC
+Family: Nandiniidae
+Genus: Nandinia
+African palm civet, Nandinia binotata LC
+Family: Herpestidae (mongooses)
+Genus: Atilax
+Marsh mongoose, Atilax paludinosus LC
+Genus: Bdeogale
+Black-footed mongoose, Bdeogale nigripes LC
+Genus: Xenogale
+Long-nosed mongoose, Xenogale naso LC
+Family: Hyaenidae (hyaenas)
+Genus: Crocuta
+Spotted hyena, Crocuta crocuta LC
+Suborder: Caniformia
+Family: Canidae (dogs, foxes)
+Genus: Lupulella
+Side-striped jackal, L. adusta LC
+Genus: Lycaon
+African wild dog, L. pictus EN extirpated
+Family: Mustelidae (mustelids)
+Genus: Ictonyx
+Striped polecat, Ictonyx striatus LC
+Genus: Mellivora
+Honey badger, Mellivora capensis LC
+Genus: Hydrictis
+Speckle-throated otter, H. maculicollis LC
+Genus: Aonyx
+African clawless otter, Aonyx capensis LC
+
+
+== Order: Artiodactyla (even-toed ungulates) ==
+
+The even-toed ungulates are ungulates whose weight is borne about equally by the third and fourth toes, rather than mostly or entirely by the third as in perissodactyls. There are about 220 artiodactyl species, including many that are of great economic importance to humans.
+
+Family: Suidae (pigs)
+Subfamily: Phacochoerinae
+Genus: Phacochoerus
+Common warthog, Phacochoerus africanus LR/lc
+Subfamily: Suinae
+Genus: Hylochoerus
+Giant forest hog, Hylochoerus meinertzhageni LR/lc
+Genus: Potamochoerus
+Red river hog, Potamochoerus porcus LR/lc
+Family: Hippopotamidae (hippopotamuses)
+Genus: Hippopotamus
+Hippopotamus, Hippopotamus amphibius VU
+Family: Tragulidae
+Genus: Hyemoschus
+Water chevrotain, Hyemoschus aquaticus DD
+Family: Bovidae (cattle, antelope, sheep, goats)
+Subfamily: Antilopinae
+Genus: Neotragus
+Bates's pygmy antelope, Neotragus batesi LR/nt
+Subfamily: Bovinae
+Genus: Syncerus
+African forest buffalo, Syncerus caffer LR/cd
+Genus: Tragelaphus
+Bongo, Tragelaphus eurycerus LR/nt
+Bushbuck, Tragelaphus scriptus LR/lc
+Sitatunga, Tragelaphus spekii LR/nt
+Subfamily: Cephalophinae
+Genus: Cephalophus
+Peters's duiker, Cephalophus callipygus LR/nt
+Bay duiker, Cephalophus dorsalis LR/nt
+White-bellied duiker, Cephalophus leucogaster LR/nt
+Blue duiker, Cephalophus monticola LR/lc
+Black-fronted duiker, Cephalophus nigrifrons LR/nt
+Ogilby's duiker, Cephalophus ogilbyi LR/nt
+Yellow-backed duiker, Cephalophus silvicultor LR/nt
+Genus: Sylvicapra
+Common duiker, Sylvicapra grimmia LR/lc
+Subfamily: Aepycerotinae
+Genus: Aepyceros
+Impala, A. melampus LC introduced
+Subfamily: Reduncinae
+Genus: Kobus
+Waterbuck, Kobus ellipsiprymnus LR/cd
+Genus: Redunca
+Southern reedbuck, Redunca arundinum LR/cd
+
+
+== See also ==
+List of chordate orders
+Lists of mammals by region
+List of prehistoric mammals
+Mammal classification
+List of mammals described in the 2000s
+
+
+== Notes ==
+
+
+== References ==
+"The IUCN Red List of Threatened Species: Mammals of Gabon". IUCN. 2001. Retrieved 22 May 2007.
+"Mammal Species of the World". Smithsonian National Museum of Natural History. 2005. Archived from the original on 27 April 2007. Retrieved 22 May 2007.
+"Animal Diversity Web". University of Michigan Museum of Zoology. 1995–2006. Retrieved 22 May 2007.

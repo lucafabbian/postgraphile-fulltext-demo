@@ -1,0 +1,113 @@
+Limpets are a group of aquatic snails that exhibit a conical shell shape (patelliform) and a strong, muscular foot. Limpets are members of the class Gastropoda, but are polyphyletic, meaning the various groups called "limpets" descended independently from different ancestral gastropods. This general category of conical shell is known as "patelliform" (dish-shaped).  All members of the large and ancient marine clade Patellogastropoda are limpets. Within that clade, the members of the Patellidae family in particular are often referred to as "true limpets".
+Other groups, not in the same family, are also called limpets of one type or another, due to the similarity of their shells' shapes. Examples include the Fissurellidae ("keyhole limpet") family, which is part of the Vetigastropoda clade (many other members of the Vetigastropoda do not have the morphology of limpets) and the Siphonariidae ("false limpets"), which use a siphon to pump water over their gills.
+
+
+== Behaviour and ecology ==
+
+
+=== Anatomy ===
+The basic anatomy of a limpet consists of the usual molluscan organs and systems:
+
+A nervous system centered around the paired cerebral, pedal, and pleural sets of ganglia.  These ganglia create a ring around the limpet's esophagus called a circumesophageal nerve ring or nerve collar.  Other nerves in the head/ snout are the optic nerves which connect to the two eye spots located at the base of the cerebral tentacles (these eyespots, when present, are only able to sense light and darkness and do not provide any imagery), as well as the labial and buccal ganglia which are associated with feeding and controlling the animal's odontophore, the muscular cushion used to support the limpet's radula (a kind of tongue) that scrapes algae off the surrounding rock for nutrition.  Behind these ganglia lie the pedal nerve cords which control the movement of the foot, and the visceral ganglion which in limpets has been torted during the course of evolution.  This means, among other things, that the limpet's left osphradium and oshradial ganglion (an organ believed used to sense the time to produce gametes) is controlled by its right pleural ganglion and vice versa.
+For most limpets, the circulatory system is based around a single triangular three-chambered heart consisting of an atrium, a ventricle, and a bulbous aorta.  Blood enters the atrium via the circumpallial vein (after being oxygenated by the ring of gills located around the edge of the shell) and through a series of small vesicles that deliver more oxygenated blood from the nuchal cavity (the area above the head and neck).  Many limpets still retain a ctenidium (sometimes two) in this nuchal chamber instead of the circumpallial gills as a means for exchanging oxygen and carbon dioxide with the surrounding water or air (many limpets can breathe air during periods of low tide, but those limpet species which never leave the water do not have this ability and will suffocate if deprived of water).  Blood moves from the atrium into the ventricle and into the aorta where it is then pumped out to the various lacunar blood spaces / sinuses in the hemocoel.  The odontophore may play a large role in assisting with blood circulation as well.The two kidneys are very different in size and location.  This is a result of torsion.  The left kidney is diminutive and in most limpets is barely functional.  The right kidney, however, has taken over the majority of blood filtration and often extends over and around the entire mantle of the animal in a thin, almost-invisible layer.
+The digestive system is extensive and takes up a large part of the animal's body.  Food (algae) is collected by the radula and odontophore and enters via the downward-facing mouth. It then moves through the esophagus and into the numerous loops of the intestines. The large digestive gland helps break down the microscopic plant material, and the long rectum helps compact used food which is then excreted through the anus located in the nuchal cavity. The anus of most molluscs and indeed many animals is located far from the head.  In limpets and most gastropods, however, the evolutionary torsion which took place and allowed the gastropods to have a shell into which they could completely withdraw has caused the anus to be located near the head.  Used food would quickly foul the nuchal cavity unless it was firmly compacted prior to being excreted. The torted condition of the limpets remains even though they no longer have a shell into which they can withdraw and even though the evolutionary advantages of torsion appear to therefore be negligible (some species of gastropod have subsequently de-torted and now have their anus located once again at the posterior end of the body; these groups no longer have a visceral twist to their nervous systems).
+The gonad of a limpet is located beneath its digestive system just above its foot.  It swells and eventually bursts, sending gametes into the right kidney which then releases them into the surrounding water on a regular schedule.  Fertilized eggs hatch and the floating veliger larvae are free-swimming for a period before settling to the bottom and becoming an adult animal.
+True limpets in the family Patellidae live on hard surfaces in the intertidal zone. Unlike barnacles (which are not molluscs but may resemble limpets in appearance) and mussels (which are bivalve molluscs that cement themselves to a substrate for their entire adult lives), limpets are capable of locomotion instead of being permanently attached to a single spot. However, when they need to resist strong wave action or other disturbances, limpets cling extremely firmly to the surfaces on which they live, using their muscular foot to apply suction combined with the effect of adhesive mucus. It often is very difficult to remove a true limpet from a rock without injuring or killing it.
+All "true" limpets are marine. The most primitive group have one pair of gills, in others only a single gill remains, the lepetids do not have any gills at all, while the patellids have evolved secondary gills as they have lost the original pair. However, because the adaptive feature of a simple conical shell has repeatedly arisen independently in gastropod evolution, limpets from many different evolutionary lineages occur in widely different environments. Some saltwater limpets such as Trimusculidae breathe air, and some freshwater limpets are descendants of air-breathing land snails (e.g. the genus Ancylus) whose ancestors had a pallial cavity serving as a lung. In these small freshwater limpets, that "lung" underwent secondary adaptation to allow the absorption of dissolved oxygen from water.
+
+
+=== Symbiosis ===
+Limpets have a mutualistic relationship with several other beings. Clathromorphum, a type of algae, provides food to limpets, which clean the algae's surface and allow its persistence.The rough keyhole limpet (Diodora aspera) is host to the scale worm copepod Anthessius nortoni, which bites predatory starfish to discourage them from eating the limpet.
+
+
+=== Homescars ===
+
+Limpets wander over the surface of the rocks during high tide and tend to return to their favourite spot by following a trail of mucus left whilst grazing. Over a period of time the edges of the limpet's shell wear a shallow hollow in the rock called a homescar.  The homescar helps the limpet to stay attached to the rock and not to dry out during low tide periods.
+
+
+=== Bio-erosion ===
+Limpets are known to cause bio-erosion on sedimentary rocks by the formation of homescars and by ingesting tiny particles of rock through the action of feeding. C.Andrews & R.B.G. Williams  in their research paper titled Limpet erosion of chalk shore platforms in southeast England from Oct 2000 estimate from the amount of calcium carbonate deposits in faeces of captive limpets, that an adult limpet will ingest around 4.9 g of chalk per year. Suggesting that limpets are on average responsible for 12% of the chalk platform erosion in areas that they frequent, potentially rising to 35% + in areas where the limpet population has reached its maximum.
+
+
+== Naming ==
+The common name "limpet" also is applied to a number of not very closely related groups of sea snails and freshwater snails (aquatic gastropod mollusks). Thus the common name "limpet" has very little taxonomic significance in and of itself; the name is applied not only to true limpets (the Patellogastropoda), but also to all snails that have a simple shell that is broadly conical in shape, and either is not spirally coiled, or appears not to be coiled in the adult snail. In other words, the shell of all limpets is "patelliform", which means the shell is shaped more or less like the shell of most true limpets. The term "false limpets" is used for some (but not all) of these other groups that have a conical shell.
+Thus, the name limpet is used to describe various extremely diverse groups of gastropods that have independently evolved a shell of the same basic shape (see convergent evolution). And although the name "limpet" is given on the basis of a limpet-like or "patelliform" shell, the several groups of snails that have a shell of this type are not at all closely related to one another.
+
+
+== Teeth ==
+
+
+=== Function and formation ===
+In order to obtain food, limpets rely on an organ called the radula, which contains iron-mineralized teeth. Although limpets contain over 100 rows of teeth, only the outermost 10 are used in feeding. These teeth form via matrix-mediated biomineralization, a cyclic process involving the delivery of iron minerals to reinforce a polymeric chitin matrix. Upon being fully mineralized, the teeth reposition themselves within the radula, allowing limpets to scrape off algae from rock surfaces. As limpet teeth wear out, they are subsequently degraded (occurring anywhere between 12 and 48 hours) and replaced with new teeth. Different limpet species exhibit different overall shapes of their teeth.
+
+
+=== Growth and development ===
+Development of limpet teeth occurs in conveyor belt style, where teeth start growing at the back of the radula, and move toward the front of this structure as they mature. The growth rate of the limpet's teeth is around 47 hours per row.  Fully mature teeth are located in the scraping zone, the very front of the radula. The scraping zone is in contact with the substrate that the limpet feeds off of. As a result, the fully mature teeth are subsequently worn down until they are discarded – at a rate equal to the growth rate. To counter this degradation, a new row of teeth begin to grow.
+
+
+=== Biomineralization ===
+Currently, the exact mechanism behind the biomineralization of limpet teeth is unknown. However, it is suggested that limpet teeth biomineralize using a dissolution-reprecipitation mechanism. Specifically, this mechanism is associated with the dissolution of iron stored in epithelial cells of the radula to create ferrihydrite ions. These ferrihydrite ions are transported through ion channels to the tooth surface. The build-up of enough ferrihydrite ions leads to nucleation, the rate of which can be altered via changing the pH at the site of nucleation. After one to two days, these ions are converted to goethite crystals. The unmineralized matrix consists of relatively well-ordered, densely packed arrays of chitin fibers, with only a few nanometers between adjacent fibers. The lack of space leads to the absence of pre-formed compartments within the matrix that control goethite crystal size and shape. Because of this, the main factor influencing goethite crystal growth is the chitin fibers of the matrix. Specifically, goethite crystals nucleate on these chitin fibers and push aside or engulf the chitin fibers as they grow, influencing their resulting orientation.
+
+
+=== Strength ===
+Looking into limpet teeth of Patella vulgata, Vickers hardness values are between 268 and 646 kg⋅m−1⋅s−2, while tensile strength values range between 3.0 and 6.5 GPa. As spider silk has a tensile strength only up to 4.5 GPa, limpet teeth outperforms spider silk to be the strongest biological material. These considerably high values exhibited by limpet teeth are due to the following factors:
+The first factor is the nanometer length scale of goethite nanofibers in limpet teeth; at this length scale, materials become insensitive to flaws that would otherwise decrease failure strength. As a result, goethite nanofibers are able to maintain substantial failure strength despite the presence of defects.
+The second factor is the small critical fiber length of the goethite fibers in limpet teeth. Critical fiber length is a parameter defining the fiber length that a material must be to transfer stresses from the matrix to the fibers themselves during external loading. Materials with a large critical fiber length (relative to the total fiber length) act as poor reinforcement fibers, meaning that most stresses are still loaded on the matrix. Materials with small critical fiber lengths (relative to the total fiber length) act as effective reinforcement fibers that are able to transfer stresses on the matrix to themselves. Goethite nanofibers express a critical fiber length of around 420 to 800 nm, which is several orders of magnitude away from their estimated fiber length of 3.1 μm. This suggests that the goethite nanofibers serve as effective reinforcement for the collagen matrix and significantly contribute to the load-bearing capabilities of limpet teeth. This is further supported by the large mineral volume fraction of elongated goethite nanofibers within limpet teeth, around 0.81.Applications of limpet teeth involve structural designs requiring high strength and hardness, such as biomaterials used in next-generation dental restorations.
+
+
+=== Role in distributing stress ===
+The structure, composition, and morphological shape of the teeth of the limpet allow for an even distribution of stress throughout the tooth. The teeth have a self-sharpening mechanism which allows for the teeth to be more highly functional for longer periods of time. Stress wears preferentially on the front surface of the cusp of the teeth, allowing the back surface to stay sharp and more effective.There is evidence that different regions of the limpet teeth show different mechanical strengths.  Measurements taken from the tip of the anterior edge of the tooth show that the teeth can exhibit an elastic modulus of around 140 GPa. Traveling down the anterior edge toward the anterior cusp of the teeth however, the elastic modulus decreases ending around 50 GPa at the edge of the teeth. The orientation of the goethite fibers can be correlated to this decrease in elastic modulus, as towards the tip of the tooth the fibers are more aligned with each other, correlating to a high modulus and vice versa.Critical length of the goethite fibers is the reason the structural chitin matrix has extreme support. The critical length of goethite fibers has been estimated to be around 420 to 800 nm and when compared with the actual length of the fibers found in the teeth, around 3.1 um, shows that the teeth have fibers much larger than the critical length. This paired with orientation of the fibers leads to effective stress distribution onto the goethite fibers and not onto the weaker chitin matrix in the limpet teeth.
+
+
+=== Causes of structure degradation ===
+The overall structure of the limpet teeth is relatively stable within most natural conditions given the limpet's ability to produce new teeth at a similar rate to the degradation. Individual teeth are subjected to shear stresses as the tooth is dragged along the rock. Goethite as a mineral is a relatively soft iron based material, which increases the chance of physical damage to the structure. Limpet teeth and the radula have also been shown to experience greater levels of damage in CO2 acidified water.
+
+
+=== Crystal structure ===
+Goethite crystals form at the start of the tooth production cycle and remain as a fundamental part of the tooth with intercrystal space filled with amorphous silica. Existing in multiple morphologies, Prisms with rhomb-shaped sections are the most frequent". The goethite crystals are stable and well formed for a biogenic crystal. The transport of the mineral to create the crystal structures has been suggested to be a dissolution-reprecipitation mechanism as of 2011. Limpet tooth structure is dependent upon living depth of the specimen. While deep water limpets have been shown to have the same elemental composition as shallow water limpets, deep water limpets do not show crystalline phases of goethite.
+
+
+=== Crystallization process ===
+The initial event that takes place when the limpet creates a new row of teeth is the creation of the main macromolecular α-chitin component. The resulting organic matrix serves as framework for the crystallization of the teeth themselves. The first mineral to be deposited is goethite (α-FeOOH), a soft iron oxide which forms crystals parallel to the chitin fibers. The goethite, however, has varying different crystal habits. The crystals arrange in various shapes and even thicknesses throughout the chitin matrix. Still, depending on the formation of the chitin matrix, this can have varying profound effects on the formation of the goethite crystals. The space in between the crystals and the chitin matrix is filled with an amorphous hydrated silica (SiO2).
+
+
+=== Characterizing composition ===
+The most prominent metal by percent composition is iron in the form of goethite. Goethite has the chemical formula of FeO(OH) and belongs to a group known as oxy-hydroxides. There exists amorphous silica between the goethite crystals; surrounding the goethite is a matrix of chitin. Chitin has a chemical formula of C8H13O5N. Other metals have been shown to be present with the relative percent compositions varying on geographic locations. The goethite has been reported to have a volume fraction of approximately 80%.
+
+
+=== Regional dependency ===
+Limpets from different locations were shown to have different elemental ratios within their teeth. Iron is consistently most abundant however other metals such as sodium, potassium, calcium, and copper were all shown to be present to varying degrees. The relative percentages of the elements have also been shown to differ from one geographic location to another. This demonstrates an environmental dependency of some kind; however the specific variables are currently undetermined.
+
+
+== Phylogeny ==
+Gastropods that have limpet-like or patelliform shells are found in several different clades:
+
+Clade Patellogastropoda, example Patellidae, the true limpets, all marine, in five living families and two fossil families
+Clade Vetigastropoda, examples Fissurellidae, (the keyhole limpets and slit limpets), and Lepetelloidea, small deepwater limpets
+Clade Neritimorpha, example Phenacolepadidae, small limpets related to nerites
+Clade Heterobranchia, group Opisthobranchia, example Tylodinidae, the umbrella slugs with a limpet-shaped shell
+Clade Heterobranchia, group Pulmonata, examples Siphonariidae, Latiidae, Trimusculidae, all air-breathing limpets
+
+
+=== Other limpets ===
+Marine
+
+The hydrothermal vent limpets –  Neomphaloidea and Lepetodriloidea
+The hoof snails – Hipponix and other Hipponicidae
+Slipper snails – Crepidula species, which are sometimes known as slipper limpetsFreshwater
+
+The pulmonate river and lake limpets – AncylidaeSome species of limpet live in fresh water, but these are the exception. Most marine limpets have gills, whereas all freshwater limpets and a few marine limpets have a mantle cavity adapted to breathe air and function as a lung (and in some cases again adapted to absorb oxygen from water). All these kinds of snail are only very distantly related.
+
+
+== In culture and literature ==
+Many species of limpets have historically been used, or are still used, by humans and other animals for food.Limpet mines are a type of naval mine attached to a target by magnets. They are named after the tenacious grip of the limpet.
+The humorous author Edward Lear wrote "Cheer up, as the limpet said to the weeping willow" in one of his letters. Simon Grindle wrote the 1964 illustrated children's book of nonsense poetry The Loving Limpet and Other Peculiarities, said to be "in the great tradition of Edward Lear and Lewis Carroll".In his book South, Sir Ernest Shackleton relates the stories of his twenty-two men left behind on Elephant Island harvesting limpets from the icy waters on the shore of the Southern Ocean. Near the end of their four-month stay on the island, as their stocks of seal and penguin meat dwindled, they derived a major portion of their sustenance from limpets.
+The light-hearted comedy film The Incredible Mr. Limpet is about a patriotic but weak American who desperately clings to the idea of joining the U.S. military to serve his country; by the end of the film, having been transformed into a fish, he is able to use his new body to save U.S. naval vessels from disaster. Although he does not become a snail but a fish, his name limpet hints at his tenacity.
+
+
+== References ==
+
+
+== External links ==
+Lottia gigantea: taxonomy, facts, life cycle, bibliography Archived 27 June 2009 at the Wayback Machine
+Acmaeidae at the NCBI taxonomy website

@@ -1,0 +1,76 @@
+Like most other sports, amateur radio contesting has its share of disputes and controversy. These disputes are long-standing and may see no thorough resolution for a long time.  They are presented for their informational value, with the positions in dispute summarized.  There are several online forums where these topics are discussed.
+
+
+== Controversies in HF contests ==
+
+
+=== Packet clusters ===
+A packet cluster system allows radio operators or shortwave listeners to "spot" transmitting stations by submitting their call sign and frequency of operation to a computer system which redistributes the information to all other connected users of the system.  The term "packet cluster" is derived from the use of AX.25 packet radio as the original connection mode to the computer systems; today, connections are commonly made by telnet over the Internet instead.  Packet clusters are designed to help radio operators share information so that other stations can find transmitting stations that might be of interest to them.
+The original packet cluster systems were deployed by members of the Yankee Clipper Contest Club to help their fellow club members improve their contest scores. More recently, the pioneers behind the web-based DX Summit spotting portal received a Yasme Excellence Award for that project.There are two main controversial aspects to the worldwide deployment and use of the packet cluster system today.
+
+
+==== Self-spotting ====
+The most controversial use of the system is in self-spotting, where a competitive station sends a spot advertising its own operation on the air.  Almost all contest sponsors explicitly prohibit this activity in their contest rules, so finding stations that self-spot in a blatant manner is uncommon.  Most stations that engage in self-spotting do so by hiding or masquerading their identity as the source of the spot.  Because of its easy accessibility and lack of user authentication, identifying such abuse on the packet cluster system is difficult, and may lead to false-positives.  Enforcement in cases where self-spotting is suspected can be variable.  Peer pressure remains the most effective means of curbing this undesirable behavior.
+
+
+==== Cheerleading ====
+Another controversial use of the packet cluster system is known as cheerleading.  A cheerleader in this context is a station that uses the packet cluster system to spot one particular other station for the purpose of promoting that station's contest operation and improving its score.  Cheerleading is most evident when several cheerleaders promote a single station, such as when all the members of a contest club repeatedly and aggressively spot a single contest DX-pedition station operated by several members of their own club.  Although the station being spotted is not itself abusing the rules of the contest, it may still benefit from the activity of its friends.  Many feel that it is difficult to differentiate between undesirable cheerleading and the more normal spotting activity, and that coming up with well-defined rules to prohibit it would have significant negative side effects.
+
+
+=== Club sanitizing logs ===
+It is a common practice for members of large contest clubs to use specialized computer programs to analyze all members' contest logs so that "bad" contacts can be corrected or removed.  A large club provides a good data base size and the use of other methods of "looking up" call signs can be used, such as archived records of stations on air activities, call book type data bases, and historic data.  For example, if XW1UD is in twenty logs, and at the same times XW1VD appears in one or two logs, and archived records of DX activities show only XW1UD on the air, it is likely that XW1UD is the correct call sign and the log entries of XW1VD would be corrected to read XW1UD before submitting the logs to the contest sponsors.  If XW nation had a call book or a national call sign list, that would be further aid in sanitizing the logs. In 2012 some efforts were initiated by some contest sponsors, including CQ Amateur Radio magazine, to attempt to limit sanitizing logs by requiring the logs to be submitted only a few days after the end of the contest (likely requiring this sanitizing to be just done faster rather than eliminating the practice).  Club members may be able to pressure contest sponsors to be liberal in scoring, and some members may also be on the sponsoring oversight committees.
+
+
+=== Other tricks of contesting ===
+A casual operator/member may be asked by his club to speak to and feed or direct rare stations to their flagship contest station frequency.  This is a variation on "cheerleading."  Another possibility will ask club members to contact the flagship club station and maybe five other stations at random (to quality them as not "unique" calls) to beef up the flagship log with veiled "manufactured" contacts (in an extreme case, the contacting stations would not actually QSO the flagship on-air but simply send to that station the date and time of the "contact").  Too, if "unique" calls are allowed, a contester could seed his log with real call signs of stations known not to participate in that contest;  thus increasing his score with stations he did not actually contact (particularly helpful would be to choose calls of rare locations).
+Because all contests occur within a limited time span, the more calls logged as contacted per unit of time promises a higher score.
+Contest sponsors have attempted to inject some protections against these cheating practices via computerized log analytic programs and do exact a score reduction on a formulae subtracting infractions.
+
+
+=== Moving rare stations ===
+A common contest practice is for a multi-multi station to contact a rare station and then ask that station to change to another frequency band to contact the other multi-multi operator on that new, different band. For example, XW1UD is contacted on the 20 meter band by TT5XYZ. TT5XYZ then asks XW1UD to change to a different band (15 meters) and frequency and there contact the other operator of TT5XYZ on the 15 meter band.  In contests with repeat contacts on different bands counting, scores can be raised significantly by "leap froging" a rare station into the log of TT5XYZ on two or more bands from the direction given from the initial contact.  This practice is not disallowed by most contest rules.
+
+
+=== Conflict with non-contesters ===
+Contests can bring very large numbers of stations to the high frequency radio bands in a short period of time.  Because the amount of radio spectrum available is limited, this can result in significant competition for frequencies.  Since stations in the Amateur Radio Service must share spectrum and are not assigned specific channels, no one station, contester or otherwise, has a right to use any particular frequency in a radio band.  During big contest weekends, thousands of contesters take to the air causing much contention.
+Most noticeably in the UK and the USA, the increasing amount of contest traffic on the popular HF bands at weekends has meant that some operators intending to experiment or conduct traditional rag-chews have been obstructed by contesters using high power levels, or operating outside the regional band plan.
+Some contest sponsors have been sympathetic to this issue and have adapted their contest rules by defining non-contest windows.  A non-contest window is a portion of the band in which stations may not solicit contest contacts.  However, these can have unexpected, negative side-effects.  One such side-effect is that some windows completely prevent some stations from participating since the window may be their only available frequency band. Contesters contend that several HF Amateur radio bands (30 meters, 17 meters, and 12 meters) are completely contest-free by a kind of "gentleman's agreement", and more suitable for those who wish to avoid contest activity completely.  Non-contesters counter that these bands are smaller and far less popular than the bands contesters use and that propagation conditions make contacts difficult.  Also, 30 meters is a CW/digital-only band which leaves nothing below 17 meters for voice contacts.
+
+
+=== Controversies regarding voluntary band plans ===
+The amateur radio regulations in some countries restrict which mode of emission can be used in which portions of each radio band.  One subband may allow CW or RTTY whereas other subbands may be designated for telephony or image communications.  In some portions of the world, these subband designations are not regulated, but are specified in voluntary bandplans. A great deal of effort goes into agreeing bandplans at an international level and most operators adhere to them. Non contesters argue that while everyone else conforms to the bandplans contesters assume they can do what ever they want. This one aspect of contesters' behaviour causes the most anger and disagreement.
+The IARU Region I bandplan specifies that phone emissions should remain above 7050 kHz, with CW emissions below.  In major worldwide phone contests, stations often operate phone below 7050 kHz, including those in IARU Region I.  Many object to the use of phone emissions in spectrum designated for CW use and argue that contesters should observe the bandplan just as others do.
+
+
+== Controversies in VHF contests ==
+
+
+=== Captive rovers ===
+In North American VHF radio contests, rover stations are those that travel from one Maidenhead grid locator to another.  The rules of major VHF contests allow these stations to make two-way contacts with other stations from each unique grid locator in which they travel.  Rover activity is responsible for contest operations from many grid locators that might otherwise not have any active contest stations.
+A captive rover is a rover station whose contest operation is intended specifically or primarily for the benefit of another fixed station.  A captive rover might travel to locations in several different grid locators and make two-way contacts only with one specific multi-operator station in the contest.  That station benefits from the activity of the rover station, whereas its competition in the contest cannot receive the same potential benefit.  A fixed station that is helped by multiple captive rovers can generate a very large score making two-way contacts with only a small set of rovers.
+This kind of highly coordinated operation is very controversial, and several efforts have been made in contest rules to discourage it.  Some argue that it is far too difficult to define exactly what conditions would merit disqualifying a station and its contacts as a captive rover station.  Others openly acknowledge the activity, and argue that until the contest rules are capable of explicitly prohibiting it in a way that is fair and enforceable, that it should be allowed to continue.
+
+
+=== Grid circling ===
+Grid circling is a highly coordinated operation of two or more rover stations.  Two or more rover stations arrive at an area near the intersection of four Maidenhead grid locators, and "circle" through the possible combinations of grid locators, making contacts in each combination.  The rover stations then drive to the next intersection of grid locators on their planned route and repeat the process.  Stations participating in grid circling do not need to be capable of communicating over distances longer than a few miles.  Even without making contact with any other stations in the contest, grid circling stations can generate large scores just by contacting the other stations in their small, tightly-coordinated group.
+Some object to the activity because it does not contribute to the contest at large; the stations in the grid circling effort generally do not contact many other stations in the contest.  Others object to the unfairness of these stations competing in the same category as other rover stations that do not grid circle, and who are at a perceived scoring disadvantage.  Grid circlers themselves often argue that the technical and operational challenges of such an operation represent significant achievement, and the activity, if discouraged, is not explicitly prohibited.  Some suggest that grid circling should be allowed, but such teams of station should be ranked in a separate category from other rovers.
+
+
+=== Real-time schedules ===
+Most contests prohibit the use of non-radio means to solicit contacts during the contest period.  This does not prevent stations before a contest starts from making schedules (or skeds) with other stations to attempt two-way contacts during the contest.  These schedules are often made for attempts at marginal propagation paths, or contacts over great distance, and are often made during the middle of the night when other contest activity is low.
+Newer digital operational modes such as JT65 and FSK441 require accurate timing coordination between stations.  While skeds for contacts made with these modes can be made before the contest, during non-contest times several web sites are used to make impromptu real-time skeds, and these web sites have been used during contests as well.  As these advanced digital modes become more popular, the temptation to make real-time skeds with contest stations may remain powerful to some.
+
+
+== References ==
+
+
+== Forums for discussion ==
+RC.N Forums
+Contesting Online
+CQ-Contest Email Reflector
+VHF Contesting Email Reflector
+Contesting Blogs and Forums
+
+
+== Ham Radio Contest News ==
+radio-sport.net

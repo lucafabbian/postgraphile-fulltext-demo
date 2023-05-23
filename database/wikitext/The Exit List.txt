@@ -1,0 +1,43 @@
+The Exit List is a British game show that aired on ITV from 10 January to 28 February 2012, hosted by Matt Allwright.
+
+
+== Format ==
+Two contestants play as a team in each episode, first trying to accumulate as much money as possible by answering questions, then attempting to win it by recalling the answers they have given as their "Exit List".The main game is played in the "Memory Maze", an arrangement of 26 identical rooms in six rows. Each room contains a vault with a computer display and two glass cylinders inserted vertically into a console. The first row, where the team enters, has one room; the second and third rows have three each; the fourth row has five; and the fifth and sixth rows have seven each. Upon entering a room and activating its display, the team is confronted with one of the following:
+
+A question for a prize of £1,000, £2,000, £3,000, £4,000, £5,000, or £10,000, increasing from first row to sixth;
+A question for a prize of £100,000, hidden in one room on the sixth row; or
+One of five "Panic Rooms" randomly hidden throughout the Memory Maze.
+
+
+=== Questions ===
+When a question is found, the host reads it to them and gives four possible answers. The contestants have 30 seconds to answer, starting as soon as the fourth choice appears on the room's display, and cannot change their minds once they verbally state that they want to "lock in" their choice. A correct response allows the contestants to retrieve the cash value of the question from the room's vault and add it to a briefcase they must carry with them throughout the game. The correct answer is then added to their Exit List. If the contestants answer incorrectly or fail to lock in an answer in time, they win no money and all four choices are added to the Exit List as a group.
+
+
+=== Panic Rooms ===
+If the contestants enter a Panic Room, they are shown a series of 10 images and related information in quick succession. The images are then presented one at a time, in random order, and the contestants have 30 seconds to provide the related information for each. Multiple guesses by either contestant are allowed, and they may pass on an item and return to it after playing through all 10 if time permits. No money is at stake in the Panic Rooms.
+If the contestants successfully complete the challenge, their Exit List remains intact. Otherwise, an alphanumeric "Panic Code" is generated using the first character of each missed answer, in the order that they were first shown. This Panic Code is added to the Exit List.
+
+
+=== Movement ===
+The contestants enter the Memory Maze through the single room on the first row and must always proceed ahead, left, or right. They may not return to any previously visited rooms or back up past their current row. When they answer a question correctly or complete a Panic Room challenge, they may move ahead into the next row if they wish, or go to either side as permitted. If the contestants answer a question incorrectly or fail to complete a Panic Room challenge, the door in front of them becomes blocked and they must move to one side or the other.
+At the end of each question or Panic Room, the entire Exit List is read aloud with any new items added, and the host advises the contestants of the categories of any rooms open to them and offers them a chance to exit the Memory Maze.
+If the contestants become blocked in and unable to move, they may advance to the next row at the cost of giving up all their winnings to that point. In this case, their Exit List will continue to grow as they visit more rooms. They may also choose to exit the Memory Maze and avoid giving up the money.
+
+
+=== Exiting the Maze ===
+When the contestants choose to exit, each removes one of the two glass cylinders from the console in the room where they have stopped. One cylinder is shorter than the other; the contestant who draws this one must remain in the room while their partner exits the Memory Maze. They don a pair of headphones so that they cannot hear any discussions between the partner and the host. The partner is presented with a cash offer, based on the accumulated winnings and the length of the Exit List, and must decide whether to accept or reject it. The decision is kept secret from everyone else at this point.
+After the contestant still in the Memory Maze removes the headphones, the lights to mark the team's route are turned off and they must backtrack to the entrance one room at a time, following that exact route and carrying the case of money. In each room, starting with the one in which the team decided to exit, they must state one item on the Exit List. They must stay in a room until recalling an item and may offer multiple guesses without penalty. The items may be recalled in any order, but any groups of four items (the result of a missed question) must be given together (not necessarily in order) to count; in addition, any Panic Codes must be recited in exact order. The clock is set to 10 seconds multiplied by the number of rooms visited (e.g. 90 seconds for 9 rooms). Entering a room not on the route triggers a klaxon and requires the contestant to find the correct next step as the clock continues to run; there are no other penalties.
+After the contestant either succeeds or fails in exiting the Memory Maze within the given time, their partner's decision is revealed. If the partner has rejected the offer, the team wins all the money they accumulated for a successful exit, or nothing in the event of a failure. However, if the partner has accepted, the team wins that amount of cash regardless of the outcome for the exit attempt.
+
+
+== International versions ==
+   Currently airing   No longer airing   Non-broadcast pilot
+
+The Hungarian version of the show is called "A kód" ("the code"). The memory maze is different from the original version. Instead of rooms there are just normal squares without walls. The host follows the contestants in the maze so there is more interaction between him and the players. The structure of the maze and the rules of the Panic rooms are the same like in the original version. The price for a question is 50 000 Ft, 100,000 Ft, 150 000 Ft, 200,000 Ft, 300 000 Ft, and 500 000 Ft depending on which row the vault sits on. Price of the Jackpot is 5 000 000 Ft which is hidden in one random vault on the back row.
+
+
+== References ==
+
+
+== External links ==
+The Exit List at UKGameshows.com

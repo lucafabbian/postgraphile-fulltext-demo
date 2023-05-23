@@ -1,0 +1,14 @@
+Methylation specific oligonucleotide microarray, also known as MSO microarray, was developed as a technique to map epigenetic methylation changes in DNA of cancer cells.The general process starts with modification of DNA with bisulfite, specifically to convert unmethylated cytosine in CpG sites to uracil, while leaving methylated cytosines untouched. The modified DNA region of interest is amplified via PCR and during the process, uracils are converted to thymine. The amplicons are labelled with a fluorescent dye and hybridized to oligonucleotide probes that are fixed to a glass slide. The probes differentially bind to cytosine and thymine residues, which ultimately allows discrimination between methylated and unmethylated CpG sites, respectively.A calibration curve is produced and compared with the microarray results of the amplified DNA samples. This allows a general quantification of the proportion of methylation present in the region of interest.This microarray technique was developed by Tim Hui-Ming Huang and his laboratory and was officially published in 2002.
+
+
+== Implications for cancer research ==
+Cancer cells often develop atypical methylation patterns, at CpG sites in promoters of tumour suppressor genes. High levels of methylation at a promoter leads to downregulation of the corresponding genes and is characteristic of carcinogenesis. It is one of the most consistent changes observed in early stage tumour cells. Methylation specific oligonucleotide microarray allows for the high resolution and high throughput detection of numerous methylation events on multiple gene promoters. Therefore, this technique can be used to detect aberrant methylation in tumour suppressor promoters at an early stage and has been used in gastric and colon cancers and multiple others. Because it allows one to detect presence of atypical methylations in cancer cells, it can also be used to reveal the major cause behind the malignancy, whether its main contributor is mutations on chromosomes or epigenetic modifications, as well as which tumour suppressor genes' transcription levels are affected. An interesting use of this microarray includes specific classification of cancers based on the methylation patterns alone, such as differentiating between classes of leukemia, suggesting that different classes of cancer show relatively unique methylation patterns. This technique has also been proposed to monitor cancer treatments that involve modifying the methylation patterns in mutant cancer cells.
+
+
+== References ==
+
+
+== External links ==
+
+Resources, information and specific protocols for DNA Methylation Analysis
+Software for DNA Methylation Analysis

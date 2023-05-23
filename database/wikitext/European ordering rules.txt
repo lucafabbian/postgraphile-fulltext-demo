@@ -1,0 +1,54 @@
+The European ordering rules (EOR / EN 13710), define an ordering for strings written in languages that are written with the Latin, Greek and Cyrillic alphabets. The standard covers languages used by the European Union, the European Free Trade Association, and parts of the former Soviet Union. It is a tailoring of the Common Tailorable Template of ISO/IEC 14651. EOR can in turn be tailored for different (European) languages. But in inter-European contexts, EOR can be used without further tailoring.
+
+
+== Method ==
+Just as for ISO/IEC 14651, upon which EOR is based, EOR has 4 levels of weights.
+Level 1 sorts the letters. The following Latin letters are concerned by this level, in order:
+
+a b c d ð e ə ɛ f g h i j k l m n o ɔ p q r s ɯ t u v w x y z þ æThe Greek alphabet has the following order:
+
+α β γ δ ε Ϝ Ϛ ζ η θ ι κ λ μ ν ξ ο π Ϟ ρ σ τ υ φ χ ψ ω ϠCyrillic script has the following order:
+
+а ӑ ӓ ә ӛ ӕ б в г ғ ҕ ґ д ђ ҙ е ӗ ё є є̈ ж ӝ җ ӂ з ӟ з́ ѕ ӡ и ӥ і ї й ј к қ ӄ ҡ ҟ ҝ л љ ꙥ м ꙧ н ң ӊ ҥ њ ӈ о ӧ ŏ ө ӫ ө̆ ѡ ꙍ ҩ п ҧ р с ҫ с́ т ҭ ћ у ў ӱ ӳ ү ұ ф х ҳ ӽ ѯ һ ц ҵ ч ӵ ҷ ӌ ҹ ҽ ҿ џ ш щ ъ ы ӹ ь ѣ э ю ю̆ я я̆ Ӏ ѫ ѭ ѧ ѩ ѱ ѳ ѵ ѷ ҁ ꙟThe order for the three alphabets is:
+
+Latin alphabet
+Greek alphabet
+Cyrillic alphabetThe Georgian and Armenian alphabets have not been included in ENV 13710. However, they are covered in CR 14400:2001 "European ordering rules – Ordering for Latin, Greek, Cyrillic, Georgian and Armenian scripts". All scripts encoded in ISO/IEC 10646 and Unicode are covered by ISO/IEC 14651 (and its datafile CTT) as well as Unicode collation algorithm (UCA and the associated DUCET), both of which are available at no charge.
+Level 2 is where different additions, such as diacritics and variations, to the letters are ordered. Letters with diacritical marks (like ⟨å⟩, ⟨ä⟩, ⟨ö⟩, and ⟨ø⟩) are ordered as variants of the base letter. ⟨æ⟩, ⟨œ⟩, ⟨ĳ⟩ and ⟨ŋ⟩ are ordered as modifications of ⟨ae⟩, ⟨oe⟩, ⟨ij⟩ and ⟨n⟩ respectively, similarly for similar cases.
+Level 2 defines the following order of diacritics and other modifications:
+
+Acute accent (á)
+Grave accent (à)
+Breve (ă)
+Circumflex (â)
+Caron (š)
+Ring (å)
+Diaeresis (ä)
+Double acute accent (ő)
+Tilde (ã)
+Dot (ż)
+Cedilla (ş)
+Ogonek (ą)
+Macron (ā)
+With stroke through (ø)
+Modified letter(s) (æ)Level 3 makes the distinction between Capital and small letters, as in "Polish" and "polish".
+Level 4 concerns punctuation and whitespace characters. This level makes the distinction between "MacDonald" and "Mac Donald", "its" and "it's".
+An optional, and usually omitted, fifth level can distinguish typographical differences, including whether the text is italic, normal or bold.
+
+
+== See also ==
+Collation
+Common Locale Data Repository (CLDR)
+Unicode
+Universal Character Set
+DIN 91379 – a European Unicode subset (also includes Greek and Cyrillic for Bulgarian), uses UTF-8 at interfaces, normalization form C (NFC) – a German 2022 standard; will be mandatory for German authorities and organizations in the exchange of data from 1 November 2024
+UTF-8
+
+
+== References ==
+
+Notes
+
+
+== External links ==
+European Ordering Rules, ENV 13710 – a "European Pre-Standard"

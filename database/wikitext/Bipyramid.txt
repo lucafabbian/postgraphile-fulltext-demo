@@ -1,0 +1,749 @@
+A (symmetric) n-gonal bipyramid or dipyramid is a polyhedron formed by joining an n-gonal pyramid and its mirror image base-to-base. An n-gonal bipyramid has 2n triangle faces, 3n edges, and 2 + n vertices.
+The "n-gonal" in the name of a bipyramid does not refer to a face but to the internal polygon base, lying in the mirror plane that connects the two pyramid halves. (If it were a face, then each of its edges would connect three faces instead of two.)
+
+
+== "Regular", right bipyramids ==
+A "regular" bipyramid has a regular polygon base. It is usually implied to be also a right bipyramid.
+A right bipyramid has its two apices right above and right below the center or the centroid of its polygon base.
+A "regular" right (symmetric) n-gonal bipyramid has Schläfli symbol { } + {n}.
+A right (symmetric) bipyramid has Schläfli symbol { } + P, for polygon base P.
+The "regular" right (thus face-transitive) n-gonal bipyramid with regular vertices is the dual of the n-gonal uniform (thus right) prism, and has congruent isosceles triangle faces.
+A "regular" right (symmetric) n-gonal bipyramid can be projected on a sphere or globe as a "regular" right (symmetric) n-gonal spherical bipyramid: n equally spaced lines of longitude going from pole to pole, and an equator line bisecting them.
+
+
+== Equilateral triangle bipyramids ==
+Only three kinds of bipyramids can have all edges of the same length (which implies that all faces are equilateral triangles, and thus the bipyramid is a deltahedron): the "regular" right (symmetric) triangular, tetragonal, and pentagonal bipyramids. The tetragonal or square bipyramid with same length edges, or regular octahedron, counts among the Platonic solids; the triangular and pentagonal bipyramids with same length edges count among the Johnson solids (J12 and J13).
+
+
+== Kaleidoscopic symmetry ==
+A "regular" right (symmetric) n-gonal bipyramid has dihedral symmetry group Dnh, of order 4n, except in the case of a regular octahedron, which has the larger octahedral symmetry group Oh, of order 48, which has three versions of D4h as subgroups. The rotation group is Dn, of order 2n, except in the case of a regular octahedron, which has the larger rotation group O, of order 24, which has three versions of D4 as subgroups.
+Note: Every "regular" right (symmetric) n-gonal bipyramid has the same (dihedral) symmetry group as the dual-uniform n-gonal bipyramid, for n ≠ 4.
+The 4n triangle faces of a "regular" right (symmetric) 2n-gonal bipyramid, projected as the 4n spherical triangle faces of a "regular" right (symmetric) 2n-gonal spherical bipyramid, represent the fundamental domains of dihedral symmetry in three dimensions: Dnh, [n,2], (*n22), of order 4n. These domains can be shown as alternately colored spherical triangles:
+
+across a reflection plane through cocyclic edges, mirror image domains are in different colors (indirect isometry);
+about an n-fold or a 2-fold rotation axis through opposite vertices, a domain and its image are in the same color (direct isometry).An n-gonal (symmetric) bipyramid can be seen as the Kleetope of the "corresponding" n-gonal dihedron.
+
+
+== Volume ==
+Volume of a (symmetric) bipyramid:
+
+where B is the area of the base and h the height from the base plane to any apex.
+This works for any shape of the base, and for any location of the apices, provided that h is measured as the perpendicular distance from the base plane to any apex. Hence:
+Volume of a (symmetric) bipyramid whose base is a regular n-sided polygon with side length s and whose height is h:
+
+
+== Oblique bipyramids ==
+Non-right bipyramids are called oblique bipyramids.
+
+
+== Concave bipyramids ==
+A concave bipyramid has a concave polygon base.
+
+(*) Its base has no obvious center; but if its apices are right above and right below the centroid of its base, then it is a right bipyramid. Anyway, it is a concave octahedron.
+
+
+== Asymmetric/inverted right bipyramids ==
+An asymmetric right bipyramid joins two right pyramids with congruent bases but unequal heights, base-to-base.
+An inverted right bipyramid joins two right pyramids with congruent bases but unequal heights, base-to-base, but on the same side of their common base.
+The dual of an asymmetric/inverted right n-gonal bipyramid is an n-gonal frustum.
+A "regular" asymmetric/inverted right n-gonal bipyramid has symmetry group Cnv, of order 2n.
+
+
+== Scalene triangle bipyramids ==
+
+An "isotoxal" right (symmetric) di-n-gonal bipyramid is a right (symmetric) 2n-gonal bipyramid with an isotoxal flat polygon base: its 2n basal vertices are coplanar, but alternate in two radii.
+All its faces are congruent scalene triangles, and it is isohedral. It can be seen as another type of a right "symmetric" di-n-gonal scalenohedron, with an isotoxal flat polygon base.
+An "isotoxal" right (symmetric) di-n-gonal bipyramid has n two-fold rotation axes through opposite basal vertices, n reflection planes through opposite apical edges, an n-fold rotation axis through apices, a reflection plane through base, and an n-fold rotation-reflection axis through apices, representing symmetry group Dnh, [n,2], (*22n), of order 4n. (The reflection about the base plane corresponds to the 0° rotation-reflection. If n is even, then there is an inversion symmetry about the center, corresponding to the 180° rotation-reflection.)
+Example with 2n = 2×3:
+
+An "isotoxal" right (symmetric) ditrigonal bipyramid has three similar vertical planes of symmetry, intersecting in a (vertical) 3-fold rotation axis; perpendicular to them is a fourth plane of symmetry (horizontal); at the intersection of the three vertical planes with the horizontal plane are three similar (horizontal) 2-fold rotation axes; there is no center of inversion symmetry, but there is a center of symmetry: the intersection point of the four axes.Example with 2n = 2×4:
+
+An "isotoxal" right (symmetric) ditetragonal bipyramid has four  vertical planes of symmetry of two kinds, intersecting in a (vertical) 4-fold rotation axis; perpendicular to them is a fifth plane of symmetry (horizontal); at the intersection of the four vertical planes with the horizontal plane are four (horizontal) 2-fold rotation axes of two kinds, each perpendicular to a plane of symmetry; two vertical planes bisect the angles between two horizontal axes; and there is a centre of inversion symmetry.Note: For at most two particular values of zA = |zA'|, the faces of such a scalene triangle bipyramid may be isosceles.Double example:
+
+The bipyramid with isotoxal 2×2-gon base vertices:U = (1,0,0), U′ = (−1,0,0), V = (0,2,0), V′ = (0,−2,0),
+and with "right" symmetric apices:
+A = (0,0,1), A′ = (0,0,−1),
+has its faces isosceles. Indeed:
+upper apical edge lengths:
+AU = AU′ = 
+  
+    
+      
+        
+          
+            2
+          
+        
+        ,
+      
+    
+    {\displaystyle {\sqrt {2}},}
+  
+AV = AV′ = 
+  
+    
+      
+        
+          
+            5
+          
+        
+        ;
+      
+    
+    {\displaystyle {\sqrt {5}};}
+  
+base edge length:
+UV = VU′ = U′V' = V′U = 
+  
+    
+      
+        
+          
+            5
+          
+        
+        ;
+      
+    
+    {\displaystyle {\sqrt {5}};}
+  
+lower apical edge lengths = upper ones.The bipyramid with same base vertices, but with "right" symmetric apices:A = (0,0,2), A′ = (0,0,−2),
+also has its faces isosceles. Indeed:
+upper apical edge lengths:
+AU = AU′ = 
+  
+    
+      
+        
+          
+            5
+          
+        
+        ,
+      
+    
+    {\displaystyle {\sqrt {5}},}
+  
+AV = AV′ = 2
+  
+    
+      
+        
+          
+            2
+          
+        
+        ;
+      
+    
+    {\displaystyle {\sqrt {2}};}
+  
+base edge length = previous one = 
+  
+    
+      
+        
+          
+            5
+          
+        
+        ;
+      
+    
+    {\displaystyle {\sqrt {5}};}
+  
+lower apical edge lengths = upper ones.In crystallography, "isotoxal" right (symmetric) "didigonal" (*) (8-faced), ditrigonal (12-faced), ditetragonal (16-faced), and dihexagonal (24-faced) bipyramids exist.
+
+(*) The smallest geometric di-n-gonal bipyramids have eight faces, and are topologically identical to the regular octahedron. In this case (2n = 2×2):an "isotoxal" right (symmetric) "didigonal" bipyramid is called a rhombic bipyramid, although all its faces are scalene triangles, because its flat polygon base is a rhombus.
+
+
+== Scalenohedra ==
+
+A "regular" right "symmetric" di-n-gonal scalenohedron is defined by a regular zigzag skew 2n-gon base, two symmetric apices right above and right below the base center, and triangle faces connecting each basal edge to each apex.
+It has two apices and 2n basal vertices, 4n faces, and 6n edges; it is topologically identical to a 2n-gonal bipyramid, but its 2n basal vertices alternate in two rings above and below the center.All its faces are congruent scalene triangles, and it is isohedral. It can be seen as another type of a right "symmetric" di-n-gonal bipyramid, with a regular zigzag skew polygon base.
+A "regular" right "symmetric" di-n-gonal scalenohedron has n two-fold rotation axes through opposite basal mid-edges, n reflection planes through opposite apical edges, an n-fold rotation axis through apices, and a 2n-fold rotation-reflection axis through apices (about which 1n rotations-reflections globally preserve the solid), representing symmetry group Dnv = Dnd, [2+,2n], (2*n), of order 4n. (If n is odd, then there is an inversion symmetry about the center, corresponding to the 180° rotation-reflection.)
+Example with 2n = 2×3:
+
+A "regular" right "symmetric" ditrigonal scalenohedron has three similar vertical planes of symmetry inclined to one another at 60° and intersecting in a (vertical) 3-fold rotation axis, three similar horizontal 2-fold rotation axes, each perpendicular to a plane of symmetry, a center of inversion symmetry, and a vertical 6-fold rotation-reflection axis.Example with 2n = 2×2:
+
+A "regular" right "symmetric" "didigonal" scalenohedron has only one vertical and two horizontal 2-fold rotation axes, two vertical planes of symmetry, which bisect the angles between the horizontal pair of axes, and a vertical 4-fold rotation-reflection axis; it has no center of inversion symmetry.
+Note: For at most two particular values of zA = |zA'|, the faces of such a scalenohedron may be isosceles.
+Double example:
+
+The scalenohedron with regular zigzag skew 2×2-gon base vertices:U = (3,0,2), U' = (−3,0,2), V = (0,3,−2), V' = (0,−3,−2),
+and with "right" symmetric apices:
+A = (0,0,3), A' = (0,0,−3),
+has its faces isosceles. Indeed:
+upper apical edge lengths:
+AU = AU' = 
+  
+    
+      
+        
+          
+            10
+          
+        
+        ,
+      
+    
+    {\displaystyle {\sqrt {10}},}
+  
+AV = AV' = 
+  
+    
+      
+        
+          
+            34
+          
+        
+        ;
+      
+    
+    {\displaystyle {\sqrt {34}};}
+  
+base edge length:
+UV = VU' = U'V' = V'U = 
+  
+    
+      
+        
+          
+            34
+          
+        
+        ;
+      
+    
+    {\displaystyle {\sqrt {34}};}
+  
+lower apical edge lengths = (swapped) upper ones.The scalenohedron with same base vertices, but with "right" symmetric apices:A = (0,0,7), A' = (0,0,−7),
+also has its faces isosceles. Indeed:
+upper apical edge lengths:
+AU = AU' = 
+  
+    
+      
+        
+          
+            34
+          
+        
+        ,
+      
+    
+    {\displaystyle {\sqrt {34}},}
+  
+AV = AV' = 3
+  
+    
+      
+        
+          
+            10
+          
+        
+        ;
+      
+    
+    {\displaystyle {\sqrt {10}};}
+  
+base edge length = previous one = 
+  
+    
+      
+        
+          
+            34
+          
+        
+        ;
+      
+    
+    {\displaystyle {\sqrt {34}};}
+  
+lower apical edge lengths = (swapped) upper ones.In crystallography, "regular" right "symmetric" "didigonal" (8-faced) and ditrigonal (12-faced) scalenohedra exist.The smallest geometric scalenohedra have eight faces, and are topologically identical to the regular octahedron. In this case (2n = 2×2), in crystallography, a "regular" right "symmetric" "didigonal" (8-faced) scalenohedron is called a tetragonal scalenohedron.Let us temporarily focus on the "regular" right "symmetric" 8-faced scalenohedra with h = r, i.e. zA = |zA'| = xU = |xU'| = yV = |yV'|. Their two apices can be represented as A = (0,0,1), A' = (0,0,−1), and their four basal vertices as U = (1,0,z), U' = (−1,0,z), V = (0,1,−z), V' = (0,−1,−z), where z is a parameter between 0 and 1.At z = 0, it is a regular octahedron; at z = 1, it has four pairs of coplanar faces, and merging these into four congruent isosceles triangles makes it a disphenoid; for z > 1, it is concave.
+
+Note: If the 2n-gon base is both isotoxal in-out and zigzag skew, then not all faces of the "isotoxal" right "symmetric" scalenohedron are congruent.
+Example with five different edge lengths:
+
+The scalenohedron with isotoxal in-out zigzag skew 2×2-gon base vertices:
+U = (1,0,1), U′ = (−1,0,1), V = (0,2,−1), V′ = (0,−2,−1),
+and with "right" symmetric apices:
+A = (0,0,3), A′ = (0,0,−3),
+has congruent scalene upper faces, and congruent scalene lower faces, but not all its faces are congruent. Indeed:
+upper apical edge lengths:
+AU = AU′ = 
+  
+    
+      
+        
+          
+            5
+          
+        
+        ,
+      
+    
+    {\displaystyle {\sqrt {5}},}
+  
+AV = AV′ = 2
+  
+    
+      
+        
+          
+            5
+          
+        
+        ;
+      
+    
+    {\displaystyle {\sqrt {5}};}
+  
+base edge length:
+UV = VU′ = U′V' = V′U = 3;
+lower apical edge lengths:
+A′U = A′U′ = 
+  
+    
+      
+        
+          
+            17
+          
+        
+        ,
+      
+    
+    {\displaystyle {\sqrt {17}},}
+  
+A′V = A′V′ = 2
+  
+    
+      
+        
+          
+            2
+          
+        
+        .
+      
+    
+    {\displaystyle {\sqrt {2}}.}
+  Note: For some particular values of zA = |zA'|, half the faces of such a scalenohedron may be isosceles or equilateral.
+Example with three different edge lengths:
+
+The scalenohedron with isotoxal in-out zigzag skew 2×2-gon base vertices:
+U = (3,0,2), U' = (−3,0,2), V = (0,
+  
+    
+      
+        
+          
+            65
+          
+        
+      
+    
+    {\displaystyle {\sqrt {65}}}
+  ,−2), V' = (0,−
+  
+    
+      
+        
+          
+            65
+          
+        
+      
+    
+    {\displaystyle {\sqrt {65}}}
+  ,−2),
+and with "right" symmetric apices:
+A = (0,0,7), A' = (0,0,−7),
+has congruent scalene upper faces, and congruent equilateral lower faces; thus not all its faces are congruent. Indeed:
+upper apical edge lengths:
+AU = AU' = 
+  
+    
+      
+        
+          
+            34
+          
+        
+        ,
+      
+    
+    {\displaystyle {\sqrt {34}},}
+  
+AV = AV' = 
+  
+    
+      
+        
+          
+            146
+          
+        
+        ;
+      
+    
+    {\displaystyle {\sqrt {146}};}
+  
+base edge length:
+UV = VU' = U'V' = V'U = 3
+  
+    
+      
+        
+          
+            10
+          
+        
+        ;
+      
+    
+    {\displaystyle {\sqrt {10}};}
+  
+lower apical edge length(s):
+A'U = A'U' = 3
+  
+    
+      
+        
+          
+            10
+          
+        
+        ,
+      
+    
+    {\displaystyle {\sqrt {10}},}
+  
+A'V = A'V' = 3
+  
+    
+      
+        
+          
+            10
+          
+        
+        .
+      
+    
+    {\displaystyle {\sqrt {10}}.}
+  
+
+
+== "Regular" star bipyramids ==
+A self-intersecting or star bipyramid has a star polygon base.
+A "regular" right symmetric star bipyramid is defined by a regular star polygon base, two symmetric apices right above and right below the base center, and thus one-to-one symmetric triangle faces connecting each basal edge to each apex.
+A "regular" right symmetric star bipyramid has congruent isosceles triangle faces, and is isohedral.
+Note: For at most one particular value of zA = |zA'|, the faces of such a "regular" star bipyramid may be equilateral.
+A p/q-bipyramid has Coxeter diagram .
+
+
+== Scalene triangle star bipyramids ==
+An "isotoxal" right symmetric 2p/q-gonal star bipyramid is defined by an isotoxal in-out star 2p/q-gon base, two symmetric apices right above and right below the base center, and thus one-to-one symmetric triangle faces connecting each basal edge to each apex.
+An "isotoxal" right symmetric 2p/q-gonal star bipyramid has congruent scalene triangle faces, and is isohedral. It can be seen as another type of a 2p/q-gonal right "symmetric" star scalenohedron, with an isotoxal in-out star polygon base.
+Note: For at most two particular values of zA = |zA'|, the faces of such a scalene triangle star bipyramid may be isosceles.
+
+
+== Star scalenohedra ==
+A "regular" right "symmetric" 2p/q-gonal star scalenohedron is defined by a regular zigzag skew star 2p/q-gon base, two symmetric apices right above and right below the base center, and triangle faces connecting each basal edge to each apex.
+A "regular" right "symmetric" 2p/q-gonal star scalenohedron has congruent scalene triangle faces, and is isohedral. It can be seen as another type of a right "symmetric" 2p/q-gonal star bipyramid, with a regular zigzag skew star polygon base.
+Note: For at most two particular values of zA = |zA'|, the faces of such a star scalenohedron may be isosceles.
+
+Note: If the star 2p/q-gon base is both isotoxal in-out and zigzag skew, then not all faces of the "isotoxal" right "symmetric" star scalenohedron are congruent.
+
+Note: For some particular values of zA = |zA'|, half the faces of such a star scalenohedron may be isosceles or equilateral.
+Example with four different edge lengths:
+
+The star scalenohedron with isotoxal in-out zigzag skew 8/3-gon base vertices:
+U0 = (1,0,1), U1 = (0,1,1), U2 = (−1,0,1), U3 = (0,−1,1),
+V0 = (2,2,−1), V1 = (−2,2,−1), V2 = (−2,−2,−1), V3 = (2,−2,−1),
+and with "right" symmetric apices:
+A = (0,0,3), A′ = (0,0,−3),
+has congruent scalene upper faces, and congruent isosceles lower faces; thus not all its faces are congruent. Indeed:
+upper apical edge lengths:
+AU0 = AU1 = AU2 = AU3 = 
+  
+    
+      
+        
+          
+            5
+          
+        
+        ,
+      
+    
+    {\displaystyle {\sqrt {5}},}
+  
+AV0 = AV1 = AV2 = AV3 = 2
+  
+    
+      
+        
+          
+            6
+          
+        
+        ;
+      
+    
+    {\displaystyle {\sqrt {6}};}
+  
+base edge length:
+U0V1 = V1U3 = U3V0 = V0U2 = U2V3 = V3U1 = U1V2 = V2U0 = 
+  
+    
+      
+        
+          
+            17
+          
+        
+        ;
+      
+    
+    {\displaystyle {\sqrt {17}};}
+  
+lower apical edge lengths:
+A′U0 = A′U1 = A′U2 = A′U3 = 
+  
+    
+      
+        
+          
+            17
+          
+        
+        ,
+      
+    
+    {\displaystyle {\sqrt {17}},}
+  
+A′V0 = A′V1 = A′V2 = A′V3 = 2
+  
+    
+      
+        
+          
+            3
+          
+        
+        .
+      
+    
+    {\displaystyle {\sqrt {3}}.}
+  Example with three different edge lengths:
+
+The star scalenohedron with isotoxal in-out zigzag skew 8/3-gon base vertices:
+U0 = (4,0,
+  
+    
+      
+        
+          
+            2
+          
+        
+      
+    
+    {\displaystyle {\sqrt {2}}}
+  ), U1 = (0,4,
+  
+    
+      
+        
+          
+            2
+          
+        
+      
+    
+    {\displaystyle {\sqrt {2}}}
+  ), U2 = (−4,0,
+  
+    
+      
+        
+          
+            2
+          
+        
+      
+    
+    {\displaystyle {\sqrt {2}}}
+  ), U3 = (0,−4,
+  
+    
+      
+        
+          
+            2
+          
+        
+      
+    
+    {\displaystyle {\sqrt {2}}}
+  ),
+V0 = (6,6,−
+  
+    
+      
+        
+          
+            2
+          
+        
+      
+    
+    {\displaystyle {\sqrt {2}}}
+  ), V1 = (−6,6,−
+  
+    
+      
+        
+          
+            2
+          
+        
+      
+    
+    {\displaystyle {\sqrt {2}}}
+  ), V2 = (−6,−6,−
+  
+    
+      
+        
+          
+            2
+          
+        
+      
+    
+    {\displaystyle {\sqrt {2}}}
+  ), V3 = (6,−6,−
+  
+    
+      
+        
+          
+            2
+          
+        
+      
+    
+    {\displaystyle {\sqrt {2}}}
+  ),
+and with "right" symmetric apices:
+A = (0,0,7
+  
+    
+      
+        
+          
+            2
+          
+        
+      
+    
+    {\displaystyle {\sqrt {2}}}
+  ), A' = (0,0,−7
+  
+    
+      
+        
+          
+            2
+          
+        
+      
+    
+    {\displaystyle {\sqrt {2}}}
+  ),
+has congruent scalene upper faces, and congruent equilateral lower faces; thus not all its faces are congruent. Indeed:
+upper apical edge lengths:
+AU0 = AU1 = AU2 = AU3 = 2
+  
+    
+      
+        
+          
+            22
+          
+        
+        ,
+      
+    
+    {\displaystyle {\sqrt {22}},}
+  
+AV0 = AV1 = AV2 = AV3 = 10
+  
+    
+      
+        
+          
+            2
+          
+        
+        ;
+      
+    
+    {\displaystyle {\sqrt {2}};}
+  
+base edge length:
+U0V1 = V1U3 = U3V0 = V0U2 = U2V3 = V3U1 = U1V2 = V2U0 = 12;
+lower apical edge length(s):
+A'U0 = A'U1 = A'U2 = A'U3 = 12,
+A'V0 = A'V1 = A'V2 = A'V3 = 12.
+
+
+== 4-polytopes with bipyramidal cells ==
+The dual of the rectification of each convex regular 4-polytopes is a cell-transitive 4-polytope with bipyramidal cells.  In the following, the apex vertex of the bipyramid is A and an equator vertex is E.  The distance between adjacent vertices on the equator EE = 1, the apex to equator edge is AE and the distance between the apices is AA.  The bipyramid 4-polytope will have VA vertices where the apices of NA bipyramids meet.  It will have VE vertices where the type E vertices of NE bipyramids meet.  NAE bipyramids meet along each type AE edge. NEE bipyramids meet along each type EE edge.  CAE is the cosine of the dihedral angle along an AE edge.  CEE is the cosine of the dihedral angle along an EE edge.  As cells must fit around an edge, NEE cos−1(CEE) ≤ 2π, NAE cos−1(CAE) ≤ 2π.
+
+* The rectified 16-cell is the regular 24-cell and vertices are all equivalent – octahedra are regular bipyramids.
+** Given numerically due to more complex form.
+
+
+== Other dimensions ==
+In general, a bipyramid can be seen as an n-polytope constructed with a (n − 1)-polytope in a hyperplane with two points in opposite directions and equal perpendicular distances from the hyperplane. If the (n − 1)-polytope is a regular polytope, it will have identical pyramidal facets.
+A 2-dimensional ("regular") right symmetric (digonal) bipyramid is formed by joining two congruent isosceles triangles base-to-base; its outline is a rhombus, {}+{}.
+
+
+=== Polyhedral bipyramids ===
+A polyhedral bipyramid is a 4-polytope with a polyhedron base, and an apex point.
+An example is the 16-cell, which is an octahedral bipyramid, {}+{3,4}, and more generally an n-orthoplex is an (n − 1)-orthoplex bipyramid, {}+{3n-2,4}.
+Other bipyramids include the tetrahedral bipyramid, {}+{3,3}, icosahedral bipyramid, {}+{3,5}, and dodecahedral bipyramid, {}+{5,3}, the first two having all regular cells, they are also Blind polytopes.
+
+
+== See also ==
+Trapezohedron
+
+
+== References ==
+
+
+=== Citations ===
+
+
+=== General references ===
+Anthony Pugh (1976). Polyhedra: A visual approach. California: University of California Press Berkeley. ISBN 0-520-03056-7. Chapter 4: Duals of the Archimedean polyhedra, prisms and antiprisms
+Spencer, Leonard James (1911). "Crystallography" .  In Chisholm, Hugh (ed.). Encyclopædia Britannica. Vol. 07 (11th ed.). Cambridge University Press. pp. 569–591.
+
+
+== External links ==
+
+Weisstein, Eric W. "Dipyramid". MathWorld.
+Weisstein, Eric W. "Isohedron". MathWorld.
+The Uniform Polyhedra
+Virtual Reality Polyhedra The Encyclopedia of Polyhedra
+VRML models (George Hart) <3> <4> <5> <6> <7> <8> <9> <10>
+Conway Notation for Polyhedra Try: "dPn", where n = 3, 4, 5, 6, ... Example: "dP4" is an octahedron.

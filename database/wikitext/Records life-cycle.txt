@@ -1,0 +1,29 @@
+Records life-cycle in records management refers to the following stages of a records "life span": from its creation to its preservation (in an archives) or disposal. While various models of the records life-cycle exist, they all feature creation or receipt, use, and disposition.
+
+
+== Overview ==
+The records management phase of the records life-cycle consists of creation, classification, maintenance and disposition. Creation occurs during the receipt of information in the form of records. Records or their information is classified in some logical system. As records are used they require maintenance. Disposition encompasses the destruction or transfer to an archive for future reference.
+This is then followed by a second, archival phase consisting of the selection or acquisition of the records by an archives, a description of the records in inventories, finding aids, and the like and the preservation of the records or, perhaps, the information in the records.  Researchers and scholars may continue to reference and use of the information contained within the records.
+
+
+== Continuum model ==
+In the 1930s Emmett Leahy of the United States National Archives had a central role in developing a program to define the records life-cycle from creation and use through eventual destruction or archiving. Richard Berner of the University of Washington proposed a single records management-archives goal: "responsible records use and administration leading to either authorized destruction or archival preservation and administration".The professions of records management and archives, while distinct, surely are working towards the same objective: the effective management of recorded information through all stages of the continuum, from creation to disposal. Effective management of recorded information (what Berner calls "responsible records use and administration") requires ongoing cooperative interaction between the records manager and the archivist in order to:
+
+ensure the creation of the right records, containing the right information, in the right format;
+organize the records and analyze their content and significance to facilitate their availability;
+make them available promptly to those (administrators and researchers alike) who have a right and a requirement to see them;
+systematically dispose of records that are no longer required; and
+protect and preserve the information for as long as it may be needed (if necessary, forever).Important later contributions were made by Frank Upward and his development of the Records Continuum Model.
+
+
+== See also ==
+Information Lifecycle Management
+Retention period
+
+
+== References ==
+
+
+== Further reading ==
+Atherton, J. (1985). "From Life Cycle to Continuum. Some Thoughts on the Records Management-Archives Relationship". Archivaria. 21: 43–51.
+Berner, R. (1983). Archival Theory and Practice in the United States: A Historical Analysis. Seattle and London.

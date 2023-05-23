@@ -1,0 +1,31 @@
+Mañjula (fl. 932), also known as Muñjāla, was an Indian astronomer, whose only surviving work is Laghu-mānasa, an ephemeris and calculation text in Sanskrit language. He may have also authored another text, the Bṛhan-mānasa, but this is not certain.
+
+
+== Name ==
+Mañjula is also known as Mañjālaka, Muñjāla, Muñjālaka, and Mañjulācārya (Manjula-acharya). Mañjula (Sanskrit for "lovely" or "charming") seems to be his actual name, as early writers - including his earliest commentator Prashasti-dhara (958 CE) - refer to him by this name. The name Muñjāla or Muñjālaka became popular, especially in South India, because of the popularity of Surya-deva Yajva's commentary (1248 CE), which refers to him by this name. Bhaskara II (c. 1150 CE) and his commentator Munishvara (fl. 1646 CE) also use the name Muñjāla. Nevertheless, several other writers continued to use the name Mañjula, including those in South India; these include Yallaya (fl. 1482 CE) and Tamma Yajva (1599 CE).
+
+
+== Biography ==
+In the introductory verse of Laghu-mānasa, Mañjula describes himself as a Brahmana of the Bharadvaja gotra. He calls himself the "best among the Brahmanas", which according to his commentator Yallaya, means that he was a teacher (acharya) by profession. He or his commentators do not provide any information about his ancestry or education.Mañjula adopted the noon of 10 March 932 CE as the epoch of computation in his Laghu-mānasa, which suggests that he started writing the work around this time, and was likely born in the early 10th century CE.The place of Mañjula's residence is not known. Prashasti-dhara of Kashmir in the north wrote the first commentary on his Laghu-mānasa, 26 years after he had composed the text. However, the text was most popular in present-day Andhra Pradesh and Kerala, where commentaries in Sanskrit as well regional languages (Telugu and Malayalam) were written on it.Mañjula generally follows Aryabhata I, but does not belong to any particular school of astronomy: he sometimes follows Brahmagupta as well. His Laghu-mānasa appears to derive information from Aryabhata's various works (c. 500), Brahmagupta's Brahma-sphuta-siddhanta (c. 628 CE), and Lata-deva's Surya-siddhanta (6th century). It also appears that the works of Lalla and Vateshvara (born 880 CE) were available to Mañjula, and he borrowed from them. For example, Mañjula's rules for calculating the path of Mars are exactly same as the ones found in some manuscripts of Lalla's Shishya-dhi-vrddhida. Similarly, he seems to have borrowed the second lunar correction from some work of Vateshvara, as suggested by Yallaya.According to Yallaya, the elderly people of his time said:
+
+Yallaya lived near Addanki, present day Andhra Pradesh and was a student of Sūrya, son of Bālāditya.
+
+
+== Residence ==
+The introductory verse of the Laghu-mānasa contains the phrase prakashadityavat khyatah. K.S. Shukla translates it as "famous as the Sun in Prakasha", but adds that it can alternatively translated as "well-known as light and sun" (interpreted to mean that the author was known by a name that meant "light" and "sun").
+
+Several writers interpret the word prakasha (IAST: prakāśa, Sanskrit for "light") as the name of the town (pattana) where Mañjula lived. The commentators Suryadeva Yajva and Yallaya state that he lived in the town of Prakasha-pattana which was located in the northern part of the country (uttara-desha). The commentators add that the town had a famous temple of the Sun god, and in the regional dialect used there, the word "Mañjula" was a synonym of the sun.The identity of this town is uncertain. Mallikarjuna Suri's commentary on Lalla's Shishya-dhi-vrddhida states that a town with this name existed 80 yojanas to the east of the Hindu prime meridian, and the equinocital midday shadow there measured 5.75 angulas. This suggests that the town existed near present-day Patna, at latitude 25°36' N and longitude 85°6' E.
+
+
+== Works ==
+The Laghu-mānasa is the only surviving work of Mañjula. But the prefix Laghu- ("small") suggests the existence of an earlier work titled Mānasa, alternatively called Bṛhan-mānasa or Mahā-mānasa ("large mānasa"). The introductory verse of Laghu-mānasa uses the adjective anyat ("another") to qualify the title of the text. The commentators Yallaya and Parameshvara interpret this to mean that Mañjula had written a larger work titled Bṛhan-mānasa. Prashasti-dhara also attests to the existence of a text titled Bṛhan-mānasa, describing it as "large and detailed". Bhaskara II and his commentator Munishvara quote certain verses from Mañjula, without mentioning the title of the text they are from; these verses may be from the now-lost Bṛhan-mānasa.Another commentator, Suryadeva Yajva, provides a different interpretation of the word anyat: According to Surya-deva, Mañjula studied Mahā-mānasa and other astronomical texts, and wrote a text titled Laghu-mānasa as a summary of their content. He then asked one of his pupils to show the work to the regional king. The pupil took the work to the king, but claimed to have written it himself. Later, when Mañjula visited the king, he asked the king to conduct a test to determine the true authorship of the work. Accordingly, both Mañjula and his pupil were asked to write another text under the king's observation. Mañjula then wrote the present-day Laghu-mānasa, recalling the content of his earlier work but summarizing it an unusual way. The pupil failed to write any text, and the king punished him by banishing him from the kingdom. The king honored and rewarded Mañjula, destroyed his earlier work, and popularized his latest work.
+
+
+== References ==
+
+
+=== Bibliography ===
+
+
+== External links ==
+Laghu mānasa with commentary by Paramesvara edited by Balvant Dattatreya Apte

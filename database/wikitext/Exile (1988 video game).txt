@@ -1,0 +1,60 @@
+Exile is a single-player action-adventure video game originally published for the BBC Micro and Acorn Electron in 1988 by Superior Software and later ported to the Commodore 64, Amiga, CD32 and Atari ST, all published by Audiogenic. The game was designed and programmed by Peter Irvin (creator of Starship Command) and Jeremy Smith (creator of Thrust). It is often cited as one of the earliest examples of a Metroidvania game and featured "realistic gravity, inertia and object mass years before players understood the concept of a physics engine... an astounding level of AI, stealth-based gameplay, a logical ecosystem governing the world's creatures and a teleportation mechanic that feels startlingly like a predecessor to Portal".
+
+
+== Plot ==
+
+The player takes the role of Mike Finn, a leading member of a space-exploration organisation called Columbus Force, who have been ordered to the planet Phoebus as part of a rescue mission. Finn is tasked with abetting Commander David Sprake and the surviving crew of the disabled Pericles ship from a psychotic renegade genetic engineer, Triax (the titular Exile), who appears briefly at the very start of the game removing a vital piece of equipment called a Destinator from Mike's ship, the Perseus. As with Elite, a novella (written by Mark Cullen, with input from the game's authors) was included to set up the story, and to provide some clues as to the nature of the planet Phoebus' environment. The novella implies the events take place some time in the 22nd century.
+
+
+== Gameplay ==
+The player is tasked with traversing a network of tunnels, collecting and interacting with objects, engaging hostile and friendly creatures, rescuing survivors and ultimately defeating Triax and escaping from Phoebus. Finn has a weapons and jet pack system which may be boosted by finding upgrades. Energy cells must be collected throughout the game to power the weapons and jet pack. Finn has a life-preserving teleport system. When he reaches a point near death he is automatically teleported to a safe location previously designated by the player, or ultimately back to his orbiting spaceship. Consequently, it is still possible to complete the game in many scenarios.
+Exile permits a degree of nonlinear gameplay – challenges may be overcome in a number of possible orders and not all events have to be completed. The player is awarded points depending on goals achieved and time taken to complete the game. However, in some scenarios it becomes impossible to complete the game.
+A major feature of the game is the single large and detailed world it offers for exploration. The subterranean setting is explained through the backstory in which the crew of the Pericles have set up a base in a natural cave system, with Triax having his own base in caves deep below.
+The artificial intelligence features innovative routines such as creatures demonstrating awareness of nearby noises, line-of-sight vision through the divaricate caves and tunnels, and memory of where the player was last seen, etc.
+Exile contains a physics model with gravity, inertia, mass, explosions, shockwaves, water, earth, wind, and fire. The game engine simulates all three of Newton's laws of motion, with many puzzles and gameplay elements emerging from a few physical principles. For example, the player may experience difficulty when attempting to lift a heavy boulder across a windy shaft with a jet pack, or of trying to keep a glass of water from spilling while being pushed around by a pestering bird.
+
+
+== Development ==
+The game was designed and programmed by Peter Irvin (author of Starship Command) and Jeremy Smith (author of Thrust). Jeremy Smith died in an accident several years after Exile was published and it is his last known game. William Reeve executed preliminary conversions of the earlier 8-bit versions to the Amiga and Atari ST. These were then upgraded and completed by Peter Irvin and Jeremy Smith. Tony Cox did a preliminary conversion of the game from the Amiga to Amiga CD32. Paul Docherty was involved in the graphics for the Commodore 64 version and Herman Serrano created some of the artwork used in the game and manual. Henry Jackman composed the title music for the Amiga and Atari ST versions and Paddy Colohan remixed this for the CD32 release.
+The large subterranean world is procedurally generated. This is achieved using a compact but highly tuned pseudorandom process with a fixed seed number to generate the majority of the caverns and tunnels – augmented with a few custom-defined areas. The later Amiga and Atari ST release use a more conventional tiled map to allow greater customisation and variation in the landscape.Circa 2012 the source code of the BBC Micro version was reconstructed through disassembly. Peter Irvin later allowed the non-commercial redistribution of the Amiga version of the game.
+
+
+== Releases ==
+The game was first published for the Acorn Electron and BBC Micro in 1988 by Superior Software and later ported to the Commodore 64, Atari ST, Amiga and CD32, all published by Audiogenic between 1991 and 1995. The game mechanics and level design are broadly similar across all Exile versions but visuals and sound vary depending on the capabilities of each system. Exile has never been released outside Europe.
+
+
+=== Acorn Electron / BBC Micro ===
+The standard 32 kB BBC Model B version uses a specially defined screen resolution (eight physical colours; 128 pixels across × 128 lines down = 8 kB screen memory), smaller than full screen MODE 2. This is to free up memory for game data – a common technique in complex BBC games.
+The simplified video hardware found in the Electron does not support this technique, so the additional data remains visible around the screen border. For speed reasons, the Electron release has only four on-screen colours. It did however boast a slightly larger view window of 128 pixels × 192 lines down.
+Exile offers the option of playing an enhanced version of the game on a BBC Micro upgraded with a 16 kB page of sideways RAM. These enhancements include sampled sound effects and digitised speech ("Welcome to the land of the Exile." and "Alien die!"), as well as a larger visible screen area (eight physical colours; 128 pixels across × 256 lines down = 16 kB screen memory).
+The extreme measures taken to make the game operate on a standard BBC Micro mean that the main game had no on-screen status indications or text of any kind, or even load and save routines. Fuel and energy levels are sounded out by a series of chimes when a weapon is selected, and pocket contents can only be checked by putting items back into the player's hands to make them visible. Saving the game entails pressing a shutdown key, resetting the computer, and launching the loader programme again. Despite such measures being forced by necessity, they formed part of the character and appeal of the game, leading to innovations such as the personal teleporter.
+
+
+=== Commodore 64 ===
+The C64 conversion (1991) was carried out by the original programmers with graphics by Paul Docherty (credited as Dokk). It adds an on-screen status indicator and wider colour palette due to the extra RAM available but otherwise is a faithful port of the Acorn versions.
+
+
+=== Atari ST ===
+The Atari ST release (1991) was developed from the earlier 8-bit versions. The ST release has improved and recoloured graphics with a similar appearance to the 1991 Amiga version, though the sound effects differ somewhat.
+
+
+=== Amiga ===
+There were three releases for the Amiga platform, an OCS version (1991), an AGA version (1995) with enhanced graphics and finally a CD32 version (1995) based on the AGA release. Compared to the earlier 8-bit versions the OCS release has improved and recoloured graphics with a similar appearance to the Atari ST version. The AGA and CD32 versions have greatly reworked graphics with added detail and scrolling backdrops. The graphics of the CD32 version were made 50% larger than the AGA release for easier viewing on a console setup. All Amiga versions feature a dynamic in-game musical score which changes when a threat is near to the player. Amongst other digitised sound effects, the imps encountered in the cave system have a cry imitating Monty Python's infamous "Ni".
+
+
+=== Apple iOS ===
+Peter Irvin was working on an updated version for iOS based on the Amiga AGA version. This was scheduled for release in 2010. However, the game has not yet appeared and there have been no further announcements since 2010.
+
+
+== Reception ==
+Electron User gave the game a positive review under the title "The New Masterpiece" concluding "Exile's detailed graphics enhance the game's infuriating puzzles beautifully. Everything is drawn on a small scale, thereby emphasising the vastness of the underground complex. The animation is fast and incredibly realistic – I marvelled at the way Finn was bundled head over heels by a blast from the stun cannon." The game was only given a score of 8/10 although it has been alleged that the reviewers had not played very far into the game so did not appreciate its scale. Zzap!64, reviewing the Commodore 64 version, praised the game's complexity and "phenomenal attention to detail". They awarded the game a score of 91%, labeling it "unmissable". Amiga Power magazine voted the Amiga version of Exile as the best game of 1991 with a score of 89%. In 2002 the multi-format magazine, Edge, retrospectively awarded it 10/10, an accolade which has only been awarded to two other games released before the magazine's launch.
+A 2010 article in The Escapist stated that "Exile pioneered a lot of the science for which later games would become famous".
+
+
+== References ==
+
+
+== External links ==
+Exile at MobyGames
+Exile at Hall of Light
+Manual at the Internet Archive

@@ -1,0 +1,103 @@
+Group cohesiveness (also called group cohesion and social cohesion) arises when bonds link members of a social group to one another and to the group as a whole. Although cohesion is a multi-faceted process, it can be broken down into four main components: social relations, task relations, perceived unity, and emotions. Members of strongly cohesive groups are more inclined to participate readily and to stay with the group.
+
+
+== Definition ==
+From Neo-Latin cohaesio and French cohésion, in physics, cohesion means "the force that unites the molecules of a liquid or of a solid". Thereby, there are different ways to define group cohesion, depending on how researchers conceptualize this concept. However, most researchers define cohesion to be task commitment and interpersonal attraction to the group.Cohesion can be more specifically defined as the tendency for a group to be in unity while working towards a goal or to satisfy the emotional needs of its members. This definition includes important aspects of cohesiveness, including its multidimensionality, dynamic nature, instrumental basis, and emotional dimension.  Its multidimensionality refers to how cohesion is based on many factors. Its dynamic nature refers to how it gradually changes over time in its strength and form from the time a group is formed to when a group is disbanded. Its instrumental basis refers to how people cohere for some purpose, whether it be for a task or for social reasons. Its emotional dimension refers to how cohesion is pleasing to its group members. This definition can be generalized to most groups characterized by the group definition discussed above. These groups include sports teams, work groups, military units, fraternity groups, and social groups. However, it is important to note that other researchers claim that cohesion cannot be generalized across many groups.
+
+
+== Antecedents of cohesion ==
+The bonds between group members do not develop spontaneously. They develop from a number of components such as attraction, coordination, sense of belonging and shared emotions. The components can be known as antecedents of cohesion. Moreover, they also define the nature of cohesion. Each component is explained in-depth below.
+
+
+=== Attraction ===
+Festinger and his colleagues in 1950 highly focused on attraction as a force in comparison to any other forces. In a study, they asked the group members to identify all their good friends and calculated the ratio of ingroup choices to outgroup choices. According to Dion in 2000, the greater the ratio, the greater the cohesiveness of the group. Hogg in 1992 and 2001 noted personal attraction is not a group cohesion even though members of cohesive groups like one another. Group cohesion is similar to a type of group-level attraction which, according to Hogg, is known as social attraction. Social attraction is a liking for other group members based on their status as typical group members. Attraction is a basic ingredient for most groups, however, when interpersonal relations between group members intensify, it can transform a conjoined group into a cohesive one.
+
+
+=== Sense of belonging ===
+In a cohesive group, individuals tend to fuse together to form a whole. Nonmembers who would encounter a group will be convinced that it is a tightly bonded group. Group members would express their sense of belonging to the group by being loyal to the group, identifying with the group and classifying themselves as members. They would also describe their unity by using terms such as family, us, community, team, etc.
+
+
+=== Coordination ===
+It is believed that cohesion is more about the willingness to work together to accomplish a set of goals than the interpersonal relationships between group members. According to Siebold in 2007, task-oriented groups such as flight crews and military squads share a drive to accomplish their goals.
+
+
+=== Shared emotions ===
+One of the most obvious features of a cohesive group is a shared positive emotion. Emotional cohesion is a multilevel process as emotions can be collective. For example, a group member may experience emotion when he/she learns that the other group member has been mistreated. An emotion is a collective emotion when all the members of a group experience the same emotional reaction. The intensity of such emotions is high when the members strongly identify with their group.
+
+
+== Factors ==
+The forces that push group members together can be positive (group-based rewards) or negative (things lost upon leaving the group). The main factors that influence group cohesiveness are: members' similarity, group size, entry difficulty, group success and external competition and threats. Often, these factors work through enhancing the identification of individuals with the group they belong to as well as their beliefs of how the group can fulfill their personal needs.
+
+
+=== Similarity of group members ===
+Similarity of group members has different influences on group cohesiveness depending on how to define this concept. Lott and Lott who referred in 1965 to interpersonal attraction as group cohesiveness conducted an extensive review on the literature and found that individuals' similarities in background (e.g., race, ethnicity, occupation, age), attitudes, values and personality traits have generally positive association with group cohesiveness.On the other hand, from the perspective of social attraction as the basis of group cohesiveness, similarity among group members is the cue for individuals to categorize themselves and others into either an ingroup or outgroup. In this perspective, the more prototypical similarity individuals feel between themselves and other ingroup members, the stronger the group cohesiveness will be.In addition, similar background makes it more likely that members share similar views on various issues, including group objectives, communication methods and the type of desired leadership. In general, higher agreement among members on group rules and norms results in greater trust and less dysfunctional conflict. This, in turn, strengthens both emotional and task cohesiveness.
+
+
+=== Entry difficulty ===
+Difficult entry criteria or procedures to a group tend to present it in more exclusive light. The more elite the group is perceived to be, the more prestigious it is to be a member in that group. As shown in dissonance studies conducted by Aronson and Mills in 1959 and confirmed by Gerard and Mathewson in 1966, this effect can be due to dissonance reduction (see cognitive dissonance). Dissonance reduction can occur when a person has endured arduous initiation into a group; if some aspects of the group are unpleasant, the person may distort their perception of the group because of the difficulty of entry. Thus, the value of the group increases in the group member's mind.
+
+
+=== Group size ===
+Small groups are more cohesive than large groups. This is often caused by social loafing, a theory that says individual members of a group will actually put in less effort, because they believe other members will make up for the slack. It has been found that social loafing is eliminated when group members believe their individual performances are identifiable – much more the case in smaller groups.In primatology and anthropology, the limits to group size are theorized to accord with Dunbar's number.
+
+
+== Consequences ==
+Group cohesion has been linked to a range of positive and negative consequences. Its consequences on motivation, performance, member satisfaction, member emotional adjustment, and the pressures felt by the member will be examined in the sections below.
+
+
+=== Motivation ===
+Cohesion and motivation of team members are key factors that contribute to a company's performance. By adaptability development, self-worth, and personal motivation growth, each member becomes able to feel confident and progress in the team. Social loafing is less frequent when there is cohesion in a team; the motivation of each team member is considerably greater.
+
+
+=== Performance ===
+Studies have shown that cohesion can cause performance and that performance can cause cohesion. Most meta-analyses (studies that have summarized the results of many studies) have shown that there is a relationship between cohesion and performance. This is the case even when cohesion is defined in different ways. When cohesion is defined as attraction, it is better correlated with performance. When it is defined as task commitment, it is also correlated with performance, though to a lesser degree than cohesion as attraction. Not enough studies were performed with cohesion defined as group pride. In general, cohesion defined in all these ways was positively related with performance.However, some groups may have a stronger cohesion-performance relationship than others. Smaller groups have a better cohesion-performance relationship than larger groups. Carron in 2002 found cohesion-performance relationships to be strongest in sports teams and ranked the strength of the relationship in this order (from strongest to weakest): sports teams, military squads, groups that form for a purpose, groups in experimental settings. There is some evidence that cohesion may be more strongly related to performance for groups that have highly interdependent roles than for groups in which members are independent.In regards to group productivity, having attraction and group pride may not be enough. It is necessary to have task commitment in order to be productive. Furthermore, groups with high performance goals were extremely productive.However, it is important to note that the link between cohesion and performance can differ depending on the nature of the group that is studied. Some studies that have focused on this relationship have led to divergent results. For example, a study conducted on the link between cohesion and performance in a governmental social service department found a low positive association between these two variables, while a separate study on groups in a Danish military unit found a high negative association between these two variables.
+
+
+=== Member satisfaction ===
+Studies have shown that people in cohesive groups have reported more satisfaction than members of a noncohesive group. This is the case across many settings, including industrial, athletic, and educational settings. Members in cohesive groups also are more optimistic and suffer less from social problems than those in non-cohesive groups.One study involved a team of masons and carpenters working on a housing development. For the first five months, their supervisor formed the groups they were to work in. These groups changed over the course of five months. This was to help the  men get to know everyone working on this development project and naturally, likes and dislikes for the people around them emerged. The experimenter then formed cohesive groups by grouping people who liked each other. It was found that the masons and carpenters were more satisfied when they worked in cohesive groups. As quoted from one of the workers "the work is more interesting when you've got a buddy working with you. You certainly like it a lot better anyway.": 183 
+
+
+=== Emotional adjustment ===
+People in cohesive groups experience better emotional adjustment. In particular, people experience less anxiety and tension. It was also found that people cope better with stress when they belong to a cohesive group.One study showed that cohesion as task commitment can improve group decision making when the group is under stress, more than when it is not under stress. The study studied forty-six three-person teams, all of whom were faced with the task of selecting the best oil drilling sites based on information given to them. The study manipulated whether or not the teams had high cohesion or low cohesion and how urgent the task was to be done. The study found that teams with low cohesion and high urgency performed worse than teams with high cohesion and high urgency. This indicates that cohesion can improve group decision-making in times of stress.
+Attachment theory has also asserted that adolescents with behavioral problems do not have close interpersonal relationships or have superficial ones. Many studies have found that an individual without close peer relationships are at a higher risk for emotional adjustment problems currently and later in life.While people may experience better emotional in cohesive groups, they may also face many demands on their emotions, such as those that result from scapegoating and hostility.
+
+
+=== Conformity pressures ===
+People in cohesive groups have greater pressure to conform than people in non-cohesive groups. The theory of groupthink suggests that the pressures hinder the group from critically thinking about the decisions it is making. Giordano in 2003 suggested that this is because people within a group frequently interact with one another and create many opportunities for influence. It is also because a person within a group perceives other members as similar to themselves and is thus more willing to give into conformity pressures. Another reason is that people value the group and are thus, more willing to give into conformity pressures to maintain or enhance their relationships.
+Illegal activities have been stemmed from conformity pressures within a group. Haynie in 2001 found that the degree to which a group of friends engaged in illegal activities was a predictor of an individual's participation in the illegal activity. This was even after the individual's prior behavior was controlled for and other controls were set in place. Furthermore, those with friends who all engaged in illegal activities were  most likely to engage in illegal activities themselves. Another study found that adolescents with no friends did not engage in as many illegal activities as those with at least one friend. Other studies have found similar results.
+
+
+=== Learning ===
+Albert Lott and Bernice Lott investigated how group cohesiveness influenced individual learning. They wanted to test whether learning would be better if children studied with peers they liked than peers they did not like. The degree of member liking was presumed to indicate group cohesiveness. They found that children with a high IQ performed better on learning tests when they learnt in high cohesive groups than low cohesive groups. For children with a low IQ, however, the cohesiveness factor made little difference. Still, there was a slight tendency for low IQ children to perform better in high cohesive groups. The researchers believed that if children worked with other students whom they liked, they would more likely have a greater drive to learn than if they had neutral or negative attitudes towards the group.
+
+
+== Public policy ==
+Social cohesion has become an important theme in British social policy in the period since the disturbances in Britain's Northern mill towns (Oldham, Bradford and Burnley) in the summer of 2001 (see Oldham riots, Bradford riots, Burnley riots). In investigating these, academic Ted Cantle drew heavily on the concept of social cohesion, and the New Labour government (particularly then Home Secretary David Blunkett) in turn widely promoted the notion. As the Runnymede Trust noted in their "The Year of Cohesion" in 2003:
+
+"If there has been a key word added to the Runnymede lexicon in 2002, it is cohesion. A year from publication of the report of the Commission on the Future of Multi-Ethnic Britain, the Cantle, Denham, Clarke, Ouseley and Ritchie reports moved cohesion to the forefront of the UK race debate."
+According to the government-commissioned, State of the English Cities thematic reports, there are five different dimensions of social cohesion: material conditions, passive relationships, active relationships, solidarity, inclusion and equality.
+
+The report shows that material conditions are fundamental to social cohesion, particularly employment, income, health, education and housing. Relations between and within communities suffer when people lack work and endure hardship, debt, anxiety, low self-esteem, ill-health, poor skills and bad living conditions. These basic necessities of life are the foundations of a strong social fabric and important indicators of social progress.
+The second basic tenet of cohesion is social order, safety and freedom from fear, or "passive social relationships". Tolerance and respect for other people, along with peace and security, are hallmarks of a stable and harmonious urban society.
+The third dimension refers to the positive interactions, exchanges and networks between individuals and communities, or "active social relationships". Such contacts and connections are potential resources for places since they offer people and organisations mutual support, information, trust and credit of various kinds.
+The fourth dimension is about the extent of social inclusion or integration of people into the mainstream institutions of civil society. It also includes people's sense of belonging to a city and the strength of shared experiences, identities and values between those from different backgrounds.
+Lastly, social equality refers to the level of fairness or disparity in access to opportunities or material circumstances, such as income, health or quality of life, or in future life chances. In pursuit of social equality amidst the changing nature of work and future uncertainty, the World Bank's 2019 World Development Report calls for governments to increase human capital investments and expand social protection.On a societal level Albrekt Larsen defines social cohesion 'as the belief—held by citizens in a given nation state—that they share a moral community, which enables them to trust each other'. In a comparative study of the US, UK, Sweden and Denmark he shows that the perceived trustworthiness of fellow citizens is strongly influenced by the level of social inequality and how 'poor' and 'middle classes' are represented in the mass media.Analysts at the credit rating agency Moody's have also introduced the possibility of adding social cohesion as a formal rating into their sovereign debt indices.
+
+
+== See also ==
+Community cohesion
+Cultural identity
+Structural cohesion
+Urban vitality
+
+
+== References ==
+
+Eisenberg, J. (2007). "Group Cohesiveness".  In R. F. Baumeister; K. D. Vohs (eds.). Encyclopaedia of Social Psychology. Thousand Oaks, CA: Sage. pp. 386–388.
+Piper, W.; Marrache, M.; Lacroix, R.; Richardson, A. & Jones, B. (1983). "Cohesion as a basic bond in groups". Human Relations. 36 (2): 93–108. doi:10.1177/001872678303600201. S2CID 145592068.
+Wheelan, S. A. (2016). Creating effective teams: A guide for members and leaders (5th ed.). Los Angeles: SAGE. ISBN 9781483390994.
+
+
+== Further reading ==
+Cartwright, Dorwin (1968). "The Nature of Group Cohesiveness".  In Dorwin Cartwright; Alvin Zander (eds.). Group Dynamics: Research and Theory, 3rd Edition. New York: Harper and Row.
+Schaub, Gary Jr. (Fall 2010). "Unit Cohesion and the Impact of DADT" (PDF). Strategic Studies Quarterly. 4 (3): 85–101.

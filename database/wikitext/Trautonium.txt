@@ -1,0 +1,54 @@
+The Trautonium is an electronic synthesizer invented in 1930 by Friedrich Trautwein in Berlin at the Musikhochschule's music and radio lab, the Rundfunkversuchstelle. Soon afterwards Oskar Sala joined him, continuing development until Sala's death in 2002.
+
+
+== Description ==
+Instead of a keyboard, its manual is made of a resistor wire over a metal plate, which is pressed to create a sound. Expressive playing was possible with this wire by gliding on it, creating vibrato with small movements. Volume was controlled by the pressure of the finger on the wire and board. The first Trautoniums were marketed by Telefunken from 1933 until 1935 (200 were made). 
+The sounds were at first produced by neon-tube relaxation oscillators
+ (later, thyratrons, then transistors), which produced sawtooth-like waveforms. The pitch was determined by the position at which the performer pressed the resistive wire into contact with the plate beneath it which effectively changed its length, with suitable technique allowing vibrato, quarter-tones, and portamento. The oscillator output was fed into two parallel resonant filter circuits. A footpedal controlled the volume ratio of the output of the two filters, which was sent to an amplifier.On 20 June 1930 Oskar Sala and Paul Hindemith gave a public performance at the Berliner Musikhochschule Hall called "Neue Musik Berlin 1930" to introduce the Trautonium. Later, Oskar Sala toured Germany with the Trautonium; in 1931 he was the soloist in a performance of Hindemith's Concerto for Trautonium with String Quartet. He also soloed in the debut of Hindemith's student Harald Genzmer's Concerto for Trautonium and Orchestra.
+
+Paul Hindemith wrote several short trios for three Trautoniums with three different tunings: bass, middle, and high voice. His student Harald Genzmer wrote two concertos with orchestra, one for the monophonic Trautonium and, later, one for Oskar Sala's "Mixtur-Trautonium". One of the first additions of Sala was to add a switch for changing the static tuning. Later he added a noise generator and an envelope generator (so called 'Schlagwerk'), formant filter (several bandpass filters) and the subharmonic oscillators. These oscillators generate a main pitch and several subharmonics, which are not multiples of the fundamental tone, but fractions of it.  For either of the (now two) manuals, four of these waves can be mixed and the player can switch through these predefined settings.  Thus, it was called the "Mixtur-Trautonium". Oskar Sala composed music for industrial films, but the most famous was the bird noises for Alfred Hitchcock's The Birds. The Trautonium was also used in the Dresden première of Richard Strauss's Japanese Festival Music in 1942 for emulating the gongs- and bells-parts and in the 1950s in Bayreuth for the Monsalvat bells in Wagner's Parsifal.
+
+
+== Manufacturers ==
+The German manufacturer Doepfer sells some devices for the commercial market to allow for Trautonium-like synthesizer control.The German manufacturer Trautoniks sells custom made Trautoniums. 
+
+
+== Present Trautonium performers ==
+Oskar Sala developed the Trautonium further and worked with at least one pupil, music therapy pioneer Maria Schüppel. However, Peter Pichler, a Munich musician and artist, had heard the sound of the Trautonium when he was a young man and was fascinated by its emotional impact and dynamic range. Pichler found he could not forget the unique sound; he searched obsessively for anyone who could help him understand the instrument and he finally tracked down Sala. In 1996 the two met in Sala's studio in Berlin, and the result was the preservation of much of Sala's knowledge.
+
+Pichler was transformed by the experience but he had to wait fifteen long years before he could afford to commission his own Mixturtrautonium from the company Trautoniks.
+He wrote a musical theater piece about the fathers of the Trautonium, "Wiedersehen in Trautonien", which was performed at the German Museum in Munich, for the 100th birthday of Oskar Sala in 2010. For this theater piece Pichler commissioned three "Volkstrautonien" (a smaller version of the instrument), one of which was bought by the German Museum later for its permanent collection. Pichler is still cooperating closely with the German Museum in Munich that is administering Sala's estate.Since then, Pichler has been making regular appearances with the Mixturtrautonium in various musical genres. The classical music composed for this instrument by Paul Hindemith, Harald Genzmer and Oskar Sala for instance is extremely challenging for even an experienced musician to play.Pichler is one of the very few musicians in the world who has mastered this instrument and is also composing for it.Daniel Matz plays trautonium on the Agnes Obel albums, Citizen of Glass and Late Night Tales.The Dutch performer Thijs Lodewijk also plays the trautonium.
+
+
+== Gallery ==
+
+		
+		
+
+
+== See also ==
+Continuum Fingerboard
+Ondes Martenot
+Subharchord
+Swarmatron
+Telharmonium
+Theremin
+
+
+== References ==
+
+
+== Sources ==
+Klaus Ebbeke, Paul Hindemith und das Trautonium. HJb 11 (1982)
+Peter Donhauser, Elektrische Klangmaschinen. Die Pionierzeit in Deutschland und Österreich. Böhlau, Vienna et al. 2007, ISBN 3-205-77593-7.
+
+
+== External links ==
+http://www.peterpichler-trautonium.com
+The Trautonium History: The Beginning
+Neumixturtrautonium VST
+Oskar Sala, My Fascinating Instrument. 1990 recording (Erdenklang 90340)
+Perfect Sound Forever, Oskar Sala 1910-2002.
+Website Plasma Speaker Wolfgang Müller
+Pablo Freire (2003). Oscar Sala biography (in Spanish)
+The Trautonium  the Trautonium on '120 years Of Electronic Music'

@@ -1,0 +1,19 @@
+Security Assertion Markup Language (SAML) is a set of specifications that encompasses the XML-format for security tokens containing assertions to pass information about a user and protocols and profiles to implement authentication and authorization scenarios. This article has a focus on software and services in the category of identity management infrastructure, which enable building Web-SSO solutions using the SAML protocol in an interoperable fashion. Software and services that are only SAML-enabled do not go here.
+
+
+== Products that provide SAML actors ==
+SAML actors are Identity Providers (IdP), Service Providers (SP), Discovery Services, ECP Clients, Metadata Services, or Broker/IdP-proxy. This table shows the capability of products according to Kantara Initiative testing. Claimed capabilities are in column "other". Each mark denotes that at least one interoperability test was passed. Detailed results with product and test procedure versions are available at the Kantara/Liberty site given below.
+NOTE: This table represents a snapshot over time roll up of the most recent product test results (multiple testing rounds). Please note that some products features and abilities may have been updated since they were last tested.  Please check the website information of the originating product for the latest features and updates.
+
+
+== Libraries and toolkits to develop SAML actors and SAML-enabled services ==
+Libraries and toolkits are used by developers to integrate applications and services into SAML federations or to build their own SAML-actors like IdPs.
+
+
+== SAML-related services ==
+This section lists public services such as identity and attribute providers, metadata and test services, but *not* SAML-enabled web-applications and cloud services.
+
+
+== References ==
+
+{{ | url=https://www.miniorange.com/ | title=Cloud/On-Premise service platform}}

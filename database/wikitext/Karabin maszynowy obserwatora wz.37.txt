@@ -1,0 +1,23 @@
+The karabin maszynowy obserwatora wz.37 (Polish for "Observers Machine Gun") is a Polish version of the Browning wz.1928. It was a flexible machine gun used in some Polish airplanes in the beginning of World War II.
+
+
+== History ==
+In the mid-1930s, Polish small arms designer Wawrzyniec Lewandowski was given the task of developing a flexible gun based on the Browning wz.1928. The desired changes included raising the cyclical rate of fire to 1100 rds/min, replacing the buttstock with a spade grip at the rear of receiver, moving the main spring under barrel and, most importantly, changing the feed system. 
+The gun's original 20 round box magazine was impractical with the gun's high rate of fire. A new feeding mechanism was added as a pack to the standard receiver. It contained a spring-loaded lever, which when cammed by the lock during locking would grab a round from a 91-round pan magazine located above the receiver and force the round into alignment to feed during unlocking.
+The weapon is the world's only specialised aerial flexible machine gun based closely on the Browning M1918, or "Browning Automatic Rifle".
+The wz.37 was dubbed "Szczeniak" (Polish for "pup") due to its lightness and compactness compared with previous Vickers E and Vickers F machine guns. The wz.37 was used mostly in Polish PZL.37 Łoś bombers.
+
+
+== Users ==
+ Germany
+ Poland
+ Romania
+ Soviet Union
+
+
+== Similar Weapons ==
+MG 42, Nazi German
+
+
+== References ==
+Adam Popiel (1991). Uzbrojenie lotnictwa polskiego 1918-1939. Warsaw, SIGMA NOT. ISBN 83-85001-37-9.

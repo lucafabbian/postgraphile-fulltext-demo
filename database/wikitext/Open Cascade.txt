@@ -1,0 +1,39 @@
+Open Cascade is an information technology company owned by Capgemini. Open Cascade provides services in the domain of scientific and technical computing and simulation tools.Open Cascade is primarily known to the public for its open source platforms, which the company maintains, improves, and distributes free of charge:
+It provides:
+
+Open Cascade Technology (OCCT) for 3D surface and solid modeling, visualization, data exchange, and rapid application development
+Salome (software) – a free software that provides a generic platform for pre- and post-processing for numerical simulationOpen Cascade builds its business model on using its open-source software in the development of commercial software for various customers worldwide.The company’s head office is located in Guyancourt, France, and there are production sites in Lyon and Nizhny Novgorod, Russia. Open Cascade employs around 150 engineers and developers in France and Russia.
+
+
+== Shareholders ==
+Open Cascade is a subsidiary of Capgemini.
+Capgemini employed 180,000 people in 2015.
+
+
+== Historical background ==
+1980: Matra Datavision, a French company, released the Euclid CAD system.
+1987: Euclid-IS, the first integrated CAD/CAM system, appeared.
+1993: Euclid 3 was released. This was a completely new and unique system that supported concurrent engineering. Euclid software made Matra Datavision a true market leader in the field of CAD/CAM. Euclid was employed in the widest variety of engineering domains, from general mechanical and automotive engineering to the complex robotics and aerospace industries.
+1993: a development platform called CAS.CADE (Computer Aided Software for Computer Aided Design and Engineering) created by Matra Datavision was released. CAS.CADE had been used by Matra Datavision as a platform to develop Euclid Quantum.
+1996: Matra Datavision released Euclid Quantum, a new generation of Euclid.
+1998: Matra Datavision changed its strategy and became a software service provider. That year, the company signed an agreement with Dassault Systèmes to acquire some products from the Quantum product line, including Euclid Styler, Euclid Machinist, Strim, etc.
+1999: Matra Datavision published CAS.CADE as open source on the Internet as Open Cascade, while focusing on rendering services around it.
+2000: On December 7, Matra Datavision announced the foundation of Open Cascade SAS, its subsidiary for support and development of the Open Cascade platform as well as for carrying out numerous custom development projects for its customers.
+2003: Matra Datavision, the parent company, was purchased by IBM, while Open Cascade was acquired by Principia Research & Development – a French editor of finite-element solvers and provider of engineering services.
+2004: The Open Cascade platform was renamed to Open Cascade Technology to avoid name confusion with the company itself (Open Cascade).
+2007: Open Cascade SAS became a subsidiary of Euriware, which was a subsidiary of Areva Group.
+2014: Euriware, the mother company of Open Cascade SAS, was purchased by Capgemini.
+2015: Euriware was merged with Capgemini, and Open Cascade SAS became a direct subsidiary of Capgemini.
+
+
+== See also ==
+Open Cascade Technology
+Salome (software)
+
+
+== References ==
+
+
+== External links ==
+Official website
+Open Cascade Technology website

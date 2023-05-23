@@ -1,0 +1,10 @@
+The Système de Protection et d'Évitement des Conduites de Tir du Rafale (literally: System of Protection and Fire Lines Avoidance of the Rafale) or SPECTRA is a fully internal electronic warfare system jointly developed by Thales Group and MBDA France for the Dassault Rafale.
+The full SPECTRA integrated electronic warfare suite provides long-range detection, identification and accurate localisation of infrared homing, radio frequency and laser threats. The system incorporates radar warning, laser warning and Missile Approach Warning for threat detection plus a phased array radar jammer and a decoy dispenser for threat countering. It also includes a dedicated management unit for data fusion and reaction decision.The SPECTRA system consists of two infrared missile warning sensors (Détecteur de Départ Missile Nouvelle Génération). A new generation missile warning system (DDM NG) is currently being developed by MBDA. The DDM NG delivered its first in flight images in March 2010 and will be available on the Rafale from 2012. DDM NG incorporates a new infrared array detector which enhances performance with regard to the range at which a missile firing will be detected (with two sensors, each equipped with a fish-eye lens, DDM NG provides a spherical field of view around the aircraft). The DDM-NG also offers improved rejection of false alarms and gives an angular localisation capability which will be compatible with the future use of Directional Infrared Counter Measures (DIRCM).
+
+
+== References ==
+
+
+== External links ==
+Thales Group - Spectra
+MBDA Systems - Spectra

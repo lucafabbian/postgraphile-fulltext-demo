@@ -1,0 +1,311 @@
+In geometry, Apollonius's theorem is a theorem relating the length of a median of a triangle to the lengths of its sides. 
+It states that "the sum of the squares of any two sides of any triangle equals twice the square on half the third side, together with twice the square on the median bisecting the third side".
+Specifically, in any triangle 
+  
+    
+      
+        A
+        B
+        C
+        ,
+      
+    
+    {\displaystyle ABC,}
+   if 
+  
+    
+      
+        A
+        D
+      
+    
+    {\displaystyle AD}
+   is a median, then 
+
+It is a special case of Stewart's theorem. For an isosceles triangle with 
+  
+    
+      
+        
+          |
+        
+        A
+        B
+        
+          |
+        
+        =
+        
+          |
+        
+        A
+        C
+        
+          |
+        
+        ,
+      
+    
+    {\displaystyle |AB|=|AC|,}
+   the median 
+  
+    
+      
+        A
+        D
+      
+    
+    {\displaystyle AD}
+   is perpendicular to 
+  
+    
+      
+        B
+        C
+      
+    
+    {\displaystyle BC}
+   and the theorem reduces to the Pythagorean theorem for triangle 
+  
+    
+      
+        A
+        D
+        B
+      
+    
+    {\displaystyle ADB}
+   (or triangle 
+  
+    
+      
+        A
+        D
+        C
+      
+    
+    {\displaystyle ADC}
+  ). From the fact that the diagonals of a parallelogram bisect each other, the theorem is equivalent to the parallelogram law.
+The theorem is named for the ancient Greek mathematician Apollonius of Perga.
+
+
+== Proof ==
+
+The theorem can be proved as a special case of Stewart's theorem, or can be proved using vectors (see parallelogram law). The following is an independent proof using the law of cosines.Let the triangle have sides 
+  
+    
+      
+        a
+        ,
+        b
+        ,
+        c
+      
+    
+    {\displaystyle a,b,c}
+   with a median 
+  
+    
+      
+        d
+      
+    
+    {\displaystyle d}
+   drawn to side 
+  
+    
+      
+        a
+        .
+      
+    
+    {\displaystyle a.}
+   Let 
+  
+    
+      
+        m
+      
+    
+    {\displaystyle m}
+   be the length of the segments of 
+  
+    
+      
+        a
+      
+    
+    {\displaystyle a}
+   formed by the median, so 
+  
+    
+      
+        m
+      
+    
+    {\displaystyle m}
+   is half of 
+  
+    
+      
+        a
+        .
+      
+    
+    {\displaystyle a.}
+   Let the angles formed between 
+  
+    
+      
+        a
+      
+    
+    {\displaystyle a}
+   and 
+  
+    
+      
+        d
+      
+    
+    {\displaystyle d}
+   be 
+  
+    
+      
+        θ
+      
+    
+    {\displaystyle \theta }
+   and 
+  
+    
+      
+        
+          θ
+          
+            ′
+          
+        
+        ,
+      
+    
+    {\displaystyle \theta ^{\prime },}
+   where 
+  
+    
+      
+        θ
+      
+    
+    {\displaystyle \theta }
+   includes 
+  
+    
+      
+        b
+      
+    
+    {\displaystyle b}
+   and 
+  
+    
+      
+        
+          θ
+          
+            ′
+          
+        
+      
+    
+    {\displaystyle \theta ^{\prime }}
+   includes 
+  
+    
+      
+        c
+        .
+      
+    
+    {\displaystyle c.}
+   Then 
+  
+    
+      
+        
+          θ
+          
+            ′
+          
+        
+      
+    
+    {\displaystyle \theta ^{\prime }}
+   is the supplement of 
+  
+    
+      
+        θ
+      
+    
+    {\displaystyle \theta }
+   and 
+  
+    
+      
+        cos
+        ⁡
+        
+          θ
+          
+            ′
+          
+        
+        =
+        −
+        cos
+        ⁡
+        θ
+        .
+      
+    
+    {\displaystyle \cos \theta ^{\prime }=-\cos \theta .}
+   The law of cosines for 
+  
+    
+      
+        θ
+      
+    
+    {\displaystyle \theta }
+   and 
+  
+    
+      
+        
+          θ
+          
+            ′
+          
+        
+      
+    
+    {\displaystyle \theta ^{\prime }}
+   states that
+
+Add the first and third equations to obtain
+
+as required.
+
+
+== See also ==
+Formulas involving the medians' lengths – Line segment joining a triangle's vertex to the midpoint of the opposite side
+
+
+== References ==
+
+
+== External links ==
+Apollonius Theorem at PlanetMath.
+David B. Surowski: Advanced High-School Mathematics. p. 27

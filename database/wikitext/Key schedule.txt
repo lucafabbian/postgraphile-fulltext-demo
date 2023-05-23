@@ -1,0 +1,16 @@
+In cryptography, the so-called product ciphers are a certain kind of cipher, where the (de-)ciphering of data is typically done as an iteration of rounds.  The setup for each round is generally the same, except for round-specific fixed values called a round constant, and round-specific data derived from the cipher key called a round key.  A key schedule is an algorithm that calculates all the round keys from the key.
+
+
+== Some types of key schedules ==
+Some ciphers have simple key schedules. For example, the block cipher TEA splits the 128-bit key into four 32-bit pieces and uses them repeatedly in successive rounds.
+DES has a key schedule in which the 56-bit key is divided into two 28-bit halves; each half is thereafter treated separately. In successive rounds, both halves are rotated left by one or two bits (specified for each round), and then 48 round key bits are selected by Permuted Choice 2 (PC-2) – 24 bits from the left half and 24 from the right. The rotations have the effect that a different set of bits is used in each round key; each bit is used in approximately 14 out of the 16 round keys.
+To avoid simple relationships between the cipher key and the round keys, in order to resist such forms of cryptanalysis as related-key attacks and slide attacks, many modern ciphers use more elaborate key schedules to generate an "expanded key" from which round keys are drawn. Some ciphers, such as Rijndael (AES) and Blowfish, use the same operations as those used in the data path of the cipher algorithm for their key expansion, sometimes initialized with some "nothing-up-my-sleeve numbers". Other ciphers, such as RC5, expand keys with functions that are somewhat or completely different from the encryption functions.
+
+
+== Notes ==
+Knudsen and Mathiassen (2004) give some experimental evidence that indicate that the key schedule plays a part in providing strength against linear and differential cryptanalysis. For toy Feistel ciphers, it was observed that those with complex and well-designed key schedules can reach a uniform distribution for the probabilities of differentials and linear hulls faster than those with poorly designed key schedules.
+
+
+== References ==
+Lars R. Knudsen and John Erik Mathiassen, On the Role of Key Schedules in Attacks on Iterated Ciphers, ESORICS 2004, pp322–334.
+Uri Blumenthal and Steven M. Bellovin, A Better Key Schedule for DES-like Ciphers, Proceedings of PRAGOCRYPT '96.

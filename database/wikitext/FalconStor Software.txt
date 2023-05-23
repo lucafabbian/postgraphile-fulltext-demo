@@ -1,0 +1,21 @@
+FalconStor is a data management software company based in Austin, Texas.
+
+
+== History ==
+FalconStor was co-founded in 2000 in New York by Computer Associates veterans ReiJane Huai and Wayne Lam. In 2007 the company started a joint-venture with the Chinese Academy of Sciences for the Blue Whale file system.
+The joint venture was named Tianjin Zhongke Blue Whale Information Technologies Company, located in Tianjin, China. FalconStor was listed at #5 in the Forbes 2008 list of 25 fastest growing technology companies. In August 2009, FalconStor, in a  joint-venture with Nexsan to create the co-branded DeDupe SG. In 2011 CRN added FalconStor to their List of 25 “Need to Know: Storage Vendors”.In 2012, the company agreed to pay $5.8 US million as part as a federal investigation settlement, after it has admitted that its employees gave more than $300,000 in bribes to executives at JPMorgan Chase with restricted stock shares and golf memberships in exchange for contracts. The company was further charged with falsifying its corporate books and records associated with the bribery.On September 25, 2017, FalconStor was delisted from Nasdaq Capital Market. The company's stock is traded on OTC Markets Group Inc.’s OTCQB Venture Market.In June 2020, FalconStor partners with Hitachi Content Platform (HCP) to provide end-to - end data management and backup solutions.
+
+
+== Personnel ==
+On August 17, 2017, FalconStor appointed Todd Brooks as CEO. Previously, he served as COO of ESW Capital companies Aurea Software and Trilogy.In 2018, FalconStor moved its headquarters to Austin, Texas, and hired Brad Wolfe, former CFO for Asure Software, as CFO.
+
+
+== Products ==
+In 2019, FalconStor launched its Data Mastery software platform (a rebrand of its FreeStor product).In May 2020, FalconStor Software announced a new tool named StorSafe, an enterprise-class permanent data storage container that combines with existing recovery applications and archive processes.
+
+
+== References ==
+
+
+== External links ==
+Official website

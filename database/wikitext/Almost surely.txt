@@ -1,0 +1,626 @@
+In probability theory, an event is said to happen almost surely (sometimes abbreviated as a.s.) if it happens with probability 1 (or Lebesgue measure 1). In other words, the set of possible exceptions may be non-empty, but it has probability 0. The concept is analogous to the concept of "almost everywhere" in measure theory.
+In probability experiments on a finite sample space with a non-zero probability for each outcome, there is no difference between almost surely and surely (since having a probability of 1 entails including all the sample points). However, this distinction becomes important when the sample space is an infinite set, because an infinite set can have non-empty subsets of probability 0.
+Some examples of the use of this concept include the strong and uniform versions of the law of large numbers, and the continuity of the paths of Brownian motion.
+The terms almost certainly (a.c.) and almost always (a.a.) are also used. Almost never describes the opposite of almost surely: an event that happens with probability zero happens almost never.
+
+
+== Formal definition ==
+Let 
+  
+    
+      
+        (
+        Ω
+        ,
+        
+          
+            F
+          
+        
+        ,
+        P
+        )
+      
+    
+    {\displaystyle (\Omega ,{\mathcal {F}},P)}
+   be a probability space. An event 
+  
+    
+      
+        E
+        ∈
+        
+          
+            F
+          
+        
+      
+    
+    {\displaystyle E\in {\mathcal {F}}}
+   happens almost surely if 
+  
+    
+      
+        P
+        (
+        E
+        )
+        =
+        1
+      
+    
+    {\displaystyle P(E)=1}
+  . Equivalently, 
+  
+    
+      
+        E
+      
+    
+    {\displaystyle E}
+   happens almost surely if the probability of 
+  
+    
+      
+        E
+      
+    
+    {\displaystyle E}
+   not occurring is zero: 
+  
+    
+      
+        P
+        (
+        
+          E
+          
+            C
+          
+        
+        )
+        =
+        0
+      
+    
+    {\displaystyle P(E^{C})=0}
+  . More generally, any event 
+  
+    
+      
+        E
+        ⊆
+        Ω
+      
+    
+    {\displaystyle E\subseteq \Omega }
+   (not necessarily in 
+  
+    
+      
+        
+          
+            F
+          
+        
+      
+    
+    {\displaystyle {\mathcal {F}}}
+  ) happens almost surely if 
+  
+    
+      
+        
+          E
+          
+            C
+          
+        
+      
+    
+    {\displaystyle E^{C}}
+   is contained in a null set: a subset 
+  
+    
+      
+        N
+      
+    
+    {\displaystyle N}
+   in 
+  
+    
+      
+        
+          
+            F
+          
+        
+      
+    
+    {\displaystyle {\mathcal {F}}}
+   such that 
+  
+    
+      
+        P
+        (
+        N
+        )
+        =
+        0
+      
+    
+    {\displaystyle P(N)=0}
+  . The notion of almost sureness depends on the probability measure 
+  
+    
+      
+        P
+      
+    
+    {\displaystyle P}
+  . If it is necessary to emphasize this dependence, it is customary to say that the event 
+  
+    
+      
+        E
+      
+    
+    {\displaystyle E}
+   occurs P-almost surely, or almost surely 
+  
+    
+      
+        
+          (
+          
+            
+            P
+          
+          )
+        
+      
+    
+    {\displaystyle \left(\!P\right)}
+  .
+
+
+== Illustrative examples ==
+In general, an event can happen "almost surely", even if the probability space in question includes outcomes which do not belong to the event—as the following examples illustrate.
+
+
+=== Throwing a dart ===
+Imagine throwing a dart at a unit square (a square with an area of 1) so that the dart always hits an exact point in the square, in such a way that each point in the square is equally likely to be hit. Since the square has area 1, the probability that the dart will hit any particular subregion of the square is equal to the area of that subregion. For example, the probability that the dart will hit the right half of the square is 0.5, since the right half has area 0.5.
+Next, consider the event that the dart hits exactly a point in the diagonals of the unit square. Since the area of the diagonals of the square is 0, the probability that the dart will land exactly on a diagonal is 0. That is, the dart will almost never land on a diagonal (equivalently, it will almost surely not land on a diagonal), even though the set of points on the diagonals is not empty, and a point on a diagonal is no less possible than any other point.
+
+
+=== Tossing a coin repeatedly ===
+Consider the case where a (possibly biased) coin is tossed, corresponding to the probability space 
+  
+    
+      
+        (
+        {
+        H
+        ,
+        T
+        }
+        ,
+        
+          2
+          
+            {
+            H
+            ,
+            T
+            }
+          
+        
+        ,
+        P
+        )
+      
+    
+    {\displaystyle (\{H,T\},2^{\{H,T\}},P)}
+  , where the event 
+  
+    
+      
+        {
+        H
+        }
+      
+    
+    {\displaystyle \{H\}}
+   occurs if a head is flipped, and 
+  
+    
+      
+        {
+        T
+        }
+      
+    
+    {\displaystyle \{T\}}
+   if a tail is flipped. For this particular coin, it is assumed that the probability of flipping a head is 
+  
+    
+      
+        P
+        (
+        H
+        )
+        =
+        p
+        ∈
+        (
+        0
+        ,
+        1
+        )
+      
+    
+    {\displaystyle P(H)=p\in (0,1)}
+  , from which it follows that the complement event, that of flipping a tail, has probability 
+  
+    
+      
+        P
+        (
+        T
+        )
+        =
+        1
+        −
+        p
+      
+    
+    {\displaystyle P(T)=1-p}
+  .
+Now, suppose an experiment were conducted where the coin is tossed repeatedly, with outcomes 
+  
+    
+      
+        
+          ω
+          
+            1
+          
+        
+        ,
+        
+          ω
+          
+            2
+          
+        
+        ,
+        …
+      
+    
+    {\displaystyle \omega _{1},\omega _{2},\ldots }
+   and the assumption that each flip's outcome is independent of all the others (i.e., they are independent and identically distributed; i.i.d). Define the sequence of random variables on the coin toss space, 
+  
+    
+      
+        (
+        
+          X
+          
+            i
+          
+        
+        
+          )
+          
+            i
+            ∈
+            
+              N
+            
+          
+        
+      
+    
+    {\displaystyle (X_{i})_{i\in \mathbb {N} }}
+   where 
+  
+    
+      
+        
+          X
+          
+            i
+          
+        
+        (
+        ω
+        )
+        =
+        
+          ω
+          
+            i
+          
+        
+      
+    
+    {\displaystyle X_{i}(\omega )=\omega _{i}}
+  . i.e. each 
+  
+    
+      
+        
+          X
+          
+            i
+          
+        
+      
+    
+    {\displaystyle X_{i}}
+   records the outcome of the 
+  
+    
+      
+        i
+      
+    
+    {\displaystyle i}
+  th flip.
+In this case, any infinite sequence of heads and tails is a possible outcome of the experiment. However, any particular infinite sequence of heads and tails has probability 0 of being the exact outcome of the (infinite) experiment. This is because the i.i.d. assumption implies that the probability of flipping all heads over 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+   flips is simply 
+  
+    
+      
+        P
+        (
+        
+          X
+          
+            i
+          
+        
+        =
+        H
+        ,
+         
+        i
+        =
+        1
+        ,
+        2
+        ,
+        …
+        ,
+        n
+        )
+        =
+        
+          
+            (
+            
+              P
+              (
+              
+                X
+                
+                  1
+                
+              
+              =
+              H
+              )
+            
+            )
+          
+          
+            n
+          
+        
+        =
+        
+          p
+          
+            n
+          
+        
+      
+    
+    {\displaystyle P(X_{i}=H,\ i=1,2,\dots ,n)=\left(P(X_{1}=H)\right)^{n}=p^{n}}
+  . Letting 
+  
+    
+      
+        n
+        →
+        ∞
+      
+    
+    {\displaystyle n\rightarrow \infty }
+   yields 0, since 
+  
+    
+      
+        p
+        ∈
+        (
+        0
+        ,
+        1
+        )
+      
+    
+    {\displaystyle p\in (0,1)}
+   by assumption. The result is the same no matter how much we bias the coin towards heads, so long as we constrain 
+  
+    
+      
+        p
+      
+    
+    {\displaystyle p}
+   to be strictly between 0 and 1. In fact, the same result even holds in non-standard analysis—where infinitesimal probabilities are not allowed.Moreover, the event "the sequence of tosses contains at least one 
+  
+    
+      
+        T
+      
+    
+    {\displaystyle T}
+  " will also happen almost surely (i.e., with probability 1).
+But if instead of an infinite number of flips, flipping stops after some finite time, say 1,000,000 flips, then the probability of getting an all-heads sequence, 
+  
+    
+      
+        
+          p
+          
+            1
+            ,
+            000
+            ,
+            000
+          
+        
+      
+    
+    {\displaystyle p^{1,000,000}}
+  , would no longer be 0, while the probability of getting at least one tails, 
+  
+    
+      
+        1
+        −
+        
+          p
+          
+            1
+            ,
+            000
+            ,
+            000
+          
+        
+      
+    
+    {\displaystyle 1-p^{1,000,000}}
+  , would no longer be 1 (i.e., the event is no longer almost sure).
+
+
+== Asymptotically almost surely ==
+In asymptotic analysis, a property is said to hold asymptotically almost surely (a.a.s.) if over a sequence of sets, the probability converges to 1. For instance, in number theory, a large number is asymptotically almost surely composite, by the prime number theorem; and in random graph theory, the statement "
+  
+    
+      
+        G
+        (
+        n
+        ,
+        
+          p
+          
+            n
+          
+        
+        )
+      
+    
+    {\displaystyle G(n,p_{n})}
+   is connected" (where 
+  
+    
+      
+        G
+        (
+        n
+        ,
+        p
+        )
+      
+    
+    {\displaystyle G(n,p)}
+   denotes the graphs on 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+   vertices with edge probability 
+  
+    
+      
+        p
+      
+    
+    {\displaystyle p}
+  ) is true a.a.s. when, for some 
+  
+    
+      
+        ε
+        >
+        0
+      
+    
+    {\displaystyle \varepsilon >0}
+  
+
+  
+    
+      
+        
+          p
+          
+            n
+          
+        
+        >
+        
+          
+            
+              (
+              1
+              +
+              ε
+              )
+              ln
+              ⁡
+              n
+            
+            n
+          
+        
+        .
+      
+    
+    {\displaystyle p_{n}>{\frac {(1+\varepsilon )\ln n}{n}}.}
+     In number theory, this is referred to as "almost all", as in "almost all numbers are composite". Similarly, in graph theory, this is sometimes referred to as "almost surely".
+
+
+== See also ==
+Almost
+Almost everywhere, the corresponding concept in measure theory
+Convergence of random variables, for "almost sure convergence"
+Cromwell's rule, which says that probabilities should almost never be set as zero or one
+Degenerate distribution, for "almost surely constant"
+Infinite monkey theorem, a theorem using the aforementioned terms
+List of mathematical jargon
+
+
+== Notes ==
+
+
+== References ==
+Rogers, L. C. G.; Williams, David (2000). Diffusions, Markov Processes, and Martingales. Vol. 1: Foundations. Cambridge University Press. ISBN 978-0521775946.
+Williams, David (1991). Probability with Martingales. Cambridge Mathematical Textbooks. Cambridge University Press. ISBN 978-0521406055.

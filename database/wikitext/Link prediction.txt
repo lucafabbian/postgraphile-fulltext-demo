@@ -1,0 +1,653 @@
+In network theory, link prediction is the problem of predicting the existence of a link between two entities in a network. Examples of link prediction include predicting friendship links among users in a social network, predicting co-authorship links in a citation network, and predicting interactions between genes and proteins in a biological network. Link prediction can also have a temporal aspect, where, given a snapshot of the set of links at time 
+  
+    
+      
+        t
+      
+    
+    {\displaystyle t}
+  , the goal is to predict the links at time 
+  
+    
+      
+        t
+        +
+        1
+      
+    
+    {\displaystyle t+1}
+  .
+Link prediction is widely applicable. In e-commerce, link prediction is often a subtask for recommending items to users. In the curation of citation databases, it can be used for record deduplication. In bioinformatics, it has been used to predict protein-protein interactions (PPI). It is also used to identify hidden groups of terrorists and criminals in security related applications.
+
+
+== Problem definition ==
+Consider a network 
+  
+    
+      
+        G
+        =
+        (
+        V
+        ,
+        E
+        )
+      
+    
+    {\displaystyle G=(V,E)}
+  , where 
+  
+    
+      
+        V
+      
+    
+    {\displaystyle V}
+   represents the entity nodes in the network and 
+  
+    
+      
+        E
+        ⊆
+        
+          |
+        
+        V
+        
+          |
+        
+      
+    
+    {\displaystyle E\subseteq |V|}
+   x 
+  
+    
+      
+        
+          |
+        
+        V
+        
+          |
+        
+      
+    
+    {\displaystyle |V|}
+   represents the set of "true" links across entities in the network.
+We are given the set of entities 
+  
+    
+      
+        V
+      
+    
+    {\displaystyle V}
+   and a subset of true links which are referred to as observed links.
+The goal of link prediction is to identify the unobserved true links.
+In the temporal formulation of link prediction the observed links correspond to true links at a time 
+  
+    
+      
+        t
+      
+    
+    {\displaystyle t}
+  , and the goal is to infer the set of true links at time 
+  
+    
+      
+        t
+        +
+        1
+      
+    
+    {\displaystyle t+1}
+  
+Usually, we are also given a subset of unobserved links called potential links 
+  
+    
+      
+        
+          E
+          ′
+        
+      
+    
+    {\displaystyle E'}
+  , and we need to identify true links among these potential links.
+In the binary classification formulation of the link prediction task the potential links are classified as either true links or false links.
+Link prediction approaches for this setting learn a classifier 
+  
+    
+      
+        
+          M
+          
+            b
+          
+        
+      
+    
+    {\displaystyle M_{b}}
+   that maps links in 
+  
+    
+      
+        
+          E
+          ′
+        
+      
+    
+    {\displaystyle E'}
+   to positive and negative labels i.e. 
+  
+    
+      
+        
+          M
+          
+            b
+          
+        
+        :
+        
+          E
+          ′
+        
+        →
+        {
+        0
+        ,
+        1
+        }
+      
+    
+    {\displaystyle M_{b}:E'\to \{0,1\}}
+  . 
+In the probability estimation formulation, potential links are associated with existence probabilities. 
+Link prediction approaches for this setting learn a model 
+  
+    
+      
+        
+          M
+          
+            p
+          
+        
+      
+    
+    {\displaystyle M_{p}}
+   that maps links in 
+  
+    
+      
+        
+          E
+          ′
+        
+      
+    
+    {\displaystyle E'}
+   to a probability i.e. 
+  
+    
+      
+        
+          M
+          
+            p
+          
+        
+        :
+        
+          E
+          ′
+        
+        →
+        [
+        0
+        ,
+        1
+        ]
+      
+    
+    {\displaystyle M_{p}:E'\to [0,1]}
+  .
+Single link approaches learn a model that classifies each link independently. 
+Structured prediction approaches capture the correlation between potential links by formulating the task as a collective link prediction task. 
+Collective link prediction approaches learn a model that jointly identify all the true links among the set of potential links.
+Link prediction task can also be formulated as an instance of missing value estimation task.
+Here, the graph is represented as an adjacency matrix with missing values. 
+The task is to complete the matrix by identifying the missing values.
+Matrix factorization based methods commonly use this formulation.
+
+
+== History ==
+The task of link prediction has attracted attention from several research communities ranging from statistics and network science to machine learning and data mining. 
+In statistics, generative random graph models such as stochastic block models propose an approach to generate links between nodes in a random graph.
+For social networks, Liben-Nowell and Kleinberg proposed a link prediction models based on different graph proximity measures.
+Several statistical models have been proposed for link prediction by the machine learning and data mining community.
+For example, Popescul et al. proposed a structured logistic regression model that can make use of relational features.
+Local conditional probability models based on attribute and structural features were proposed by O’Madadhain et al.
+Several models based on directed graphical models for collective link prediction have been proposed by Getoor.
+Other approached based on random walks. and matrix factorization have also been proposed 
+With the advent of deep learning, several graph embedding based approaches for link prediction have also been proposed.
+For more information on link prediction refer to the survey by Getoor et al. and Yu et al.
+
+
+== Approaches and methods ==
+Several link predication approaches have been proposed including unsupervised approaches such as similarity measures computed on the entity attributes, random walk and matrix factorization based approaches, and supervised approaches based on graphical models and deep learning.
+Link prediction approaches can be divided into two broad categories based on the type of the underlying network: (1) link prediction approaches for homogeneous networks (2) link prediction approaches for heterogeneous networks.
+Based on the type of information used to predict links, approaches can be categorized as topology-based approaches, content-based approaches, and mixed methods.
+
+
+=== Topology-based methods ===
+Topology-based methods broadly make the assumption that nodes with similar network structure are more likely to form a link.
+
+
+==== Common neighbors ====
+This is a common approach to link prediction that computes the number of common neighbors. Entities with more neighbors in common are more likely to have a link. It is computed as follows:
+
+  
+    
+      
+        C
+        N
+        (
+        A
+        ,
+        B
+        )
+        =
+        
+          
+            |
+          
+          A
+          ∩
+          B
+          
+            |
+          
+        
+      
+    
+    {\displaystyle CN(A,B)={|A\cap B|}}
+  A weakness of this approach is that it does not take into account the relative number of common neighbors.
+
+
+==== Jaccard measure ====
+The Jaccard Measure addresses the problem of Common Neighbors by computing the relative number of neighbors in common:
+
+  
+    
+      
+        J
+        (
+        A
+        ,
+        B
+        )
+        =
+        
+          
+            
+              
+                |
+              
+              A
+              ∩
+              B
+              
+                |
+              
+            
+            
+              
+                |
+              
+              A
+              ∪
+              B
+              
+                |
+              
+            
+          
+        
+      
+    
+    {\displaystyle J(A,B)={{|A\cap B|} \over {|A\cup B|}}}
+  
+
+
+==== Adamic–Adar measure ====
+The Adamic–Adar measure is the sum of the log of the intersection of the neighbors of two nodes. This captures a two-hop similarity, which can yield better results than simple one-hop methods. It is computed as follows:
+
+  
+    
+      
+        A
+        (
+        x
+        ,
+        y
+        )
+        =
+        
+          ∑
+          
+            u
+            ∈
+            N
+            (
+            x
+            )
+            ∩
+            N
+            (
+            y
+            )
+          
+        
+        
+          
+            1
+            
+              log
+              ⁡
+              
+                |
+              
+              N
+              (
+              u
+              )
+              
+                |
+              
+            
+          
+        
+        ,
+      
+    
+    {\displaystyle A(x,y)=\sum _{u\in N(x)\cap N(y)}{\frac {1}{\log |N(u)|}},}
+  where 
+  
+    
+      
+        N
+        (
+        u
+        )
+      
+    
+    {\displaystyle N(u)}
+   is the set of nodes adjacent to 
+  
+    
+      
+        u
+      
+    
+    {\displaystyle u}
+  .
+
+
+==== Katz measure ====
+Neighbor based methods can be effective when the number of neighbors is large, but this is not the case in sparse graphs. In these situations it is appropriate to use methods that account for longer walks. The Katz Measure is one metric that captures this. It is computed by searching the graph for paths of length 
+  
+    
+      
+        t
+      
+    
+    {\displaystyle t}
+   in the graph and adding the counts of each path length weighted by user specified weights.
+Let A be the adjacency matrix of a network under consideration. Elements 
+  
+    
+      
+        (
+        
+          a
+          
+            i
+            j
+          
+        
+        )
+      
+    
+    {\displaystyle (a_{ij})}
+   of A are variables that take a value 1 if a node i is connected to node j and 0 otherwise. The powers of A indicate the presence (or absence) of links between two nodes through intermediaries. For instance, in matrix 
+  
+    
+      
+        
+          A
+          
+            3
+          
+        
+      
+    
+    {\displaystyle A^{3}}
+  , if element 
+  
+    
+      
+        (
+        
+          a
+          
+            2
+            ,
+            12
+          
+        
+        )
+        =
+        1
+      
+    
+    {\displaystyle (a_{2,12})=1}
+  , it indicates that node 2 and node 12 are connected through some walk of length 3. If 
+  
+    
+      
+        
+          C
+          
+            
+              K
+              a
+              t
+              z
+            
+          
+        
+        (
+        i
+        )
+      
+    
+    {\displaystyle C_{\mathrm {Katz} }(i)}
+   denotes Katz centrality of a node i, then mathematically:
+
+  
+    
+      
+        
+          C
+          
+            
+              K
+              a
+              t
+              z
+            
+          
+        
+        (
+        i
+        )
+        =
+        
+          ∑
+          
+            k
+            =
+            1
+          
+          
+            ∞
+          
+        
+        
+          ∑
+          
+            j
+            =
+            1
+          
+          
+            n
+          
+        
+        
+          α
+          
+            k
+          
+        
+        (
+        
+          A
+          
+            k
+          
+        
+        
+          )
+          
+            j
+            i
+          
+        
+      
+    
+    {\displaystyle C_{\mathrm {Katz} }(i)=\sum _{k=1}^{\infty }\sum _{j=1}^{n}\alpha ^{k}(A^{k})_{ji}}
+  Note that the above definition uses the fact that the element at location 
+  
+    
+      
+        (
+        i
+        ,
+        j
+        )
+      
+    
+    {\displaystyle (i,j)}
+   of 
+  
+    
+      
+        
+          A
+          
+            k
+          
+        
+      
+    
+    {\displaystyle A^{k}}
+   reflects the total number of 
+  
+    
+      
+        k
+      
+    
+    {\displaystyle k}
+   degree connections between nodes 
+  
+    
+      
+        i
+      
+    
+    {\displaystyle i}
+   and 
+  
+    
+      
+        j
+      
+    
+    {\displaystyle j}
+  .
+
+
+=== Node attribute-based methods ===
+Node-similarity methods predict the existence of a link based on the similarity of the node attributes.
+
+
+==== Euclidean distance ====
+The attribute values are represented as normalized vector and the distance between the vectors used to measure similarity. Small distances indicate higher similarity.
+
+
+==== Cosine similarity ====
+After normalizing the attribute values, computing the cosine between the two vectors is a good measure of similarity, with higher values indicating higher similarity.
+
+
+=== Mixed methods ===
+Mixed methods combine attribute and topology based methods.
+
+
+==== Graph embeddings ====
+Graph embeddings also offer a convenient way to predict links. Graph embedding algorithms, such as Node2vec, learn an embedding space in which neighboring nodes are represented by vectors so that vector similarity measures, such as dot product similarity, or euclidean distance, hold in the embedding space. These similarities are functions of both topological features and attribute-based similarity. One can then use other machine learning techniques to predict edges on the basis of vector similarity.
+
+
+==== Probabilistic relationship models ====
+A probabilistic relational model (PRM) specifies a template for a probability distribution over a databases. The template describes the relational schema for the domain, and the probabilistic dependencies between attributes in the domain. A PRM, together with a particular database of entities and unobserved links, defines a probability distribution over the unobserved links.
+
+
+==== Probabilistic soft logic (PSL) ====
+Probabilistic soft logic (PSL) is a probabilistic graphical model over hinge-loss Markov random field (HL-MRF). HL-MRFs are created by a set of templated first-order logic-like rules, which are then grounded over the data. PSL can combine attribute, or local, information with topological, or relational, information. While PSL can incorporate local predictors, such as cosine similarity, it also supports relational rules, such as triangle completion in a network.
+
+
+==== Markov logic networks (MLNs) ====
+Markov logic networks (MLNs) is a probabilistic graphical model defined over Markov networks. These networks are defined by templated first-order logic-like rules, which is then grounded over the training data. MLNs are able to incorporate both local and relational rules for the purpose of link prediction.
+
+
+==== R-Model (RMLs) ====
+R-Models (RMLs) is a neural network model created to provide a deep learning approach to the link weight prediction problem. This model uses a node embedding technique that extracts node embeddings (knowledge of nodes) from the known links’ weights (relations between nodes) and uses this knowledge to predict the unknown links’ weights.
+
+
+== Applications ==
+Link prediction has found varied uses, but any domain in which entities interact in a structures way can benefit from link prediction. A common applications of link prediction is improving similarity measures for collaborative filtering approaches to recommendation. Link prediction is also frequently used in social networks to suggest friends to users. It has also been used to predict criminal associations.
+In biology, link prediction has been used to predict interactions between proteins in protein-protein interaction networks. Link prediction has also been used to infer interactions between drugs and targets using link prediction  Another application is found in collaboration prediction in scientific co-authorship networks.
+Entity resolution, also known as deduplication, commonly uses link prediction to predict whether two entities in a network are references to the same physical entity. Some authors have used context information in network structured domains to improve entity resolution.Link prediction in the context of network effects has been used to analyze tendencies to spread across networks and can be used to improve marketing strategies, in particular viral marketing.
+
+
+== Software packages ==
+
+
+=== Free and open-source software ===
+
+
+=== Proprietary software with free and open-source editions ===
+
+
+=== Proprietary software ===
+
+
+== See also ==
+
+
+== References ==

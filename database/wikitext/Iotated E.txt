@@ -1,0 +1,16 @@
+Iotated E or Iotated Ukrainian Ye (Ѥ ѥ) is a letter of the Cyrillic script. It is only used in the Church Slavonic language.
+
+
+== History ==
+Iotated E has no equivalent in the Glagolitic alphabet, and probably originated as a ligature of ⟨і⟩ and ⟨е⟩ to represent [je].
+
+
+== Usage ==
+Iotated E is found in some of the very oldest examples of Cyrillic writing, such as the tenth-century Mostich inscription or the Codex Suprasliensis, whereas in others, such as the Enina Apostle or Undol'skij Fragments, it is not present at all.  It is plentifully attested in medieval manuscripts of both South Slavonic and East Slavonic provenance, co-existing with ⟨є⟩, which fulfils the same function.  Orthographic practice nevertheless varies: some manuscripts use all three characters, some ⟨е⟩ and ⟨ѥ⟩, some ⟨е⟩ and ⟨є⟩, and some only ⟨е⟩.  
+Among the Eastern Slavs ⟨ѥ⟩ fell into disuse after the end of the fourteenth century, and it is not therefore represented in printed books from this area, or in modern Church Slavonic.  In the South, however, it survived, and was used in the first Serbian printed book, the Octoechos (Oktoih prvoglasnik) of 1474, and appears in the Serbian abecedarium printed in Venice in 1597; its position in the alphabet in this book is between ⟨ю⟩ and ⟨ѯ⟩.  It continued to be used in both manuscript and printed material throughout the sixteenth and seventeenth centuries, but it no longer appears in the alphabet in M. Karaman's abecedarium of 1753.  In certain orthographical variants of Bulgarian, it can be found at least up to the middle of the 19th century. But for now in modern Cyrillic script-using languages, ѥ is now replaced with the Cyrillic letter Ye (Е).
+
+
+== Computing codes ==
+
+
+== References ==

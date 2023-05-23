@@ -1,0 +1,8 @@
+PatientBank is a platform for gathering and sharing medical data. Headquartered in San Francisco, PatientBank enables patients to gather their medical records electronically.  PatientBank allows users to manage their own healthcare data through: medical record retrieval, secure online storage, and sharing. Users can order medical records electronically from any doctor or hospital.
+
+
+== History ==
+The startup was founded in 2015 by Paul Fletcher-Hill, Feridun Mert Celebi, Kevin Grassi, MD and Graham Kaemmer who all met at Yale University.PatientBank has received funding from Y Combinator, General Catalyst, Khosla Ventures, SV Angel, Spectrum 28 and Data Collective.
+
+
+== References ==

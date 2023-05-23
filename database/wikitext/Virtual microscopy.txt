@@ -1,0 +1,33 @@
+Virtual microscopy is a method of posting microscope images on, and transmitting them over, computer networks. This allows independent viewing of images by large numbers of people in diverse locations.  It involves a synthesis of microscopy technologies and digital technologies.  The use of virtual microscopes can transform traditional teaching methods by removing the reliance on physical space, equipment, and specimens to a model that is solely dependent upon computer-internet access. This increases the convenience of accessing the slide sets and making the slides available to a broader audience. Digitized slides can have a high resolution and are resistant to being damaged or broken over time.Prior to recent advances in virtual microscopy, slides were commonly digitized by various forms of film scanner and image resolutions rarely exceeded 5000 dpi. Nowadays, it is possible to achieve more than 100,000 dpi and thus resolutions approaching that visible under the optical microscope. This increase in scanning resolution comes at a price; whereas a typical flatbed or film scanner ranges in cost from $200 to $600, a 100,000 dpi slide scanner will range from $80,000 to $200,000.
+
+
+== See also ==
+Digital pathology
+Microscopy
+Telepathology
+Tissue Cytometry, a technique that brings the concept of flow cytometry to tissue section, in situ, and helps to perform whole slide scanning and quantification of markers by maintaining the spatial context.
+
+
+== References ==
+
+
+== Further reading ==
+McCullough, Bruce; Ying, Xiaoyou; Monticello, Thomas; Bonnefoi, Marc (2004). "Digital Microscopy Imaging and New Approaches in Toxicologic Pathology". Toxicologic Pathology. 32 (5): 49–58. doi:10.1080/01926230490451734. PMID 15503664.
+Potts, Steven J. (2009). "Digital pathology in drug discovery and development: Multisite integration". Drug Discovery Today. 14 (19–20): 935–41. doi:10.1016/j.drudis.2009.06.013. PMID 19596461.
+Potts, Steven J.; Young, G. David; Voelker, Frank A. (2010). "The role and impact of quantitative discovery pathology". Drug Discovery Today. 15 (21–22): 943–50. doi:10.1016/j.drudis.2010.09.001. PMID 20946967.
+Zwönitzer, Ralf; Kalinski, Thomas; Hofmann, Harald; Roessner, Albert; Bernarding, Johannes (2007). "Digital pathology: DICOM-conform draft, testbed, and first results". Computer Methods and Programs in Biomedicine. 87 (3): 181–8. doi:10.1016/j.cmpb.2007.05.010. PMID 17618703.
+Kayser, Klaus; Kayser, Gian; Radziszowski, Dominik; Oehmann, Alexander (2004). "New Developments in Digital Pathology: from Telepathology to Virtual Pathology Laboratory".  In Duplaga, Mariusz; Zieliński, Krzysztof; Ingram, David (eds.). Transformation of Healthcare with Information Technologies. Studies in Health Technology and Informatics. IOS Press. pp. 61–9. ISBN 978-1-58603-438-2. ISSN 0926-9630. PMID 15718595.
+
+
+== External links ==
+Virtual Microscopy Database by the American Association of Anatomists
+More information about definition, technology and teaching
+PathXL: Range of virtual microscopy software developed by Pathologists.
+Virtual Microscopy Slide Database
+Free Virtual Microscope Web Application with automated image analysis
+Virtual Microscopy of the Brain
+Virtual Microscopy a Disruptive Technology?
+Holycross Cancer Center (Poland, Kielce) Pathomorphology Department virtual slides
+Digital medicine in the virtual hospital of the future
+Virtual Pathology at the University of Leeds
+Invertebrate Zoology Virtual Microscopy, Yale Peabody Museum

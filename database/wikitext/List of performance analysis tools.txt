@@ -1,0 +1,67 @@
+This is a list of performance analysis tools for use in software development.
+
+
+== General purpose, language independent ==
+The following tools work based on log files that can be generated from various systems.
+
+time (Unix) - can be used to determine the run time of a program, separately counting user time vs. system time, and CPU time vs. clock time.
+timem (Unix) - can be used to determine the wall-clock time, CPU time, and CPU utilization similar to time (Unix) but supports numerous extensions.
+Supports reporting peak resident set size, major and minor page faults, priority and voluntary context switches via getrusage.
+Supports sampling procfs on supporting systems to report metrics such as page-based resident set size, virtual memory size, read-bytes, and write-bytes, etc.
+Supports collecting hardware counters when built with PAPI support.
+
+
+== Multiple languages ==
+The following tools work for multiple languages or binaries.
+
+
+== C and C++ ==
+Arm MAP, a performance profiler supporting Linux platforms.
+AppDynamics, an application performance management solution for C/C++ applications via SDK.
+AQtime Pro, a performance profiler and memory allocation debugger that can be integrated into Microsoft Visual Studio, and Embarcadero RAD Studio, or can run as a stand-alone application.
+IBM Rational Purify was a memory debugger allowing performance analysis.
+Instruments (bundled with Xcode) is used to profile an executable's memory allocations, time usage, filesystem activity, GPU activity etc.
+Intel Parallel Studio contains Intel VTune Amplifier, which tunes both serial and parallel programs.  It also includes Intel Advisor and Intel Inspector. Intel Advisor optimizes vectorization (use of SIMD instructions) and prototypes threading implementations. Intel Inspector detects and debugs races, deadlocks and memory errors.
+Parasoft Insure++ provides a graphical tool that displays and animates memory allocations in real time to expose memory blowout, fragmentation, overuse, bottlenecks and leaks.
+Visual Studio Team System Profiler, commercial profiler by Microsoft.
+
+
+== Java ==
+inspectIT is an open-source application performance management (APM) solution for monitoring and analyzing software applications, available under the Apache License, Version 2.0 (ALv2).
+JConsole is the profiler which comes with the Java Development Kit
+JProfiler
+JRockit Mission Control, a profiler with low overhead.
+Netbeans Profiler, a profiler integrated into the NetBeans IDE (internally uses jvisualvm profiler)
+Plumbr, Java application performance monitoring with automated root cause detection. Links memory leaks, GC inefficiency, slow database and external web service calls, locked threads, and other performance problems to the line in source code that causes them.
+OverOps, Continuous reliability for the modern software supply chain, automatically detect and deliver root cause automation for all errors.
+VisualVM is a visual tool integrating several commandline JDK tools and lightweight profiling capabilities. It is bundled with the Java Development Kit since version 6, update 7.
+FusionReactor, Java application performance monitoring - low overhead, production grade tools for production debugging, code profiling, memory and thread analysis
+
+
+== JavaScript ==
+The Firefox web browser's developer tools contain a Performance tool, which gives insight into JavaScript performance of a website.
+Microsoft Visual Studio AJAX Profiling Extensions is a free profiling tool for JavaScript by Microsoft Research.
+
+
+== .NET ==
+CLR Profiler is a free memory profiler provided by Microsoft for CLR applications.
+GlowCode is a performance and memory profiler for .NET applications using C# and other .NET languages. It identifies time-intensive functions and detects memory leaks and errors in native, managed and mixed Windows x64 and x86 applications.
+Visual Studio
+
+
+== PHP ==
+BlackFire.io
+Dbg
+Xdebug is a PHP extension which provides debugging and profiling capabilities.
+
+
+== See also ==
+Performance analysis
+Memory debugger (includes list of memory profilers)
+
+
+== References ==
+
+
+== External links ==
+Performance Analysis Tools, article from the Lawrence Livermore National Laboratory

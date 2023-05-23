@@ -1,0 +1,18 @@
+On 15 January 2000 Côte d'Ivoire has expanded its national numbering plan from 6 to 8 digits. Two digits were prepended to existing subscriber numbers, according to the former numbering range, type of service and carrier.
+
+
+== Calling formats ==
+To call in Ivory Coast, the following format is used:
+
+yy xx xx xx xx - calls within Ivory Coast
++225 27 xx xx xx xx calls from outside Ivory Coast to a landline
++225 01 xx xx xx xx / +225 05 xx xx xx xx  / +225 07 xx xx xx xx  /  +225 25 xx xx xx xx  calls from outside Ivory Coast to a mobile number
+
+
+== List of area codes in the Ivory Coast ==
+For fixed lines, the third digit of the NSN signifies the network operator.
+
+
+== References ==
+
+National Numbering Plan (NNP) of Côte d’Ivoire - accessed 11 August 2011.

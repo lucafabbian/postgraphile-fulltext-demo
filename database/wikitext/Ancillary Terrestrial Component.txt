@@ -1,0 +1,4 @@
+Ancillary Terrestrial Component (ATC) is a U.S. Federal Communications Commission-approved technique for using a "terrestrial" network of cell-phone towers to supplement a Mobile Satellite Service (MSS) provided by orbiting communications satellites. Satellite communications can be degraded by various factors, including attenuation in urban areas due to buildings etc. ATC allows the operators to reuse the same satellite spectrum in a terrestrial network to increase coverage and performance for their customers in highly shadowed regions e.g. within houses. In Europe ATC is known as complementary ground component (CGC).
+
+
+== Notes ==

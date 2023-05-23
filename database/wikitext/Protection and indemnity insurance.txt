@@ -1,0 +1,126 @@
+Protection and indemnity insurance, more commonly known as P&I insurance, is a form of mutual maritime insurance provided by a P&I club. Whereas a marine insurance company provides "hull and machinery" cover for shipowners, and cargo cover for cargo owners, a P&I club provides cover for open-ended risks that traditional insurers are reluctant to insure.  Typical P&I cover includes: a carrier's third-party risks for damage caused to cargo during carriage; war risks; and risks of environmental damage such as oil spills and pollution.  In the UK, both traditional underwriters and P&I clubs are subject to the Marine Insurance Act 1906.
+A P&I club is a mutual insurance association that provides risk pooling, information and representation for its members. Unlike a marine insurance company, which reports to its shareholders, a P&I club reports only to its members. Originally, P&I club members were typically shipowners, ship operators or demise charterers, but more recently freight forwarders and warehouse operators have been able to join.
+Whereas the assured pays a premium to an underwriter for cover which lasts for a particular time (say, a year, or a voyage), a P&I club member instead pays a "call".  This is a sum of money that is put into the club's pool, a kind of "kitty". If, at the end of the year, there are still funds in the pool, each member will pay a reduced call the following year; but if the club has made a major payout (say, after an oil spillage) club members will immediately have to pay a further call to replenish the pool.
+The International Group of P&I Clubs is based on Leadenhall Street in London.  These clubs cooperate to provide funds in the event of huge claims using a complex system to determine liability.
+
+
+== Historical background ==
+The ancient Greeks created the practice of general average in Rhodos island, and ancient Romans could be said to have had a rudimentary form of marine insurance.However, a novel type of insurance that one would recognise as modern emerged in the London "coffee shops" in the 19th century.  Shipowners and charterers would seek underwriters to insure their ships, and cargo owners (whether shippers, importers or consignees) would insure their cargoes.  Carriers soon realised that often they might themselves be at fault should cargo be lost or damaged at sea, and they sought to take out third-party indemnity insurance in respect of cargo liability.  Underwriters showed an unwillingness to take on such open-ended risks, so shipowners responded by forming their own mutual P&I clubs, acting as a shipowner's co-operative.  An advantage was that a club worked for the shipowners, thereby eliminating the underwriters' profit margins and making P&I Insurance significantly cheaper.In the second half of the 19th century, the number of claims greatly increased due to the number of passengers emigrating to North America and Australia. Shipowners became aware of their insurers' compensation limits, especially when it came to damages caused by ship collisions. While the UK Merchant Shipping Act 1854 had determined that, when evaluating insurance claims, the value of ships should be no less than £15 per ton, many ships had an actual lower market value and existing insurance policies did not cover this gap in liability. The compensation for collision damages also excluded a quarter of such damages. Existing hull insurance policies included damages to the insured ship and liability for the damages it had caused, while the maximum amount shipowners could recover after collisions was the ship's insured value, injured crew members might seek compensation from their employers. Later, the Fatal Accidents Act 1846 made it easier for passengers or their survivors to file claims.
+Perhaps the first protection association, the Shipowners' Mutual Protection Society, was formed in 1855. It was intended to compensate for loss of life, injuries and collisions that were excluded from marine insurance policies beyond the monetary limit of these policies. Similar associations were later formed within the United Kingdom, in Scandinavia, Japan and the United States.
+In 1874, the risk of liability for cargo carried by the insured ship was added to the insurance cover provided by a P&I club. Cargo value had risen and cargo underwriters, encouraged by UK courts, filed more claims to recover their losses from shipowners. These claims were not covered by the current marine insurance class. After 1874, many clubs added a marine indemnity class to respond to these new claims. This class was later merged with the marine insurance class reserved for the original protection risks and the distinction between the two classes virtually disappeared.
+After the Torrey Canyon grounding in 1967, covering the liabilities, costs and expenses of oil spills became an increasingly important aspect of P&I insurance.
+
+
+== SCOPIC ==
+Following on from the innovations of the LOF 1980, the 1989 International Salvage Convention permitted salvage rewards to be made to salvors who acted to limit damage to the coastal environment after oil spills.  Articles 13 & 14 of the Convention made provision for "Special Compensation", but the UK House of Lords case of the Nagasaki Spirit revealed that the convention had been poorly drafted, thereby limiting the amount that environmental salvors could be paid to mere "out-of-pocket expenses", with no allowance for any profit margin.  As an antidote to this, the marine insurance industry and P&I clubs jointly developed the "SCOPIC clause", which is a codicil that may be appended to an LOF and invoked should the statutory payment provisions prove inadequate.  The first SCOPIC clause was in 2000, and there have been several iterations since.
+
+
+== P & I clubs today ==
+
+
+=== Relationship with marine insurance ===
+Marine insurers offer insurance on measurable risks: hull and machinery insurance for shipowners, and cargo insurance for cargo owners. P&I clubs provide insurance for broader, indeterminate risks that marine insurers usually do not cover, such as third party risks. These risks include: a carrier’s liability to a cargo-owner for damage to cargo, a shipowner’s liability after a collision, environmental pollution and P&I war risk insurance, or legal liability due to acts of war affecting the ship.
+Marine insurers are usually for-profit companies that charge customers a premium to fully cover ships and cargo in the time period when the policy applies. In contrast, a P&I club is run as a non-profit co-operative and the insurance is financed by “calls”. Club members contribute to the club’s common risk pool according to the Pooling Agreement's rules. If the risk pool cannot cover current claims, the club members will be asked to pay a further call. If the pool has a surplus, the club will ask for a lower call the following year or make a refund to members. Only shipowners with acceptable reputations are allowed to join a P&I club and any P&I club member who incurs reckless or avoidable losses to the club may be asked to leave.
+Thus, marine cargo is generally covered twice by insurance standards. The shipper or cargo-owner will be covered by a marine insurer likely with 'all risks' cover.  The carrier or shipowner will be covered by the P&I club but will typically limit their liability to goods owners to a small fraction of the retail value of goods. If the cargo is lost or damaged, the cargo-owner needs to first make a claim against the shipowner. However, the shipowner may avoid liability if it did not cause the loss or if the Hague–Visby Rules grant exemption from liability. In that case, the cargo-owner will claim against its own insurance company. If the cargo-owner fails to claim first against the shipowner, but claims instead against its own insurance company, the insurer, having reimbursed its client, will through subrogation pursue the claim in its own right against the shipowner.
+
+
+=== Exceptions ===
+The following are the major exceptions to P&I coverage:
+
+Other insurance: A P&I insurance claim may be rejected if club managers think the risk should have been covered by other types of insurance that the shipowner should have obtained, such as war risks insurance or hull insurance, which pays collision liabilities and, in some cases,  liabilities for damages to fixed and floating objects ("FFO").
+Mutuality: A claim may be rejected in part or full if the shipowner took insufficient steps to limit its liability in order to protect the club. The club requires shipowners to ensure that the text within bills of lading and passenger tickets minimises the shipowner's liability faults (within the scope of section 2 of the Unfair Contract Terms Act 1977). The club expects shipowners comply with all flag state requirements concerning marine safety and environmental protection.
+Moral hazard: Liabilities due to the fraudulent non-delivery of cargo, especially deliveries of cargo that do not require an original bill of lading, are usually not covered by P&I insurance. This view is reflected in the decision of the English courts in Sze Hai Tong Bank v. Rambler Cycle Co. [1959] UKPC 14;
+Willful misconduct: Losses intended by the insured, or to which it "turned a blind eye" knowing they were likely to happen.
+Public policy: Criminal liabilities used not to be covered as a matter of course. Criminal liability was imposed only for intentional misconduct, and the requirement of fortuity generally included the coverage of criminal liabilities. Today, statutes in many countries impose "criminal" liability for negligent conduct that damages the environment, under circumstances that do not rise to the level of "willful misconduct" under the law of marine insurance.
+
+
+== Modern developments ==
+
+
+=== European Union Directive 2009/20/EC ===
+The European Union Directive 2009/20/EC was implemented in all 27 member states by January 1, 2012. The directive requires compulsory P&I to cover for EU and foreign ships in EU waters and ports. Foreign vessels that do not comply to the directive may be expelled or refused entry into any EU port, although ships may be allowed time to comply before expulsion. As EU competence does not generally extend to penology, (see  Re Tachographs (CJEU) 1979), the directive requires the member states themselves to set penalties for any breach.
+
+
+=== The Rotterdam Rules ===
+The Rotterdam Rules are a set of rules designed to replace the Hamburg Rules and the outdated Hague–Visby Rules (both of which are international conventions to impose duties upon a carrier of goods by sea).  Should the Rotterdam Rules come into effect, they would cover not merely the sea voyage, but all parts of any contract of multimodal carriage with a sea leg.  Thereafter, land carriers, warehouses, and freight forwarders would also need P&I cover.  This would inevitably lead to an increase in the scope and importance of P&I cover, and might diminish the prevalence of standard cargo insurance.
+
+
+=== Non-mutual P&I cover ===
+Conventional P&I cover has been taken up primarily by shipowners and demise charterers, but a new development is P&I cover for time- and voyage-charterers. Since these charterers may have no long-term relationship with any vessel, and  may well have periods when they are not chartering at all, the mutual model based on common-pool sharing of liability is not necessarily ideal. Some non-mutual "charterers P&I clubs" have arisen  whereby a private company may act as broker to provide third-party cover via underwriters, on payment of a conventional premium, rather than a P&I call. In addition to brokerage services, such a company may offer conventional "our man on the spot" P&I services.
+
+
+== P&I clubs worldwide ==
+The following is a list of P&I clubs around the world.
+
+
+=== Bermuda ===
+Steamship Mutual Management (Bermuda) Limited
+Gard P. & I. (Bermuda) Ltd
+
+
+=== China ===
+China Shipowners Mutual Assurance Association
+
+
+=== Japan ===
+Japan Shipowners P&I Association
+
+
+=== Netherlands ===
+Noord Nederlandsche P&I Club (NNPC) founded on 1937
+
+
+=== Norway ===
+Assuranceforeningen Gard
+Assuranceforeningen Skuld
+
+
+=== Singapore ===
+Standard Steamship Owners Protection & Indemnity Association (Asia)
+
+
+=== Sweden ===
+Sveriges Angfartygs Assurans Forening (The Swedish Club)
+
+
+=== United Arab Emirates ===
+Islamic P&I Club
+
+
+=== United Kingdom ===
+London P&I Club aka London Steam-Ship Owners Mutual Insurance
+The Britannia P&I Club, founded in 1855; the club is managed by Tindall Riley. 
+Michael Else & Co
+NorthStandard P&I Association was formed by the merger of the North P&I Club and Standard Steamship Owners Protection & Indemnity Association (abbreviated to The Standard Club) in 2023
+West of England Shipowners Insurance Service
+Shipowners P&I Association
+Steamship Mutual Underwriting Association
+The Liverpool & London P&I Club (which insured the Titanic) is no longer operating and merged with North in 1999
+The UK P&I Club, founded in 1869; the club is managed by Thomas Miller.
+
+
+=== United States ===
+American Steamship Owners Mutual Protection & Indemnity Association, Inc. (The American Club)
+
+
+=== South Korea ===
+The Korea Shipowners' Mutual Protection and Indemnity Association
+
+
+== International Group of P&I Clubs ==
+The International Group of P&I Clubs (based on Leadenhall Street, London) comprises thirteen clubs, which provide P&I liability cover for approximately 90% of the world's ocean-going tonnage.
+
+
+== See also ==
+Deviation (law)
+Seaworthiness (law)
+
+
+== Notes ==
+
+
+== References ==
+
+
+== Further reading ==
+An Introduction to P&I Insurance and Loss Prevention, Second Edition, North of England P&I Association, Newcastle upon Tyne, UK, 2012, ISBN 978-0-9558257-8-1

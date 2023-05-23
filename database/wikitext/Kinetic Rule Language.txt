@@ -1,0 +1,91 @@
+Kinetic Rule Language (KRL) is a rule-based programming language for creating applications on the Live Web. KRL programs, or rulesets, comprise a number of rules that respond to particular events.  KRL has been promoted as language for building personal clouds.KRL is part of an open-source project called KRE, for Kinetic Rules Engine, developed by Kynetx, Inc.
+
+
+== History ==
+KRL was designed by Phil Windley at Kynetx, beginning in 2007. Development of the language has since expanded to include libraries and modules for a variety of web services, including Twitter, Facebook, and Twilio.
+
+
+== Philosophy and design ==
+KRL is event-based with strict evaluation, single assignment, and dynamic typing. In event-driven programming, events, a notification that something happened, control the flow of execution. KRL supports a programming model based on three key ideas:Entity orientation – The programming model of KRL has identity as a core feature. KRL programs execute on behalf of a particular entity. The idea of entity is built into the underlying semantics of the language. The entity orientation of KRL is supported by the underlying KRE (Kynetx Rules Engine) and so is usable by any program running in the engine—even one not written in KRL. The next two features illustrate why identity is crucial to the programming model.
+Entity orientation requires that KRL execution environments support the notion of entity. Rulesets are installed for each entity.
+Event binding – rules in KRL bind event patterns to actions. Event patterns are specified using event expressions. Events and actions are both extensible so that programmers are free to define events and actions that are relevant to their problem space.
+Events are rarely addressed to a specific ruleset. Rather events are raised on behalf of a particular entity and thus any rule selected from the entity's installed rulesets runs on behalf of that same entity. This concept is called “salience.” An event is salient for a given entity if that entity has installed a rule that listens for that event.
+A single event can fire rules from multiple rulesets within the entity's execution environment. Which rules are selected and run depends on the rulesets installed.
+Persistent data values – KRL has a class of variables called “persistent variables” or just “persistents”. There are two kinds of persistents: application variables and entity variables. Both are closed over the ruleset they are in, meaning that they are only visible to code executing within the ruleset. Application variables are stored for the ruleset and are available to any entity executing the ruleset. Entity variable values are only visible to the entity for whom they were stored. Application variables are roughly analogous to class variables. Entity variables are like instance variables.
+Entity variables, in particular, are a very powerful concept since they provide KRL programmers with the ability to store persistent values without the headache of configuring, linking, and using a database for most things. Because a ruleset represents a closure over its entity variables, every ruleset potentially represents a persistent data object.
+
+
+=== Event-Condition-Action ===
+KRL is called an event condition action or ECA rule language because of the roles that those three fundamental parts of a rule play:
+
+Events – Events trigger specific things to occur. Events are like the trigger of the "gun"—the rule. Without the event to trigger the rule, nothing happens.
+Conditions – Conditions are similar to the safety of a gun. If the conditional expression does not return true, the rule does not fire. Just as a gun either shoots or doesn't shoot based upon the safety, there is no else statement on conditionals. If you want a rule to fire in the opposite case, you can use the not fired postlude to trigger another event, or you can have a rule with a conditional which tests for the opposite case.
+Actions – Actions are like the bullet coming out of the gun; they are the final result of the rule. A rule may have multiple actions.Besides a collection of rules, KRL rulesets also contain a meta section for specifying information about the ruleset, a dispatch section for providing clues about event salience, and a global section for global definitions. Each rule conforms to the pattern for ECA rule languages given above with some significant additions.
+The basic structure of a KRL rule is as follows:
+
+rule <name> {
+  select when <eventexpr>
+  pre {
+    <declarations>
+  }
+  if <expr> then
+    <action>
+  fired {
+    <effects>
+  } else {
+    <effects>
+  }
+}
+
+Event expressions in the select statement declare the conditions under which the rule will be selected.
+Declarations in the rule prelude allow values to be calculated and store for use later in the rule
+Conditional expressions determine whether a selected rule fires.
+Actions can be either built-in or user defined and specify the action of the rule
+Statements in the rule's postlude (fired...else...) affect persistent variables and raise further events.
+
+
+=== Event generators ===
+KRL events are raised by other rules of event generators commonly referred to as "endpoints". Events are commonly raised over HTTP using a model that conforms to the Evented API, but KRL is transport agnostic. For example, events could be transported by email, SMS, MQTT, or any other system supporting push-style notifications. Because the Evented API is a specialization of the webhook concept, any system that supports webhooks can raise events for KRL.
+KRL uses event channels to identify the entity for which the event is raised. An entity can have any number of event channels. Event channels are encoded in the URL for events transported over HTTP.
+An endpoint that generates an event may be observing some activity directly and reporting salient state changes or it might just be reporting or transforming event data from another source (e.g., a webhook).
+Endpoints are responsible for
+
+raising relevant events to the event processor,
+responding to directives from the event processor, and
+maintaining state to link separate interactions with the event processor together in meaningful ways to create context.
+
+
+=== Rules and rule execution ===
+KRL is a deterministic rule language. This means that KRL programs consist of a set of rules that take an action when triggered. Just as functional, object-oriented, and imperative languages are all different, rule languages also require a different way of thinking. Consequently, writing a KRL ruleset is not a traditional programming task.
+At its simplest, a rule is a conditional action. The action can be anything appropriate to the domain. For augmenting web pages, actions are page modifiers. In other domains, the action can be whatever the endpoint can consume. When a rule's action is taken, we say that the rule "fired." Note that the action is conditional: the action is taken only when the rule is selected and its premise is true.
+In the first stage, the rule is either selected or not, based on the event pattern in the event expression. The event expression of a rule follows the select keyword in the rule. For example, in the web domain, this most often consists of a regular expression to match with the URL of the page being augmented. Thus, in the first stage the rule is selected only for certain web pages.
+The second stage of the conditional firing of the rule is testing its premise, which consists of a predicate that is used to test the context in which the rule is being evaluated. This check is done after the rule's prelude section, where values are declared, so that it has the benefit of any computation needed to create or manipulate the context. The predicate of the conditional is optional, so it is possible to write a rule that always fires because its selector always selects. However, most interesting rulesets will contain rules that only fire under certain circumstances.
+The following example shows a simple KRL rule:
+
+rule good_morning {
+  select when pageview url #example.com#
+  if morning() then
+    notify(“Welcome!”, “Good morning!”)
+}
+
+This rule would send a “good morning” notification to visitors of any page in the archives of a web site (as denoted by the URL path) if it's morning where the user is.
+
+
+=== Events and evented systems ===
+Events are the notification of a detectable condition in a computer system.  The detectable condition will typically be seen as a state change.
+These are three required parts of event detection and notification:
+
+A change of state
+A process notices the state change
+The process sends a notification of the state changeNotifications are data transfers, not transfers of execution control. This is one of the hallmarks of evented systems that distinguishes them from other types of systems.  Interrogatory-style systems use a request-response mode of interaction: “Will you do this?”  Imperative-style systems use an RPC mode of interaction: “Do this!” In contrast, event interactions are declarative, stating only that a specific state change happened: “This happened”.
+Because they are declarative, event notifications impose the semantics of what an event means on the processor rather than a generator. The event generator doesn’t know how a given processor will interpret the event. What’s more, it is not even required that an event processor take any action whatsoever.  Each processor is free to interpret the event independently of other processors and generators in the system according to its context and particular purpose.
+The event generator “raises an event”; in other words, it sends a notification that a state change occurred. The event processor “listens for” or “handles” these events.
+
+
+== References ==
+
+
+== External links ==
+KRL Documentation
+Kinetic Rules Engine, the open-source implementation hosted on GitHub
+Articles on KRL at Phil Windley's blog

@@ -1,0 +1,28 @@
+A Precision Measurement Equipment Laboratory (PMEL) is a United States Air Force (USAF) facility in which the calibration and repair of test equipment takes place. This practice is also known as metrology: the science of measurement. Metrology is defined as the science of weights  & measures, while a PMEL is the place where technicians perform all of the metrology for the U.S. Air Force.  Air personnel in this career field are primarily responsible for the repair, calibration, and modification of test, measurement, and diagnostic equipment (TMDE), including precision measurement equipment laboratory standards and automatic test equipment. They also supervise the process and use of TMDE to perform voltage, current, power, impedance, frequency, microwave, temperature, physical-dimensional, and optical measurements.  They perform these functions in a strictly controlled laboratory environment where the temperature and humidity are constantly monitored. The Air Force Specialty Code (AFSC) of air personnel trained to work in the PMEL is 2P0X1 replacing 324X0 where "X" represents a variable number which denotes the level of expertise of the individual. There are also defense contractors and government civilians who perform this job. The Air Force's PMELs are governed by AFMETCAL (Air Force Metrology and Calibration Program)
+
+
+== Calibration sections ==
+Typically electronic test equipment is maintained in different calibration sections (K-Sections). The technicians who work in the PMEL will often specialize in one of these sections. The K-Sections are derived from the primary function of the TMDE. This is based upon the calibration authority.
+Most labs have three calibration sections divided into K1/K8, K5/K6 and K3/K4 that specialize in like test equipment.
+For example, the K3/K4 section would maintain Frequency counter, Oscilloscope, Synthesized Signal Generator and power sensor. While K1/K8 would maintain digital multimeter, high voltage probe and resistance standards. Lastly K5/K6 would deal with truck scales, pressure gauges, optics and micrometers.
+The sections are as follows:
+K1, K2, K8  DC/Electrical Standards Section 
+K3, K4     Frequency/RF Section  
+K5        Temperature/Humidity  
+K6,     Physical Dimensional Test Equipment 
+K7,     RADIAC 
+K9        Automated Test Equipment
+
+
+== Roles of PMEL technicians ==
+The roles of technicians may vary from various locations but typically are divided by skill level. The 2P0X1 AFSC is broken down by skill levels. The five skill levels are 1,3,5,7,and 9. This skill level is determined by qualifications, rank and experience. In addition, this AFSC feeds into Chief Enlisted Manager code of 2P000.  The following are typical roles for the various skill levels. More information can be found in the PMEL CFETP [1].
+
+
+== See also ==
+Accuracy and precision
+Logistics center
+
+
+== External links ==
+TO 00-20-14 Technical Manual Air Force Metrology and Calibration Program (PDF). 30 September 2011. Retrieved 23 January 2014. This Technical Order (TO) ... implements AFI 21-113, Air Force Metrology and Calibration (AFMETCAL) Management.
+[2]   Air Force Metrology Homepage

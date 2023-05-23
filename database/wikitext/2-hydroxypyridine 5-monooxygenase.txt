@@ -1,0 +1,17 @@
+In enzymology, a 2-hydroxypyridine 5-monooxygenase (EC 1.14.99.26) is an enzyme that catalyzes the chemical reaction
+
+2-hydroxypyridine + AH2 + O2 
+  
+    
+      
+        ⇌
+      
+    
+    {\displaystyle \rightleftharpoons }
+   2,5-dihydroxypyridine + A + H2OThe 3 substrates of this enzyme are 2-hydroxypyridine, an electron acceptor AH2, and O2, whereas its 3 products are 2,5-dihydroxypyridine, the reduction product A, and H2O.
+This enzyme belongs to the family of oxidoreductases, specifically those acting on paired donors, with O2 as oxidant and incorporation or reduction of oxygen. The oxygen incorporated need not be derive from O miscellaneous.  The systematic name of this enzyme class is 2-hydroxypyridine,hydrogen-donor:oxygen oxidoreductase (5-hydroxylating). This enzyme is also called 2-hydroxypyridine oxygenase.
+
+
+== References ==
+
+Sharma ML, Kaul SM, Shukla OP (1984). "Metabolism of 2-hydroxypyridine by Bacillus brevis (INA)". Biol. Membr. 9: 43–52.

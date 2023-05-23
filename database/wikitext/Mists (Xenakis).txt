@@ -1,0 +1,37 @@
+Mists is a composition for piano by Iannis Xenakis. It was written in 1980, and was premiered on April 16, 1981, by Roger Woodward, to whom it is dedicated. Its duration is approximately 12 minutes.
+
+
+== Background ==
+Mists was composed in response to a commission from Australian pianist Roger Woodward, and was presented to Woodward as a "personal gift". It was Xenakis's third work for solo piano, following Herma (1961) and Evryali (1973). Xenakis would go on to dedicate two additional works to Woodward: Keqrops for piano and orchestra (1986), and Paille in the Wind, for cello and piano (1992). According to Xenakis biography James Harley, the work was inspired by nature, "the title being suggested in the music by the scattered clouds of notes in the stochastic sections, and perhaps in the rolling waves of ascending scales".
+
+
+== Material and form ==
+In the preface to the score, Xenakis wrote that the work is based on two ideas. The first is the use of scales and their cyclic transpositions, which are explored either melodically or via stochastic distributions. The second is the use of arborescences, "bush-like clusters of melodic lines". Using these statements as a starting point, writer Ronald Squibbs identified the source of pitch material as a scale which spans the range of the piano, and which is subject to transposition and rotation. Versions of this scale manifest themselves through three main types of textures: 1) continuous random walks, which consist of linear, stepwise motion through a scale with the direction and speed varying unpredictably; 2) discontinuous random walks, where pitches in a scale and their rhythmic placement are chosen via probability distributions, resulting in sonic "clouds;" 3) the arborescences, lines that branch out in multiple directions.The work can be divided into three sections, all of which are frequently interrupted by silences. The first opens with a succession of continuous random walks presented canonically, with rhythmic variations yielding complex polyrhythms, followed by two- and four-voice walks. These walks are then interspersed with arborescences, followed by a transitional passage which leads into the second section, which is characterized by discontinuous random walks. These are notated by placing stemless note heads around elongated stems that mark sixteenth and eighth notes. The third section alternates the three types of textures, and includes a dramatic return of the continuous random walks in four-part form, with voices crossing polyrhythmically. James Harley wrote: "This is not music of accumulating momentum, but of moments of often violent intensity, placed into frames of silence. Underlying these gestures, though, is a consistency of style and pitch organization that lends coherence to this wild, strangely fascinating music."Material from Mists was reused in both Keqrops and à r. (Hommage à Ravel) (1987), Xenakis's fourth and final work for piano.
+
+
+== Performative considerations ==
+Like many of Xenakis's works, Mists is extremely challenging for the performer. A reviewer noted the density of the polyrhythmic writing, "in which 16 notes in one voice are set against 14 in another, 15 in a third, and 17 in a fourth". Pianist Pavlos Antoniadis wrote of the need for what he called "corporeal navigation", focusing "on physicality and non-serial learning", in order to effectively deal with the work's non-linearity and physical challenges. In a 2010 interview, when asked why he had recorded only two of Xenakis's works (Keqrops, as piano soloist, and Kraanerg, as conductor) up until that point, Roger Woodward responded: "These were recorded because I felt ready to make a statement about them and the composer was extremely pleased with both performances. It has taken me thirty years to feel the same way about his massive solo piano piece entitled Mists." Woodward wrote that, in Mists, "the clarity of attack demanded an equally precise preparation to produce a range of percussive sonorities", and that the performer should strive to produce "an almost imperceptible but enigmatic veil, a constant growth surging upward in complex counterpoint toward the white light".
+
+
+== Reception ==
+In a 1981 review for Contact, Brigitte Schiffer wrote that, with regard to the opening section, "the writing immediately brings to mind Bach's Goldberg Variations but the pianistic challenge is new, since what was played on the two keyboards of a harpsichord in Bach's time has here to be fitted on to the single keyboard of a piano, without sacrificing the wide sweep of the lines." Texturally, she noted the resemblance of certain passages to "haze, mists, and clouds, creating a unique sound-world, magic and disturbing, in which certain gestures, such as quickly repeated single notes, function in a way like signposts". Regarding the conclusion, she wrote: "After a final flourishing of arborescences, very close and very lucidly exposed since the pedal has been withdrawn, the piece, gathering passion and urgency, draws to what Woodward calls its 'tragic end'."Writing for the Financial Times, Dominic Gill described Mists as "torrential, thunderstruck piano writing, full of sudden halts, strange twists and turns, and violent surges... exciting to witness as a tour de force pure and simple, a bolt of naked keyboard energy".Upon hearing a tape of Woodward performing Mists, Sviatoslav Richter wrote: "This is the first time I've heard any music by Xenakis; it's completely bowled me over, even though I'm not sure whether I've really understood it (or not understood it)."
+
+
+== References ==
+
+Sources
+
+Antoniadis, Pavlos (April 1–3, 2011). Physicality as a performer-specific perspectival point to I. Xenakis's piano work: Case study Mists (PDF). Xenakis International Symposium. Southbank Centre, London. pp. 1–8. Retrieved February 4, 2022.
+Boyd, Angela (January 2010). "Interview with the pianist Roger Woodward". MusicWeb International. Retrieved January 29, 2022.
+Gill, Dominic (October 6, 1981). "A day of new music". Financial Times.
+Harley, James (2004). Xenakis: His Life in Music. Routledge.
+Monsaingeon, Bruno (2002). Sviatoslav Richter: Notebooks and Conversations. Princeton University Press.
+Schiffer, Brigitte (Winter 1981). "Iannis Xenakis, Mists". Contact: A Journal for Contemporary Music (23).
+Squibbs, Ronald (2002). "Some Observations on Pitch, Texture, and Form in Xenakis' Mists". Contemporary Music Review. 21 (2).
+Squibbs, Ronald (2003). "Xenakis in Miniature: Style and Structure in 'à r. (Hommage à Ravel)' for Piano (1987)". Perspectives of New Music. 41 (1).
+Woodward, Roger (2002). "Preparations for Xenakis and Keqrops". Contemporary Music Review. 21 (2).
+Xenakis, Iannis (1981). Mists. Éditions Salabert.
+
+
+== External links ==
+Animated score on YouTube, piano realized with Digital Performer, 2013

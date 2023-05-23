@@ -1,0 +1,44 @@
+Humanized antibodies are antibodies from non-human species whose protein sequences have been modified to increase their similarity to antibody variants produced naturally in humans. The process of "humanization" is usually applied to monoclonal antibodies developed for administration to humans (for example, antibodies developed as anti-cancer drugs). Humanization can be necessary when the process of developing a specific antibody involves generation in a non-human immune system (such as that in mice). The protein sequences of antibodies produced in this way are partially distinct from homologous antibodies occurring naturally in humans, and are therefore potentially immunogenic when administered to human patients (see also Human anti-mouse antibody). The International Nonproprietary Names of humanized antibodies end in -zumab, as in omalizumab (see Nomenclature of monoclonal antibodies). 
+Humanized antibodies are distinct from chimeric antibodies. The latter also have their protein sequences made more similar to human antibodies, but carry a larger stretch of non-human protein.
+There are other ways to develop monoclonal antibodies. This list covers many of the monoclonals developed for use in humans.
+
+
+== Use of recombinant DNA in humanization process ==
+The humanization process takes advantage of the fact that production of monoclonal antibodies can be accomplished using  recombinant DNA to create constructs capable of  expression in mammalian cell culture. That is, gene segments capable of producing antibodies are isolated and cloned into cells that can be grown in a bioreactor such that antibody proteins produced from the DNA of the cloned genes can be harvested en masse. The step involving recombinant DNA provides an intervention point that can be readily exploited to alter the protein sequence of the expressed antibody. The alterations to antibody structure that are achieved in the humanization process are therefore all effectuated through techniques at the DNA level. Not all methods for deriving antibodies intended for human therapy require a humanization step (e.g. phage display) but essentially all are dependent on techniques that similarly allow the "insertion" or "swapping-out" of portions of the antibody molecule.
+
+
+== Distinction from "chimeric antibody" ==
+
+Humanization is usually seen as distinct from the creation of a mouse-human antibody chimera. So, although the creation of an antibody chimera is normally undertaken to achieve a more human-like antibody (by replacing constant region of the mouse antibody with that from human) simple chimeras of this type are not usually referred to as humanized. Rather, the protein sequence of a humanized antibody is essentially identical to that of a human variant, despite the non-human origin of some of its complementarity-determining region (CDR) segments responsible for the ability of the antibody to bind to its target antigen.
+Chimeric antibody names contain a -xi- stem. Examples of chimeric antibodies approved for human therapy include abciximab (ReoPro), basiliximab (Simulect), cetuximab (Erbitux), infliximab (Remicade) and rituximab (MabThera). There are also several examples of chimerics currently in clinical trials (e.g. bavituximab, see sortable list for additional examples).
+
+
+== Humanizing via a chimeric intermediate ==
+The humanization process may also include the creation of a mouse-human chimera as an initial step. In this case, a mouse variable region is spliced to a human constant region.  The chimera can then be further humanized by selectively altering the sequence of amino acids in the variable region of the molecule. 
+The alteration process must be "selective" to retain the specificity for which the antibody was originally developed. That is, since the CDR portions of the variable region are essential to the ability of the antibody to bind to its intended target, the amino acids in these portions cannot be altered without the risk of undermining the purpose of the development. Aside from the CDR segments, the portions of the variable regions that differ from those in humans can be corrected by exchanging the appropriate individual amino acids. This is accomplished at the DNA level through mutagenesis.
+Naming of humanized chimeras includes the stem for both designations (-xi- + -zu-). Otelixizumab is an example of a humanized chimera currently in clinical trials for treatment of rheumatoid arthritis and diabetes mellitus.
+
+
+== Humanization by insertion of relevant CDRs into human antibody "scaffold" ==
+It is possible to produce a humanized antibody without creating a chimeric intermediate. "Direct" creation of a humanized antibody can be accomplished by inserting the appropriate CDR coding segments (so-called 'donor', responsible for the desired binding properties) into a human antibody "scaffold" (so-called 'acceptor'). As discussed above, this is achieved through recombinant DNA methods using an appropriate vector and expression in mammalian cells. That is, after an antibody is developed to have the desired properties in a mouse (or other non-human), the DNA coding for that antibody can be isolated, cloned into a vector and sequenced. The DNA sequence corresponding to the antibody CDRs can then be determined. Once the precise sequence of the desired CDRs are known, a strategy can be devised for inserting these sequences appropriately into a construct containing the DNA for a human antibody variant. The strategy may also employ synthesis of linear DNA fragments based on the reading of CDR sequences. The process requires computer-modelling software to determine which of the antibody's amino acids can be changed from murine-sequence to human-sequence without the changes compromising the conformation of the binding site. In the United States, this software was developed, patented, and demonstrated, by Protein Design Labs, Inc. in Mountain View, California, in the 1980s and 1990s.Alemtuzumab is an early example of an antibody whose humanization did not include a chimeric intermediate. In this case, a monoclonal dubbed "Campath-1" was developed to bind CD52 using a mouse system. The hypervariable loops of Campath-1 (that contain its CDRs and thereby impart its ability to bind CD52) were then extracted and inserted into a human antibody framework. Alemtuzumab is approved for treatment of B-cell chronic lymphocytic leukemia and is currently in clinical trials for a variety of other conditions including multiple sclerosis.
+
+
+== Derivation from sources other than mice ==
+There are technologies that completely avoid the use of mice or other non-human mammals in the process of discovering antibodies for human therapy. Examples of such systems include various "display" methods (primarily phage display) as well as methods that exploit the elevated B-cell levels that occur during a human immune response.
+
+
+=== Display methods ===
+These employ the selective principles of specific antibody production but exploit micro-organisms (as in phage display) or even cell free extracts (as in ribosome display). These systems rely on the creation of antibody gene "libraries" which can be wholly derived from human RNA isolated from peripheral blood. The immediate products of these systems are antibody fragments, normally Fab or scFv.
+This means that, although antibody fragments created using display methods are of fully human sequence, they are not full antibodies. Therefore, processes in essence identical to humanization are used to incorporate and express the derived affinities within a full antibody.
+Adalimumab (Humira) is an example of an antibody approved for human therapy that was created through phage display.
+
+
+=== Antibodies from human patients or vaccine recipients ===
+It is possible to exploit human immune reaction in the discovery of monoclonal antibodies. Simply put, human immune response works in the same way as that in a mouse or other non-human mammal. Therefore, persons experiencing a challenge to their immune system, such as an infectious disease, cancer or a vaccination are a potential source of monoclonal antibodies directed at that challenge. This approach seems especially apt for the development of anti-viral therapies that exploit the principles of passive immunity. Variants of this approach have been demonstrated in principle and some are finding their way into commercial development.
+
+
+== See also ==
+List of therapeutic monoclonal antibodies
+
+
+== References ==

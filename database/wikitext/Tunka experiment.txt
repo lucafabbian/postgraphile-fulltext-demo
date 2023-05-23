@@ -1,0 +1,34 @@
+The Tunka experiment now named TAIGA (Tunka Advanced Instrument for cosmic ray physics and Gamma Astronomy) measures air showers, which are initiated by charged cosmic rays or high energy gamma rays. TAIGA is situated in Siberia in the Tunka valley close to lake Baikal. Meanwhile, TAIGA consists of five different detector systems: Tunka-133, Tunka-Rex, and Tunka-Grande for charged cosmic rays; Tunka-HiSCORE and Tunka-IACT for gamma astronomy. From the measurements of each detector it is possible to reconstruct the arrival direction, energy and type of the cosmic rays, where the accuracy is enhanced by the combination of different detector systems.
+The aim of the cosmic-ray measurements is to solve the question of the origin of the cosmic rays in the energy range up to about 1 EeV. Thus, the Tunka experiment explores the same energy range as the KASCADE-Grande cosmic-ray experiment at the Karlsruhe Institute of Technology (KIT) and as the surface detector IceTop of the IceCube experiment at South Pole. However, the first detector of TAIGA, Tunka-133, uses a different and independent measurement technique, which can be used to cross-check the results by the other experiments. For gamma-ray astronomy the aim is to identify sources of higher energy than possible by current gamma-ray observatories.
+
+
+== History ==
+The Tunka experiment started already in the 1990s with a smaller array of 25 photomultiplier detectors. In September 2009 the current array of 133 detectors (Tunka-133) was inaugurated. In October 2011 the size of array was extended by a factor of 4 times by the installation of further, outer photomultiplier detector stations. This aims on the rare cosmic rays at ultra-high energies beyond 0.1 EeV, where a large detection area is important to measure a sufficient amount of cosmic rays. Starting 2012 other detector systems have been installed, first Tunka-Rex and Tunka-HiSCORE in the frame of a Helmholtz-Russia Joint Research Group (HRJRG) running from 2012 to 2015. In 2014 Tunka-Grande was built, and since 2015 the first telescope of Tunka-IACT is under construction. By this the focus of the Tunka experiment had been broadened. It now includes gamma astronomy in addition to cosmic rays which is reflected in the new name TAIGA (Tunka Advanced Instrument for cosmic ray physics and Gamma Astronomy).
+
+
+== Tunka-133 ==
+Tunka-133 is the first detector of TAIGA. It mainly consists of a 1 km² sized array of 133 photomultipliers, which detect the Cherenkov light of air showers during dark and clear nights. The measurements of Tunka-133 are also used for cross-calibration and comparison of the newer detectors.
+
+
+== Tunka-Rex ==
+Starting with 18 antennas in 2012 Tunka-Rex was successively increased and now consists of 63 antenna stations distributed over the whole area of Tunka-133. By comparison to Tunka-133 it was shown that the radio measurements have the same accuracy for the cosmic-ray energy than the Cherenkov-light measurements. While these Cherenkov-light measurements are possible only during dark and clear nights, the radio measurements are done at any time of the day, which now significantly enhances the duty cycle of the experiment.
+
+
+== Tunka-Grande ==
+Tunka-Grande consists of 19 scintillation stations with an area of 10 m² each from the closed KASCADE-Grande array. These stations measure the particles of the air showers at ground, in particular electrons and muons. All stations are installed in the area of Tunka-133. They are operated simultaneously with the radio antennas of Tunka-Rex, since the combination of both measurement techniques is expected to enhance the accuracy for the composition of the cosmic rays.
+
+
+== Tunka-HiSCORE ==
+Tunka-HiSCORE uses the same detection principle as Tunka-133, but features more sensitive and accurate detectors. Especially the superior timing precision increases the angular resolution for the detected air showers. This is crucial for the scientific goal of HiSCORE, which is to identify sources high-energy gamma rays. First prototype stations of HiSCORE were installed in 2012, and since 2014 the arrays consists of 29 stations covering an area of 0,3 km². A further extension is planned for 2017.
+
+
+== Tunka-IACT ==
+Tunka-IACT will consist of several Imaging Air Cherenkov Telescopes using the same principle as MAGIC, H.E.S.S, VERITAS and CTA. The combination with HiSCORE enables a higher maximum energy for the observed gamma rays than with conventional imaging air cherenkov telescopes. As of 2016 the construction of the first telescope is nearly completed.
+
+
+== External links ==
+TAIGA
+Homepage of the Tunka-133 experiment
+Tunka-Rex
+Helmholtz-Russia Joint Research Group (HRJRG-303)
+Press release HRJRG

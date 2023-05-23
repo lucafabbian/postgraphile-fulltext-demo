@@ -1,0 +1,9 @@
+VDGS can refer to:
+
+Visual Docking Guidance System, which helps ships to dock smoothly.
+Visual Docking Guidance System, which helps aircraft to dock at the exact position in front of the gate.
+Voodoo Glow Skulls, the Third wave Ska band.
+Vietnam's Development Goals, which is a national development initiative undertaken by the Vietnamese government.
+
+Flight information will be sync periodically with VDGS through the IASS to share the flight allocated stand.
+While VDGS will share the actual parked aircraft code and the block on/off time.

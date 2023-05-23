@@ -1,0 +1,59 @@
+SmartBus is a network of bus services in the city of Melbourne, Australia. Overseen by Public Transport Victoria, the network comprises nine key cross-town and orbital bus routes around Melbourne. Key aspects of the service include more frequent services, extended hours of operation to include late evening and Sunday services. improved timetable information at bus stops, roadspace priority along certain routes and priority at particular traffic lights. Busses on SmartBus routes are shared among three operators, with route 900 being operated by both Ventura Bus Lines and CDC Melbourne.
+SmartBus originally was a policy proposed by the Victoria State Government in the late 1990s, but was only implemented in the early 2000s.  In 2003, the first trial program began with routes 703 and 888/889 (now 902) being upgraded to SmartBus status. The program was deemed successful and as a result new SmartBus routes began service with the most recent addition of routes being the introduction of the four Doncaster Area Rapid Transit routes routes in 2010.
+
+
+== History ==
+
+
+=== 20th century ===
+Although SmartBus was originally a policy initiative of the Kennett Government in the late 1990s, the government only began implementing the proposal in the early 2000s. However, plans from the late 1980s included several cross-town routes, which were to be called Metlink.
+
+
+=== 21st century ===
+The first stage of the trial was implemented on 5 August 2002, with the following services being chosen as pilot routes: 703 Middle Brighton to Blackburn and 888/889 Nunawading to Chelsea. These two routes received extra funding for more services, services on 703 increased by 20% and on 888/889 by up to 50%. Sunday services were also added to 888/889. The aim was to find out whether increased services and better reliability would increase patronage. The project was deemed successful when in 2003, on the 1st anniversary of SmartBus, the Victorian Government released a media statement that the SmartBus program increased patronage by 25%.On 16 October 2006 route 900 began operation, connecting major areas in south-eastern Melbourne including Chadstone SC, Oakleigh and Monash University.Three orbital bus lines operate in Melbourne as part of the SmartBus network; they provide cross city links connecting railway and tram lines and other bus routes. 
+The first orbital route started as several routes (including Route 665 from Dandenong to Ringwood and Route 830 from Dandenong to Frankston ). It was re-launched as Yellow Orbital Route 901 on 24 March 2008 operating between Frankston and Ringwood. Despite this, the route was only extended, extended to Melbourne Airport on 26 September 2010; it is Melbourne's second longest bus route (2nd to 684 Melbourne-Melbourne to Eildon) at 115 kilometres (71 mi) with a journey time of four and a half hours and connects with nine railway stations and over 100 bus routes.This was followed by Route 700 running between Mordialloc and Box Hill; it was re-launched as a SmartBus on 14 June 2005. On 20 April 2009 it was extended to Altona, becoming the Red Orbital 903; it connects to 11 railway stations and nine tram lines, and is 86 kilometres (53 mi) in length.
+Last, in April 2010, the Green Orbital 902 started operation, assuming the operations of route 888/889. It runs between Chelsea and Airport West, connecting to nine railway stations, three tram routes and over 60 local lines, spanning 76 kilometres (47 mi).A Blue Orbital (route 904), was proposed in the 2006 Meeting our Transport Challenges publication, which proposed to service the inner city from Sandringham to Williamstown, however this proposed route was cut from the 2008 Victorian Transport Plan, with the route not mentioned in text or maps.
+Doncaster Area Rapid Transit (DART) Routes begun operation on 4 October 2010. Those routes were designed to provide a public transport connection between the Doncaster area and the Melbourne central business district.All of the nine routes were originally operated by National Bus Company (now Ventura Bus Lines) however Transdev Melbourne signed the contract for the three orbital and four DART routes from August 2013 until January 2022 as part of the Melbourne Metropolitan Bus Franchise. In January 2022, Kinetic Melbourne succeeded Transdev as operator of the several bus routes in Melbourne, including the three orbital and four DART routes which were succeeded to Transdev nine years earlier.
+
+
+== Network and Operations ==
+
+
+=== Routes ===
+
+
+=== Services ===
+Smartbus routes operate from 5:00am to 9:00pm on weekdays and from 6:00am to 9:00pm on weekends. Most services run the full route however, some services on the three orbital routes and off-peak services route 908 may serve shorter runs. Smartbus services usually serve most stops however, route 900 instead offers a limited express service, only stopping at major stops along the route.Frequencies on the nine routes are higher than most bus routes on the network, will vary throughout the day and go as followed.
+30 minute frequencies between 5:00am and 6:30am
+15 minute frequencies between 6:30am and 9:00pm on routes 703, 901, 902 and 903
+10 minute frequencies (or higher) between 6:30am and 9:00pm on routes 900, 905, 906, 907 and 908
+30 minute frequencies from 6:00am and 12:00pm
+
+
+=== Operators ===
+
+
+== Infrastructure ==
+
+
+=== Buses ===
+
+Originally, SmartBus routes used a dedicated fleet of Mercedes-Benz OC500LEs painted in the grey SmartBus livery however, this has since been changed. Most of these buses have been displaced onto non-SmartBus routes and replaced by Gemilang Coachworks and Volgren bodied and Scania K320UBs painted in the orange PTV livery. Unlike their non SmartBus counterparts, buses dedicated to SmartBus will feature PIDS inside of the bus, which will show the next stop. In 2022, Kinetic Melbourne began running electric buses on 901, 902 and 903.
+
+
+=== Bus Stops ===
+
+SmartBus bus stops offer a variety of premium features not usually present at non-Smartbus bus stops. All SmartBus bus stops feature totems, with some including real time PIDs embedded into them. Additionally, major bus stops may include shelters, bins, and real time passenger information displays. These displays will show the next departures of each SmartBus route and at railway stations will additionally show the next departures of rail services.
+
+
+=== Signalling ===
+SmartBus corridors use more modern signalling which is not common on non-SmartBus routes. The location of buses is tracked using GPS satellite receivers fitted to the bus, which relay this information to the network control centre. Many traffic lights on SmartBus corridors are fitted with bus signal priority equipment, to allow for buses to change signals ahead to speed up their journey. The information from both systems is also commonly used when operating PIDs, when accounting for delays and earlier arrivals.
+
+
+== References ==
+
+
+== External links ==
+ Media related to SmartBus at Wikimedia Commons
+
+SmartBus at Public Transport Victoria

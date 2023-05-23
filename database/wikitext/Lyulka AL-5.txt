@@ -1,0 +1,53 @@
+The Lyulka AL-5 was a Soviet axial compressor turbojet developed from the Lyulka TR-3 turbojet around 1950. It was flight-tested in a number of prototype aircraft, but was not accepted for production.
+
+
+== Design and development ==
+The Lyulka TR-3A was redesignated as the AL-5 to honor Arkhip Mikhailovich Lyulka in 1950. It was a single-shaft turbojet with a seven-stage axial compressor. It had an annular combustion chamber with 24 nozzles and a single-stage turbine. It had a fixed exhaust nozzle and had a turbine starting unit.It was used in the Mikoyan-Gurevich I-350, but flamed out when it was throttled back on that aircraft's first flight on 16 June 1951. It was also flown in the Lavochkin La-190 in 1951, but suffered similar problems. The AL-5 was modified as the AL-5G in an attempt to rectify the flame-out problem, which also increased its thrust by 2 kN (450 lbf), and was successfully flown in the prototype Ilyushin Il-46 bomber during 1952, but was not placed into production when the Tupolev Tu-16 was ordered into production instead of the Il-46.
+
+
+== Applications ==
+Ilyushin Il-46
+Lavochkin La-190
+Mikoyan-Gurevich MiG I-350
+Yakovlev Yak-1000
+
+
+== Specifications (AL-5G) ==
+Data from Kay, Turbojet
+
+
+==== General characteristics ====
+Type: turbojet
+Length:
+Diameter:
+Dry weight:
+
+
+==== Components ====
+Compressor: seven-stage axial-flow
+Combustors: annular combustion chamber
+Turbine: single-stage
+
+
+==== Performance ====
+Maximum thrust: 52 kN (12,000 lbf)
+Power-to-weight ratio:
+
+
+== See also ==
+
+Related lists
+
+List of aircraft engines
+
+
+== Notes ==
+
+
+== Bibliography ==
+Kay, Anthony L. Turbojet: History and Development 1930–1960: Volume 2: USSR, USA, Japan, France, Canada, Sweden, Switzerland, Italy, Czechoslovakia and Hungary. Marlborough, Wiltshire: Crowood Press, 2007 ISBN 978-1-86126-939-3
+Gunston, Bill. The Osprey Encyclopaedia of Russian Aircraft 1875–1995. London, Osprey, 1995 ISBN 1-85532-405-9
+
+
+== External links ==
+https://web.archive.org/web/20150529194952/http://www.ctrl-c.liu.se/misc/RAM/eng_al-5.html

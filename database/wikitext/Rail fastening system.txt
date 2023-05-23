@@ -1,0 +1,98 @@
+A rail fastening system is a means of fixing rails to railroad ties (North America) or sleepers (British Isles, Australasia, and Africa). The terms rail anchors, tie plates, chairs and track fasteners are used to refer to parts or all of a rail fastening system. The components of a rail fastening system may also be known collectively as other track material, or OTM for short. Various types of fastening have been used over the years.
+
+
+== History and overview ==
+The earliest wooden rails were fixed to wooden sleepers by pegs through holes in the rail, or by nails. By the 18th century, cast iron rails had come into use, and also had holes in the rail itself to allow them to be fixed to a support. 18th century developments such as the flanged rail and fish bellied rail also had holes in the rail itself; when stone block sleepers were used the nails were driven into a wooden block which had been inserted into a recess in the block. The first chair for a rail is thought to have been introduced in 1797 which attached to the rail on the vertical web via bolts.
+
+By the 1820s the first shaped rolled rails had begun to be produced initially of a T shape which required a chair to hold them; the rails were held in position by iron wedges (which sometimes caused the rail to break when forced in) and later by wooden wedges, which became the standard. In the 1830s Robert L. Stevens invented the flanged 'tee' rail (actually a distorted I beam), which had a flat bottom and required no chair; a similar design was the contemporary bridge rail (of inverted U section with a bottom flange and laid on longitudinal sleepers); these rails were initially nailed directly to the sleeper.In North American practice the flanged T rail became the standard, later being used with tie-plates. Elsewhere T rails were replaced by bull head rails of a rounded 'I' or 'figure-8' appearance which still required a supporting chair. Eventually the flanged T rail became commonplace on all the world's railways, though differences in the fixing system still exist.
+
+
+=== Symbolism and Significance ===
+A Golden Tie, also known as a Golden Spike or The Last Spike, may be used to symbolize the start or the completion of an endeavor. These are less often silver or another precious material.
+Historically, a ceremonial Golden Spike driven by Leland Stanford connected the rails of the First Transcontinental Railroad across the United States. The valuable rail fastening spike represented the merge of the Central Pacific and Union Pacific railroads on May 10, 1869, at Promontory Summit, Utah Territory. The rail spike has entered American popular consciousness in this manner; the driving of the Golden Spike was a key point in the development of the western seaboard in North America and was recognized as a national achievement and demonstration of progress. Since, railroad workers have been celebrated in popular culture, including in song and verse.Most recently, a Golden Spike marked the completion of the longest transportation tunnel in the world, the Gotthard Base Tunnel, which opened 1 June 2016. Full rail service began on 11 December 2016. Its functional length is 57.09 km (35.5 mi) and it is the world's deepest traffic tunnel.
+
+
+== Spikes and screws ==
+
+
+=== Rail spikes ===
+
+A rail spike (also known as a cut spike or crampon) is a large nail with an offset head that is used to secure rails and base plates to railroad ties (sleepers) in the track. Robert Livingston Stevens is credited with the invention of the rail spike, the first recorded use of which was in 1832. The railroad spike was an invention which resulted from the state of industrialisation in the United States in the early 19th century: English mainline railways of that period used heavy and expensive cast iron chairs to secure T-shaped rails; instead, Stevens added a supporting base to the T rail which could be fixed with a simple spike. In 1982, the spike was still the most common rail fastening in North America. Common sizes are from 9⁄16 to 10⁄16 inch (14 to 16 mm) square and 5+1⁄2 to 6 inches (140 to 150 mm) long.: 582–3 
+
+A rail spike is roughly chisel-shaped and with a flat edged point; the spike is driven with the edge perpendicular to the grain, which gives greater resistance to loosening. The main function is to keep the rail in gauge. When attaching tie plates the attachment is made as strong as possible, whereas when attaching a rail to tie or tie plate the spike is not normally required to provide a strong vertical force, allowing the rail some freedom of movement.: 455, 581–2 On smaller scale jobs, spikes are still driven into wooden sleepers by hammering them with a spike maul, though this manual work has been largely replaced by hydraulic tools and machines, commonly called "spikers" (a machine that removes spikes is called a "spike puller"). Splitting of the wood can be limited by pre-boring spike holes or adding steel bands around the wood.: 455 For use in the United States three basic standards are described in the ASTM A65 standard, for different carbon steel contents.A dog spike is functionally equivalent to a cut spike and is also square in horizontal section and of similar dimensions, but has a pointed penetrating end, and the rail (or "plate holding") head has two lugs on either side, giving the impression of a dog's head and aiding spike removal.
+
+
+=== Chair screws ===
+
+A chair screw (also known as coach screw ) is a large (~6 in or 152 mm length, slightly under 1 in or 25 mm diameter) metal screw used to fix a chair (for bullhead rail), baseplate (for flat bottom rail) or to directly fasten a rail. Chair screws are screwed into a hole bored in the sleeper. The chair screw has a higher cost to manufacture than the rail spike, but has the advantage of greater fixing power—approximately twice that of a rail spike—and can be used in combination with spring washers.The chair screw was first introduced in 1860 in France (French tire-fond) and became common in continental Europe.A dog screw is a tradename variant of the screw spike.
+
+
+=== Fang bolts ===
+Fang bolts or rail anchor bolts have also been used for fixing rails or chairs to sleepers. The fang bolt is a bolt inserted through a hole in the sleeper with a fanged nut that bites into the lower surface of the sleeper. For fastening flat-bottomed rails, an upper-lipped washer can be used to grip the edge of the rail. They are more resistant to loosening by vibrations and movement of the rail. They are thought more effective than spikes and screws and so are used in positions such as switch (point) tieplates and on sharp curves.
+
+
+=== Spring spikes ===
+
+Spring spikes or elastic rail spikes are used with flat-bottomed rail, baseplates and wooden sleepers. The spring spike holds the rail down and prevents tipping and also secures the baseplate to the sleeper. The Macbeth spike (trade name) is a two-pronged U-shaped staple-like spike bent so that it appears M-shaped when viewed from the side. Inverted J-shaped single pointed spikes have also been used.
+
+
+=== Fixing equipment ===
+The spike maul, also known as a spiking hammer, is a type of sledgehammer with a long thin head which was originally used to drive spikes.Manual hole drilling and spike or screw insertion and removal have been replaced by semi-automated or automated machines, which are driven electrically, by pneumatics, by hydraulics, or are powered by a two-stroke engine. Machines that remove spikes are called spike pullers.
+
+
+== Rail supports ==
+
+
+=== Chairs ===
+
+The earliest rail chairs, made of cast iron and introduced around 1800, were used to fix and support cast-iron rails at their ends; they were also used to join adjacent rails.In the 1830s rolled T-shaped (or single-flanged T parallel rail) and I-shaped (or double-flanged T parallel or bullhead) rails were introduced; both required cast-iron chairs to support them. Originally, iron keys were used to wedge the rail into the vertical parallel jaws of the chair; these were superseded by entirely wooden keys. The wooden keys were formed from oak, steam softened and then compressed with hydraulic presses and stored in a drying house. When inserted into the chair, exposure to the wet atmosphere caused the key to expand, firmly holding the rail. The wedge may be on the inside or outside of the rail. In Britain they were usually on the outside.Chairs have been fixed to the sleeper using wooden spikes (trenails), screws, fang-bolts or spikes.In most of the world, flat-bottomed rail and baseplates became the standard. However, in Britain, bullhead rail-and-chairs remained in use until the middle of the twentieth century.
+
+
+=== Tie plates ===
+A tie plate, baseplate or sole plate is a steel plate for centering and reinforcing the attachment point on the rail tracks between a flanged T rail and a railroad tie. The tie plate increases bearing area and holds the rail to correct gauge. It is fastened to wooden ties by means of spikes or bolts through holes in the plate.
+The part of the plate under the rail base is tapered, setting the inboard cant of the rail, typically "one in forty" (or 1.4 degrees ). The top surface of the plate has one or two shoulders that fit against the edges of the base of the rail. The double-shoulder type is currently used. Older single-shoulder types were adaptable for various rail widths, with the single shoulder positioned on the outside (field side) of the rails. Most plates are slightly wider on the field side, without which the plates tend to cut more into the outsides of the tie, reducing cant angle.
+Many railways use large wood screws, also called lag screws, to fasten the tie plates (or baseplates) to the railroad ties.
+Tie plates came into use around the year 1900, before which time flanged T rail was spiked directly to the ties.
+
+
+== Clips ==
+A variety of different types of heavy-duty clips are used to fasten the rails to the underlying baseplate, one common one being the Pandrol fastener (Pandrol clip), named after its maker, which is shaped like a stubby paperclip. Another one is the Vossloh Tension Clamp. Clips are an alternative to spikes.
+The newer Pandrol fastclip is applied at right angles to the rail. Because the clip is captive, it has to be installed at the time of manufacture of the concrete sleeper.
+
+
+== Rail anchors ==
+Rail anchors, also called anticreepers, are spring steel clips that attach to the underside of the rail baseplate and bear against the sides of the sleepers to prevent longitudinal movement of the rail, either from changes in temperature or through vibration. Anchors may be attached and removed either by hand with hammers, or by an anchor machine.
+
+
+== Gallery of rail fastening types ==
+Rail fastening types
+		
+		
+		
+		
+		
+		
+		
+		
+
+
+== See also ==
+Fishplate, the bar that bolts two sections of rail together
+Permanent way and permanent way (history), descriptions of the entire track system.
+Rail sabotage
+
+
+== References ==
+
+
+=== Bibliography ===
+
+
+== Further reading ==
+Railway locomotives and cars, Volume 6. Simmons-Boardman Pub. Corp. 1838. From the American Journal of Science and Arts "Experiments on the adhesion of iron spikes of various forms, when driven into different specimins of timber"; by Walter B. Johnson, Professor of mechanics and natural philosophy in the Franklin Institute, Philadelphia, pp.357-360.
+
+
+== External links ==
+
+Images: Keith Norgrove;  et al. "Scalefour Society - Track Details in Photographs II". www.scalefour.org. Scalefour Society.
+a closeup view of Pandrol fastclip

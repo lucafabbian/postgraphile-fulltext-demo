@@ -1,0 +1,10 @@
+The palatization mark is one of the historic signs of Cyrillic that was used in Old Church Slavonic to indicate the palatalization of the base consonant. An example of use is in the word избавитєл҄ь ('redeemer', palatalized л [lʲ]). It is not to be confused with the kamora, which resembles it, but indicates pitch accent.
+
+
+== Sources ==
+Unicode Consortium (2016). "Europe-I". The Unicode Standard — Version 9.0.0 (PDF). ISBN 978-1-936213-13-9.
+
+
+== See also ==
+Old Church Slavonic
+Cyrillic characters in Unicode

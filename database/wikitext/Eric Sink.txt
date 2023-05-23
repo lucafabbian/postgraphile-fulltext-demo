@@ -1,0 +1,17 @@
+Eric Sink is a software developer and writer. He is the author of Eric Sink on the Business of Software (2006), a collection of essays from his blog and the "Business of Software" column for the Microsoft Developer Network. He founded SourceGear, which sells Vault source control software for Windows and started the AbiWord project. Before that, he led the browser team at Spyglass. His article "Exploring Micro-ISVs" is credited with introducing the term micro-ISV. He is also known for his spoof on a Microsoft ad campaign featuring "software legends", which is embodied in the site not a legend.
+
+
+== Biography ==
+Sink has a B.S. in Computer Science from the University of Illinois at Urbana-Champaign.Fun fact: once had a bowling team named after him.
+
+
+== Other projects ==
+He is currently working on "Sawdust", a design tool for woodworking, currently in a very early form of alpha. He also started a micro-ISV, creating Winnable Solitaire, which was later sold for a small amount.
+
+
+== References ==
+
+
+== External links ==
+Business of Software column
+Eric Sink: Exploring Micro-ISVs

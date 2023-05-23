@@ -1,0 +1,40 @@
+Tribal knowledge is knowledge that is known within an in-group of people but unknown outside of it. A tribe, in this sense, is a group of people that share such a common knowledge. In the context of corporations, tribal knowledge or know-how has been described most broadly as the collective wisdom of the organization and the sum of all the knowledge and capabilities of all the people; however, in management science, it is usually viewed as a particular subset thereof: a type of institutional memory that lacks adequate documentation, such that its preservation in the organization over time relies solely on processes such as mentoring, apprenticeship, on-the-job training, and, at the heart of all of those, continuity of staffing, which is inherently vulnerable to employee turnover (of both workers and managers). It is knowledge that is necessary to an organization's function and yet is inadequately documented or otherwise captured.
+
+
+== Terminology ==
+The concept exists independently of which name is used to label it. But the name tribal knowledge came about by analogy with the many kinds of human tribes as studied in cultural anthropology. The term has been described as jargon, but it remains the most widely established term for the concept, notwithstanding.
+
+
+== In companies ==
+Tribal knowledge is any unwritten information that is not commonly known by others within a company. This term is used most when referencing information that may need to be known by others in order to produce quality products or services. The information may be key to quality performance, but it may also be totally incorrect. Unlike similar forms of artisan intelligence, tribal knowledge can be converted into company property. It is often a good source of test factors during improvement efforts.Tribal knowledge may be one aspect of a group's bus factor. If too many individuals with tribal knowledge leave a team, the knowledge may be lost and hamper the team's ability to work.
+Tribal knowledge has a lot of commonality with tacit knowledge. Both tacit and tribal knowledge are formed by personal stories, learning experiences, mentorships and in-person trainings. This type of knowledge is often stored in member's heads, and is hard to codify and pass along. That makes tacit and tribal knowledge the opposite of explicit knowledge.
+
+
+=== Six sigma ===
+Tribal Knowledge is a term often associated with a process step of the Six Sigma process. It is often referred to as knowledge 'known' yet undocumented, such as information that has been handed down generation to generation with no documentation. It is knowledge contained within a group that is assumed to be factual, but has no known data or analysis to verify that it is factual. The Six Sigma community has adopted the term as an analogy of a company.
+
+
+=== Tribal Knowledge Paradox ===
+"The Tribal Knowledge Paradox" refers to the common belief and management rhetoric that business success is dependent on the knowledge and skills of labor, even as business organization, structure, processes, and management actions conflict with the rhetoric and discourage free information flow.
+
+
+== In subcultures ==
+
+When used to refer to subcultures, a tribe— corporate, social, racial, or any other kind— is a reservoir of both written and unwritten information. It is an "energy center" around which kindred minds gather and exchange ideas, traditions, protocols (definition), assumptions, inspirations, experiences, lessons learned, and technology— all magnetized to a core of shared interests.Tribal knowledge is an offspring of the tribal mind. Much like an individual's mind, it is a constantly evolving center of transient and core information. The core contains fundamental, time-tested values and traditions. The transient information may include incoming and outgoing thoughts and ideas from such diverse sources as divine inspiration to planetary mass media. The transient information acts as a survival/growth mechanism that tends to filter out random thought migrants that do not serve its native purposes and prejudices, while allowing entry to those that do.
+
+
+== See also ==
+Corporate identity – Overall image of a corporation, firm or business
+Folklore – Expressive culture shared by particular groups
+Tacit knowledge – Skills, ideas and experiences
+Explicit knowledge – knowledge that has been articulated, codified, and stored in certain mediaPages displaying wikidata descriptions as a fallback
+
+
+== References ==
+
+
+== Further reading ==
+Bertain & Sibbald (2008). Tribal Knowledge Paradigm (Management Simplified). CEO University Press. ISBN 978-1481024327.
+Paul Alan Cox (2000-01-07). "Will Tribal Knowledge Survive the Millennium?". Science. 287 (5450): 44–45. doi:10.1126/science.287.5450.44. PMID 10644221. S2CID 36334363.
+Geoffrey C. Bowker (2002-03-27). "Keeping Knowledge Local" (PDF). {{cite journal}}: Cite journal requires |journal= (help)
+Seth Godin (2008). Tribes. Portfolio, Penguin Group.

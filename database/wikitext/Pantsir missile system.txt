@@ -1,0 +1,214 @@
+The Pantsir (Russian: Панцирь, lit. '"Carapace"') missile system is a family of self-propelled, medium-range surface-to-air missile and anti-aircraft artillery systems. Three types of vehicles make up one system: a missile launcher, a radar truck and a command post. Starting with the Pantsir-S1 (Russian: Панцирь-С1, NATO reporting name SA-22 Greyhound) as the first version, it is produced by KBP Instrument Design Bureau of Tula, Russia, and is the successor to the Tunguska M1.
+The Pantsir-S1 was designed to provide point air defence of military, industrial and administrative installations against aircraft, helicopters, precision munitions, cruise missiles and UAVs; and to provide additional protection to air defence units against enemy air attacks employing precision munitions, especially at low to extremely low altitudes.
+
+
+== Design ==
+
+The first finished version was completed in 1995 with the 1L36 radar, later another was designed. It is a short to medium range ground-based air defence system, wheeled, tracked or stationary with two to three operators. Its air defense consists of automatic anti-aircraft guns and surface-to-air missiles with radar or optical target-tracking and radio-command guidance.
+Its purpose is the protection of civil and military point and area targets, for motorised or mechanised troops up to regimental size or as defensive asset of higher ranking air defence systems like S-300/S-400. The system has capability for anti-munitions missions. It can hit targets on the waterline/above-water. It can operate in a fully automatic mode. It has the ability to work in a completely passive mode. The probability of hitting a target for one missile is not less than 0.7 with a reaction time of 4–6 seconds. It can fire missiles and gun armament while in motion.For its main radar station, early detection in height may be between 0–60° or 26–82° depending on the mode. The system is claimed to have significant advantages over other systems, such as Crotale NG (France), Roland-3 (France + Germany), Rapier 2000 (UK), SeaRAM (Germany + USA). This is not confirmed by comparative testing, but clearly follows from the declared limit of possibilities of systems (2010). In 2013, there was a variant with two radar stations for early detection, standing back to back. The system has a modular structure which enables a fast and easy replacement of any part.After receiving target coordinates (from any source) it may engage the target (using all the radar except the early detection radar) within a range from −5 to +85 (82) degrees (vertical). The interval between missile launches is 1–1.5 seconds (a world record for analogue systems).The S-400 Triumf and Pantsir missile system can be integrated into a two-layer defense system.
+
+
+== Development ==
+
+Originally Soviet strategic missile systems had been placed in fixed, hardened sites. Newer systems such as the S-300PS/PM (SA-10/20) were much more mobile, which reduced vulnerabilities to attack. However, once the S-300 unit was found by enemy forces it was still very vulnerable. One of the roles for the Pantsir-S is to provide air defence to the S-300 missile systems.It was decided that a wheeled chassis would be better than a tracked chassis for the Pantsir-S, as wheeled vehicles are faster, less prone to breakdowns, easier to maintain, and cheaper to produce.Development as the Pantsir-S started in 1990 as a planned successor to the Tunguska M1. A prototype was completed in 1994 and displayed at the MAKS-1995. The program soon ran into difficulties which resulted in a halt in funding, but KBP continued development of the program using its own funds. Both the turret and radar systems were redesigned, and all older Tunguska equipment was removed.The system has two new radars with increased range, capable of tracking more air targets, and also land targets. It has an integrated identification friend or foe (IFF) system. Within the cabin two LCD multi-function displays have replaced the multiple CRT display. A new central computer system greatly decreased the reaction time. A single person can operate the system if necessary. The use of newer technologies allow the overall volume of the weapon station to be reduced by a third, and the overall weight  by half. The system has enhanced missiles (from type 57E6 to type 57E6-E; probably interchangeable) and guns (from type 2A72 to type 2A38M).
+Live firing tests took place in June 2006 at the Kapustin Yar firing range, Astrakhan region, Russia. Final test series prior to delivery in May 2007 at Kapustin Yar included forced travel of 250 km (160 mi) to an unprepared launch position, simulating  a typical air-defence mission.
+The Pantsir-S1 air-defence missile-gun system was adopted for service with the Russian Ground Forces in November 2012. The modernized Pantsir-S2 entered service in 2015.
+
+
+== Versions ==
+
+In 2013 Russia was developing a maneuverable track-based Pantsir system for service in the near future with Russian Ground Forces and Airborne Forces.
+
+
+=== Pantsir-S1 ===
+This is the first and most numerously produced version from 2008 to 2013, with more planned in 2019.
+
+
+=== Pantsir-S1M ===
+New upgraded variant of the Pantsir-S1 first unveiled in February 2019 as some of the planned models. Experience from deploying the system in Syria was applied during the development of the new modification. It has an upgraded L-band search radar with ability to track up to 40 targets at once and new multifunctional EHF fire-control radar that can engage four targets simultaneously, both fitted with phased antenna arrays. The system uses a new 57E6M-E surface-to-air missile with an increased ceiling from 15 to 18 km (9.3 to 11.2 mi), an engagement range from 20 to 30 km (12 to 19 mi) and a speed of 1,300 to 1,700 m/s (4,700 to 6,100 km/h; 2,900 to 3,800 mph). It has a   25 kg fragmentation warhead, compared to the 20 kg warhead of the standard 57E6-E missile. The first export contract was signed in August 2021.
+
+
+=== Pantsir-M/EM ===
+
+A naval variant of the land-based Pantsir-S1 was unveiled in July 2015. The system uses two GSh-6-30K/AO-18KD 30 mm (1.2 in) six-barrel rotary cannons, as found on the Kashtan/Kortik CIWS, eight missiles instead 12 and an additional radar separate from the one fitted on top of the turret itself. The Pantsir-M can simultaneously engage four targets with four missiles in an altitude from 2 to 15 km and at a range of 20 km. The system has an ammunition supply of 32 missiles.It has several combat modules, including an ammunition supply module in the storage and a reloading system under the deck. It may by fitted with surface-to-air missiles from both Pantsir-S and Hermes-K air defence systems with maximum firing range of the later of up to 100 km (62 mi). In the future it will replace the Kashtan/Kortik CIWS on all Russian Navy's warships, starting by Karakurt-class corvettes in 2018. Trials of the Pantsir-M/ME began in December 2017. The system entered service in February 2019.
+
+
+=== Pantsir-S2/S2E ===
+A modernized system for the Russian Armed Forces and for export.  Incorporates new tracking radar, two faced radars with enhanced features and range. It is in service with Russia and Algeria.
+
+
+=== Pantsir-SM ===
+The Pantsir-SM variant incorporates a multi-functional targeting station, increasing target detection range from 40 to 75 km (25 to 47 mi) and engagement range from 20 to 40 km (12 to 25 mi). The system uses a new high-speed extended range missile. Existing Pantsir systems can be upgraded to SM standard. It is fitted to a new 8×8 Kamaz truck chassis with an armored cab. Development was completed in 2019.
+
+
+=== Pantsir-SA ===
+After testing Pantsir in the Arctic, it was decided to design a new version specifically for the Arctic, to use at temperatures below −50 °C (−58 °F) called the Pantsir-SA. This version has no 30 mm auto-cannon mounted and it is based on an articulated tracked Vityaz vehicle. It is in service with the Russian Northern Fleet as of August 2020.
+
+
+== Operations ==
+
+The specific feature of the Pantsir-S1 system is the combination of a multiple-band target acquisition and tracking system in conjunction with a combined missile and gun armament creating a continuous target engagement zone from 5 m (16 ft) height and 200 m (660 ft) range up to 15 km (9.3 mi) height and 20 km (12 mi) range, even without any external support.
+
+
+=== Modes ===
+Using a digital data link system up to six Pantsir-S1 combat vehicle can operate in various modes.
+
+Stand-alone combat operation: All the combat sequence from detecting a target to its engagement is fulfilled by a single Pantsir-S1 combat vehicle without employing other assets.
+Operation within a battery ("master-slave"): One Pantsir-S1 operates both as combat vehicle and as "master" command post. Three to five Pantsir-S1 combat vehicles acting as "slave" receive target designation data from the "master" and subsequently fulfil all the combat operation stages.
+Operation within a command post: The command post sends target designations to the Pantsir-S1 combat vehicles and subsequently fulfill the designation order.
+Operation within a battery with command post and early warning radar: The command post receives air situation picture from a connected early warning radar and sends target designations to the Pantsir-S1 combat vehicles and subsequently fulfil the designation order.
+
+
+=== Prototypes ===
+The Pantsir-S prototype from 1994 was built on a Ural-5323 8×8 truck.
+The Actual Pantsir-S1 is built on KAMAZ-6560 8x8 38t truck with 400 hp (300 kW).
+UAE Pantsir-S1 is built on a German MAN SX 45 8×8 truck.
+The Pantsir-S1 is also proposed to be built on an MZKT-7930 8×8 truck with 680 hp (510 kW) from the Belarus company "Minsk Wheeled Tractor Plant"
+Another Pantsir-S1 option is a tracked chassis type GM-352M1E from the Belarus company "Minsk Tractor Plant".
+KBP offers also a stationary variant built on a container probably able to be mounted on ships also.
+
+
+=== Armament ===
+
+
+==== Missiles ====
+The Pantsir-S1 carries up to twelve 57E6 (export designation) 57E6-E (export enhanced designation) two-stage solid fuel radio/optical command-guided surface-to-air missiles in sealed ready-to-launch container tubes. Missiles are arranged into two six-tube groups on the turret. The missile has a bicalibre body, consisting of two stages in a tandem configuration. The first stage is a booster, providing rapid acceleration within the first 2 seconds of flight, after which it is separated from the sustainer-stage.
+The sustainer is highly agile and contains the high explosive multiple continuous-rod/fragmentation warhead, as well as the contact and proximity fuses, guidance flare and radio transponder. The missile is not fitted with a seeker to keep target engagement costs low. Target and missile tracking is instead provided via the system's multiband sensor system. Guidance data is submitted via radio link for up to four missiles in flight.
+The system is capable of tracking and guiding four missiles fired at four distinct targets. Operationally, however, two missile salvos are typically fired at each target. The 57E6 missile is believed to have a kill probability of 70–90%. They have a 15-year storage lifetime in its sealed launch container. Pantsir-S1 combat vehicles can fire missiles on the move.
+Additional missiles, one specifically designed to engage unmanned aerial vehicles, and another one hypersonic, developing speeds of more than Mach 5, have been developed for the Pantsir system.
+
+
+==== Autocannon ====
+Two dual 2A38M 30 mm (1.2 in) autocannon guns are fitted with 700 rounds in a variety of ammunition—HE (High Explosive) fragmentation, fragmentation tracer, and armour-piercing with tracer. Ammunition type can be selected by the crew depending on the nature of the target. The maximum rate of fire is 2,500 rounds per minute per gun. Range is up to 4 km (2.5 mi).  The combined gun-missile system has an extremely low altitude engagement capability (targets as low as 0 m AGL can be engaged by this system).
+Wheeled combat vehicles have to be jacked up to keep the machine in the horizontal position and be able to fire the gun with full accuracy. The KAMAZ-6560 has four oil hydraulic jacks for this purpose.
+Gun:
+
+Designation: 2A38M
+Type: twin-barrel automatic anti-aircraft gun
+Calibre: 30 mm (1.2 in)
+Maximum rate of fire: 2,500 rounds per minute per gun
+Muzzle velocity: 960 m/s (3,100 ft/s)
+Projectile weight: 0.97 kg (2.1 lb)
+Ammunition: 700 rounds per gun
+Minimum range: 0.2 km (0.12 mi)
+Maximum range: 4 km (2.5 mi)
+Minimum altitude: 0 m AGL
+Maximum altitude: 3 km (1.9 mi)
+
+
+=== Fire control ===
+The Pantsir-S1 fire control system includes a target acquisition radar and dual waveband tracking radar (designation 1RS2-1E for export models), which operates in the UHF and EHF waveband. Its detection range is 32–36 kilometres (20–22 mi). Its tracking range is 24–28 kilometres (15–17 mi) for a target with a 2 m2 (22 sq ft) RCS. Can also reliably achieve more, to 45 km (28 mi). This radar tracks both targets and the surface-to-air missile while in flight. Minimum target size 2–3 square centimetres (0.31–0.47 sq in) (0.0004 square metres (0.0043 sq ft))As well as radar, the fire control system has an electro-optic channel with a long-wave thermal imager and an infrared direction finder, including digital signal processing and automatic target tracking. A simplified, lower-cost version of the Pantsir-S1 is being developed for export, with only the electro-optic fire control system fitted.
+The two independent guidance channels—radar and electro-optic—allow two targets to be engaged simultaneously. And four for more recent options (2012). The maximum engagement rate is up to 10–12 targets per minute.
+Types of purposes. Aircraft, UAVs, helicopters, anti-radar missiles (detection range of AGM-88 HARM missile 13–15 kilometres (8.1–9.3 mi)), air-launched cruise missiles.
+
+
+=== Support vehicles ===
+In order to increase high operational readiness KBP has designed several vehicles to support the Pantsir-S1 in the field.Command Posts (CP)
+
+The unit Command Post is responsible for the automated control over combat operations of Air Defence (AD) units and subunits.Tasks accomplished by the regimental CP during warfare
+
+Planning of combat operations and development of combat documents (commander's decision)
+Assigning of operating frequencies of regiment radio electronic assets (acquisition radar, battalions, radio assets of the CP)
+Calculation of coverage angles for selected positions of an acquisition radar and its detection zones and, battalion firing sectors
+Routing and displaying of battalion routes during redeployment
+Survey control and orientation of regiment assets (CP, acquisition radar).CP Capabilities
+
+Battalion CP: up to six launchers (battalion)
+Regimental CP: up to three battalions
+24 hour continuous operations
+Time of shutting down/deployment: 5 minutes
+Number of work stations: 4
+Crew: combat crew (3), driver-mechanic (1).Transporting-loading Vehicle (TLV)
+
+One TLV per two combat vehicles.
+The TLV ensures rapid replacement of ammunition during combat operations and carries two complete ammunition loads for combat vehicle (24 missiles and 2,800 30 mm (1.2 in) rounds).Mechanic Maintenance Vehicle
+
+MMV carries out unit vehicles maintenance including launcher mechanical systems and carries spare parts componentsElectronic Maintenance Vehicle (Launcher)
+
+Maintenance of launcher radio-electronic and optronic systems including automated diagnostics of faulty equipment and its replacement.
+The vehicle carries a load of common spare parts.Electronic Maintenance Vehicle (Command Post)
+
+Responsible for maintenance and repair of the CP radio-electronic systems.
+Carries a stock of common spare parts.Adjustment Vehicle
+
+Carries out calibration of launchers radio-electronic and optronic systems.Mechanic Maintenance Vehicle (CP)
+
+Responsible for maintenance and repair of the CP mechanical systems and chassis.
+Carries a stock of common spare parts.Spare Parts Vehicle
+
+This vehicle carries the common kit of spare parts, tools and accessories for the launchers.Mobile Trainer
+
+Designed to train the combat vehicle crews in field conditions on the weapon system.
+
+
+== Multi-sensor system ==
+
+
+== Operational history ==
+
+
+=== Libya ===
+In June 2019, United Arab Emirates deployed several of its Pantsir-S1 air defence systems to Libya, to support the Libyan National Army (LNA) in their advance towards Tripoli. The Libyan Interior Minister of the Government of National Accord (GNA), Fathi Bashagha claimed one of the systems was reportedly destroyed by a GNA Libyan Air Force strike on 13 November 2019.On 15 May 2020, Turkish media showed a Pantsir system belonging to the LNA targeted in a GNA drone strike near the Al-Watiya Air Base, southwest of Tripoli. Reportedly, the system was supplied by the United Arab Emirates. The airstrike came as a part of an operation to cut supplies to the LNA. Turkish media showed imagery of the airstrike. The LNA denied the claim made by the GNA. On 18 May, the Turkish-backed GNA captured the al-Watiya Air Base including a Pantsir-S1 TLAR belonging to the LNA. Later, it was reported that the captured Pantsir battery was the same targeted three days before and it was transferred by the United States to Ramstein Air Base in Germany in June 2020.On 20 May 2020, Mohammed Gununu, a GNA spokesman claimed their forces had destroyed 7 Pantsir TLARs in Al-Watiya airbase, Tarhouna and Al-Wishka. Media sources reported the destruction of at least five defenses in the GNA offensive, in turn an LNA official denied the destruction of Pantsirs. On 8 June 2020, video footage was first leaked showing a Pantsir operated by UAE personnel.Post-conflict analysis showed that Pantsir was (at least temporarily) suppressed by combined efforts from electronic warfare systems on one side and long range artillery (or airstrikes) on the other side. Pantsir's positions were allegedly detected by long-range electronic warfare systems. Electronic warfare systems allegedly were at times able to jam Pantsir's radar and then forwarded the information to drone operators. In situations where jamming was not achieved strikes on Pantsir's positions were carried out with long range artillery. Pantsir operators compensated by switching off the radar and focused on the electro-optical sensors instead of the radar (i.e. thermal imager and infrared direction finder), in order to acquire targets and this reportedly improved both Pantsir's survivability and effectiveness.On 22 August 2022, a drone speculated to be China's CH-5 or Ch-4 or "something similar" to a US MQ-9 Reaper UAV was shot down over Libya by a Pantsir.
+
+
+=== Syria ===
+A Pantsir-S1 unit of the Syrian Air Defense Force reportedly scored the first combat kill of the type by downing a Turkish Air Force RF-4E carrying out a reconnaissance flight over the Syrian coast near Latakia on 22 June 2012. The system has also been deployed on the territory of Syria by the Russian Armed Forces as part of Russian military intervention in the Syrian Civil War since 2015.
+A Russian poster displayed at the International Military Technical Forum «ARMY-2017», from March to July 2017, claimed that the Russia's Pantsir-S systems deployed in Syria destroyed 12 flying objects, including the UAVs Heron, Bayraktar, RQ-21A, and also various missiles and an aerostat. At the beginning of October 2017, it was reported that the Pantsir destroyed two MLRS "Grad" missiles launched by ISIL.On 27 December 2017, militants fired several missiles from the Bdama inhabited community at Latakia International Airport and the Russian Aerospace Forces deployment site in the Khmeimim Air Base. Two missiles were intercepted by the Pantsir air defense system.In the night of 5–6 January 2018, the Khmeimim Air Base was attacked by 13 aircraft-type unmanned aerial vehicles (UAVs). Seven drones were eliminated by the Pantsir air defence systems, six landed at assigned coordinates with the use of electronic warfare hardware.On 14 April 2018, American, British, and French forces launched a barrage of 103 air-to-surface and cruise missiles targeting eight sites in Syria. According to Russian officials, twenty-five Pantsir-S1 missiles launched in response destroyed twenty-three incoming missiles, The American Department of Defense stated no allied missiles were shot down.A Pantsir-S1 system belonging to the Syrian Air Defense Force was damaged by the Israel Defense Forces during the May 2018 Israel-Syria clashes. Images of the damaged system show it was effectively out of ammunition and the radar was disabled at the time of the strike. According to Chief Designer for Air Defense Systems at KBP Instrument Design Bureau (KBP) Valery Slugin, Israeli intelligence managed to track the position of the system after one of its operators called for re-supply and left his mobile phone in the cabin.On 21 January 2019, Israeli military reported it has destroyed two Pantsir-S1 systems near Damascus.Russia's Pantsir and Tor-M1 air defense systems shot down 27 rockets the militants had fired at the Khmeimim Air Base on 6 May 2019.In January 2020, Chief Designer for Air Defense Systems at KBP Valery Slugin reported Pantsir air defence systems intercepted about 100 drones during their combat operations all over the world, most of which took place in Syria. Pantsirs were also successfully used against various ground targets, such as terrorist's jihad mobiles, during their Syrian deployment.A Syrian Pantsir-S1 system was claimed to be destroyed by the Turkish Armed Forces during strikes on Syria in the night of 27–28 February 2020. Russian media alleged that the video analysis of footage released by Turkish media indicated visible design differences between the system claimed to be destroyed by Turkey and the variant operated by the Syrian Air Defense Force, and claimed that the footage might not come from Syria at all.
+Russian media claimed that the footage was CGI saying that the traces of missing video fragments and debris having the same size and shape after the explosion.
+On 10 March 2020, the Russian Defence Ministry confirmed two Pantsir-S1 systems were damaged during the recent Turkey-Syria clashes, adding that repair works were nearing completion.On July 19, 2021, four F-16 fighter jets of the Israeli Air Force entered Syria's airspace via the US-controlled al-Tanf zone and fired eight guided missiles at an area southeast of Syria's Aleppo. Vadim Kulit, deputy chief of the Russian Center for Reconciliation of the Opposing Parties in Syria, claimed that seven missiles were downed by the Russian-made Pantsir-S and Buk-M2 systems of the Syrian Air Defense Forces. In the evening of July 27, a drone was launched by militants from the Kafer-Khattar community in the Idlib Province. The militant drone was downed over the Hama Province by the Syrian air defense who used a Russia-produced Pantsir-S missile system, Kulit claimed the next day. Syrian air defense forces shot down 22 missiles fired by Israel into Syria using Russian-made Buk-M2E and Pantsir-S systems, Rear Adm. Vadim Kulit said on 20 August 2021. Syrian air defense forces shot down twenty-one out of twenty-four missiles fired by Israel into Syria using Russian-made Buk-M2E and Pantsir-S systems, Rear Adm. Vadim Kulit said on September 3, 2021. Syrian air defense forces shot down 8 out of 12 missiles fired by Israel in Syria using Russian-made Pantsir-S systems, Rear Adm. Vadim Kulit said on 08.10.2021. Syrian air defense forces shot down ten out of twelve missiles fired by Israel into Syria using Russian-made Buk-M2E and Pantsir-S systems, Rear Adm. Vadim Kulit said on November 24, 2021.On 13 May 2022, the Israeli Air Force launched attacks on SAA positions on Masyaf killing 5 people including one civilian, the attack destroyed one Pantsir-C1 system. On 25 August and 17 September 2022, new attacks were reportedly partly repelled by Syrian Pantsir-S1, Buk-M2E and S-75 systems. On 27 November 2022 a Russian operated Pantsir-S1 fired on an American MQ-9 Reaper without effect.
+
+
+=== Ukraine ===
+
+Various independent experts believe that Pantsir-S1 systems were operated by Russian-backed forces during the Russo-Ukrainian War. Remnants of the main armament of the Pantsir-S1 were reported to have been observed in Ukraine in November 2014. It was also reportedly filmed in Luhansk and photographed in Makiivka in the rebel-held territories during early 2015.On 1 March 2022, during the 2022 Russian invasion of Ukraine, a Pantsir-S1 system got stuck in the mud in Kherson, Ukraine, and was later destroyed by the Ukrainian Army. On 4 March, another system was found abandoned in Mykolaiv region.One system was reportedly destroyed during the Battle of Snake Island in late June or early July 2022.Ukrainian's army claimed it used a trophy Pantsir-S1 to shoot down an aerial target.According to the OSINT website Oryxspioenkop, by December 2022 at least 13 Pantsir-S1 had been lost by Russia in the war.On 19 January 2023, pictures posted online show that a Pantsir air defence system has been placed on the Russian Ministry of Defence and the Ministry of Education in Moscow. Such a deployment of point defence systems is not unheard of—the US government uses NASAMS and Avenger systems to protect Washington D.C.—but this is the first time they have been deployed in Moscow. This system is specifically designed to shoot down drones. While no official explanation has been given, Ukraine has conducted strikes inside Russia such as at the Engels-2 (air base) a number of times in 2022. Engels is south of Moscow and some 300 miles from the Russian-Ukraine border.  In early 2023, it was reported by Russian state media that the Pantsir system had received new software to improve dealing with missiles fired by the US-made HIMARS system.
+
+
+== Operators ==
+
+ AlgeriaPeople's National Army – 104 including Pantsir S1/S2 and SM. EthiopiaEthiopian National Defense Force – unknown number, first seen in service in March 2019. Equatorial GuineaArmed Forces of Equatorial Guinea – 2 vehicles on order as of August 2017. IranArmy of Iran – Up to 10 vehicles as of 2012. IraqIraqi Armed Forces – 42–50 on order. Deal was thought to be cancelled by the Iraqi government due to corruption concerns, but the deal was later confirmed to be going ahead. In September 2014, Iraq received first batch of Pantsir-S1. Russia finished supplying 24 Pantsir-S1 systems to Iraq in February 2016. LibyaLibyan National Army – transferred by the United Arab Emirates in 2019. MyanmarTatmadaw or internationally known as Myanmar Armed Force – The agreement was signed on 22 January 2021 during the Russian defence minister Sergey Shoygu visit to Naypyidaw. OmanSultan of Oman's Armed Forces – Up to 12 vehicles as of 2012. RussiaRussian Armed Forces – 110 Pantsir-S1 and S2 units in service in November 2017. 24 systems were delivered in 4th quarter of 2017. 6 more in early 2018. 3 more battalions in late 2021. 6 Pantsir-S2 units in service in May 2016. A new regiment took up combat duty in late 2022. SerbiaSerbian Armed Forces – one battery (six units) of the Pantsir-S1 in service. Two more batteries of Pantsir-S1M on order. SyriaSyrian Arab Armed Forces – 36 to 50 on order signed in 2006 as part of arms package worth about US$1 billion; deliveries began in August 2007; Jane's Defence Weekly reported in May 2007 that 50 systems are on order by Damascus and that at least ten of those Pantsirs would be handed over to Iran by the end of 2008. According to Jane's Defence Weekly, Iran is reported to be the main sponsor of the deal and is paying Syria for its services as an intermediary. Deliveries to Iran are categorically denied by a range of top Russian officials including First Deputy Prime Minister Sergei Ivanov. According to a source in the Russian Ministry of Defence, Russia has supplied Syria with 40 Pantsir-S1 systems. It is operated by the Syrian Air Defense Force. United Arab EmiratesArmed Forces of the UAE – 50 on order; Launch customer of Pantsir-S1. Ordered in May 2000, half of them tracked, the other half wheeled. Due to deliver in three batches by the end of 2005–12 in 2003, 24 in 2004 and 14 in 2005. Prices given were US$ 734 million (including a US$100 million advance payment to complete R&D), with the price per single unit being about US$15 million. Delivery postponed after new design decisions were taken and UAE is said to have paid an additional US$66 million to cover major improvements. All 50 systems will now be wheeled on MAN SX 45 8x8 trucks from Germany, as well as the support vehicles. Delivery of the prototype occurred in 2007. With that, the MAN SX45 is the only "western" vehicle that can accommodate the S1 system and has a worldwide logistics and support network through its importer network. Delivery of the 50 systems ordered in 2000 began in 2007 with the first two serially produced systems. British Jane's Defence Weekly reported on October 30 delays in further deliveries.  Based on test-firing data, some further optimisation of the systems is required. Deliveries will take place over the next three years under an amended schedule. As reported by Kommersant in June 2006 UAE has expressed interest in acquiring an additional 28 systems and has likely signed an option for the delivery in 2009–2010. Russia delivered 50 Pantsir-S systems in their export configuration and 1,000 missiles to the UAE in 2009–2013. The United Arab Emirates’ (UAE's) Pantsir-S1 air defence systems are being upgraded, a senior official from Russia's Rostec defence group told the TASS news agency on 27 November 2019.
+
+
+=== Potential operators ===
+ ArgentinaArgentine Air Force – Russia offered the Pantsir-S1 as a replacement for Argentinas aging Roland SAM. UkraineArmed Forces of Ukraine – Ukrainian forces claimed to have captured three Russian Pantsir systems during the 2022 Russian invasion of Ukraine. However, only two systems were visually documented, one of which was later destroyed. VietnamVietnam People's Army / Air Defence - Air Force – Some unconfirmed images cited on Chinese People's Daily have shown a Pantsir-S1 system which has been alleged to be operated by the Vietnamese Army.
+
+
+=== Failed bids ===
+ BrazilBrazilian armed forces – Brazil and Russia were in discussion since early 2013 about Brazil's acquisition of three batteries (one for each Armed Force, 12 launchers) worth 1 billion dollars. In 2015 the acquisition was postponed to 2016, and finally in 2017 Brazil decided to cancel the acquisition. Feeling the Pantsir-S1 won't be really acquired for Brazil, MBDA and Avibras are developing a new missile called AV-MMA (CAMM variant) to be used on a new Astros II MLRS antiaerial version.
+
+
+== Gallery ==
+
+		
+		
+		
+		
+		
+
+		
+		
+		
+		
+
+
+== See also ==
+Buk missile system – Soviet surface-to-air missile system
+K30 Biho – Self-propelled anti-aircraft weapon
+LD-2000 Gai – close-in weapon systemPages displaying wikidata descriptions as a fallback
+42S6 Morfey – type of Tracked SAM system, TELPages displaying wikidata descriptions as a fallback
+Tor missile system – Russian surface-to-air missile
+2K22 Tunguska – self-propelled anti-aircraft weapon systemPages displaying wikidata descriptions as a fallback
+
+
+== References ==
+
+
+== Further reading ==
+Тихонов С. Г. Оборонные предприятия СССР и России : в 2 т. — М. : ТОМ, 2010. — Т. 1. — 608 с. — 1000 экз. — ISBN 978-5-903603-02-2.
+Тихонов С. Г. Оборонные предприятия СССР и России : в 2 т. — М. : ТОМ, 2010. — Т. 2. — 608 с. — 1000 экз. — ISBN 978-5-903603-03-9.
+Савенков Ю. А., Сомков Н. И., Травкин А. А. Зенитный ракетно-пушечный комплекс «Панцирь» (рус.) // Армейский сборник : журнал. — 2014. — Ноябрь (т. 245, № 11). — С. 35—37. — ISSN 1560-036X.
+Фимушкин Ф., Слугин В. ЗРК ближнего действия «Панцирь-С1-0» с оптико-электронной системой наведения (рус.) // Военный парад : журнал. — 2004. — Май-июнь (т. 63, No. 03). — С. 12–14. — ISSN 1029-4678.
+
+
+== External links ==
+ Media related to Pantsir-S1 at Wikimedia Commons
+Pantsyr S1 Air Defense Missile-Gun System and similar systems from the UK, USA, France, Germany, in comparison. (Rus)

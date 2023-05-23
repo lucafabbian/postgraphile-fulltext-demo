@@ -1,0 +1,27 @@
+Annexin A5 (or annexin V) is a cellular protein in the annexin group.  In flow cytometry, annexin V is commonly used to detect apoptotic cells by its ability to bind to phosphatidylserine, a marker of apoptosis when it is on the outer leaflet of the plasma membrane. The function of the protein is unknown; however, annexin A5 has been proposed to play a role in the inhibition of blood coagulation by competing for phosphatidylserine binding sites with prothrombin and also to inhibit the activity of phospholipase A1. These properties have been found by in vitro experiments.
+
+
+== Pathology ==
+Antibodies directed against annexin A5 are found in patients with a disease called the antiphospholipid syndrome (APS), a thrombophilic disease associated with autoantibodies against phospholipid compounds.
+Annexin A5 forms a shield around negatively charged phospholipid molecules. The formation of an annexin A5 shield blocks the entry of phospholipids into coagulation (clotting) reactions. In the antiphospholipid antibody syndrome, the formation of the shield is disrupted by antibodies. Without the shield, there is an increased quantity of phospholipid molecules on cell membranes, speeding up coagulation reactions and causing the blood-clotting characteristic of the antiphospholipid antibody syndrome.
+Annexin A5 showed upregulation in papillary thyroid carcinoma.
+
+
+== Laboratory use ==
+Annexin A5 is used as a non-quantitative probe to detect cells that have expressed phosphatidylserine (PS) on the cell surface, an event found in apoptosis as well as other forms of cell death. Platelets also expose PS and PE on their surface when activated, which serves as binding site for various coagulation factors.
+The annexin A5 affinity assay typically uses a conjugate of annexin V and a fluorescent or enzymatic label, biotin or other tags, or a radioelement, in a suitable buffer (annexin V binding to aminophospholipids is Ca2+ dependent). The assay combines annexin V staining of PS and PE membrane events with the staining of DNA in the cell nucleus with propidium iodide (PI) or 7-Aminoactinomycin D (AAD-7), distinguishing viable cells from apoptotic cells and necrotic cells. Detection occurs by flow cytometry or a fluorescence microscope.
+
+
+== Interactions ==
+Annexin A5 has been shown to interact with Kinase insert domain receptor and Integrin, beta 5.
+
+
+== References ==
+
+
+== Further reading ==
+
+
+== External links ==
+Annexin+A5 at the U.S. National Library of Medicine Medical Subject Headings (MeSH)
+Human ANXA5 genome location and ANXA5 gene details page  in the UCSC Genome Browser.

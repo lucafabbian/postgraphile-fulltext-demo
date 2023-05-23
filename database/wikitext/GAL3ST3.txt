@@ -1,0 +1,7 @@
+Galactose-3-O-sulfotransferase 3 is an enzyme that in humans is encoded by the GAL3ST3 gene.This gene encodes a member of the galactose-3-O-sulfotransferase protein family. The product of this gene catalyzes sulfonation by transferring a sulfate group to the 3' position of galactose in N-acetyllactosamine in both type 2 (Gal-beta-1-4GlcNAc-R) oligosaccharides and core-2-branched O-glycans, but not on type 1 or core-1-branched structures. This gene, which has also been referred to as GAL3ST2, is different from the GAL3ST2 gene located on chromosome 2 that encodes a related enzyme with distinct tissue distribution and substrate specificities, compared to galactose-3-O-sulfotransferase 3.
+
+
+== References ==
+
+
+== Further reading ==

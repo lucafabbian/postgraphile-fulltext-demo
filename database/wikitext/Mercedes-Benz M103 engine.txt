@@ -1,0 +1,41 @@
+The Mercedes-Benz M103 is a straight-6 15 degrees, crossflow cylinder head with an inclination to the right, automobile engine produced from 1984 to 1997. It is a single overhead cam design with 2 valves per cylinder. The M103 was replaced by the M104 starting in 1989. The bore spacing on the M103 engine is 97 mm. This engine received several updates over the years of production, one of the updates was a change from a spherical combustion chamber to a "heart shaped" combustion chamber. 
+
+
+== 3.0 L ==
+The 103.980 engine of 3.0 L; 180.6 cu in (2,960 cc) uses the CIS-E (Continuous Injection System - Electronic).
+
+SpecificationsEngine power @ 5700 rpm: 132 kW (179 PS; 177 hp) with catalyst, 140 kW (190 PS; 188 hp) without catalyst
+Torque @ 4400 rpm: 255 N⋅m (188 lb⋅ft) (with catalyst), 260 N⋅m (192 lb⋅ft) without catalyst
+Bore and stroke: 88.5 mm × 80.2 mm (3.48 in × 3.16 in)
+Compression ratio: 9.2:1
+Redline: 6200 rpm
+Firing order: 1-5-3-6-2-4
+Lubrication system: pressure circulation
+Oil capacity: 6 litres (1.6 US gal; 1.3 imp gal)
+Coolant capacity: 8.5 litres (2.2 US gal; 1.9 imp gal)
+Number of valves: 1 intake, 1 exhaust with V-shaped overhead configuration
+Valve operation: 1 top camshaft.
+Camshaft drive: simple roller-type chain
+Starter motor: 1.5 kW electrical motor; since Jan 1988: 1.7 kW
+Ignition system: electronic ignition system.
+Recommended fuel octane: 91 RON/MON (96 RON) (86 MON).This engine can be found in the W124 (300E), W126 (300SE / 300SEL), R107 (300SL), R129 (300SL), W463 (300GE), and Isdera Spyder 036i.
+
+
+== 2.6 L ==
+The smaller 103.940 engine of 2.6 L; 158.5 cu in (2,597 cc) also used the CIS-E engine management system.
+
+SpecificationsEngine power @ 5800 rpm: 118 kW (160 PS; 158 hp) with catalyst, 124 kW (169 PS; 166 hp) without catalyst
+Torque @ 4600 rpm: 220 N⋅m (162 lb⋅ft) with catalyst, 228 N⋅m (168 lb⋅ft) without catalyst.
+Bore and stroke: 82.9 mm × 80.2 mm (3.26 in × 3.16 in)
+Compression ratio: 9.2:1
+Redline: 6200 rpm
+Firing order: 1-5-3-6-2-4
+Lubrication system: pressure circulation
+Oil capacity: 6 litres (1.6 US gal; 1.3 imp gal)
+Coolant capacity: 8.5 litres (2.2 US gal; 1.9 imp gal)
+Camshaft drive: simple roller-type chain
+Number of valves: 1 intake, 1 exhaust with V-shaped overhead configuration
+Valve operation: 1 top camshaft
+Starter motor: 1.5 kW electrical motor; since Jan 1988: 1.7 kW
+Ignition system: electronic ignition system.The only mechanical differences from the M103 3.0 L to the M103 2.6 L were the smaller bore and intake valves, with a slightly different airbox. The CIS-E components between 2.6 and 3.0 variants are all shared for any given model year with the exception of the ECU making engine swaps from 2.6 to 3.0 virtually bolt-in.
+This engine can be found in the W201 (190E 2.6), W124 (260E / 300E 2.6) and W126 (260SE).

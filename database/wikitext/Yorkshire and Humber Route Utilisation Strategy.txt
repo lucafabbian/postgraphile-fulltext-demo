@@ -1,0 +1,44 @@
+The Yorkshire and Humber Route Utilisation Strategy is a Route Utilisation Strategy (RUS), published by Network Rail in July 2009; it was the twelfth RUS to be completed, not counting the partially completed Network RUS.
+By default, RUSs are established by the Office of Rail Regulation (ORR) unless the latter objects within 60 days. The RUS is included in NR's map as established.The scope corresponds roughly with Strategic Routes 10 (North Cross-Pennine, North and West Yorkshire ) and 11 (South Cross-Pennine, South Yorkshire and Lincolnshire ).
+The Y&H RUS picked up several issues from other RUSs, specifically:
+
+Freight RUS, throughout the RUS area
+North West RUS, mainly as regards the Calder Valley, Hope Valley and Huddersfield corridors
+East Coast Main Line RUS, mainly at Wakefield Westgate, Doncaster, Leeds and York
+Lancashire and Cumbria RUS, mainly as regards the Airedale and Calder Valley corridors
+the Network RUS, Electrification workstream
+the former Strategic Rail Authority’s Midland Main Line RUS.Issues in the Y&H RUS were also relevant to the East Midlands RUS (in draft as at early November), mainly at Chesterfield and in Lincolnshire. 
+As with other RUSs, the Y&H RUS took into account a number of responses, including the Office of Rail Regulation (ORR) 
+.The routes and services covered by the RUS are varied in type. Many lines are used for passenger services with very little, if any, freight; some lines on the other hand are largely for freight. A number of passenger transport executives (PTEs) have significant influence over transport planning in the area.
+Some issues were passed to the Network RUS, Electrification workstream.
+The RUS needs to be seen against existing contingent and prospective schemes, particularly in Control Period 4.
+
+
+== Groups of gaps and issues ==
+The RUS identifies generic groups of gaps and issues
+
+Peak crowding Overcrowding on peak time trains, especially into Leeds and Sheffield
+Off-peak crowding Overcrowding between the peaks, possibly leading to suppression of demand
+Engineering access Closure of routes for engineering access, possibly leading to suppression of demand
+Regional links Connectivity within the RUS area, and between the RUS and external areas
+Freight capability Lack of availability owing to inadequacy of diversionary routes, route availability, loading gauge and/or capacity
+Reactionary delays Reactionary delays contributing to poor performance.A number of routes and services suffer from overcrowding of passengers in each usually 3-hour peak periods (mostly divided into a middle 'high' peak hour and two 'shoulder' peaks). In almost all cases these problems are foreseen, in the absence of interventions, to get worse owing to forecast growth in passenger traffic. These are simply referred to as "peak crowding" in the detail below.
+
+
+== Subsequent developments ==
+In March 2009 Network Rail published its CP4 Delivery Plan 2009, including Enhancements programme: statement of scope, outputs
+and milestones, confirming most of the recommended interventions. Specific projects, scheduled to cost about one billion pounds  in total, with their reference and page numbers in the document, are given below:
+
+ 03.05 Strategic Freight Network, Train lengthening projects fund, regarding Hope Valley, p24
+ 18.01 Capacity relief to the ECML (GN/GE Joint Line), pp94–95
+ 18.07 York Holgate Junction 4th line, p106
+ 18.08 Shaftholme Junction re-modelling, pp107–108
+ 19.00 Overhead line electrification refurbishment, pp111–112
+ 23.00 Northern urban centres - Yorkshire, p125
+ 23.01 Capacity improvements (Leeds area), pp126–8
+ 23.02 South Yorkshire - train lengthening, p129
+ 23.03 South Yorkshire - stabling for Northern, p130
+ 25.00 Trans-Pennine line speed improvements, p137
+
+
+== References ==

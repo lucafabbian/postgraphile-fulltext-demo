@@ -1,0 +1,26 @@
+Sodium diethyldithiocarbamate is the organosulfur compound with the formula NaS2CN(C2H5)2.  It is a pale yellow, water soluble salt.
+
+
+== Preparation ==
+This salt is obtained by treating carbon disulfide with diethylamine in the presence of sodium hydroxide:
+
+CS2  +  HN(C2H5)2  +  NaOH   →  NaS2CN(C2H5)2  +  H2OOther dithiocarbamates can be prepared similarly from secondary amines and carbon disulfide.  They are used as chelating agents for transition metal ions and as precursors to herbicides and vulcanization reagents.
+
+
+== Reactions ==
+
+Oxidation of sodium diethyldithiocarbamate gives the disulfide, also called a thiuram disulfide (Et = ethyl):
+
+2 NaS2CNEt2  +  I2   →   (S2CNEt2)2  +  2 NaIDithiocarbamates are nucleophiles and thus can be alkylated.  Even dichloromethane suffices:
+2 NaS2CNEt2  +  CH2Cl2   →   CH2(S2CNEt2)2  +  2 NaClDiethyldithiocarbamate reacts with many metal salts to give transition metal dithiocarbamate complexes.  The ligands coordinate via the two sulfur atoms.  Other more complicated bonding modes are known including binding as unidentate ligand and a bridging ligand using one or both sulfur atoms.
+
+
+== Laboratory and practical use ==
+By the technique of spin trapping, complexes of dithiocarbamates with iron provide one of the very few methods to study the formation of nitric oxide (NO) radicals in biological materials. Although the lifetime of NO in tissues is too short to allow detection of this radical itself, NO readily binds to iron-dithiocarbamate complexes. The resulting mono-nitrosyl-iron complex (MNIC) is stable, and may be detected with Electron Paramagnetic Resonance (EPR) spectroscopy.The zinc chelation of diethyldithiocarbamate inhibits metalloproteinases, which in turn prevents the degradation of extracellular matrix, an initial step in cancer metastasis and angiogenesis.Diethyldithiocarbamate inhibits superoxide dismutase, which can both have antioxidant and oxidant effects on cells, depending on the time of administration.
+
+
+== References ==
+
+
+== Further reading ==
+Cvek B, Dvorak Z (2007). "Targeting of nuclear factor-kappaB and proteasome by dithiocarbamate complexes with metals". Curr. Pharm. Des. 13 (30): 3155–67. doi:10.2174/138161207782110390. PMID 17979756.

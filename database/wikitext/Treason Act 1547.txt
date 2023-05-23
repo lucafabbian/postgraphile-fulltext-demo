@@ -1,0 +1,46 @@
+The Treason Act 1547 (1 Edw. 6. c. 12) was an Act of the Parliament of England. It is mainly notable for being the first instance of the rule that two witnesses are needed to prove a charge of treason, a rule which still exists today in the United States Constitution.
+
+
+== Provisions ==
+
+
+=== Abolition of new offences ===
+During the reign of Henry VIII (r. 1509–1547), the statute books had proliferated with legislation creating numerous new forms of high treason. In the first year of the reign of his successor, Edward VI, Parliament passed this Act, which abolished all kinds of treason except:
+
+those contained in this Act,
+those in the original Treason Act (the Treason Act 1351), and
+treason consisting of counterfeiting coinage or forging the king's seals.However the Act expressly did not apply to people who had already been indicted for treason or misprision of treason.
+The Act also abolished all new felonies created in Henry's reign.
+
+
+=== Two witnesses rule ===
+Section 22 of the Act prescribed that in order to indict, arraign or convict a person for high treason, petty treason, or misprision of treason, they must be "accused by two sufficient and lawful witnesses." However, the witnesses did not have to have witnessed the same overt act of the offence.
+This rule was abolished in 1554, except for treason under the Treason Act 1554. However, it was later adopted in the Sedition Act 1661 and the Treason Act 1695, the latter of which was inherited by the United States due to its origins as part of the British Empire. In 1787, a version of the two witnesses rule was included in Article III of the U.S. Constitution (section 3), which added that both witnesses had to have witnessed the same overt act. Article III reads: "No Person shall be convicted of Treason unless on the Testimony of two Witnesses to the same overt Act, or on Confession in open Court."
+The rule as stated in the 1695 Act was extended to Scotland in 1709 and Ireland in 1821, although in 1800 the rule was abolished for cases of attempting to assassinate the king. It remained in force in Great Britain (from 1821 the whole United Kingdom) until 1945, when it was repealed by the Treason Act 1945.During the passage of the Treason Bill through Parliament in 1945, the Home Secretary, Sir Donald Somervell, explained the repeal of the rule as follows:
+
+It is, presumably, based on the idea that one witness may be unreliable, whereas, on the other hand, if you allege two overt acts, and if you have one witness of each, then the two unreliabilities are taken as adding up to a sufficient certainty. It was very much criticised from the moment it was enacted.
+
+
+=== New offences under the Act ===
+The Act created three new kinds of high treason:
+
+Saying that the King was not the Supreme Head of the Church was a misdemeanour, a second such offence was a felony, and a third offence was treason. To say so in writing was treason for a first offence.
+To attempt to deprive the King or his successors of his title, or to say that somebody else should be king, was treason.
+Interrupting the succession to the throne, as established by the Act of Succession 1543, was treason.These provisions were all repealed by the Treason Act 1553, the first Act to be passed in the reign of Mary I. However the second on the above list was soon re-enacted in the Treason Act 1554. The 1554 Act also made it an offence to say that the King or Queen should not have their title, which was punishable by "perpetual imprisonment" for a first offence and treason on the second offence, or treason on the first offence if done in writing.
+
+
+=== Other provisions ===
+Section 19 stipulated that a prosecution for treason consisting only of "open preaching or words only" must be brought within 30 days of the offence (or six months if the accused was outside the realm).
+Section 20 of the Act put the common law offence of misprision (concealing) of treason on a statutory basis.
+Section 21 made it lawful to address the King of France by that title. Up until then, the English kings had claimed that title for themselves (and did not formally renounce it until 1801).
+
+
+== See also ==
+High treason in the United Kingdom
+
+
+== References ==
+
+
+== External links ==
+Tomlins, Thomas Edlyne; Raithby, John (1811). An Act for the Repeal of Certain Statutes concerning Treasons, Felonies, &c. (1547) [1 Edw. VI. - A.D. 1547 Chapter XII]. The Statutes at Large, of England and of Great Britain: from Magna Carta to the Union of the Kingdoms of Great Britain and Ireland. Vol. III. London, Great Britain: George Eyre and Andrew Strahan. pp. 491-499. OCLC 15609908 – via Internet Archive.

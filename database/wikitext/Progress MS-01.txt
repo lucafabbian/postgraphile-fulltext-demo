@@ -1,0 +1,41 @@
+Progress MS-01 (Russian: Прогресс МС-01), identified by NASA as Progress 62P was a Progress spaceflight operated by Roscosmos to resupply the International Space Station (ISS) in 2015. It was launched on 21 December 2015, to deliver cargo to the ISS. Progress MS-01 is the first vehicle in the Progress-MS series.
+
+
+== History ==
+The Russian Progress is an uncrewed cargo resupply spacecraft that is largely based on the crewed Soyuz. It is used to resupply Space Stations and was used for the Russian Salyut and Mir space stations as well as the International Space Station that receives three or four Progress flights a year.
+
+
+== Spacecraft ==
+Progress MS represents the latest generation of Progress spacecraft introduced in late 2015 in an upgrade (Article 11F615A61) from the Progress M-xxM spacecraft (Article 11F615A60) that was inaugurated back in November 2008, succeeding in the Progress M configuration flown since 1989. This latest update in the line of Progress spacecraft, also to be introduced on the crewed Soyuz craft, is largely focused on communications and navigation systems that are upgraded using modern electronics. Progress MS introduces a new KURS navigation system, a new radio, the use of GPS / GLONASS for navigation, and the use of a proximity communications link for relative navigation. These changes will not significantly change the external appearance of the Progress except for the number of deployable antennas present on the spacecraft and beginning with the third cargo ship (No.433), each Progress MS spacecraft can carry up to four containers for launching up to 24 CubeSats for deployment.Progress MS has been designed to launch atop the upgraded Soyuz 2.1a launch vehicle that will allow the craft to carry a greater cargo upmass to the International Space Station. The spacecraft is still compatible with the Soyuz-U rocket that is being phased out in a soft transition to the newer version, alternating flights between the two to iron out any problems with no significant interruption of the supply chain to International Space Station (ISS). Progress spacecraft can dock to any port on the Russian Orbital Segment (ROS) of the International Space Station, but usually use the Pirs docking compartment and the aft docking port on the Zvezda service module.Once docked and secured in place, the hatch to the pressurized cargo carrier can be opened by the crew to unload the cargo. Because it is crewed in orbit (crew members can enter the spacecraft), Progress is classified as a crewed spacecraft, although it is launched without a crew. During its stay at the Space Station, all cargo is transferred to ISS. This includes dry cargo that is transferred by the crew, water that is also transferred internally, oxygen, and nitrogen gas that is released to repressurize the station's atmosphere and propellant which is transferred via a dedicated transfer system being fed to tanks on the Russian Orbital Segment (ROS).Afterward, Progress is loaded with trash and no-longer-needed items before the hatch is closed and the spacecraft undocks. Progress does not have a heat shield and makes a targeted, destructive re-entry to end its mission.
+
+
+== Launch ==
+The launch was initially scheduled for 21 November 2015. Progress MS-01 was launched on 21 December 2015 at 08:44:39 UTC from the Baikonur Cosmodrome in Kazakhstan.
+
+
+== Docking ==
+Progress MS-01 docked with the Pirs docking compartment on 23 December 2015 at 10:27 UTC.
+
+
+== Communications ==
+The Progress MS spacecraft has upgraded communications and electronics from previous Progress vehicles. After launch, ground controllers were able to communicate the Progress MS-01 via a Russian Luch data relay satellite in geosynchronous orbit. This was described as the first time a Progress or Soyuz spacecraft had such capability.Other upgrades include:
+
+Upgraded Kurs-A rendezvous system designated Kurs-NA, including new antennas
+Upgraded flight control system that can take advantage of the GLONASS navigation satellites for the first time, for autonomous trajectory measurements
+New digital television system, which replaced an older analog TV, allowing transmission between the transport ship and the space station via onboard radio channels
+New digital backup control unit
+Enhanced meteoroid shielding
+New LED-based lighting system
+Upgraded angular velocity sensors
+Docking port equipped with a backup electric driving mechanismProgress MS-01 was launched on a Soyuz-2.1a, the first launch of the rocket since the failed launch of Progress M-27M. The Soyuz-U rocket was used for subsequent Progress flights until this flight.
+
+
+== Reentry ==
+The upper stage reentry was visible over Arizona and Nevada on 22 December 2015 at 05:30 UTC. The spacecraft initiated the deorbit maneuver on 3 July 2016 at 07:03 UTC, with an expected landing of any possible debris on the Pacific Ocean by 07:50 UTC.
+
+
+== References ==
+
+
+== External links ==
+Progress MS-1 Real Time Tracking

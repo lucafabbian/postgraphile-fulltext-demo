@@ -1,0 +1,36 @@
+Zi Corporation was a software company based in Calgary, Canada. The company was founded on 4 December 1987 as Cancom Ventures Inc, owning an Edmonton secretarial college and an industrial equipment rental business. On 30 August 1989 the name was changed to Multi-Corp Inc. In 1993, board member Michael Lobsinger took control of the company, became CEO, and turned the company towards the telecommunications industry, purchasing several privately held companies involved in the telecommunications businesses, and in November 1993, Multi-Corp entered into an exclusive licensing agreement with Eric Chappell for a stroke-based Chinese text entry system which they referred to as the Jiejing Licenses. A wholly owned subsidiary, Ziran Developments Inc, was formed to handle the Chinese text entry business.
+The company was listed on the Toronto Stock Exchange on 9 June 1995 (symbol MCU). Under Lobsinger, the strategic importance of the Chinese text entry grew, and Ziran was renamed Zi Corporation in 1996; Zi meaning character in Chinese.
+The telecommunications businesses were disposed of by 1997. In June 1997, the parent company was renamed Zi Corporation to reflect the importance of the new business. In 1999, co-founder Gary Kovacs joined as COO.
+Having started with Chinese on personal computers, toward the end of the 1990s Zi's focus moved to text entry for all languages for mobile phones and other handheld devices, where efficient entry of text traditionally has been challenging due to limitations of a physically small device. This new business area was quickly quite successful, especially in the Chinese market, and in 1998 Zi entered into licensing agreements with Ericsson (later Sony Ericsson), who at that time was a very significant player in the Chinese market. Further license agreements with Ericsson and other companies were to follow, for a total of more than 1000 different device models being shipped with Zi text entry software,
+in more than 100 million devices.The introduction of touch screen technology for mobile devices made the company follow up with software for handwriting recognition, with focus on languages such as Chinese and Japanese.
+In 2003, Mike Donnell took over as CEO from Lobsinger.
+Zi Corporation was listed on NASDAQ from September 2007.Text entry on devices with limited number of keys was early subject to a number of software patents, and Zi was engaged in several costly patent disputes with Tegic Corporation, later Nuance Communications.
+In August 2008, Nuance made a takeover bid to acquire the company for US$40.4 million, which the company declined. Shortly thereafter, Nuance filed a patent infringement lawsuit against Zi. The company was finally acquired by Nuance for US$35 million on 26 February 2009, and the acquisition was completed on 9 April 2009.
+
+
+== Products ==
+Zi's main product was EZiText predictive text entry software, in competition with solutions such as the original T9 product from Tegic, later Nuance.Other products include eZiType, a predictive text entry product for mobile email users, for keyboard-based mobile devices, Qix, a service discovery engine that provides a quick and easy method for accessing a phone's features, applications, and services, and Decuma which delivers an input method for pen-based devices by fusing handwriting recognition with predictive text technology.
+
+
+== Patent war ==
+There was a series of patent infringement lawsuits between Tegic, the holder of the T9 patents, and Zi:
+
+A patent infringement lawsuit by Zi against Tegic, filed in the District Court in Seattle for Japanese and Chinese character-based text input technologies was dismissed in September 1999.
+In February 2002, the District Court for Northern California granted Zi a partial summary judgment that eZiText for alphabetic does not infringe on Tegic's patents.
+In March 2002, the Federal District Court for the Western District of Washington granted Zi partial summary judgment stating that eZiText for alphabetic languages does not infringe Tegic's text input patents.
+In September 2002,  the U.S. District Court for Northern California awarded Tegic, owned by AOL Time Warner, US$9 million in damages for Zi's infringement of two Tegic patents. Zi's claim that the two Tegic patents were based on existing methods of inputting Chinese ideographic characters were rejected.
+In August 2008 Nuance filed a patent infringement lawsuit against Zi in the Federal Court in Toronto, Canada, where Nuance accuses Zi of infringing Canadian Patent Numbers 2,399,961 and 2,278,549, each entitled "Reduced Keyboard Disambiguating System.
+
+
+== Other controversies ==
+In 1995 the company sold stock to the wives of Alberta Premier Ralph Klein and his chief of staff Rod Love well below market value, with no payment required until they sold them. Klein had participated in a ribbon-cutting ceremony at the company's Hong Kong office while Love served as a company director. Klein was later cleared of wrongdoing in a decision by Alberta's Ethics Commissioner Bob Clark, although this decision was controversial.
+In 1998, Eric Chappell receives 4.5 million shares as compensation for transfer of all rights of the Jiejing Licenses to Zi. 3 million shares, representing 11.5% of the shares, are sold to Lancer Funds without disclosure, as is required by law.
+In 2003, the U.S. Securities and Exchange Commission froze the assets of Lancer Group, a hedge fund investment management firm, when it discovered it owned 49.1% of Zi's shares, far beyond the 10% limit requiring disclosure. This was suspected to be for market manipulation, and the Lancer assets were taken over by an appointed receiver. Zi entered into a settlement agreement with the SEC.
+
+
+== References ==
+
+
+== External links ==
+http://www.zicorp.com/ Original website on Wayback Machine
+XBRL Voluntary Filing Program entries for Zi Corporation

@@ -1,0 +1,140 @@
+The O'Reilly Open Source Award is presented to individuals for dedication, innovation, leadership and outstanding contribution to open source. From 2005 to 2009 the award was known as the Google–O'Reilly Open Source Award but since 2010 the awards have only carried the O'Reilly name.
+
+
+== Award winners ==
+This is a list of the winners of individuals that won the annual O'Reilly Open Source Awards.
+
+
+== 2005 ==
+Best Communicator: Doc Searls (co-author of "The Cluetrain Manifesto" and Senior Editor for Linux Journal)
+Best Evangelist: Jeff Waugh (Ubuntu Linux and Gnome desktop environment)
+Best Diplomat: Geir Magnusson Jr
+Best Integrator: D. Richard Hipp (SQLite)
+Best Hacker: David Heinemeier Hansson (Ruby on Rails and 37Signals)
+
+
+== 2006 ==
+Best Legal Eagle: Cliff Schmidt (Apache License)
+Best Community Activist: Gervase Markham (programmer) (Firefox)
+Best Toolmaker: Julian Seward (Valgrind)
+Best Corporate Liaison: Stefan Taxhet (OpenOffice.org)
+Best All-around Developer: Peter Lundblad (Subversion)
+
+
+== 2007 ==
+Best Community Builder: Karl Fogel
+Best FUD Fighter: Pamela Jones
+Best Accessibility Architect: Aaron Leventhal
+Best Strategist: David Recordon
+Best Outstanding Lifetime Contributions: Paul Vixie
+
+
+== 2008 ==
+Best Community Amplifier: Chris Messina - BarCamp, Microformats and Spread Firefox
+Best Contributor: Angela Byron - Drupal
+Best Education Enabler: Martin Dougiamas - Moodle
+Best Interoperator: Andrew Tridgell - Samba and Rsync
+Defender of Rights: Harald Welte - gpl-violations.org
+
+
+== 2009 ==
+Best Open Source Database Hacker: Brian Aker - Drizzle and MySQL
+Database Jedi Master: Bruce Momjian - PostgreSQL
+Best Community Builder: Clay Johnson - Sunlight Labs
+Best Social Networking Hacker: Evan Prodromou - identi.ca and Laconica
+Best Education Hacker: Penny Leach - Mahara and Moodle
+
+
+== 2010 ==
+Jeremy Allison - Samba
+Deborah Bryant
+Brad Fitzpatrick - memcached, Gearman, MogileFS, and OpenID
+Leslie Hawthorn - Google's Summer of Code
+Greg Stein - Subversion, Apache, Python
+
+
+== 2011 ==
+Fabrice Bellard - QEMU, FFmpeg
+Karen Sandler - SFLC, licensing
+Keith Packard - X Window System
+Ryan Dahl - Node.js
+Kohsuke Kawaguchi - Jenkins
+
+
+== 2012 ==
+Massimo Banzi
+Jim Jagielski
+Christie Koehler
+Bradley M. Kuhn
+Elizabeth Krumbach
+
+
+== 2013 ==
+Behdad Esfahbod - HarfBuzz
+Jessica McKellar - Python Software Foundation
+Limor Fried - Adafruit Industries
+Valerie Aurora - Ada Initiative
+Paul Fenwick - Perl
+Martin Michlmayr - Debian Project
+
+
+== 2014 ==
+Sage Weil - Ceph
+Deb Nicholson - MediaGoblin and OpenHatch.org
+John "Warthog9" Hawley - gitweb and Linux kernel site kernel.org
+Erin Petersen - Outercurve Foundation and Girl Develop It
+Patrick Volkerding - Slackware Linux
+
+
+== 2015 ==
+Doug Cutting
+Sarah Mei
+Christopher Webber
+Stefano Zacchiroli
+Marina Zhurakhinskaya
+
+
+== 2016 ==
+Sage Sharp
+Rikki Endsley
+VM (Vicky) Brasseur
+Máirín Duffy
+Marijn Haverbeke
+
+
+== 2017 ==
+William John Sullivan, Executive Director, Free Software Foundation.
+Nithya Ruff, Head of Open Source Program Office at Amazon, Linux Foundation, Boards of Directors.
+Tony Sebro, General Counsel, Software Freedom Conservancy; Outreachy coordinator.
+Katie McLaughlin, BeeWare / KatieConf.
+Juan González Gómez, R&D Engineer & Member of the CloneWars and FPGAwars communities
+
+
+== 2018 ==
+In 2018 the winner of each award was determined through open voting from nominees selected by O'Reilly.
+Most Impact Award: Kubernetes
+Breakout Project of the Year: HashiCorp - Vault
+Lifetime Achievement Award: Linux
+
+
+== 2019 ==
+Most Impact Award: Let's Encrypt
+Breakout Project of the Year: Kotlin
+Lifetime Achievement Award: PostgreSQL
+
+
+== See also ==
+List of computer-related awards
+List of computer science awards
+
+
+== References ==
+
+
+== External links ==
+Google-O'Reilly Open Source Awards - Hall of Fame
+O'Reilly Open Source Awards 2010
+OSCON 2010: O'Reilly Open Source Awards (photo)
+OSCON 2011: O'Reilly Open Source Awards
+OSCON 2011: O'Reilly Open Source Awards (video)
+Geek Feminism Wiki: Google O'Reilly Open Source Award

@@ -1,0 +1,33 @@
+Project Genetrix, also known as WS-119L, was a program run by the U.S. Air Force, Navy, and the Central Intelligence Agency during the 1950s under the guise of meteorological research. It launched hundreds of surveillance balloons that flew over China, Eastern Europe, and the Soviet Union to collect intelligence on their nuclear capabilities. The Genetrix balloons were manufactured by the aeronautical division of General Mills. They were about 20 stories tall, carried cameras and other electronic equipment, and reached altitudes ranging from 30,000 to over 60,000 feet, well above the reach of any contemporary fighter plane. The overflights drew protests from target countries, while the United States defended its action.
+
+
+== History ==
+
+
+=== Initiation and testing ===
+Authorized by President Dwight D. Eisenhower on December 27, 1955, Project 119L was the first espionage use of the balloons that had been tested in previous projects, such as Project Moby Dick. It succeeded Project Mogul, Project Skyhook, and Project Grandson. Eisenhower viewed the reconnaissance efforts as defensive in nature, under the rationale of collecting intelligence on the Sino-Soviet bloc in case of a surprise nuclear attack against NATO. A cover story had been agreed upon to explain the balloons as being used for meteorological research if they were ever discovered.In 1955, a number of AN/DMQ-1 gondolas were launched from Lowry Air Force Base in Colorado as a test of the system. One was recovered years later in New Brunswick.
+
+
+=== Operation ===
+Between 10 January and 6 February 1956, a total of 512 high-altitude vehicles were launched from the five different launch sites Gardermoen, Norway; Evanton, Scotland; Oberpfaffenhofen and Giebelstadt, West Germany; and Incirlik, Turkey. 54 were recovered and only 31 provided usable photographs covering over 1.1 million square miles (2.8 million square km) of the Sino-Soviet bloc. Numerous balloons were shot down by the Soviets or blown off course. MiG fighter pilots learned that at sunrise the balloons had dipped into shooting range because the balloons floated to a lower altitude. The lifting gas cooled at night and became denser, reducing lift, so the balloons descended to lower altitudes where the air was denser.
+
+
+=== Diplomatic protests and U.S. response ===
+The missions led to diplomatic protests from many countries, including Albania, China, and the Soviet Union, for the balloon flights over their territories. The United States claimed that the project was a worldwide meteorological survey and compared the balloons to "miniature satellites" out of the way of commercial air traffic. Secretary of State John F. Dulles said that after the air force compiles the data, it would be contributed to the International Geophysical Year 1957–58 for all countries to access. Asked if the United States had the right to send these balloons anywhere around the globe, he answered, "Yes, I think that we feel that way," saying that international law was obscure on "who owns the upper air".
+
+
+== Later development ==
+The Soviets recovered many of these balloons, and their temperature-resistant and radiation-hardened film would later be used in the Luna 3 probe to capture the first images of the far side of the Moon. Newly developed American spy planes, such as the U-2, would replace the Genetrix balloons in carrying out reconnaissance over denied airspace. Employees from the aeronautical division of General Mills would go on to found Raven Industries.
+
+
+== See also ==
+Project HOMERUN
+456th Troop Carrier Wing
+
+
+== References ==
+ Citations 
+
+ Bibliography 
+
+Sagan, Carl. The Demon-Haunted World. p. 83 (and others)

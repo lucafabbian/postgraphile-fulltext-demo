@@ -1,0 +1,57 @@
+112 Signals Unit, RAF Stornoway (112 S.U.) was a classified Royal Air Force (RAF) Electronic countermeasures (ECM) measurement and evaluation unit based at Stornoway Airport on the Isle of Lewis in the Outer Hebrides. It was an RAF Bomber Command Headquarters (HQBC) directly administered unit established during the height of the Cold War.
+
+
+== Role ==
+Once 112 S.U. had been established at Stornoway Airport from 1 January 1960, under the auspices of the Operational Research Branch (O.R.B) at HQBC, the unit measured the signal strength, frequency bandwidths and aerial performance of the operational Handley Page Victor and Avro Vulcan V bombers as they flew a course towards, over or away from the unit varying from straight-lines to polar patterns. Results were passed back to HQBC and to each aircraft's base for the Electronics Engineers and Technicians to review for performance improvement of each piece of equipment that was measured. The combined success of the unit and each of the aircraft's bases along with support staff at BCDU and RRE Malvern (later to become RSRE Malvern) was demonstrated by the V-force during Operation Skyshield exercises during the early sixties. and subsequent exercises up to the time that the unit was closed in 1983
+
+
+== Cold War backdrop ==
+From the start of the Cold War period, leading up to the time the Berlin Wall was built in 1961 and to its subsequent tearing down in 1989 a number of key events happened that shaped the military aviation response.  These events included the development of the Hydrogen bomb, the V bomber, Duncan Sandys' 1957 Defence White Paper, the application of Electronic countermeasures (ECM), the 1960 U-2 incident shooting down of Gary Powers' spy plane over Soviet territory, the Cuban Missile Crisis in 1962, development of the Blue Steel missile, shift from a high altitude nuclear bomb to a low-level airborne stand-off nuclear-armed missile in 1964 and the change of platform to the Polaris missile submarine solution in 1968.The V-force of RAF Bomber Command played a critical role during most of this period since the Handley Page Victor and Avro Vulcan bombers particularly had a very high operating ceiling keeping them above likely fighter attack.  This was a strong hand to play right up to the time that Gary Power's U-2, which operated at an even higher ceiling than the V-force, was shot down by a Soviet missile over the Urals in May 1960. High altitude nuclear bomb tactics urgently had to change, especially since it had been decided that the submarine solution was a few years away from being a viable solution.  The Blue Steel (missile) stand-off thermo-nuclear missile came to the rescue allowing the V-force to fly in low and launch the missile which in turn allowed the bombers to return to base from a safer height and distance.  This change in airborne tactics required a subsequent change in ECM systems and techniques too.
+
+
+=== Operation Skyshield ===
+In the United States a decision had been taken that North American Aerospace Defense Command (NORAD), consisting of Canadian and United States air defence systems, needed to be tested under Operation Skyshield.  By 1961 RAF Bomber Command were invited to Skyshield II.  All commercial and general aviation was grounded for up to a 12-hour period nationwide in order to accommodate this military exercise. Unlike the previous two Skyshield exercises when NOTAM's were announced, for 9 October 1962 a Special Civil Air Regulation, SR-452, was published for Skyshield III stating that electronic countermeasures would jam agency air traffic control radars and air-ground communications, making it unsafe for civilian aircraft to fly. Eight Vulcan B2's were selected, four each from 27 Squadron and 83 Squadron practised their drills ahead of time.  In the novel Under the Radar by James Hamilton Paterson he writes of Skyshield I, "...and by September all eight aircraft had begun intensive training in the area around the Orkneys.... to practise co-ordinating their electronic countermeasures...."  The Orkneys were used as a way-point at either the start or the end of the trombone-shaped south-westerly course towards 112 S.U. at Stornoway, 122 miles away, for ECM equipment measurement.Meanwhile, at Skyshield II the four Vulcans from 27 Squadron flew to Kindley Air Force Base, Bermuda to launch their southern wave approach up the Eastern Seaboard while the four Vulcans from 83 Squadron flew from RAF Lossiemouth in Scotland via Goosebay to form the northern wave approach over the Canada/United States border.  Later, on Monday 7 January 1963 a popular national British newspaper, the Daily Express, had the headline "V-bombers do it, Target America, R.A.F. "attack" pierces Nuclear defences" and continued "Targets reached included New York, Washington and other key centres" and "...some of the aircraft were fitted with electronic counter-measures... and was at least the second time that V-bombers had made simulated attacks on America.  A similar raid was made in 1961." It was a tribute to the Vulcan's significantly higher ceiling along with the aircrew and the excellent ECM performance, ably assisted by the groundcrew, 112 S.U. and HQBC that made the exercises the success that they were.
+
+
+=== Cuban Missile Crisis ===
+The Cuban Missile Crisis took the super-powers' political-military leadership to new levels.  During U.S. President John F. Kennedy's nationwide televised speech the US on 22 October 1962 all US Forces were put on DEFCON 3 and fifteen hours later on 23 October Strategic Air Command (SAC) were ordered to DEFCON 2 and remained there until 15 November.  In the UK, on 27 October the V-force was raised to Alert Condition 3 meaning that the maximum number of aircraft were to be prepared, armed and ready for operational take-off from main bases within 15 minutes and remained at that level elevated until 5 November 1962. The V-force had just completed Exercise MICKY FINN II by 22 September 1962 where 112 V-bombers and their crews were assessed at all 4 Alert Levels and included flying each aircraft for ECM assessment at 112 S.U. Stornoway.
+
+
+=== Post-Cuba ===
+During September 1963 Air Marshal Sir John Grandy, AOC-in-C Bomber Command stated that there were six factors on which the penetration of enemy airspace depended – aircraft performance, evasive routeing, high and low level capability, electronic countermeasures, the success of earlier strikes on enemy defences, and, stand-off weapons. Finally, on 4 February 1964, the Secretary of State for Air announced that the V-force was ready to attack targets from a low level.RAF Stornoway was one of the airfields used to simulate Port Stanley, in the Falkland Islands, by Vulcan aircraft training for Operation Black Buck.
+
+
+=== Administration ===
+The unit adopted as its badge the existing Bomber Command badge with its motto, "Strike hard, strike sure", adapted by adding the title "112 Signals Unit".
+The unit consisted of a dozen or so air radar and air wireless engineering staff, along with ground radar and ground wireless staff who maintained the RAF's communication and navigation ground installations in the area and the communications installation at RAF Aird Uig on the west coast of Lewis. The unit's establishment also included administration and logistics staff, a civilian electronics technician, and two civilian motor transport staff.
+In the early 1960s, the RAF had developed the airfield, lengthening and strengthening the runways, and adding a Gaydon-type hangar, a bomb dump, Squadron Operations and Wing Operations buildings, an accommodation building, a small community of Nissen huts, bulk fuel tanks, and an additional wing to the control tower. Aside from use during occasional exercises and detachments, the buildings remained usually unoccupied, under a care and maintenance regime.
+Until 1970, the unit's married men lived either in the married quarters at Columbia Place, Stornoway, or in hirings (that is, privately owned houses or flats, rented by the RAF) throughout the island, while single men and unaccompanied married men were billeted out in private homes throughout the town and nearby villages.  In 1970, the accommodation block (then known by the homely title of "Personnel Housing" or "PH") was taken out of mothballs and staffed by cooks and a civilian cleaner as the Unit's bachelors and unaccompanied married men were decanted into it.  Later on the unit's monitoring and support functions were moved into PH, and the converted power-house which it had until then occupied was handed back to the Ministry of Public Building and Works.
+The need for the unit's services as an ECM monitoring facility decreased as the Royal Navy took over the burden of the nuclear deterrent, and as the Vulcan and Victor aircraft the unit was created to support were withdrawn from service.  Finally, in 1983, the Unit closed; for some years thereafter its elaborate aerial array became a mystifying gate-guardian at the entrance of RAF Stornoway, which itself closed down in 1997, the airfield and all its facilities being handed over to civilian control.
+The unit's charitable work and its involvement with the local community were recognised twice by the award of the Wilkinson Sword of Peace.
+
+
+== See also ==
+Electronic countermeasures and Electronic warfare for further technical cross-references
+See RAF Stornoway and RAF Bomber Command for further military cross-references
+See Cold War and Cuban Missile Crisis for further political cross-references
+See http://www.nationalcoldwarexhibition.org hosted by the RAF Museum Cosford.
+Visit National Cold War Exhibition (NCWE) hosted at the Royal Air Force Museum Cosford, Shifnal, Shropshire, TF11 8UP.
+
+
+== References ==
+
+
+=== Citations ===
+
+
+=== Bibliography ===
+[a] ORB,HQBC. (1963). Monitoring of RED SHRIMP performance before Exercise SKYSHIELD II. UK: The National Archives, Kew. Ref: AIR 14/4317
+[b] White, Roland. (2007). Vulcan 607, The epic story of the most remarkable air attack since WWII. UK: Corgi Books. ISBN 978-0-552-15229-7.
+[c] Brookes, Andrew. (2009). Vulcan Units of the Cold War. UK: Osprey Publishing. ISBN 978-1-84603-297-4.
+[d] Brookes, Andrew. (2011). Victor Units of the Cold War. UK: Osprey Publishing. ISBN 978-1-84908-339-3.
+[e] Hennessy, Peter. (2010). The Secret State, Preparing for the worst 1945–2010. UK: Penguin Books. ISBN 978-0-141-04469-9.
+[f] Hamilton-Paterson, James. (2013). Under the Radar. UK: Faber and Faber Limited. ISBN 978-0-571-27398-0.
+[g] Robinson, Derek. (2008). Hullo Russia, Goodbye England. UK: MacLehose Press. ISBN 978-0-85705-092-2.
+
+
+== External links ==

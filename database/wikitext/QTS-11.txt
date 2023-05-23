@@ -1,0 +1,31 @@
+The Type 11, (Chinese: 11式单兵综合作战系统; pinyin: 11 Shì dānbīng zònghé zuòzhàn xìtǒng; lit. 'Type 11 individual integrated combat system') designated as QTS-11, is an air burst grenade launcher integrated with the QBZ-03 assault rifle in service of Chinese military since 2015. Reporting on the weapon as early as February 2011 initially identified the weapon as the ZH-05.
+
+
+== History ==
+
+
+=== Deployment ===
+In early 2018, Chinese state media announced the introduction of the weapon with the Sky Wolf Commando Unit, a branch of PLA Special Operations Forces from the Western Theater Command. The Sky Wolf Commando was publicly revealed recently on August 2, 2017.
+Chinese marines use QTS-11 in anti-piracy operations in the Gulf of Aden.
+
+
+== Design ==
+The QTS-11 system combines the QBZ-03 assault rifle with a 20 mm airburst grenade launcher and weighs between 5 kg and 7 kg when fully loaded. This makes China the third country to develop an airburst infantry weapon, after the American XM29 Objective Individual Combat Weapon and XM25 CDTE, and the South Korean S&T Daewoo K11. Unlike other nations' airburst weapons, the QTS-11 has a single-shot grenade launcher that requires each round to be manually loaded and reloaded after every firing, while the others are magazine fed. Initial PLA trials determined that a single-shot grenade launcher would make it easier to change the type of munitions fired. The PLA does not have multi-purpose munitions but instead has different munitions types, which reduce the electronics needed and increase the firepower of the munition. Additionally, only the laser range finder and fire control system are integrated with the weapon, leaving optics optional and modular. These changes make it the lightest, and least capable, of all the airburst weapons in its base configuration.
+The primary weapon of the system is the 20 mm grenade launcher, with the 5.8 mm rifle for secondary use. Grenades are pre-programmed through electronic sight with fire control system and loaded manually through bolt-action. Five types of grenade rounds available: impact detonation, airburst, armor-piercing, improved fragmentation and shotgun-type rounds. The U.S. encountered problems with the lethality of small 20 mm grenades during OICW development, resulting in a switch to larger 25 mm grenades for the XM25. The PLA claims their grenades have less electronics in them to carry more explosives and fragments to cause adequate wounding capability. The grenades are reportedly capable of a 7.7 m (25 ft) damage radius and an 800 m (0.50 mi) range with 220 m/s muzzle velocity.The QTS-11 can be equipped with an additional eyepiece device mounted on the helmet allowing soldiers to shoot around corners. The video image will be streaming from the electronic sight to the single-eye goggle. The fire-control system can also be turned off for manual sighting without the airburst programming capability.
+
+
+== Users ==
+ China
+
+
+== See also ==
+Norinco LG5 / QLU-11
+XM29 OICW
+XM25 CDTE
+S&T Daewoo K11
+Advanced Individual Combat Weapon
+PAPOP
+QLZ-04
+
+
+== References ==

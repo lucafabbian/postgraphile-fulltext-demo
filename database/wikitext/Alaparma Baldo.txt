@@ -1,0 +1,37 @@
+The Alaparma Baldo was an unusual two-seat light monoplane produced in Italy shortly after World War II. Designed by Adriano Mantelli, it featured an egg-shaped fuselage with cabin doors that hinged upwards and to the back. The conventional tailplane with single fin and rudder was carried on twin booms, either side of a pusher engine installation.  The undercarriage consisted of a single mainwheel under the fuselage pod, a small tailwheel not far behind it, and outrigger wheels on the wingtips.
+
+
+== Variants ==
+AM.65 with 65hp Walter Mikron piston engine
+AM.75 with 75hp Praga D engine
+
+
+== Operators ==
+ ItalyItalian Air Force operated 10 aircraft until 1951
+
+
+== Specifications (AM.75) ==
+
+Data from Jane's All The World's Aircraft 1951–52General characteristics
+Crew: 2
+Length: 5.08 m (16 ft 8 in)
+Wingspan: 7.00 m (23 ft 0 in)
+Height: 1.45 m (4 ft 9 in)
+Wing area: 8.5 m2 (91 sq ft)
+Empty weight: 280 kg (617 lb)
+Gross weight: 490 kg (1,080 lb)
+Powerplant: 1 × Praga D 4-cylinder horizontally-opposed piston engine, 56 kW (75 hp)Performance
+
+Maximum speed: 217 km/h (135 mph, 117 kn)
+Cruise speed: 192 km/h (119 mph, 104 kn) (75% power)
+Range: 660 km (410 mi, 360 nmi)
+Service ceiling: 4,800 m (15,700 ft)
+Time to altitude: 5 min to 1,000 m (3,300 ft)
+
+
+== References ==
+
+Bridgman, Leonard (1951). Jane's All The World's Aircraft 1951–52. London: Sampson Low, Marston & Co. Ltd.
+Taylor, Michael J. H. (1989). Jane's Encyclopedia of Aviation. London: Studio Editions. p. 51.
+Simpson, R. W. (1995). Airlife's General Aviation. Shrewsbury: Airlife Publishing. p. 404.
+luftfahrt-archiv.de

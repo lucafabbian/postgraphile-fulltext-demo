@@ -1,0 +1,61 @@
+The IAI Harpy is a loitering munition missile produced by Israel Aerospace Industries. The Harpy is designed to attack radar systems and is optimised for the suppression of enemy air defences (SEAD) role. It carries a high explosive warhead. The Harpy has been sold to several foreign nations, including South Korea, Turkey, India, and China.
+
+
+== Design and development ==
+In the late 1980s, Kentron sold the designs for its ARD-10 loitering drone to IAI. IAI then used those designs to develop the Harpy which was first tested in 1989.In 2004, the Harpy became the focus of the effort by the United States to restrict arms transfers and the sales of advanced military technology to China. Sold to China in 1994 for around US$55 million, the loitering munitions were returned to Israel in 2004 under contract to be upgraded. The United States, fearing that the Harpy would pose a threat to Taiwanese and American forces in the case of a war with China, demanded that Israel seize the loitering munitions and nullify the contract. According to Israel, the Harpy is an indigenously designed loitering munitions, and does not contain any US-produced sub-systems. In 2005, the loitering munitions were returned to China without being upgraded. This incident chilled relations between the United States and Israel, with Israel being suspended from its status as Security Cooperative Participant in the Joint Strike Fighter program. However, on 6 November 2005, Israel stated that it has been re-admitted into the program.
+
+
+== Specifications ==
+
+
+=== Harpy ===
+General characteristics
+
+Length: 2.7 m (8 ft 10 in)
+Wingspan: 2.1 m (6 ft 11 in)
+Gross weight: 135 kg (298 lb)
+Powerplant: 1 × UEL AR731 Wankel rotary engine, 28 kW (38 hp)Performance
+
+Maximum speed: 185 km/h (115 mph, 100 kn)
+Range: 600 km (370 mi, 320 nmi)Armament
+1 × 32 kg (70 lb) high-explosive warhead
+
+
+=== Mini Harpy ===
+Data from IAIGeneral characteristics
+Length: 2.5 m (8 ft 2 in)
+Wingspan: 2.9 m (9 ft 6 in)
+Gross weight: 41 kg (90 lb)
+Loitering speed: 55–85 kn (102–157 km/h; 63–98 mph)
+Operational altitude: 304–1,524 m (997–5,000 ft)Performance
+
+Maximum speed: 370 km/h (230 mph, 200 kn)
+Range: 200 km (120 mi, 110 nmi)
+Endurance: 2 hoursArmament
+Warhead: up to 17 lb (7.7 kg)
+CEP: <1 m (3 ft 3 in)Dual-homing capabilities - utilizing anti-radiation and electro-optical seekers
+
+
+== Operators ==
+ Azerbaijan
+ China
+ India
+ Israel
+ South Korea
+ Turkey
+
+
+== See also ==
+
+WB Electronics Warmate
+Shahed 131
+Raad 85 (UAV)
+NCSIST Chien Hsiang
+AeroVironment Switchblade
+
+
+== References ==
+
+
+== External links ==
+HARPY - Autonomous Weapon for All Weather. IAI website

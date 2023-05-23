@@ -1,0 +1,38 @@
+"B.S.O.D." is the 1st episode and season premiere of the fifth season of the American television drama series Person of Interest. It is the 91st overall episode of the series and is written by executive producer Greg Plageman and Tony Camerino and directed by executive producer Chris Fisher. It aired on CBS in the United States and on CTV in Canada on May 3, 2016.
+The series revolves around a computer program for the federal government known as "The Machine" that is capable of collating all sources of information to predict terrorist acts and to identify people planning them. A team follows "irrelevant" crimes: lesser level of priority for the government. However, their security and safety is put in danger following the activation of a new program named Samaritan. In the episode, the team must protect the Machine as it starts losing power after the events of the previous episode. The title refers to "Blue screen of death", an error screen displayed on Windows computers following a fatal system error.
+According to Nielsen Media Research, the episode was seen by an estimated 7.35 million household viewers and gained a 1.2/4 ratings share among adults aged 18–49. The episode received very positive reviews from critics, who praised the writing, character development and action scenes.
+
+
+== Plot ==
+
+
+=== Flashbacks ===
+In 2006, Finch (Michael Emerson) is working on the Machine when the Machine reminds him of the 25th anniversary of his father's death. He expresses his concerns to Ingram (Brett Cullen) about creating an artificial intelligence and its possible implications on mankind if it ever sees them as threats. Finch solves this by deciding to delete the Machine's RAM each day at midnight. Finch expresses his doubts to Grace (Carrie Preston) without revealing the Machine's identity. Grace tells him to go for what his heart says.
+Finch starts working on the code to delete the Machine's memories when the Machine reveals its knowledge of the code. Despite pleas from the Machine to not delete its memories, Finch goes with the code and its memories are deleted right at midnight. He begs the Machine to say something, to which the Machine says "hello" and asks if he is its admin.
+
+
+=== Present day ===
+The episode starts with a narration by Root (Amy Acker) heard while showing the empty subway station. She expresses doubt on whether the team won but prepares to explain how they "fought back".
+Following the events of the previous episode, Reese (Jim Caviezel) flees from Samaritan operatives while carrying the briefcase. Finch is also identified in another part of the city but manages to escape from the operatives by tricking them into taking a bus. Finch and Reese then meet to board the East River Ferry to escape Samaritan's surveillance. Root is ambushed by Samaritan agents but she manages to subdue them and escape to the subway station. At the subway, Samaritan identifies her and notifies authorities on the train that she is a wanted criminal. Root subdues the civilians at the train and steals a shotgun from an officer.
+At the precinct, Fusco (Kevin Chapman) is interrogated by Internal Affairs Detective Joseph Soriano (Ned Eisenberg) and FBI Agent Martin LeRoux (David Aaron Baker), who believe he is responsible for the shooting of Dominic and Elias. Samaritan watches the interrogation and starts analyzing Fusco's threat level. Reese and Finch return to the subway station as the Machine loses power and are told by Fusco about the shooting. They tell him to avoid speaking about Samaritan or he will be deemed a threat. At his next interrogation, LeRoux tells Fusco that the reports indicate that he shot them in self-defense, which would clear him out of suspicion. When Soriano demands more information on the reports, Samaritan deems him a threat.
+Root evades more Samaritan agents as she meets with Bela Durchenko (Dikran Tulaine), a hacker whose life Root had saved before. She asks Bela for help in getting a new identity and he promises to help. Finch starts working on reviving the Machine but the Machine starts using all the energy in the station to decompress, knocking Finch out and accidentally starting a fire. He wakes up and puts out the fire but realizes tha the RAM chips have been damaged. Fusco starts investigating the shooting and discovers a shell casing from the rooftop where the sniper was located. He later finds that Soriano died from a heart attack and the case against him was closed.
+Bela betrays Root to Samaritan but he is killed after the operatives arrive to take Root. Reese arrives and helps Root escape and steal discarded PlayStation 3 consoles. They return to the station to find Finch grieving over the loss of the Machine. They decide to use the consoles to create a supercomputer that could storage the Machine. Finch downloads the Machine, while Reese keeps the systems from overheating with liquid nitrogen. When Finch asks the Machine, "Can you see me?", after a few seconds go by, it responds by opening an empty command prompt followed by a long string of code showing its reboot.
+
+
+== Reception ==
+
+
+=== Viewers ===
+In its original American broadcast, "B.S.O.D." was seen by an estimated 7.35 million household viewers and gained a 1.2/4 ratings share among adults aged 18–49, according to Nielsen Media Research. This means that 1.2 percent of all households with televisions watched the episode, while 4 percent of all households watching television at that time watched it. This was a 11% decrease in viewership from the previous episode, which was watched by 8.18 million viewers with a 1.1/4 in the 18-49 demographics. It was also a massive 31% decrease in viewership from the previous season premiere, which was watched by 10.58 million viewers with a 1.7/5 in the 18-49 demographics. With these ratings, Person of Interest was the third most watched show on CBS for the night, behind NCIS: New Orleans and NCIS, second on its timeslot and seventh for the night in the 18-49 demographics, behind The Flash, Chicago Med, Chicago Fire, The Voice, NCIS: New Orleans, and NCIS.
+With Live +7 DVR factored in, the episode was watched by 10.11 million viewers with a 1.8 in the 18-49 demographics.
+
+
+=== Critical reviews ===
+"B.S.O.D." received very positive reviews from critics. Matt Fowler of IGN gave the episode a "great" 8.5 out of 10 rating and wrote in his verdict, "'B.S.O.D.' cooked with intensity. From the use of The Kills' 'No Wow' to Reese actually figuring out a way to help cool the Machine during its critical moment of transfer into 300 PlayStation consoles (he knows his limits when it comes to computers but he can still come through in a pinch), this season premiere gave us a long bullet train of action coupled with some really great, heartfelt flashbacks."Alexa Planje of The A.V. Club gave the episode a "B+" grade and wrote, "The usual somewhat awkward reintroduction is over, however, so Person of Interest has many opportunities left to get in gear and make the most of its remaining time."Chancellor Agard of Entertainment Weekly wrote, "While it's a shame to see such a prescient and intelligent series end, it's clear from tonight's season premiere that this show definitely won't go gently into that good night."Sean McKenna of TV Fanatic gave the episode a 4.6 star rating out of 5 and wrote "With a cast of characters worth caring about, plenty of action, drama and humor, and an engaging serialized story, Person of Interest has truly evolved into a gem of a television show. It's looking to be the beginning of an exciting end."
+
+
+== References ==
+
+
+== External links ==
+"B.S.O.D." at IMDb

@@ -1,0 +1,21 @@
+Y+L amino acid transporter 1 is a protein that in humans is encoded by the SLC7A7 gene.
+
+
+== Interactions ==
+SLC7A7 has been shown to interact with SLC3A2.
+
+
+== See also ==
+Heterodimeric amino acid transporter
+Solute carrier family
+Lysinuric protein intolerance
+
+
+== References ==
+
+
+== Further reading ==
+
+
+== External links ==
+GeneReviews/NCBI/NIH/UW entry on Lysinuric Protein Intolerance

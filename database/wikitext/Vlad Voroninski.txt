@@ -1,0 +1,21 @@
+Vlad Y. Voroninski (born 21 March 1985) is a Russian-American mathematician and entrepreneur.
+
+
+== Academic biography ==
+Voroninski received his B.S. and M.A degrees in Applied Mathematics from UCLA in 2008, summa cum laude. He earned his Ph.D. in mathematics from UC Berkeley in 2013, under the supervision of Emmanuel Candes and John Strain. He was on the faculty at the MIT Mathematics Department from 2013 to 2016.
+
+
+== Research ==
+Voroninski's PhD thesis kicked off the study of phase retrieval in the applied mathematics community, by providing the PhaseLift algorithm along with the first mathematical recovery guarantees for phase retrieval. His research has also led to solutions to open problems in computer vision, quantum operator theory, optimization and the theory of deep learning and compressive sensing. More recently, Voroninski's research connected the fields of deep learning and inverse problems, resolving the sample complexity bottleneck for compressive phase retrieval.
+
+
+== Awards and honors ==
+Voroninski was awarded the 2014 SIAM Outstanding Paper Prize, given to works that "exhibit originality, for example, papers that bring a fresh look at an existing field or that open up new areas of applied mathematics". His PhD thesis was awarded the university-wide Bernhard Friedman Memorial Prize from UC Berkeley. In addition he has received the SIAM Student Paper Prize and SIGEST Review Awards from SIAM.
+He received the George E.G. Sherwood Prize from the UCLA Mathematics Department in 2008, which is awarded to the top graduating senior, as well as the Computing Research Association Outstanding Undergraduate Award in 2007.
+
+
+== Entrepreneurship ==
+From 2014 to 2016, Voroninski was the founding Chief Scientist at Sift Security, a cybersecurity machine learning startup which was acquired by Netskope in 2018. As of 2016, Voroninski is the CEO and co-founder of Helm.ai, a stealth mode AI software startup focusing on autonomous driving.
+
+
+== References ==

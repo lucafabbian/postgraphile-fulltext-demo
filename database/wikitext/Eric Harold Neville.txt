@@ -1,0 +1,45 @@
+Eric Harold Neville, known as E. H. Neville (1 January 1889 London, England – 22 August 1961 Reading, Berkshire, England) was an English mathematician. A heavily fictionalised portrayal of his life is rendered in the 2007 novel The Indian Clerk. He is the one who convinced Srinivasa Ramanujan to come to England.
+
+
+== Early life and education ==
+Eric Harold Neville was born in London on 1 January 1889. He attended the William Ellis School, where his mathematical abilities were recognised and encouraged by his mathematics teacher, T. P. Nunn. In 1907, he entered Trinity College, Cambridge. He graduated second wrangler two years later. He was elected to a Fellowship at Trinity College. 
+While there he became acquainted with other Cambridge fellows, most notably Bertrand Russell and G. H. Hardy.
+In 1913 Neville married Alice Farnfield (1875-1956); they had a son Eric Russell Neville in 1914 who died before his first birthday. Neville remained married to Alice until her death. Neville was emotionally close to the mathematician Dorothy Wrinch whose biographer considered that Neville was in love with her from 1930.
+
+
+== Career ==
+Neville's principal areas of expertise were geometrical, with differential geometry dominating much of his early work. Early on in his Trinity fellowship, in a dissertation on moving axes, he extended Darboux's method of the moving triad and coefficients of spin by removing the restriction of the orthogonal frame. He published The Fourth Dimension (1921) to develop geometrical methods in four-dimensional space. During his time in Cambridge, he had been greatly influenced by Bertrand Russell's work on the logical foundations of mathematics and in 1922 he published his Prolegomena to Analytical Geometry. It is a detailed treatise on foundations of analytical geometry, including complex geometry, providing an axiomatic development of the subject.
+In 1914, as a visiting lecturer, he travelled to India, where, in response to a request from Hardy, he managed to persuade the Indian mathematician Ramanujan to accompany him back to England, thus playing a vital role in the initiation of one of the most celebrated mathematical collaborations of the last hundred years. Ramanujan later befriended Hardy.
+Neville's algorithm for polynomial interpolation is widely used.
+Neville did not join the army when the First World War erupted in the summer of 1914. Poor eyesight would have prevented him from active service, but he declared his opposition to the conflict and refused to fight. It was probably this pacifist declaration that resulted in the non-renewal of his Trinity fellowship in 1919.
+
+
+== Chairmanship at Reading ==
+On leaving Cambridge, he was appointed to the chair of mathematics at University College, Reading. In a few years, his work enabled the institution to receive a university charter and award its own degrees from 1926. 
+Neville had a keen interest in elliptic functions, having taught the subject to postgraduate students at Reading since the 1920s. He believed that the subject's recent decline in popularity was due to its dependence on a mass of complicated formulae, a variety of differing and confusing notations, and an artificial definition relying on a familiarity with theta functions. A period of recuperation from an illness in 1940 gave him the opportunity to put several years of lecture notes into publishable form. The result was his best-known work: Jacobian Elliptic Functions (1944).
+By starting with the Weierstrass p-function and associating with it a group of doubly periodic functions with two simple poles, he was able to give a simple derivation of the Jacobian elliptic functions, as well as modifying the existing notation to provide a more systematic approach to the subject. Unfortunately, it failed to achieve its author's stated intention "to restore the Jacobian functions to the elementary curriculum" (NEVILLE 1951, vi) and its appearance came too late to have any real effect on the dominance of the classical approach to elliptic functions.
+Neville retired from the University of Reading in 1954, after which he continued to publish papers in the Mathematical Gazette. He was working on a sequel to his book on elliptic functions when he died on 22 August 1961. One obituary says with regret, "so brilliant and versatile a talent could have been harnessed to some major mathematical investigation"
+
+
+== Professional memberships & honours ==
+Neville was an active member of several mathematical and scientific bodies. Elected to membership of the London Mathematical Society in 1913, he served on its council from 1926 to 1931. He regularly attended meetings of the British Association for the Advancement of Science, being President of Section A (Mathematics and Physics) in 1950. He also chaired its Mathematical Tables Committee from 1931 to 1947 and, when it came under the auspices of the Royal Society, he contributed two sets of tables, on Farey series of order 1025 (1950) and Rectangular-polar conversion tables (1956).
+
+
+== Works ==
+1921: The Fourth Dimension, Cambridge University Press, weblink from University of Michigan Historical Math Collection.
+1922: Prolegomena to Analytical Geometry in Anisotropic Euclidean Space of Three Dimensions, Cambridge University Press via Internet Archive
+1942: 'Srinivasa Ramanujan" Nature 149:292.
+1944: Jacobian Elliptic Functions, Clarendon Press via Internet Archive
+
+
+== See also ==
+Neville's algorithm
+Neville theta functions
+
+
+== Notes and references ==
+
+
+== External links ==
+Adrian Rice Eric Harold Neville from International Commission on Mathematical Instruction.
+Works by Eric Harold Neville at LibriVox (public domain audiobooks)

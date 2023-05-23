@@ -1,0 +1,27 @@
+Opsin-5, also known as G-protein coupled receptor 136 or neuropsin is a protein that in humans is encoded by the OPN5 gene.  Opsin-5 is a member of the opsin subfamily of the G protein-coupled receptors. It is a photoreceptor protein sensitive to ultraviolet (UV) light. The OPN5 gene was discovered in mouse and human genomes and its mRNA expression was also found in neural tissues. Neuropsin is bistable at 0 °C and activates a UV-sensitive, heterotrimeric G protein Gi-mediated pathway in mammalian and avian tissues.
+
+
+== Function ==
+Human neuropsin is expressed in the eye, brain, testes, and spinal cord. Neuropsin belongs to the seven-exon subfamily of mammalian opsin genes that includes peropsin (RRH) and retinal G protein coupled receptor (RGR). Neuropsin has different isoforms created by alternative splicing.
+
+
+== Photochemistry ==
+When reconstituted with 11-cis-retinal, mouse and human neuropsins absorb maximally at 380 nm. When illuminated these neuropsins are converted into blue-absorbing photoproducts (470 nm), which are stable in the dark. The photoproducts are converted back to the UV-absorbing form, when they are illuminated with orange light (> 520 nm).
+
+
+== Species distribution ==
+Neuropsins are known from echinoderms, annelids, arthropods, brachiopods, tardigrades, mollusks, and most are known from craniates.  The craniates are the taxon that contains mammals and with them humans. However, neuropsin orthologs have only been experimentally verified in a small number of animals, among them human, mouse (Mus musculus), chicken (Gallus gallus domesticus), the Japanese quail (Coturnix japonica), the European brittle star Amphiura filiformis (related to starfish), the tardigrade water bear (Hypsibius dujardini), and the tadpole of Xenopus laevis.Searches of publicly available databases of genetic sequences have found putative neuropsin orthologs in both major branches of Bilateria: protostomes and deuterostomes. Among protostomes, putative neuropsins have been found in the molluscs owl limpet (Lottia gigantea) (a species of sea snail) and Pacific oyster (Crassostrea gigas), in the water flea (Daphnia pulex) (an arthropod), and in the annelid worm Capitella teleta.
+
+
+== Phylogeny ==
+The neuropsins are one of three subgroups of the tetraopsins (also known as RGR/Go or Group 4 opsins). The other groups are the chromopsins and the Go-opsins. The tetraopsins are one of the five major groups of the animal opsins, also known as type 2 opsins). The other groups are the ciliary opsins (c-opsins, cilopsins), the rhabdomeric opsins (r-opsins, rhabopsins), the xenopsins, and the nessopsins. Four of these subclades occur in Bilateria (all but the nessopsins). However, the bilaterian clades constitute a paraphyletic taxon without the opsins from the cnidarians.
+
+In the phylogeny above, Each clade contains sequences from opsins and other G protein-coupled receptors. The number of sequences and two pie charts are shown next to the clade. The first pie chart shows the percentage of a certain amino acid at the position in the sequences corresponding to position 296 in cattle rhodopsin. The amino acids are color-coded. The colors are red for lysine (K), purple for glutamic acid (E), dark and mid-gray for other amino acids, and light gray for sequences that have no data at that position. The second pie chart gives the taxon composition for each clade, green stands for craniates, dark green for cephalochordates, mid green for echinoderms, pale pink for annelids, dark blue for arthropods, light blue for mollusks, and purple for cnidarians. The branches branches to the clades have pie charts, which give support values for the branches. The values are from right to left SH-aLRT/aBayes/UFBoot. The branches are considered supported when SH-aLRT ≥ 80%, aBayes ≥ 0.95, and UFBoot ≥ 95%. If a support value is above its threshold the pie chart is black otherwise gray.
+
+
+== References ==
+
+
+== Further reading ==
+
+This article incorporates text from the United States National Library of Medicine, which is in the public domain.

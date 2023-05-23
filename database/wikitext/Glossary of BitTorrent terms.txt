@@ -1,0 +1,147 @@
+This is a glossary of jargon related to peer-to-peer file sharing via the BitTorrent protocol.
+
+
+== Terms ==
+
+
+=== Availability ===
+(Also known as distributed copies.) The number of full copies of a file (or set of files and directories) directly available to the client. Each seed adds 1.0 to this number, as they have one complete copy of the file. A connected peer with a fraction of the file available adds that fraction to the availability, if no other peer has this part of the file.
+Example: a peer with 65.3% of the file downloaded increases the availability by 0.653. However, if two peers both have the same portion of the file downloaded - say 50% - and there is only one seeder, the availability is 1.5.
+Sometimes "distributed copies" is considered to be "availability minus 1". So if the availability is 1.6, the distributed copies will be 0.6 because it is only counting the "copies" of the file.
+
+
+=== Choked ===
+Describes a peer to which the client refuses to send file pieces. A client chokes another client in several situations:
+The second client is a seed, in which case it does not want any pieces (i.e., it is completely uninterested)
+The client is already uploading at its full capacity (it has reached the value of max_uploads)
+The second client has been blacklisted for being abusive or is using a blacklisted BitTorrent client.
+
+
+=== Client ===
+The program that enables peer-to-peer file sharing via the BitTorrent protocol. See Comparison of BitTorrent clients.
+
+
+=== Distributed Hash Table ===
+Distributed Hash Tables (DHT) are used in Bittorrent for peers to send a list of other seeds/peers in the swarm for a particular torrent directly to a client without the need for a tracker.
+
+
+=== Downloader ===
+A downloader is any peer that does not have the entire file and is downloading the file.  This term, used in Bram Cohen's Python implementation,  lacks the negative connotation attributed to leech.  Bram prefers downloader to leech because BitTorrent's tit-for-tat ensures downloaders also upload and thus do not fairly qualify as leeches.
+
+
+=== Endgame / Endgame mode ===
+Any applied algorithm for downloading the last few pieces (see below) of a torrent.
+In typical client operation the last download pieces arrive more slowly than the others. This is because the faster and more easily accessible pieces should have already been obtained. In order to prevent the last pieces becoming unobtainable, BitTorrent clients attempt to get the last missing pieces from all of its peers. Upon receiving the last pieces a cancel request command is sent to other peers.
+
+
+=== Fake ===
+A fake torrent is a torrent that does not contain what is specified in its name or description (e.g. a torrent is said to contain a video, but it contains only a snapshot of a moment in the video, or in some cases malware).
+
+
+=== Freeleech ===
+Freeleech means that the download size of the torrent does not count towards your overall ratio, only the uploaded amount on the torrent counts toward your ratio.
+
+
+=== Grab ===
+A torrent is grabbed when its metadata files have been downloaded.
+
+
+=== Hash ===
+The hash is a digital fingerprint in the form of a string of alphanumeric characters (typically hexadecimal) in the .torrent file that the client uses to verify the data that is being transferred. "Hash" is the shorter form of the word "hashsum".
+Torrent files contain information like the file list, sizes, pieces, etc. Every piece received is first checked against the hash. If it fails verification, the data is discarded and requested again.
+Hash checks greatly reduce the chance that invalid data is incorrectly identified as valid by the BitTorrent client, but it is still possible for invalid data to have the same hash value as the valid data and be treated as such. This is known as a hash collision. Torrent and p2p files typically use 160 bit hashes that are reasonably free from hash collision problems, so the probability of bad data being received and passed on is extraordinarily small.
+
+
+=== Health ===
+Health is shown in a bar or in % usually next to the torrent's name and size, on the site where the .torrent file is hosted. It shows if all pieces of the torrent are available to download (i.e. 50% means that only half of the torrent is available).  Health does not indicate whether the torrent is free of viruses.
+
+
+=== Hit-and-run ===
+To intentionally "leech" a file; downloading a file while seeding as little as possible. It's abbreviated HnR or H&R.
+
+
+=== Index ===
+
+An index is a list of .torrent files (usually including descriptions and other information) managed by a website and available for searches. An index website can also be a tracker.
+
+
+=== Interested ===
+Describes a downloader who wishes to obtain pieces of a file the client has. For example, the uploading client would flag a downloading client as 'interested' if that client did not possess a piece that it did, and wished to obtain it.
+
+
+=== Leech ===
+
+Leech has two meanings. Often, leecher is synonymous with downloader (see above): simply describing a peer or any client that does not have 100% of the data.
+The term leech also refers to a peer (or peers) that has a negative effect on the swarm by having a very poor share ratio, downloading much more than they upload. Leeches may be on asymmetric Internet connections or do not leave their BitTorrent client open to seed the file after their download has completed. However, some leechers intentionally avoid uploading by using modified clients or excessively limiting their upload speed.
+
+
+=== Lurker ===
+
+A lurker is a user that only downloads files from the group but does not add new content. It does not necessarily mean that the lurker will not seed. Not to be confused with a leecher.
+
+
+=== Magnet link ===
+A mechanism different from a .torrent metafile which can be used to identify a set of files for BitTorrent based on content, as opposed to referencing any particular tracker.  The method is not limited to BitTorrent data.   See Magnet URI scheme.
+
+
+=== Overseeded ===
+In private trackers using ratio credit, a torrent is overseeded when its availability is so high that seeders have difficulty finding downloaders.
+
+
+=== p2p ===
+
+In a p2p network, each node (or computer on the network) acts as both a client and a server. In other words, each computer is capable of both responding to requests for data and requesting data itself.
+
+
+=== Peer ===
+A peer is one instance of a BitTorrent client running on a computer on the Internet to which other clients connect and transfer data. Depending on context, "peer" can refer either to any client in the swarm or more specifically to a downloader, a client that has only parts of the file.
+
+
+=== Piece ===
+This refers to the torrented files being divided up into equal specific sized pieces (e.g., 64kB, 128kB, 512kB, 1MB, 2MB, 4MB or 8MB). The pieces are distributed in a random fashion among peers in order to optimize trading efficiency.
+
+
+=== Ratio credit ===
+A ratio credit, also known as upload credit or ratio economy, is a currency system used on a number of private trackers to provide an incentive for higher upload/download ratios among member file-sharers. In such a system, those users with greater amounts of bandwidth, hard drive space (particularly seedboxes) or idle computer uptime are at a greater advantage to accumulate ratio credits versus those lacking in any one or more of the same resources.
+
+
+=== Scraping ===
+
+This is when a client sends a request to the tracking server for information about the statistics of the torrent, such as with whom to share the file and how well those other users are sharing.
+
+
+=== Seed / seeding ===
+A seed refers to a machine possessing all of the data (100% completion). A peer or downloader becomes a seed when it completely downloads all the data and continues/starts uploading data for other peers to download from. This includes any peer possessing 100% of the data or a web seed. When a downloader starts uploading content, the peer becomes a seed.
+Seeding refers to leaving a peer's BitTorrent client open and available for additional individuals to download from. Normally, a peer should seed more data than download. However, whether to seed or not, or how much to seed, depends on the availability of downloaders and the choice of the peer at the seeding end.
+
+
+=== Share ratio ===
+A user's share ratio for any individual torrent is a number determined by dividing the amount of data that user has uploaded by the amount of data they have downloaded. Final share ratios over 1.0 carry a positive connotation in the BitTorrent community, because they indicate that the user has sent more data to other users than they received. Likewise, share ratios under 1 have negative connotation.
+
+
+=== Snatch ===
+A torrent is snatched when its data files have been downloaded.
+
+
+=== Snubbing ===
+An uploading client is displayed as snubbed if the downloading client has not received any data from it in over 60 seconds.
+
+
+=== Super-seeding ===
+When a file is new, much time can be wasted because the seeding client might send the same file piece to many different peers, while other pieces have not yet been downloaded at all. Some clients, like Vuze, μTorrent, and qBittorrent have a "super-seed" mode, where they try to only send out pieces that have never been sent out before, theoretically making the initial propagation of the file much faster. However the super-seeding becomes less effective and may even reduce performance compared to the normal "rarest first" model in cases where some peers have poor or limited connectivity.  This mode is generally used only for a new torrent, or one which must be re-seeded because no other seeds are available.
+
+
+=== Swarm ===
+Together, all peers (including seeds) sharing a torrent are called a swarm. For example, six ordinary peers and two seeds make a swarm of eight. This is a holdover from the predecessor to BitTorrent, a program called Swarmcast, originally from OpenCola.BitTorrent may sometimes display a swarm number that has no relation to the number of seeds and peers you are connected to or who are available. E.g. it may show 5 out of 10 connected peers, 20 out of 100 connected seeds, and a swarm of 3.
+
+
+=== Torrent ===
+A torrent can mean either a .torrent metadata file or all files described by it, depending on context. The torrent file contains metadata about all the files it makes downloadable, including their names and sizes and checksums of all pieces in the torrent. It also contains the address of a tracker that coordinates communication between the peers in the swarm.
+
+
+=== Tracker ===
+
+A tracker is a server that keeps track of which seeds and peers are in the swarm. Clients report information to the tracker periodically and in exchange, receive information about other clients to which they can connect. The tracker is not directly involved in the data transfer and does not have a copy of the file. It only receives information from the client.
+
+
+== References ==

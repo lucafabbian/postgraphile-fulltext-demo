@@ -1,0 +1,74 @@
+Electronic Diesel Control is a diesel engine fuel injection control system for the precise metering and delivery of fuel into the combustion chamber of modern diesel engines used in trucks and cars.
+
+
+== Overview ==
+
+The mechanical fly-weight governors of inline and distributor diesel fuel injection pumps used to control fuel delivery in diesel engines under a variety of engine loads and conditions could no longer deal with  the ever-increasing demands for efficiency, emission control, power and fuel consumption.
+These demands are now primarily fulfilled by the Electronic  Control, the system which provides greater ability for precise measuring, data processing, operating environment flexibility and analysis to ensure efficient diesel operation. The EDC replaces the mechanical control governor with an electro-magnetic control device.
+
+
+== EDC system ==
+The EDC is divided into these main groups of components.
+
+Electronic sensors for registering operating conditions and changes. A wide array of physical inputs is converted into electrical signal outputs.
+Actuators or solenoids which convert the control unit's electrical output signal into mechanical control movement.
+ECM (Electronic Control Module ) or Engine ECU (Electronic Control Unit) with microprocessors which process information from various sensors in accordance with programmed software, and outputs the required electrical signals into actuators and solenoids.
+
+
+=== Components ===
+
+Sensors
+
+Injection pump speed sensor - monitors pump rotational speed
+Fuel rack position sensor - monitors pump fuel rack position
+Charge air pressure sensor - measures pressure side of the turbocharger
+Fuel pressure sensor
+Air cleaner vacuum pressure sensor
+Engine position sensor
+Temperature sensors - measure various operating temperatures
+Intake temperature
+Charge air temperature
+Coolant temperature
+Fuel temperature
+Exhaust temperature (Pyrometer)
+Ambient temperature
+Vehicle speed sensor - monitors vehicle speed
+Brake pedal sensor   - operates with cruise control, exhaust brake, idle control
+Clutch pedal sensor - operates with cruise control, exhaust brake, idle control
+Accelerator pedal sensor
+Driver input switches - cruise control, idle increase /decrease, engine/exhaust brake
+Injector needle movement sensor - monitors the actual injection time and feeds the information to the ECU (as used on VM Motori 2.5 and 3.1 engines)Electronic Control Unit
+
+The ECU collects and processes signals from various on-board sensors. An ECU electronic module contains microprocessors, memory units, analog to digital converters and output interface units. Depending upon the parameters, a number of different maps can be stored in the onboard memory. This allows the ECU to be tailored to the specific engine and vehicle  requirements, depending on the application. The operating software of the ECU can be adapted for a wide variety of engines and vehicles without the necessity of hardware modification. The ECU is usually located in the  cab or in certain cases, in a suitable position in the engine bay where additional environmental conditions might require cooling of the ECU as well as a requirement for better dust, heat and vibrations insulation  .
+Actuators and Solenoids
+
+Electro-magnetic actuators are usually located on the fuel pump to transfer electrical signals into mechanical action in this case fuel rack actuator and or fuel stop solenoid which means that depending on requests from control unit full fuel or no fuel quantity.
+
+Injectors
+Boost-pressure actuator
+Intake-duct switchoff
+Throttle-valve actuator
+Exhaust gas recirculation actuator
+Auxiliary heating
+A/C compressor
+Radiator fan
+Electronic shutoff valve
+Rail-pressure control valve
+Diagnosis lamp
+
+
+== Operation ==
+The injection of fuel or the quantity of injected fuel has a decisive influence on engine starting, idling, power and emissions. The ECU is programmed ("mapped") with relevant data to where the fuel rack position has an equivalent signal for the amount of fuel being injected. The driver requests the torque or engine speed requirements via accelerator pedal potentiometer thereby sending a signal to the engine ECU which then, depending on its mapping and data collected from various sensors, calculates in real time the quantity of injected fuel required, thus altering the fuel rack to the required position.
+The driver can also input additional commands such  as  idle speed increase  to compensate  e.g.  for  PTO  operation  which can be either variably set or has a preset speed which can be recalled. The road speed function can be used to evaluate vehicle speed and possibly activate a speed limiter (Heavy Vehicles), or maintain or restore a set speed (cruise control). Further functions can include exhaust brake operation which, when activated, will result in the fuel pump rack position being set to zero delivery or idle. The engine ECU can also interface with various other vehicle systems e.g. traction control and carry out self monitoring duties and self diagnostic functions to keep the system working at an optimal level. To ensure the safe operation in case of failure, the limp home mode functions are also integrated into the system, e.g. should the pump speed sensor fail the ECU can use an alternator speed signal function for engine RPMs counter as a backup signal.
+
+
+== Additional Functions ==
+Engine protection, cold start - when starting cold, engine rpms are limited.
+Engine protection, overheating - when overheating, to avoid damage the engine power output is  limited.
+Remote engine shutdown - when auxiliary equipment is in use e.g. crane in case of rollover.
+Constant engine speed - the engine maintains set revs irrespective of load e.g. PTO operation
+
+
+== References ==
+
+Diesel Fuel Injection published  by Robert Bosch GmbH, 1994 ISBN 1-56091-542-0

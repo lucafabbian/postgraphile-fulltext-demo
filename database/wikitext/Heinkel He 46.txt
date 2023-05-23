@@ -1,0 +1,71 @@
+The Heinkel He 46 was a German World War II-era monoplane designed in 1931 for the close reconnaissance and army co-operation roles. While it served with the Luftwaffe's front-line units only briefly at the start of World War II, the He 46 served as late as 1943 as a nighttime nuisance bomber and with the Hungarian Air Force.
+
+
+== Background ==
+During the early 1930s, the German military was beginning to build up in strength. The RLM (German Air Ministry) wanted aircraft that could be rapidly built and would be able to swell the Luftwaffe's inventory with large numbers of aircraft for training. Ernst Heinkel designed many of these early aircraft. The He 46, for instance was, created to fill the short-range reconnaissance and army co-operation role for the Luftwaffe.
+
+
+== Development ==
+As designed in 1931, the He 46 was a two-seat sesquiplane of mixed construction. The upper wing was swept back 10°. This is a common trick when a change in an aircraft's design moves the center of gravity to the rear; rather than moving the whole wing back to counter for the shift, it is easier to simply angle the wings back slightly, which requires very little change to the basic design, or even the overall structure of the wing. (The similarly angled wings on the Fairey Swordfish are due to just such a mid-program change to the weight distribution of the aircraft.) The tailplane was mounted high and braced by struts. The undercarriage was fixed, and the tail was fitted with a skid rather than a wheel. The He 46 prototype first flew in late 1931; its flight characteristics were good, but design improvements were incorporated. The small lower wing was removed, while the mainplane was increased in area by 22% and braced to the fuselage, transforming the He 46 into a parasol-wing monoplane. A more powerful engine was added to the second prototype, and a single 7.92 mm (.312 in) MG 15 machine gun for the rear seat was added to the third prototype.
+
+
+== Production and operational service ==
+
+In 1933, production started on the He 46. The first production version, the He 46C-1, featured the improvements added to the prototypes, plus it could carry either a camera or 200 kg (441 lb) of bombs. By 1934, about 500 He 46s had been built, and, by 1936, the Luftwaffe's aerial reconnaissance wings were all equipped with the He 46. In September and November 1936, 28 He 46C-1s were given to the Spanish Nationalists for use in the Spanish Civil War, one escuadrilla being used by Condor Legion. By the spring of 1938, the Luftwaffe started to gradually replace the He 46 with the Henschel Hs 126, and by the time of the Invasion of Poland in 1939, only two units were still equipped with the He 46. By the time Germany invaded France in 1940, all He 46 aircraft had been withdrawn from operational service, although they did continue service in training units. The Hungarians, with He 46s supplied by Germany, took the He 46 to war against the Soviet Union in 1941 as part of Operation Barbarossa, during which the planes served up to 1943. The Germans took the He 46 back to war in 1943, when aircraft were taken from training units and used with squadron-sized Störkampfstaffel units for night-bombing harassment missions over the Soviet Union.
+
+
+== Variants ==
+He 46a : First prototype.
+He 46b : Second prototype.
+He 46c : Third prototype.
+He 46C-1 : Initial production version.
+He 46C-2 : Export version of the He 46C-1 for Bulgaria, fitted with an NACA engine cowlings. 18 aircraft built.
+He 46D-0 : Six pre-production aircraft.
+He 46E-1 :
+He 46E-2 :
+He 46E-3 :
+He 46F-1 : Unarmed observer training aircraft.
+He 46F-2 : Unarmed observer training aircraft.
+
+
+== Operators ==
+ BulgariaBulgarian Air Force GermanyLuftwaffe HungaryRoyal Hungarian Air Force Spanish StateSpanish Air Force
+
+
+== Specifications (He 46C-1) ==
+
+Data from German Aircraft of the Second World WarGeneral characteristics
+Crew: 2
+Length: 9.5 m (31 ft 2 in)
+Wingspan: 14 m (45 ft 11 in)
+Height: 3.4 m (11 ft 2 in)
+Wing area: 32.2 m2 (347 sq ft)
+Empty weight: 1,765 kg (3,891 lb)
+Gross weight: 2,300 kg (5,071 lb)
+Powerplant: 1 × Bramo SAM 22B (later Bramo 322B) 9-cylinder air-cooled radial piston engine, 493 kW (661 hp)
+Propellers: 2-bladed fixed-pitch propellerPerformance
+
+Maximum speed: 250 km/h (160 mph, 130 kn)
+Range: 1,000 km (620 mi, 540 nmi)
+Service ceiling: 6,000 m (20,000 ft)Armament
+Guns: 1 × MG 15 machine gun for observer firing the 7.92×57mm Mauser cartridge.
+Bombs: Up to 20 × 10 kg (22 lb) bombs
+
+
+== See also ==
+
+Aircraft of comparable role, configuration, and era
+
+Douglas O-43
+Henschel Hs 126
+Lublin R-XIII
+Polikarpov Po-2
+RWD-14 Czapla
+Polikarpov R-5
+Westland Lysander
+
+
+== References ==
+
+Notes
+Bibliography

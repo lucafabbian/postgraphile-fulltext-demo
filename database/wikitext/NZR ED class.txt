@@ -1,0 +1,47 @@
+The NZR ED class locomotive was a type of electric locomotive used in Wellington, New Zealand. They were built by English Electric and the New Zealand Railways Department (NZR) between 1938 and 1940, and hauled mainly passenger trains on the Wellington region's 1500 V DC electrification, and banked freight trains on the steep section between Paekakariki and Pukerua Bay.
+The locomotives featured a unique wheel arrangement, 1-Do-2 under the UIC classification system, and incorporated a quill drive (the only type of locomotive to do so in New Zealand) to the driving wheels.They were found to be hard on the tracks, leading to speed restrictions on these locomotives and their replacement by EW class locomotives on the Johnsonville Line after the introduction of the EW in 1952. The EW class was considered more suited to passenger services than the ED and replaced them on most passenger services on other lines.
+
+
+== Classification ==
+Like all other electric locomotives in New Zealand, the leading letter of the locomotive's classification is E. There are two predominant theories about how the ED class acquired the second letter, D. The first is that it comes from the "Do" of its 1-Do-2 wheel arrangement. The second is from its original allocation to two locations, Wellington and Otira - Arthur's Pass, hence "duplicated". Official records provide no confirmation of either theory.
+
+
+== Introduction ==
+New Zealand Railways purchased one ED class locomotive in 1938 from English Electric, No. 101, for use on the newly opened Tawa Flat deviation, which incorporated two long tunnels. This locomotive was known as "The Sergeant" because of the three longitudinal stripes on each side of the body that were unique to this locomotive.The tender required the supply of locomotive components for the other locomotives required, as it was thought desirable to carry out manufacture in New Zealand in NZR workshops. A further seven locomotives were assembled at the Hutt Workshops, and two at Addington Workshops for use on the Otira - Arthur's Pass section of the Midland Line. The two South Island locomotives were later transferred north.
+
+
+=== Renumbering ===
+With the introduction of the Traffic Monitoring System (TMS) in 1979, the two remaining locomotives were renumbered ED15 and ED21.
+
+
+== Steam boilers ==
+Each locomotive (ED 101 to ED 108; not ED 109 and ED 110) originally had oil-fired water-tube boilers for passenger carriage steam heaters, supplied by the Sentinel Waggon Works. The boiler could supply 1,250 pounds (570 kg) of steam per hour at a pressure of 40 pounds per square inch (280 kPa), and the water and oil tanks had capacities of 400 and 500 imperial gallons (1,800 and 2,300 L) respectively, so could steam for four hours before refilling. They were shut down or removed in 1950 due to "on-going reliability problems"; air turbulence particularly in tunnels or when trains passed on double-track sections resulted in downdraughts affecting the boiler and in passenger discomfort in winter. In June 1951 the Deputy Mechanical Engineer said that the cost of fitting suitable boilers for the section from Paekakariki to Wellington was not warranted as the carriages leaving Paekakariki had residual heat, and a steam loco could pre-heat carriages before they left Wellington. In 1954-55 two boilers were installed in the Wellington station basement (and in 1958 one went to the NZR Road Services garage in Rotorua). The Chief Mechanical Engineer then wanted eight locos to have boilers for the 1955 winter, but parts were not available for the obsolete boilers and "refurbishing did not proceed". It was also found that the boilers were unreliable as the burners had been amended to be outside the normal operating specifications.
+
+
+== Withdrawal ==
+With the introduction of DA class diesel locomotives on the Paekakariki via Pukerua Bay to Wellington electrified section in 1967, eight of the class were withdrawn from service in 1969 and scrapped. The remaining two were kept in sporadic service until March 1981, when both locomotives were sold into preservation. There were plans to send them back to the Otira - Arthurs Pass section but nothing came of this. ED 101 is preserved by the Silver Stream Railway, while ED 103 is preserved by the Canterbury Railway Society.
+
+
+== References ==
+
+
+=== Footnotes ===
+
+
+=== Citations ===
+
+
+=== Bibliography ===
+
+
+== External links ==
+Photo of ED 101 at Silverstream 1995 (Internet archive copy)
+ED 101, c1937 with skirt (Godber photo)
+ED 102, 1938 (Godber photo)
+Photo of ED loco and train at Paremata (page down)
+New Zealand Diesel and Electric Traction - Class ED (Internet archive copy)
+ED class, photo at Silverstream
+Photo of ED loco outside Preston Works, England c1938
+Another photo of ED loco (New Zealand or England?) c1938
+ED class history
+"Trial of first ED locomotive on Wellington-Johnsonville line, 25 May 1938 (photo)". Papers Past. 1938.

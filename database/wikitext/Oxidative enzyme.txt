@@ -1,0 +1,9 @@
+An oxidative enzyme is an enzyme that catalyses an oxidation reaction. Two most common types of oxidative enzymes are peroxidases, which use hydrogen peroxide, and oxidases, which use molecular oxygen. They increase the rate at which ATP is produced aerobically.
+Oxidative enzymes are responsible for the browning of fruits like apples. When the surface of apples are exposed to the oxygen in the air, the oxidative enzymes like polyphenol oxidase and catechol oxidase oxidize the fruit (electrons are lost to the air). Such browning can be prevented by cooking the fruit or lowering the pH (which destroys, inactivates, or denatures the enzyme) or by preventing oxygen from getting to the surface (such as by covering the fruit).
+
+
+== See also ==
+Oxidoreductase
+
+
+== References ==

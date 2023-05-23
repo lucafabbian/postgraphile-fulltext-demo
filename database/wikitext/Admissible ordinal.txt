@@ -1,0 +1,138 @@
+In set theory,  an ordinal number α is an admissible ordinal if Lα is an admissible set (that is, a transitive model of Kripke–Platek set theory); in other words, α is admissible when α is a limit ordinal and Lα ⊧ Σ0-collection. The term was coined by Richard Platek in 1966.The first two admissible ordinals are ω and 
+  
+    
+      
+        
+          ω
+          
+            1
+          
+          
+            
+              C
+              K
+            
+          
+        
+      
+    
+    {\displaystyle \omega _{1}^{\mathrm {CK} }}
+   (the least nonrecursive ordinal, also called the Church–Kleene ordinal).  Any regular uncountable cardinal is an admissible ordinal.
+By a theorem of Sacks, the countable admissible ordinals are exactly those constructed in a manner similar to the Church–Kleene ordinal, but for Turing machines with oracles.  One sometimes writes 
+  
+    
+      
+        
+          ω
+          
+            α
+          
+          
+            
+              C
+              K
+            
+          
+        
+      
+    
+    {\displaystyle \omega _{\alpha }^{\mathrm {CK} }}
+   for the 
+  
+    
+      
+        α
+      
+    
+    {\displaystyle \alpha }
+  -th ordinal that is either admissible or a limit of admissibles; an ordinal that is both is called recursively inaccessible. There exists a theory of large ordinals in this manner that is highly parallel to that of (small) large cardinals (one can define recursively Mahlo ordinals, for example). But all these ordinals are still countable. Therefore, admissible ordinals seem to be the recursive analogue of regular cardinal numbers.
+Notice that α is an admissible ordinal if and only if α is a limit ordinal and there does not exist a γ < α for which there is a Σ1(Lα) mapping from γ onto α. 
+  
+    
+      
+        α
+      
+    
+    {\displaystyle \alpha }
+   is an admissible ordinal iff there is a standard model 
+  
+    
+      
+        M
+      
+    
+    {\displaystyle M}
+   of KP whose set of ordinals is 
+  
+    
+      
+        α
+      
+    
+    {\displaystyle \alpha }
+  , in fact this may be take as the definition of admissibility. The 
+  
+    
+      
+        α
+      
+    
+    {\displaystyle \alpha }
+  th admissible ordinal is sometimes denoted by 
+  
+    
+      
+        
+          τ
+          
+            α
+          
+        
+      
+    
+    {\displaystyle \tau _{\alpha }}
+  .p.174The Friedman-Jensen-Sacks theorem states that 
+  
+    
+      
+        α
+      
+    
+    {\displaystyle \alpha }
+   is admissible iff there exists some 
+  
+    
+      
+        A
+        ⊆
+        ω
+      
+    
+    {\displaystyle A\subseteq \omega }
+   such that 
+  
+    
+      
+        α
+      
+    
+    {\displaystyle \alpha }
+   is the least ordinal not recursive in 
+  
+    
+      
+        α
+      
+    
+    {\displaystyle \alpha }
+  .
+
+
+== See also ==
+α-recursion theory
+Large countable ordinals
+Constructible universe
+Regular cardinal
+
+
+== References ==

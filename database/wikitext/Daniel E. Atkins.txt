@@ -1,0 +1,35 @@
+Daniel E. Atkins III is the W. K. Kellogg Professor of Community Informatics at University of Michigan.
+He is also a Professor of Information at the University of Michigan School of Information and a Professor of both Electrical Engineering and Computer Science in the College of Engineering. From June 2006 to June 2008, he was the inaugural Director of the Office of Cyberinfrastructure at the U.S. National Science Foundation. From July 2008 to June 2012 he was Associate Vice President for Research Cyberinfrastructure and Chairman of the U of Michigan Information Technology Governance Council.
+Atkins was elected to the National Academy of Engineering in 2014 for leadership in the development of radix algorithms and cybertechnical collaborative systems.
+
+
+== Biography ==
+Atkins holds a B.S.E.E. from Bucknell University (1965). an M.S. in Electrical Engineering from the University of Illinois at Urbana–Champaign, and a PhD in Computer Science. also from Illinois (1970).
+
+
+== Professional Interests ==
+Atkins specializes in high-performance computer architecture. He participated in the design and building of seven major experimental machines, including some of the earliest parallel computers. He  conducted pioneering work on special-purpose architecture and collaborated with the Mayo Clinic on development of Computer-Assisted Tomography (CAT).
+He later concentrated on the social and technical architecture of distributed knowledge communities and community informatics. He led workshops to develop the National Science Foundation (NSF)  Digital Library Initiative] , which included joint programs with the European Commission. He was the project director of the [University of Michigan Digital Library Project  and helped to pilot the Mellon Foundation’s JSTOR Project.
+
+
+=== Academic career ===
+In 1982 Atkins became associate dean for research and graduate programs for the University of Michigan College of Engineering, and then    Dean from 1989-90. He was  appointed Dean of the University of Michigan School of Information in 1992. He secured millions in support from the Kellogg Foundation,  [Mellon Foundation, Carnegie Foundation, Microsoft, Intel, and others to help launch the school,  and chaired the committee that developed one of the earliest computer engineering undergraduate degree programs. In 1989-90 he formed and directed an Alliance for Community Technology (ACT) sponsored by the Kellogg Foundation to support the use of information technology,
+
+
+=== Cyberinfrastructure ===
+Atkins served as Chair of the National Science Foundation’s Blue-Ribbon Advisory Panel on Cyberinfrastructure. In 2003   this panel   released the influential report, Revolutionizing Science and Engineering Through Cyberinfrastructure which recommended that the NSF form a program in cyberinfrastructure-enhanced science and engineering research. He was also the director of the NSF EXPRES Project that laid the foundation for NSF's FASTLANE all-electronic proposal submission and management system. In 2002, Atkins co-authored (with James Duderstadt and Doug Van Houweling) the book Higher Education in the Digital Age: Technology Issues and Strategies for American Colleges and Universities. He served as Chair of a Scientific Advisory Committee for the Digital Media and Learning program for the MacArthur Foundation, Chair of an international panel to review the UK Research Councils e-Science Programmes, as a member of a task force to draft the Obama administration’s National Educational Technology Plan 2010, and as an expert witness to the FCC National Broadband Plan.
+
+
+== Recognition ==
+He was awarded the 1993 Nina W. Mathesson Award for contributions to medical informatics and the 2008 Paul Evan Peters Award for the creation and innovative use of information resources and services that advance scholarship and intellectual productivity through communication networks. His 40 years of service to the University of Michigan were honored on October 8, 2012 at the Learning and Discovery in the Connected Age Symposium  at the Michigan Theatre.
+
+
+== Personal life ==
+Atkins is married to Monica Atkins and they have two children. The Dan and Monica Atkins Scholarship Fund was started in their name to provide tuition support to students.
+
+
+== References ==
+
+
+== External links ==
+Faculty page at Michigan\

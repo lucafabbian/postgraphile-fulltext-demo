@@ -1,0 +1,28 @@
+Atrioventricular reentrant tachycardia (AVRT), or atrioventricular reciprocating tachycardia, is a type of abnormal fast heart rhythm and is classified as a type of supraventricular tachycardia (SVT). AVRT is most commonly associated with Wolff–Parkinson–White syndrome, but is also seen in permanent junctional reentrant tachycardia (PJRT). In AVRT, an accessory pathway allows electrical signals from the heart's ventricles to enter the atria and cause earlier than normal contraction, which leads to repeated stimulation of the atrioventricular node.
+
+
+== Signs and symptoms ==
+
+An episode of SVT may present with palpitations, dizziness, shortness of breath, or losing consciousness (fainting). The electrocardiogram (ECG) would appear as a narrow-complex SVT. Between episodes of tachycardia the affected person is likely to be asymptomatic; however, the ECG would demonstrate the classic delta wave in Wolff–Parkinson–White syndrome.
+
+
+== Pathophysiology ==
+
+Two distinct pathways are involved: the normal atrioventricular conduction system, and an accessory pathway. During AVRT, the electrical signal passes in the normal manner from the AV node into the ventricles. Then, the electrical impulse pathologically passes back into the atria via the accessory pathway, causing atrial contraction, and returns to the AV node to complete the reentrant circuit (see figure). Once initiated, the cycle may continue causing the heart to beat faster than usual.Initiation of AVRT may be through a premature impulse of atrial, junctional, or ventricular origin.
+
+
+== Treatment ==
+Acute management is as for SVT in general. The aim is to interrupt the circuit. In the shocked patient, DC cardioversion may be necessary. In the absence of shock, inhibition at the AV node is attempted. This is achieved first by a trial of specific physical maneuvers such as holding a breath in or bearing down. If these maneuvers fail, using intravenous adenosine causes complete electrical blockade at the AV node and interrupts the reentrant electrical circuit. Long-term management includes beta blocker therapy and radiofrequency ablation of the accessory pathway.
+
+
+== See also ==
+AV nodal reentrant tachycardia
+Electrical conduction system of the heart
+Wolff–Parkinson–White syndrome
+Permanent junctional reentrant tachycardia (PJRT)
+
+
+== References ==
+
+
+== External links ==

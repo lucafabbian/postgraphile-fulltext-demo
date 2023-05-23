@@ -1,0 +1,22 @@
+Medical terminology is a language used to precisely describe the human body including all its components, processes, conditions affecting it, and procedures performed upon it. Medical terminology is used in the field of medicine
+Medical terminology has quite regular morphology, the same prefixes and suffixes are used to add meanings to different roots. The root of a term often refers to an organ, tissue, or condition. For example, in the disorder known as hypertension, the prefix "hyper-" means "high" or "over", and the root word "tension" refers to pressure, so the word "hypertension" refers to abnormally high blood pressure. The roots, prefixes and suffixes are often derived from Greek or Latin, and often quite dissimilar from their English-language variants. This regular morphology means that once a reasonable number of morphemes are learnt it becomes easy to understand very precise terms assembled from these morphemes. Much medical language is anatomical terminology, concerning itself with the names of various parts of the body.
+
+
+== Discussion ==
+In forming or understanding a word root, one needs a basic comprehension of the terms and the source language. The study of the origin of words is called etymology. For example, if a word was to be formed to indicate a condition of kidneys, there are two primary roots – one from Greek (νεφρός nephr(os)) and one from Latin (ren(es)). Renal failure would be a condition of kidneys, and nephritis is also a condition, or inflammation, of the kidneys. The suffix -itis means inflammation, and the entire word conveys the meaning inflammation of the kidney. To continue using these terms, other combinations will be presented for the purpose of examples: The term supra-renal is a combination of the prefix supra- (meaning "above"), and the word root for kidney, and the entire word means "situated above the kidneys". The word "nephrologist" combines the root word for kidney to the suffix -ologist with the resultant meaning of "one who studies the kidneys".
+The formation of plurals should usually be done using the rules of forming the proper plural form in the source language. Greek and Latin each have differing rules to be applied when forming the plural form of the word root. Often such details can be found using a medical dictionary.
+
+
+== Morphology ==
+
+Medical terminology often uses words created using prefixes and suffixes in Latin and Ancient Greek. In medicine, their meanings, and their etymology, are informed by the language of origin. Prefixes and suffixes, primarily in Greek—but also in Latin, have a droppable -o-. Medical roots generally go together according to language: Greek prefixes go with Greek suffixes and Latin prefixes with Latin suffixes. Although it is technically considered acceptable to create hybrid words, it is strongly preferred not to mix different lingual roots. Examples of well-accepted medical words that do mix lingual roots are neonatology and quadriplegia.
+Prefixes do not normally require further modification to be added to a word root because the prefix normally ends in a vowel or vowel sound, although in some cases they may assimilate slightly and an in- may change to im- or syn- to sym-.
+Suffixes are attached to the end of a word root to add meaning such as condition, disease process, or procedure.
+In the process of creating medical terminology, certain rules of language apply. These rules are part of language mechanics called linguistics.  The word root is developed to include a vowel sound following the term to add a smoothing action to the sound of the word when applying a suffix. The result is the formation of a new term with a vowel attached (word root + vowel) called a combining form. In English, the most common vowel used in the formation of the combining form is the letter -o-, added to the word root. For example, if there is an inflammation of the stomach and intestines, this would be written as gastro- and enter- plus -itis, gastroenteritis.
+Suffixes are categorized as either (1) needing the combining form, or (2) not needing the combining form since they start with a vowel.
+
+
+== See also ==
+
+
+== References ==

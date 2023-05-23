@@ -1,0 +1,82 @@
+The Texas Instruments AR7 or TI-AR7 is a fully integrated single-chip ADSL CPE access router solution. The AR7 combines a MIPS32 processor, a DSP-based digital transceiver, and an ADSL analog front end.
+
+
+== Ownership history ==
+In 2007, TI sold its DSL business to Infineon.In 2009, Infineon Technologies spins off its wireline division to Lantiq.On November 6, 2009, Lantiq announced that it became a standalone company.
+
+
+== Features ==
+Integrated high performance MIPS 4KEc 32-Bit RISC processor
+ADSL PHY subsystem based on TI C62x DSP, with integrated transceiver, codec, line driver, and line receiver
+Hardware accelerated ATM Segmentation and Reassembly (SAR)
+Integrated IEEE 802.3 PHY
+Two IEEE 802.3 MACs with integrated Media Independent Interface (MII) and Quality of Service (QoS)
+Integrated USB 1.1 compliant transceiver (slave only)
+Two VLYNQ interfaces for compatible high-speed expansion devices
+Two 16c550 compatible UARTs
+EJTAG, GPIO and "Flexible Serial Interface" (FSER) interfaces
+4 KiB PROM (0xBFC00000) and 4KiB RAM (0x80000000) on the chip for boot purposes
+Physical package of a 324 BGA with 1.0-mm ball pitch
+
+
+== Options ==
+AR7DB
+AR7RD
+AR7WRD (TNETD7300GDU) is an AR7 option with an interface for WiFi card.
+AR7VWI : DSL + VoIP + Wireless
+AR7VW
+AR7WI
+AR7V : DSL + VoIP
+The Adam2 bootloader
+The Pspboot bootloaderDevices based on the Texas Instruments AR7Actiontec GT701
+Acorp W400G/W422G
+Asus AAM6010EV : TNETD7300GDU, 2Mb FLASH, 8Mb SDRAM
+AVM Fritz!Box
+Aztech DSL-600E: 2Mb FLASH, 8Mb SDRAM
+Aztech DSL600ER: 2Mb FLASH, 8Mb SDRAM, 88E6060 Switch
+Aztech DSL600EW: 4Mb FLASH, 16Mb SDRAM, 88E6060 Switch, TNETW1130
+D-Link DSL-xxxT (like 300T)
+D-Link DVA-G3342SB (DSL board only)
+ECI B-FOCuS combo 352+, B-FOCuS Router 312+A
+devolo dsl+ 1100 duo, dsl+ 1100 LAN
+Efficient Networks, Inc / ENI SpeedStream 5100
+Huawei WA1003A
+LevelOne FBR-1416A: 2Mb FLASH, 8Mb SDRAM, 88E6060 Switch
+Linksys ADSL2MUE 4MB Flash, 16MB ram, USB + 1 Ethernet only
+Linksys AG241
+Linksys WAG200Gv1
+Linksys WAG54Gv2 and v3
+Linksys WAG354Gv1, v2, and v2.1
+Linksys HG200
+Netgear DG834(G) (Version 1, 2, and 3 have AR7 Chipset; version 4 has Broadcom chipset)
+Paradyne (Zhone Technologies) Hotwire 6210-A2, 6211-A2, and 6381-A2 (OEM Asus AAM6010EV)
+Pluscom AWR-7200
+Safecom SWART2-54125
+Shiro DSL805(E/EU/EW)
+Siemens SX541 uses real-time OS (SOHO.BIN) and BRN Boot Loader from the Broad Net Technology, Inc.
+Siemens SpeedStream 4100/4200/5620/SE567
+Sitecom WL-108
+Surecom 9410SX-g
+Solwise ADSL-SAR-600E/SAR600EW/SAR605EW
+Sphairon Turbolink JDR454WB WLAN ADSL Modem (2548 937939)
+T-Com Sinus 154 DSL SE
+T-Com Sinus 154 DSL Basic SE
+T-Com Sinus 154 DSL Basic 3
+T-Com Speedport W501V
+T-Com Speedport W701V
+TRENDnet TEW-435BRM v1
+Westell WireSpeed 2000 and ProLine 6100
+ZyXEL Prestige 660 Series ADSL 2+ Modem/Router - Prestige 660M-67 (Arcor-DSL Speed-Modem 50Z)
+3Com Officeconnect 3crwdr100x series 3Com 3rcwdr100x series ADSL firewall routerThird-party firmwareRouterTech has released open source firmware.
+OpenWrt has open source firmware in development, available for testing.
+DGTeam [1]
+
+
+== References ==
+
+
+== External links ==
+www.lantiq.com – Lantiq XWAY™ AR7
+linux-mips.org – AR7 wiki
+ar7.wikispaces.com – AR7 wiki
+wehavemorefun.de – Fritz!Box Wiki

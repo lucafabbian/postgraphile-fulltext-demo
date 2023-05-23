@@ -1,0 +1,63 @@
+The tables below compare cryptography libraries that deal with cryptography algorithms and have API function calls to each of the supported features.
+
+
+== Cryptography libraries ==
+
+
+== FIPS 140 ==
+This table denotes, if a cryptography library provides the technical requisites for FIPS 140, and the status of their FIPS 140 certification (according to NIST's CMVP search, modules in process list and implementation under test list).
+
+
+== Key operations ==
+Key operations include key generation algorithms, key exchange agreements and public key cryptography standards.
+
+
+=== Public key algorithms ===
+
+
+=== Elliptic-curve cryptography (ECC) support ===
+
+
+=== Public key cryptography standards ===
+
+
+== Hash functions ==
+Comparison of supported cryptographic hash functions. Here hash functions are defined as taking an arbitrary length message and producing a fixed size output that is virtually impossible to use for recreating the original message.
+
+
+== MAC algorithms ==
+Comparison of implementations of message authentication code (MAC) algorithms. A MAC is a short piece of information used to authenticate a message—in other words, to confirm that the message came from the stated sender (its authenticity) and has not been changed in transit (its integrity).
+
+
+== Block ciphers ==
+Table compares implementations of block ciphers. Block ciphers are defined as being deterministic and operating on a set number of bits (termed a block) using a symmetric key. 
+Each block cipher can be broken up into the possible key sizes and block cipher modes it can be run with.
+
+
+=== Block cipher algorithms ===
+
+
+=== Cipher modes ===
+
+
+== Stream ciphers ==
+The table below shows the support of various stream ciphers. Stream ciphers are defined as using plain text digits that are combined with a pseudorandom cipher digit stream. Stream ciphers are typically faster than block ciphers and may have lower hardware complexity, but may be more susceptible to attacks.
+
+
+== Hardware-assisted support ==
+These tables compare the ability to utilize hardware enhanced cryptography.  By using the assistance of specific hardware the library can achieve greater speeds and / or improved security than otherwise.
+
+
+=== Smart card, SIM and HSM protocol support ===
+
+
+=== General purpose CPU / platform acceleration support ===
+
+
+== Code size and code to comment ratio ==
+
+
+== Portability ==
+
+
+== References ==

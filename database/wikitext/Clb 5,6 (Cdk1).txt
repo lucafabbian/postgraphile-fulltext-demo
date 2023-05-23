@@ -1,0 +1,39 @@
+Clb5 and Clb6 are B-type, S-phase cyclins in yeast that assist in cell cycle regulation. Clb5 and Clb6 bind and activate Cdk1, and high levels of these cyclins are required for entering S-phase. S-phase cyclin binding to Cdk1 directly stimulates DNA replication as well as progression to the next phase of the cell cycle.
+
+
+== Structure ==
+Clb5 and Clb6 are two of the six B-type cyclins in budding yeast, which contain a short, hydrophobic amino acid sequence that allows targeted degradation and phosphorylation of some proteins that regulate DNA replication. This degradation occurs in late mitosis and is regulated by the anaphase promoting complex (APC). Clb1-6 all target and activate the single yeast cyclin-dependent kinase, Cdk1.Clb6 is encoded by 380 amino acids (44.1kDa), and is 49.7% identical to Clb5. Clb5 is 435 amino acids (50.4 kDa). The hydrophobic box motif is found on the C terminus of both cyclins, and includes the conserved FLRRISK sequence characterizing B-type cyclins.
+
+
+== Function ==
+Clb5 and Clb6 are part of a regulatory network that initiates DNA replication during S-phase. Clb5 and Clb6 levels rise during G1 (earlier than other B-type cyclins) and stay high throughout S and M phases.During S-phase, Clb5 and Clb6 are simultaneously expressed with other genes encoding proteins required for individual DNA strand replication and separation. Clb5 and Clb6 differentially bind to Cdk1, and this activation directly promotes firing of the various origins of replication. Clb5, in particular, has unique hydrophobic section of amino acids that allows specific interactions with proteins in the pre-replication complex bound on the DNA and helps localize Clb5 to DNA replication origins. 
+Clb5 and Clb6 also assist in spindle pole body duplication during S-phase, primarily when Clb3 and Clb4 are inactivated. However, the spindle pole body duplication and its interactions with Clb5 are not well understood. In contrast to the other B-type cyclins, that negatively regulate SCB-binding factor (SBF) and MCB-binding factor (MBF), Clb5 and Clb6 can activate the G1/S transition in the absence of the G1 cyclins Cln1,2,3.  These gene regulatory proteins control G1/S genes, and their negative regulation assists in shutting off expression of G1 cyclins during S-phase. Finally, Clb5-Cdk1 has been shown to be important for the phosphorylation of Cdh1 in yeast, and Clb5 destruction promotes dephosphorylation of Sic1.  Destruction of Clb5 and Clb6 is usually mediated by APC-Cdc20.  Studies have also shown that cells lacking Clb5 and Clb6 have dramatically reduced sporulation efficiencies.
+
+
+== Interactions ==
+
+
+=== Sic1 Regulation ===
+Clb5 and Clb6 levels are high at the beginning of S-phase, though they initially rise in G1. Upon commitment to cell division, G1/S cyclin levels rise, bind Cdk1, and immediately form active complexes. Clb5 and Clb6 are also expressed and bind Cdk1, but are inactive based on control from the Clb-specific Cdk1 inhibitor Sic1. G1/S cyclin-Cdk complexes promote the destruction of Sic1 and allow activation of Clb5- and Clb6-Cdk1 complexes.As the yeast cell transitions through G1, there is a large, inactive pool of Clb5 and Clb6-Cdk1 complexes. After activation, Clb5 and Clb6 can stimulate DNA replication, but also phosphorylate Sic1, targeting it for destruction. Thus, Clb5 and Clb6 are engaged in a positive feedback loop to promote their own activation during this period of the cell cycle.
+
+
+=== APC Interaction ===
+An important regulatory event during G1 is the inactivation of the anaphase promoting complex (APC-Cdh1). Clb5 and Clb6 activation assists in APC-Cdh1 inactivation, although the complete mechanism is unclear. It is hypothesized that Clb5 and Clb6 are somewhat resistant to APC-Cdh1 degradation since they are primarily regulated by APC-Cdc20.
+
+
+== Mutations ==
+
+
+=== Mitosis ===
+There are specific origins of replication that are activated in either the early or late stage of the cell cycle. Directed mutational studies targeting the Clb5 and Clb6 encoding genes have shown that both can activate origins usually replicated early in the cell cycle, but only Clb5 can activate late-stage origins. In cells without Clb5, S-phase is extended because late-stage origins are required to be replicated through the gradual spread of replication forks rather than Clb5-stimulated replication. Cells without Clb6 have little to no phenotypic changes since Clb5 can activate both types of origins. In double mutants for Clb5 and Clb6, the onset of S-phase (rather than the length) is significantly delayed, but will eventually occur as a side result of the buildup of other mitotic cyclins (Clb1-4). S-phase length is normal in these double mutants.
+
+
+=== Meiosis ===
+Similar studies have shown a significant difference between mitosis and meiosis progression in cells lacking Clb5 or Clb6, primarily that meiosis S-phase cannot occur properly without Clb5. These mutant cells segregate their unreplicated DNA, which is lethal, and fail to activate the MEC1-DNA M-phase checkpoint, which usually inhibits cell cycle progression if DNA has not been replicated. The inability of Clb1-4 to compensate for the lack of Clb5 activity could potentially be explained by timing and accumulation arguments.  In this hypothesis, cyclin concentrations must rise and accumulate to proceed to the next stage of the cell cycle. In mitotic growth, Clb1-4 levels rise immediately after Clb5 and Clb6 levels, allowing rapid accumulation. In meiotic growth, the interval before Clb1-4 levels rise following Clb5 and Clb6 expression is lengthened, allowing less time for accumulation and the resulting high levels required for recovery. There is also evidence that Clb5 mutant cells are less likely to have DNA recombinations from double strand breaks (DSB), which may be a side effect of this Clb5 regulation.
+
+
+== Differences between Clb5 and Clb6 ==
+There are “subtle and poorly understood” functional differences between these two cyclins. Clb5 activates early and late phase origins of replication, whereas Clb6 only activates late phase origins. Functionally, Clb5 also has a mitotic destruction box that has been implicated in various proteolytic functions. Clb5 has also been shown to rescue Cln1-3 triple mutants, which is unique among B-type yeast cyclins.
+
+
+== References ==

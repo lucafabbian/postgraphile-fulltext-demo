@@ -1,0 +1,16 @@
+The Baofeng UV-5R is a hand held radio manufactured by the Chinese manufacturer Baofeng. This model was the first worldwide successful distributed dual band radio (VHF/UHF) of a Chinese brand. It is inexpensive and relatively simple in use, because of this it is used by radio amateurs as well as professional users worldwide.
+
+
+== History ==
+The Baofeng UV-5R has been produced since 2012 and exported to markets worldwide. The radio had no FCC Part 95 certification in the United States. As a result, it was not authorized for use in the GMRS and FRS, only for amateur radio. Baofeng launched a number of other models based on the UV-5R technology, since 2012. Other radios from other Chinese manufacturers have mainly the same range of functions, specs and menu like the UV-5R, for example the Retevis RT5.The model variant Baofeng UV5R HT may no longer be sold, distributed or used in Germany since November 24, 2021. The sale, use and distribution has been prohibited in Switzerland since 2019. The German Federal Network Agency has banned the device because it dampens harmonics too poorly and can therefore disturb other users.
+
+
+== Features ==
+It is designed to transmit on the 2 meter band between 136 and 174 MHz (VHF) and on the 70 Centimeter-band between 400 and 520 MHz (UHF). Features include CTCSS, Digital Coded Squelch, 128 programming channels and duplex operation for use with local repeaters, dual watch and dual reception, an LED flashlight, voice prompts in either English or Chinese and programmable LED lighting for the LCD display.Programming channels and frequencies by hand is slow. Programming via a computer is much easier using the CHIRP application and a specific USB to radio cable.
+
+
+== See also ==
+List of amateur radio transceivers#UV-5R
+
+
+== References ==

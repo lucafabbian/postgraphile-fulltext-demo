@@ -1,0 +1,67 @@
+CapacityPlus is a global project funded by the United States Agency for International Development and led by IntraHealth International. Focused on strengthening the health workforce needed to achieve the Millennium Development Goals, the project assists countries to improve accessibility and quality of health services by addressing deficits in human resources for health (HRH).
+The specific goals of the project are to: 
+
+Foster global leadership and advocacy for HRH
+Enhance HRH policy and planning, including HRH management and HRH information systems
+Improve health workforce development, including pre-service education, in-service training, and continuing professional development
+Strengthen support to health workers to improve retention and productivity
+Generate and disseminate knowledge about HRH
+Foster partnerships to improve HRH, including private-sector and faith-based partners and partners outside the health sector
+
+
+== Background ==
+CapacityPlus started in 2009 and works to address many of the human resources for health (HRH) issues. In 2006 the World Health Organization (WHO) estimated a global shortage of over four million health workers and identified 57 countries as having a health workforce crisis. A 2013 report issued by the Global Health Workforce Alliance and the World Health Organization found that 83 countries fall below a threshold of 22.8 skilled health professionals per 10,000 population.The constraint issues surrounding HRH include:
+
+Shortages of health workers, especially in rural and underserved areas
+Poor distribution of the health workforce compared to need
+Mismatches between health needs and the composition of the health workforce
+Insufficient skills tied to inadequate education and training capacity
+Low retention and productivity
+Weak human resources management systemsCapacityPlus works in Botswana, Democratic Republic of the Congo, Dominican Republic, Ethiopia, Ghana, India, Laos, Liberia, Malawi, Mali, Namibia, Nigeria, Rwanda, Senegal, South Africa, Tanzania, and Uganda. The project has completed activities in Haiti, Kenya, Mozambique, Peru, and Zimbabwe.
+
+
+== Activities ==
+
+
+=== Health Workforce Development ===
+CapacityPlus’s Bottlenecks and Best Buys approach has been used in over 50 health professional schools in eight countries. The approach enables schools to identify critical bottlenecks to providing quality pre-service education for health workers and prioritize affordable actions for increasing the quantity of graduates while maintaining or improving the quality of education. To help health professional schools improve their management, CapacityPlus co-developed with schools a series of management tools as well as the Dean’s Dashboard, free open source school management software. CapacityPlus also partnered with the International Finance Corporation, the World Bank, and the Global Health Workforce Alliance in an exploration of innovative solutions for the financing of education to increase the number of health workers available to provide care to growing populations. CapacityPlus is a partner with the Medical Education Partnership Initiative (MEPI) to improve graduate tracking, community-based education, and distance learning in African medical schools, as well as a partner with the Nursing Education Partnership Initiative (NEPI) to conduct capacity assessments and costing analyses of African nursing and midwifery schools.
+
+
+=== Rural Health Workforce Retention ===
+The World Health Organization issued 16 global recommendations for improving the recruitment and retention of health workers in rural areas—a challenge faced by most countries and a barrier to universal health coverage. In Laos, the Ministry of Health partnered with CapacityPlus and the WHO to apply the Rapid Retention Survey Toolkit  (developed by CapacityPlus using the WHO recommendations) and iHRIS Retain costing software to assess which of the recommendations would be most effective in the Laotian context and subsequently inform a new national policy for recruiting and retaining health workers. Similar work in Uganda led to the development of a new retention package for public-sector health workers.
+
+
+=== Human Resources Management ===
+With input from applications in Ghana, Nigeria, and several other countries, CapacityPlus refined its Human Resources Management (HRM) Assessment Approach to guide policy-makers, managers, and HR practitioners toward better understanding and responding to HRM challenges facing their health systems. The approach promotes the collection and analysis of information on defined HRM challenges, and informs development of effective policy, strategy, systems, and process interventions in response.  Working with the Dominican Republic to compare health worker payrolls with facility staffing, CapacityPlus helped identify over 10,000 ghost workers and helped the government save $7 million per year in lost wages that are now being reinvested in the Dominican health system to increase health worker wages and eliminate service fees.
+
+
+=== Human Resources Information Systems ===
+CapacityPlus supports the iHRIS platform, free, open source software that assists countries to maintain accurate information on their health workforce and to use that information to make decisions and develop policies that strengthen HRH systems. Because it is built on a flexible framework and distributed under an open source license, iHRIS can be customized and extended to address local needs.  Currently, almost 20 countries are using the iHRIS software applications in English, French, Spanish, Portuguese and other languages. Worldwide, more than 800,000 health worker records are captured in iHRIS, making it the most widely used open source HRIS software. In Ghana, for example, CapacityPlus is helping the Ministry of Health move its system from paper to computer, enabling the ministry to better manage its 98,000 employees. Because the iHRIS software is free, governments have saved almost $150 million in proprietary software fees.
+
+
+=== HRH Global Resource Center ===
+CapacityPlus hosts the HRH Global Resource Center (GRC) (launched in 2006 by the previous Capacity Project), a digital library and eLearning platform committed to reducing access barriers in developing countries to the best human resources for health information available. With over 4,000 resources and an average of 60,000 monthly users from 172 countries, the GRC provides the largest collection of open access HRH resources and user base of the existing HRH digital libraries and knowledge hubs.
+
+
+== Partners ==
+CapacityPlus is led by IntraHealth International with partners:
+
+Abt Associates
+IMA World Health
+LSTM Consulting
+Training Resources Group, Inc. (TRG)The project also has four regional associate partners: 
+
+African Population & Health Research Center (APHRC)
+Asia-Pacific Action Alliance on Human Resources for Health (AAAH)
+West African Institute of Post-Graduate Management Studies (CESAG)
+Partners in Population and Development (PPD)
+
+
+== References ==
+
+
+== External links ==
+CapacityPlus Project
+IntraHealth International
+iHRIS: Open Source Human Resources Information Solutions - Open source software that supplies health systems leaders with information to track, manage, and plan the health workforce
+HRH Global Resource Center - Knowledge management platform of CapacityPlus and IntraHealth International

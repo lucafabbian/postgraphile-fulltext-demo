@@ -1,0 +1,72 @@
+The official romanization system for Taiwanese Hokkien in Taiwan is locally referred to as Tâi-uân Lô-má-jī Phing-im Hong-àn (lit. 'Taiwan romanized script pingyin scheme') or Taiwan Minnanyu Luomazi Pinyin Fang'an (lit. 'Taiwan Southern Min pingyin scheme'), often shortened to Tâi-lô. It is derived from Pe̍h-ōe-jī and since 2006 has been one of the phonetic notation systems officially promoted by Taiwan's Ministry of Education. The system is used in the MoE's Dictionary of Frequently-Used Taiwan Minnan. It is nearly identical to Pe̍h-ōe-jī, apart from: using ts tsh instead of ch chh, using u instead of o in vowel combinations such as oa and oe, using i instead of e in eng and ek, using oo instead of o͘, and using nn instead of ⁿ.
+
+
+== Alphabet ==
+The Taiwanese Romanization System uses 16 basic Latin letters (A, B, E, G, H, I, J, K, L, M, N, O, P, S, T, U), 7 digraphs (Kh, Ng, nn, Oo, Ph, Th, Ts) and a trigraph (Tsh). In addition, it uses 6 diacritics to represent tones.
+
+"nn" is only used after a vowel to express nasalization, so it only appears capitalized in all-caps texts.
+Palatalization occurs when "j, s, ts, tsh" are followed by "i", so "ji, si, tsi, tshi" are sometimes governed as trigraphs and tetragraphs.
+Of the 10 unused basic Latin letters, "R" is sometimes used to express dialectal vowels (somewhat similar to erhua), while the others (C, D, F, Q, V, W, X, Y, Z) are only used in loanwords.
+
+
+=== Sample texts ===
+Tâi-lô
+Pe̍h-uē-jī (PUJ) sī tsı̍t khuán iōng Latin (Lô-má) phìng-im hē-thóng lâi siá Tâi-uân ê gí-giân ê su-bīn bûn-jī. In-uī tong-tshoo sī thuân-kàu-sū ín--jı̍p-lâi ê, sóo-í ia̍h-ū-lâng kā PUJ kiò-tsò Kàu-huē Lô-má-jī, hı̍k-tsiá sī kán-tshing Kàu-lô. Put-jî-kò hiān-tāi ê sú-iōng-tsiá bē-tsió m̄-sī kàu-tôo, kàu-tôo mā tsin tsē bē-hiáu PUJ.
+Pe̍h-ōe-jī
+Pe̍h-ōe-jī (POJ) sī chı̍t khoán iōng Latin (Lô-má) phèng-im hē-thóng lâi siá Tâi-ôan ê gí-giân ê su-bīn bûn-jī. In-ūi tong-chho͘ sī thôan-kàu-sū ín--jı̍p-lâi ê, só͘-í ia̍h-ū-lâng kā POJ kiò-chò Kàu-hōe Lô-má-jī, he̍k-chiá sī kán-chheng Kàu-lô. Put-jî-kò hiān-tāi ê sú-iōng-chiá bē-chió m̄-sī kàu-tô͘, kàu-tô͘ mā chin chē bē-hiáu POJ.
+Hàn-jī
+白話字（POJ）是一款用拉丁（羅馬）拼音系統來寫臺灣的語言的書面文字。因為當初是傳教士引入來的，所以也有人共POJ叫做教會羅馬字，或者是簡稱教羅。不而過現代的使用者袂少毋是教徒，教徒嘛真濟袂曉POJ。
+IPA
+[peʔued͡ʑi (pi o d͡ʑe) ɕi t͡ɕiʔkʰuan ioŋ latin (loma) pʰiŋim hetʰoŋ lai ɕa taiuan e gigiɛn e subin bund͡ʑi ‖ inui toŋt͡sɔ ɕi tʰuankausu ind͡ʑiʔlai e sɔi iaʔulaŋ ka pi o d͡ʑi kiot͡so kauhue lomad͡ʑi hiʔt͡ɕia ɕi kant͡ɕʰiŋ kaulo ‖ puʔd͡ʑiko hiɛntai e suioŋt͡ɕia bet͡ɕio m̩ɕi kautɔ kautɔ ma t͡ɕin t͡se behiau pi o d͡ʑi ‖]
+
+
+== Values ==
+
+
+=== Consonants ===
+
+
+=== Vowels & Rhymes ===
+o pronounced [ə] ㄜ in general dialect in Kaohsiung and Tainan, [o] ㄛ in Taipei.
+-nn forms the nasal vowels
+There is also syllabic m and ng.ing pronounced [ɪəŋ], ik pronounced [ɪək̚].
+
+
+=== Tones ===
+A hyphen links elements of a compound word. A double hyphen indicates that the following syllable has a neutral tone and therefore that the preceding syllable does not undergo tone sandhi.
+
+
+== Computing ==
+
+
+=== Unicode codepoints ===
+The following are tone characters and their respective Unicode codepoints used in Tâi-lô. The tones used by Tâi-lô should use Combining Diacritical Marks instead of Spacing Modifier Letters used by bopomofo. As Tâi-lô is not encoded in Big5, the prevalent encoding used in Traditional Chinese, some Taiwanese Romanization System letters are not directly encoded in Unicode, instead should be typed using combining diacritical marks officially.
+Characters not directly encoded in Unicode requires premade glyphs in fonts in order for applications to correctly display the characters.
+
+
+=== Font support ===
+Fonts that currently support POJ includes:
+
+Charis SIL
+DejaVu
+Doulos SIL
+Linux Libertine
+Taigi Unicode
+Source Sans Pro
+I.Ming (8.00 onwards) from Ichiten Font Project
+Fonts made by justfont foundry
+Fonts modified and release in GitHub repository POJFonts : POJ Phiaute, Gochi Hand POJ, Nunito POJ, POJ Vibes, and POJ Garamond.
+Fonts modified and released by But Ko based on Source Han Sans: Genyog, Genseki, Gensen ; based on Source Han Serif: Genyo, Genwan, Genryu.
+
+
+== Notes ==
+
+
+=== Words in native languages ===
+
+
+== References ==
+
+
+== External links ==
+臺灣閩南語羅馬拼音及其發音學習網 (in Chinese), Taiwanese Romanization System (Tai-lo) learning site by the Ministry of Education of Taiwan

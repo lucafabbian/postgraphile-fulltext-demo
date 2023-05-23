@@ -1,0 +1,30 @@
+NASCAR Racing is a 1994 video game developed by Papyrus Design Group and published by Virgin for the PC. A PlayStation version was released in 1996 by Sierra On-Line.
+
+
+== Gameplay ==
+NASCAR Racing was released in the fall of 1994 for DOS personal computers. It featured more than 25 of the 40 regular drivers in the 1994 NASCAR Winston Cup season. Notable absences included Dale Earnhardt (who would go on to win the Winston Cup that year), Dale Jarrett, Kyle Petty and Darrell Waltrip, although the latter's brother, Michael, was included. The PlayStation version features 20 of the 39 regular drivers from the 1996 season.
+The game let the player race with up to 38 other cars (32 on shorter tracks like Bristol and Martinsville) and it also offered multiplayer action via direct links (one computer connected to another via a LAN) and also through an online system owned by Papyrus called Hawaii.
+The CD-ROM version of the game also offered a SVGA graphics mode which was accessible through the command prompt (by entering "nascar -h"), but it was too demanding for many of the computers of its age, mostly 486 and early Pentium PCs. hardware accelerated versions were later created and bundled with the Matrox Millennium and Diamond Edge 3D.
+Papyrus did produce a Daytona track only for use exclusively at a fan simulation game at the Daytona USA museum. In the PlayStation edition of the game, the player races as a rookie in the number  96 Papyrus car.
+
+
+== Reception ==
+
+NASCAR Racing was a major commercial success. Its sales reached 350,000 units by December 1995, following its October 1994 release, and rose to 400,000 copies by February 1996. In the United States, NASCAR Racing (bundled with its Track Pack add-on) was the 24th best-selling computer game of 1998, with another 225,737 units sold. Its revenue for that year was estimated at $2.28 million. NASCAR Racing and its sequel shipped above 2 million copies globally by March 1998, and shipments of the first game alone surpassed 1 million units by 2004.Next Generation reviewed the PC version of the game, and stated that "it's the game's astounding ability to create a realistic feeling of speed that makes it an incredible hit. Flying around the tracks at 170 mph and up will make you respect those drivers who do this for a living. Definitely a winner."Declaring it "the best racing game ever created", the editors of PC Gamer US presented NASCAR Racing with their 1994 "Best Sports Game" award, and nominated it in their "Best Simulation" category. NASCAR also won Computer Gaming World's 1994 "Simulation Game of the Year" award, tying with Aces of the Deep, and was a nominee for the magazine's overall "Game of the Year" prize. The editors opined that its "incredible graphics, sound and overall experience appeal to simulation enthusiasts and casual sports fans alike".In 1996, Computer Gaming World declared NASCAR Racing the 31st-best computer game ever released.
+
+
+=== PlayStation version ===
+
+The PlayStation port divided reviewers. Next Generation stated that "NASCAR Racing is for the die-hard stock car racing fan who loves NASCAR so much they don't care what kind of package it comes in." They cited dull visuals, the lack of a multiplayer mode, and inadequate attempts at realism. In contrast, Jeff Kitts of GameSpot hailed it as "stock car racing at its most realistic", praising the authentic recreation of real life tracks, abundant options, realistic controls, and the accuracy of the PlayStation conversion. The two sports reviewers of Electronic Gaming Monthly held more of a middle ground position, with Dindo Perez saying that the PC version was a great title but had been surpassed in the years it took the game to reach the PlayStation, and Todd Mowatt remarking that "this game won't win the checkered flag this time around, but it won't run out of gas on you either." Both commented that the frame rate and general excitement of the game were lacking. GamePro's Dr. Zombie noted the realistic touches to the game and the merely adequate graphics, controls, and sounds, and concluded that "this game will appeal more to diehard racing aficionados than to the casual gamer cruising for speed and action."
+
+
+== Reviews ==
+PC Gamer (Feb, 1995) - DOS version
+
+
+== References ==
+
+
+== External links ==
+NASCAR Racing at MobyGames
+NASCAR Racing (PlayStation) at MobyGames

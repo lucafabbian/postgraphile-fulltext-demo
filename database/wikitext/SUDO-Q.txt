@@ -1,0 +1,39 @@
+SUDO-Q is a British game show that was broadcast between 5 December 2005 and 23 March 2007. It was hosted by Eamonn Holmes. The format was based on a mix of the number puzzle Sudoku and general knowledge questions.
+
+
+== Gameplay ==
+Three teams of two (originally three) compete. There are four rounds in the game.
+
+
+=== Round 1 ===
+The first round is based on general knowledge questions and a 4×4 Sudoku grid. Teams are shown the grid, with four numbers already placed. Then a square gets highlighted and the teams lock in what number goes in that square. The fastest team to lock in the right number gets one point and the right to answer a general knowledge question for another point, and the right to verbally place a number in another highlighted square for one more point, for a maximum of three points. The round ends when the entire grid is completed or if there's one square left (not enough to play one more subround).
+In the first series, the team winning the first square got two questions and potentially two squares, thus a possible 5 points.
+
+
+=== Round 2 ===
+The second round is focused on eliminating one of the three teams. Another 4×4 grid is revealed with four numbers placed in advance, and once again teams lock in what number goes in the highlighted square. Again the fastest team whom locked in the right number gets one point and the right answer to answer a general knowledge question for another point, only this time a correct answer also gives the team the right to nominate members of the opposing team in a sudden death showdown in which the fastest player with the correct number gets one point and stays in the game, with the other player eliminated from the game. The first team to lose both players is eliminated from the show, regardless of their score to that point.
+
+
+==== Original Round 2 ====
+In the first series, when there were three teams of three contestants, winning the square allowed the team to nominate a member of another team, then to attempt a general knowledge question to eliminate that player; an incorrect answer under these conditions cost the answering team a player, selected by the player they had nominated. Again, the first team to be eliminated is out of the game.
+
+
+=== Round 3 ===
+The third round is Speed Sudoku where two players (one on each team) have 45 seconds each to solve squares on a 6×6 grid, while alternating turns. No general knowledge questions are played this round. Correct numbers are worth 2 points, but incorrect numbers deduct 1 point. When one player runs out of time, the other player is given the rest of their time to finish as much of the grid as possible. The round ends when time expires for both players or when the grid is completed. The team with the most points at the end of this round wins the game.
+If a team has one player left coming out of round two, the person left standing can either buy back the eliminated player with 10 seconds of his/her Speed Sudoku time deducted (making it 35 seconds), or reject his/her partner for the rest of the show & keep the full 45 seconds. In the first series, each team had 60 seconds, and all teams still in the game were completely reunited after the end of round 2. No points were deducted for incorrect solves.
+
+
+=== The Final ===
+The final round gives the winning team three minutes to solve another 6×6 grid for money. Holmes asks a series of questions in which correct answers earn an attempt to place a number in a highlighted square. An incorrect answer stays on that square, while a correct or an incorrect number goes to another square. If both partners are in the game after the final round, each one takes 90 seconds of the time; otherwise, the solo player takes the entire three minutes. There are a total of 18 squares to be solved. Each correctly placed number is worth £50, with £50 more for a completed row, column, and/or 3×2 region, and a £200 bonus for completing the entire grid, thus a grand prize of £2,000.
+In the first series, each of the three team members would take 60 seconds. The individual squares were worth £25 each, and the completion bonus was £150, for a possible total of £1,500. Also in the first series, the best-performing teams in the final, determined by the number of squares solved, were given the opportunity to participate in a grand final. From series 2 onward, the winning team stays on to play during the next show but if a team wins 5 shows in a row they are declared undefeated champions (winning a £500 bonus) and three new teams play the next day.
+
+
+== Transmissions ==
+
+
+== References ==
+
+
+== External links ==
+SUDO-Q at BBC Online 
+SUDO-Q at UKGameshows.com

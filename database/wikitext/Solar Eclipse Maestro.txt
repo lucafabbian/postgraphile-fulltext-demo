@@ -1,0 +1,7 @@
+Solar Eclipse Maestro is freeware universal binary software for Mac OS only able to control up to four USB/Firewire connected cameras (Nikon and Canon) and up to four SBIG CCD cameras with their filter wheels during an eclipse, so that the user (astronomer or photographer) can be free to concentrate on observing the event visually. It can handle any solar eclipse, provide Baily's beads preview and animation, simulate an all-sky view or weather statistics, and a lot more.
+It is localized in English and French.
+A lot of scripts, used for controlling in varied situations are also available for free, written by enthusiasts and professionals all over the world.
+
+
+== External links ==
+Solar Eclipse Maestro Home

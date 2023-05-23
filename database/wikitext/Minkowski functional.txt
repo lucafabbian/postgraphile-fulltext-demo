@@ -1,0 +1,3495 @@
+In mathematics, in the field of functional analysis, a Minkowski functional (after Hermann Minkowski) or gauge function is a function that recovers a notion of distance on a linear space.
+If 
+  
+    
+      
+        K
+      
+    
+    {\displaystyle K}
+   is a subset of a real or complex vector space 
+  
+    
+      
+        X
+        ,
+      
+    
+    {\displaystyle X,}
+   then the Minkowski functional or gauge of 
+  
+    
+      
+        K
+      
+    
+    {\displaystyle K}
+   is defined to be the function 
+  
+    
+      
+        
+          p
+          
+            K
+          
+        
+        :
+        X
+        →
+        [
+        0
+        ,
+        ∞
+        ]
+        ,
+      
+    
+    {\displaystyle p_{K}:X\to [0,\infty ],}
+   valued in the extended real numbers, defined by
+
+where the infimum of the empty set is defined to be positive infinity 
+  
+    
+      
+        
+        ∞
+        
+      
+    
+    {\displaystyle \,\infty \,}
+   (which is not a real number so that 
+  
+    
+      
+        
+          p
+          
+            K
+          
+        
+        (
+        x
+        )
+      
+    
+    {\displaystyle p_{K}(x)}
+   would then not be real-valued). 
+The Minkowski function is always non-negative (meaning 
+  
+    
+      
+        
+          p
+          
+            K
+          
+        
+        ≥
+        0
+      
+    
+    {\displaystyle p_{K}\geq 0}
+  ) and 
+  
+    
+      
+        
+          p
+          
+            K
+          
+        
+        (
+        x
+        )
+      
+    
+    {\displaystyle p_{K}(x)}
+   is a real number if and only if 
+  
+    
+      
+        {
+        r
+        >
+        0
+        :
+        x
+        ∈
+        r
+        K
+        }
+      
+    
+    {\displaystyle \{r>0:x\in rK\}}
+   is not empty. 
+This property of being nonnegative stands in contrast to other classes of functions, such as sublinear functions and real linear functionals, that do allow negative values. 
+In functional analysis, 
+  
+    
+      
+        K
+      
+    
+    {\displaystyle K}
+   is usually assumed to have properties (such as being absorbing in 
+  
+    
+      
+        X
+        ,
+      
+    
+    {\displaystyle X,}
+   for instance) that will guarantee that for every 
+  
+    
+      
+        x
+        ∈
+        X
+        ,
+      
+    
+    {\displaystyle x\in X,}
+   this set 
+  
+    
+      
+        {
+        r
+        ∈
+        
+          R
+        
+        :
+        r
+        >
+        0
+        
+           and 
+        
+        x
+        ∈
+        r
+        K
+        }
+      
+    
+    {\displaystyle \{r\in \mathbb {R} :r>0{\text{ and }}x\in rK\}}
+   is not empty precisely because this results in 
+  
+    
+      
+        
+          p
+          
+            K
+          
+        
+      
+    
+    {\displaystyle p_{K}}
+   being real-valued. 
+Moreover, 
+  
+    
+      
+        K
+      
+    
+    {\displaystyle K}
+   is also often assumed to have more properties, such as being an absorbing disk in 
+  
+    
+      
+        X
+        ,
+      
+    
+    {\displaystyle X,}
+   since these properties guarantee that 
+  
+    
+      
+        
+          p
+          
+            K
+          
+        
+      
+    
+    {\displaystyle p_{K}}
+   will be a (real-valued) seminorm on 
+  
+    
+      
+        X
+        .
+      
+    
+    {\displaystyle X.}
+   
+In fact, every seminorm 
+  
+    
+      
+        p
+      
+    
+    {\displaystyle p}
+   on 
+  
+    
+      
+        X
+      
+    
+    {\displaystyle X}
+   is equal to the Minkowski functional of any subset 
+  
+    
+      
+        K
+      
+    
+    {\displaystyle K}
+   of 
+  
+    
+      
+        X
+      
+    
+    {\displaystyle X}
+   satisfying 
+  
+    
+      
+        {
+        x
+        ∈
+        X
+        :
+        p
+        (
+        x
+        )
+        <
+        1
+        }
+        ⊆
+        K
+        ⊆
+        {
+        x
+        ∈
+        X
+        :
+        p
+        (
+        x
+        )
+        ≤
+        1
+        }
+      
+    
+    {\displaystyle \{x\in X:p(x)<1\}\subseteq K\subseteq \{x\in X:p(x)\leq 1\}}
+   (where all three of these sets are necessarily absorbing in 
+  
+    
+      
+        X
+      
+    
+    {\displaystyle X}
+   and the first and last are also disks). 
+Thus every seminorm (which is a function defined by purely algebraic properties) can be associated (non-uniquely) with an absorbing disk (which is a set with certain geometric properties) and conversely, every absorbing disk can be associated with its Minkowski functional (which will necessarily be a seminorm). 
+These relationships between seminorms, Minkowski functionals, and absorbing disks is a major reason why Minkowski functionals are studied and used in functional analysis. 
+In particular, through these relationships, Minkowski functionals allow one to "translate" certain geometric properties of a subset of 
+  
+    
+      
+        X
+      
+    
+    {\displaystyle X}
+   into certain algebraic properties of a function on 
+  
+    
+      
+        X
+        .
+      
+    
+    {\displaystyle X.}
+  
+
+
+== Definition ==
+Let 
+  
+    
+      
+        K
+      
+    
+    {\displaystyle K}
+   be a subset of a real or complex vector space 
+  
+    
+      
+        X
+        .
+      
+    
+    {\displaystyle X.}
+   Define the gauge of 
+  
+    
+      
+        K
+      
+    
+    {\displaystyle K}
+   or the Minkowski functional associated with or induced by 
+  
+    
+      
+        K
+      
+    
+    {\displaystyle K}
+   as being the function 
+  
+    
+      
+        
+          p
+          
+            K
+          
+        
+        :
+        X
+        →
+        [
+        0
+        ,
+        ∞
+        ]
+        ,
+      
+    
+    {\displaystyle p_{K}:X\to [0,\infty ],}
+   valued in the extended real numbers, defined by 
+ 
+where recall that the infimum of the empty set is 
+  
+    
+      
+        
+        ∞
+        
+      
+    
+    {\displaystyle \,\infty \,}
+   (that is, 
+  
+    
+      
+        inf
+        ∅
+        =
+        ∞
+      
+    
+    {\displaystyle \inf \varnothing =\infty }
+  ). Here, 
+  
+    
+      
+        {
+        r
+        >
+        0
+        :
+        x
+        ∈
+        r
+        K
+        }
+      
+    
+    {\displaystyle \{r>0:x\in rK\}}
+   is shorthand for 
+  
+    
+      
+        {
+        r
+        ∈
+        
+          R
+        
+        :
+        r
+        >
+        0
+        
+           and 
+        
+        x
+        ∈
+        r
+        K
+        }
+        .
+      
+    
+    {\displaystyle \{r\in \mathbb {R} :r>0{\text{ and }}x\in rK\}.}
+   
+For any 
+  
+    
+      
+        x
+        ∈
+        X
+        ,
+      
+    
+    {\displaystyle x\in X,}
+   
+  
+    
+      
+        
+          p
+          
+            K
+          
+        
+        (
+        x
+        )
+        ≠
+        ∞
+      
+    
+    {\displaystyle p_{K}(x)\neq \infty }
+   if and only if 
+  
+    
+      
+        {
+        r
+        >
+        0
+        :
+        x
+        ∈
+        r
+        K
+        }
+      
+    
+    {\displaystyle \{r>0:x\in rK\}}
+   is not empty. 
+The arithmetic operations on 
+  
+    
+      
+        
+          R
+        
+      
+    
+    {\displaystyle \mathbb {R} }
+   can be extended to operate on 
+  
+    
+      
+        ±
+        ∞
+        ,
+      
+    
+    {\displaystyle \pm \infty ,}
+   where 
+  
+    
+      
+        
+          
+            r
+            
+              ±
+              ∞
+            
+          
+        
+        :=
+        0
+      
+    
+    {\displaystyle {\frac {r}{\pm \infty }}:=0}
+   for all non-zero real 
+  
+    
+      
+        −
+        ∞
+        <
+        r
+        <
+        ∞
+        .
+      
+    
+    {\displaystyle -\infty <r<\infty .}
+   
+The products 
+  
+    
+      
+        0
+        ⋅
+        ∞
+      
+    
+    {\displaystyle 0\cdot \infty }
+   and 
+  
+    
+      
+        0
+        ⋅
+        −
+        ∞
+      
+    
+    {\displaystyle 0\cdot -\infty }
+   remain undefined.
+Some conditions making a gauge real-valued
+In the field of convex analysis, the map 
+  
+    
+      
+        
+          p
+          
+            K
+          
+        
+      
+    
+    {\displaystyle p_{K}}
+   taking on the value of 
+  
+    
+      
+        
+        ∞
+        
+      
+    
+    {\displaystyle \,\infty \,}
+   is not necessarily an issue. 
+However, in functional analysis 
+  
+    
+      
+        
+          p
+          
+            K
+          
+        
+      
+    
+    {\displaystyle p_{K}}
+   is almost always real-valued (that is, to never take on the value of 
+  
+    
+      
+        
+        ∞
+        
+      
+    
+    {\displaystyle \,\infty \,}
+  ), which happens if and only if the set 
+  
+    
+      
+        {
+        r
+        >
+        0
+        :
+        x
+        ∈
+        r
+        K
+        }
+      
+    
+    {\displaystyle \{r>0:x\in rK\}}
+   is non-empty for every 
+  
+    
+      
+        x
+        ∈
+        X
+        .
+      
+    
+    {\displaystyle x\in X.}
+   
+In order for 
+  
+    
+      
+        
+          p
+          
+            K
+          
+        
+      
+    
+    {\displaystyle p_{K}}
+   to be real-valued, it suffices for the origin of 
+  
+    
+      
+        X
+      
+    
+    {\displaystyle X}
+   to belong to the algebraic interior or core of 
+  
+    
+      
+        K
+      
+    
+    {\displaystyle K}
+   in 
+  
+    
+      
+        X
+        .
+      
+    
+    {\displaystyle X.}
+   
+If 
+  
+    
+      
+        K
+      
+    
+    {\displaystyle K}
+   is absorbing in 
+  
+    
+      
+        X
+        ,
+      
+    
+    {\displaystyle X,}
+   where recall that this implies that 
+  
+    
+      
+        0
+        ∈
+        K
+        ,
+      
+    
+    {\displaystyle 0\in K,}
+   then the origin belongs to the algebraic interior of 
+  
+    
+      
+        K
+      
+    
+    {\displaystyle K}
+   in 
+  
+    
+      
+        X
+      
+    
+    {\displaystyle X}
+   and thus 
+  
+    
+      
+        
+          p
+          
+            K
+          
+        
+      
+    
+    {\displaystyle p_{K}}
+   is real-valued. 
+Characterizations of when 
+  
+    
+      
+        
+          p
+          
+            K
+          
+        
+      
+    
+    {\displaystyle p_{K}}
+   is real-valued are given below.
+
+
+== Motivating examples ==
+Example 1
+Consider a normed vector space 
+  
+    
+      
+        (
+        X
+        ,
+        ‖
+        
+        ⋅
+        
+        ‖
+        )
+        ,
+      
+    
+    {\displaystyle (X,\|\,\cdot \,\|),}
+   with the norm 
+  
+    
+      
+        ‖
+        
+        ⋅
+        
+        ‖
+      
+    
+    {\displaystyle \|\,\cdot \,\|}
+   and let 
+  
+    
+      
+        U
+        :=
+        {
+        x
+        ∈
+        X
+        :
+        ‖
+        x
+        ‖
+        ≤
+        1
+        }
+      
+    
+    {\displaystyle U:=\{x\in X:\|x\|\leq 1\}}
+   be the unit ball in 
+  
+    
+      
+        X
+        .
+      
+    
+    {\displaystyle X.}
+   Then for every 
+  
+    
+      
+        x
+        ∈
+        X
+        ,
+      
+    
+    {\displaystyle x\in X,}
+   
+  
+    
+      
+        ‖
+        x
+        ‖
+        =
+        
+          p
+          
+            U
+          
+        
+        (
+        x
+        )
+        .
+      
+    
+    {\displaystyle \|x\|=p_{U}(x).}
+   Thus the Minkowski functional 
+  
+    
+      
+        
+          p
+          
+            U
+          
+        
+      
+    
+    {\displaystyle p_{U}}
+   is just the norm on 
+  
+    
+      
+        X
+        .
+      
+    
+    {\displaystyle X.}
+   
+Example 2
+Let 
+  
+    
+      
+        X
+      
+    
+    {\displaystyle X}
+   be a vector space without topology with underlying scalar field 
+  
+    
+      
+        
+          K
+        
+        .
+      
+    
+    {\displaystyle \mathbb {K} .}
+  
+Let 
+  
+    
+      
+        f
+        :
+        X
+        →
+        
+          K
+        
+      
+    
+    {\displaystyle f:X\to \mathbb {K} }
+   be any linear functional on 
+  
+    
+      
+        X
+      
+    
+    {\displaystyle X}
+   (not necessarily continuous). 
+Fix 
+  
+    
+      
+        a
+        >
+        0.
+      
+    
+    {\displaystyle a>0.}
+   
+Let 
+  
+    
+      
+        K
+      
+    
+    {\displaystyle K}
+   be the set 
+
+and let 
+  
+    
+      
+        
+          p
+          
+            K
+          
+        
+      
+    
+    {\displaystyle p_{K}}
+   be the Minkowski functional of 
+  
+    
+      
+        K
+        .
+      
+    
+    {\displaystyle K.}
+   
+Then
+
+The function 
+  
+    
+      
+        
+          p
+          
+            K
+          
+        
+      
+    
+    {\displaystyle p_{K}}
+   has the following properties:
+
+It is subadditive: 
+  
+    
+      
+        
+          p
+          
+            K
+          
+        
+        (
+        x
+        +
+        y
+        )
+        ≤
+        
+          p
+          
+            K
+          
+        
+        (
+        x
+        )
+        +
+        
+          p
+          
+            K
+          
+        
+        (
+        y
+        )
+        .
+      
+    
+    {\displaystyle p_{K}(x+y)\leq p_{K}(x)+p_{K}(y).}
+  
+It is absolutely homogeneous: 
+  
+    
+      
+        
+          p
+          
+            K
+          
+        
+        (
+        s
+        x
+        )
+        =
+        
+          |
+        
+        s
+        
+          |
+        
+        
+          p
+          
+            K
+          
+        
+        (
+        x
+        )
+      
+    
+    {\displaystyle p_{K}(sx)=|s|p_{K}(x)}
+   for all scalars 
+  
+    
+      
+        s
+        .
+      
+    
+    {\displaystyle s.}
+  
+It is nonnegative: 
+  
+    
+      
+        
+          p
+          
+            K
+          
+        
+        ≥
+        0.
+      
+    
+    {\displaystyle p_{K}\geq 0.}
+  Therefore, 
+  
+    
+      
+        
+          p
+          
+            K
+          
+        
+      
+    
+    {\displaystyle p_{K}}
+   is a seminorm on 
+  
+    
+      
+        X
+        ,
+      
+    
+    {\displaystyle X,}
+   with an induced topology. 
+This is characteristic of Minkowski functionals defined via "nice" sets. 
+There is a one-to-one correspondence between seminorms and the Minkowski functional given by such sets. 
+What is meant precisely by "nice" is discussed in the section below.
+Notice that, in contrast to a stronger requirement for a norm, 
+  
+    
+      
+        
+          p
+          
+            K
+          
+        
+        (
+        x
+        )
+        =
+        0
+      
+    
+    {\displaystyle p_{K}(x)=0}
+   need not imply 
+  
+    
+      
+        x
+        =
+        0.
+      
+    
+    {\displaystyle x=0.}
+   
+In the above example, one can take a nonzero 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+   from the kernel of 
+  
+    
+      
+        f
+        .
+      
+    
+    {\displaystyle f.}
+   
+Consequently, the resulting topology need not be Hausdorff.
+
+
+== Common conditions guaranteeing gauges are seminorms ==
+To guarantee that 
+  
+    
+      
+        
+          p
+          
+            K
+          
+        
+        (
+        0
+        )
+        =
+        0
+        ,
+      
+    
+    {\displaystyle p_{K}(0)=0,}
+   it will henceforth be assumed that 
+  
+    
+      
+        0
+        ∈
+        K
+        .
+      
+    
+    {\displaystyle 0\in K.}
+  
+In order for 
+  
+    
+      
+        
+          p
+          
+            K
+          
+        
+      
+    
+    {\displaystyle p_{K}}
+   to be a seminorm, it suffices for 
+  
+    
+      
+        K
+      
+    
+    {\displaystyle K}
+   to be a disk (that is, convex and balanced) and absorbing in 
+  
+    
+      
+        X
+        ,
+      
+    
+    {\displaystyle X,}
+   which are the most common assumption placed on 
+  
+    
+      
+        K
+        .
+      
+    
+    {\displaystyle K.}
+  
+
+More generally, if 
+  
+    
+      
+        K
+      
+    
+    {\displaystyle K}
+   is convex and the origin belongs to the algebraic interior of 
+  
+    
+      
+        K
+        ,
+      
+    
+    {\displaystyle K,}
+   then 
+  
+    
+      
+        
+          p
+          
+            K
+          
+        
+      
+    
+    {\displaystyle p_{K}}
+   is a nonnegative sublinear functional on 
+  
+    
+      
+        X
+        ,
+      
+    
+    {\displaystyle X,}
+   which implies in particular that it is subadditive and positive homogeneous.
+If 
+  
+    
+      
+        K
+      
+    
+    {\displaystyle K}
+   is absorbing in 
+  
+    
+      
+        X
+      
+    
+    {\displaystyle X}
+   then 
+  
+    
+      
+        
+          p
+          
+            [
+            0
+            ,
+            1
+            ]
+            K
+          
+        
+      
+    
+    {\displaystyle p_{[0,1]K}}
+   is positive homogeneous, meaning that 
+  
+    
+      
+        
+          p
+          
+            [
+            0
+            ,
+            1
+            ]
+            K
+          
+        
+        (
+        s
+        x
+        )
+        =
+        s
+        
+          p
+          
+            [
+            0
+            ,
+            1
+            ]
+            K
+          
+        
+        (
+        x
+        )
+      
+    
+    {\displaystyle p_{[0,1]K}(sx)=sp_{[0,1]K}(x)}
+   for all real 
+  
+    
+      
+        s
+        ≥
+        0
+        ,
+      
+    
+    {\displaystyle s\geq 0,}
+   where 
+  
+    
+      
+        [
+        0
+        ,
+        1
+        ]
+        K
+        =
+        {
+        t
+        k
+        :
+        t
+        ∈
+        [
+        0
+        ,
+        1
+        ]
+        ,
+        k
+        ∈
+        K
+        }
+        .
+      
+    
+    {\displaystyle [0,1]K=\{tk:t\in [0,1],k\in K\}.}
+  
+If 
+  
+    
+      
+        q
+      
+    
+    {\displaystyle q}
+   is a nonnegative real-valued function on 
+  
+    
+      
+        X
+      
+    
+    {\displaystyle X}
+   that is positive homogeneous, then the sets 
+  
+    
+      
+        U
+        :=
+        {
+        x
+        ∈
+        X
+        :
+        q
+        (
+        x
+        )
+        <
+        1
+        }
+      
+    
+    {\displaystyle U:=\{x\in X:q(x)<1\}}
+   and 
+  
+    
+      
+        D
+        :=
+        {
+        x
+        ∈
+        X
+        :
+        q
+        (
+        x
+        )
+        ≤
+        1
+        }
+      
+    
+    {\displaystyle D:=\{x\in X:q(x)\leq 1\}}
+   satisfy 
+  
+    
+      
+        [
+        0
+        ,
+        1
+        ]
+        U
+        =
+        U
+      
+    
+    {\displaystyle [0,1]U=U}
+   and 
+  
+    
+      
+        [
+        0
+        ,
+        1
+        ]
+        D
+        =
+        D
+        ;
+      
+    
+    {\displaystyle [0,1]D=D;}
+   
+if in addition 
+  
+    
+      
+        q
+      
+    
+    {\displaystyle q}
+   is absolutely homogeneous then both 
+  
+    
+      
+        U
+      
+    
+    {\displaystyle U}
+   and 
+  
+    
+      
+        D
+      
+    
+    {\displaystyle D}
+   are balanced.
+
+
+=== Gauges of absorbing disks ===
+Arguably the most common requirements placed on a set 
+  
+    
+      
+        K
+      
+    
+    {\displaystyle K}
+   to guarantee that 
+  
+    
+      
+        
+          p
+          
+            K
+          
+        
+      
+    
+    {\displaystyle p_{K}}
+   is a seminorm are that 
+  
+    
+      
+        K
+      
+    
+    {\displaystyle K}
+   be an absorbing disk in 
+  
+    
+      
+        X
+        .
+      
+    
+    {\displaystyle X.}
+  
+Due to how common these assumptions are, the properties of a Minkowski functional 
+  
+    
+      
+        
+          p
+          
+            K
+          
+        
+      
+    
+    {\displaystyle p_{K}}
+   when 
+  
+    
+      
+        K
+      
+    
+    {\displaystyle K}
+   is an absorbing disk will now be investigated. 
+Since all of the results mentioned above made few (if any) assumptions on 
+  
+    
+      
+        K
+        ,
+      
+    
+    {\displaystyle K,}
+   they can be applied in this special case. 
+
+
+=== Algebraic properties ===
+Let 
+  
+    
+      
+        X
+      
+    
+    {\displaystyle X}
+   be a real or complex vector space and let 
+  
+    
+      
+        K
+      
+    
+    {\displaystyle K}
+   be an absorbing disk in 
+  
+    
+      
+        X
+        .
+      
+    
+    {\displaystyle X.}
+   
+
+  
+    
+      
+        
+          p
+          
+            K
+          
+        
+      
+    
+    {\displaystyle p_{K}}
+   is a seminorm on 
+  
+    
+      
+        X
+        .
+      
+    
+    {\displaystyle X.}
+  
+
+  
+    
+      
+        
+          p
+          
+            K
+          
+        
+      
+    
+    {\displaystyle p_{K}}
+   is a norm on 
+  
+    
+      
+        X
+      
+    
+    {\displaystyle X}
+   if and only if 
+  
+    
+      
+        K
+      
+    
+    {\displaystyle K}
+   does not contain a non-trivial vector subspace.
+
+  
+    
+      
+        
+          p
+          
+            s
+            K
+          
+        
+        =
+        
+          
+            1
+            
+              
+                |
+              
+              s
+              
+                |
+              
+            
+          
+        
+        
+          p
+          
+            K
+          
+        
+      
+    
+    {\displaystyle p_{sK}={\frac {1}{|s|}}p_{K}}
+   for any scalar 
+  
+    
+      
+        s
+        ≠
+        0.
+      
+    
+    {\displaystyle s\neq 0.}
+  
+If 
+  
+    
+      
+        J
+      
+    
+    {\displaystyle J}
+   is an absorbing disk in 
+  
+    
+      
+        X
+      
+    
+    {\displaystyle X}
+   and 
+  
+    
+      
+        J
+        ⊆
+        K
+      
+    
+    {\displaystyle J\subseteq K}
+   then 
+  
+    
+      
+        
+          p
+          
+            K
+          
+        
+        ≤
+        
+          p
+          
+            J
+          
+        
+        .
+      
+    
+    {\displaystyle p_{K}\leq p_{J}.}
+  
+If 
+  
+    
+      
+        K
+      
+    
+    {\displaystyle K}
+   is a set satisfying 
+  
+    
+      
+        {
+        x
+        ∈
+        X
+        :
+        p
+        (
+        x
+        )
+        <
+        1
+        }
+        
+        ⊆
+        
+        K
+        
+        ⊆
+        
+        {
+        x
+        ∈
+        X
+        :
+        p
+        (
+        x
+        )
+        ≤
+        1
+        }
+      
+    
+    {\displaystyle \{x\in X:p(x)<1\}\;\subseteq \;K\;\subseteq \;\{x\in X:p(x)\leq 1\}}
+   then 
+  
+    
+      
+        K
+      
+    
+    {\displaystyle K}
+   is absorbing in 
+  
+    
+      
+        X
+      
+    
+    {\displaystyle X}
+   and 
+  
+    
+      
+        p
+        =
+        
+          p
+          
+            K
+          
+        
+        ,
+      
+    
+    {\displaystyle p=p_{K},}
+   where 
+  
+    
+      
+        
+          p
+          
+            K
+          
+        
+      
+    
+    {\displaystyle p_{K}}
+   is the Minkowski functional associated with 
+  
+    
+      
+        K
+        ;
+      
+    
+    {\displaystyle K;}
+   that is, it is the gauge of 
+  
+    
+      
+        K
+        .
+      
+    
+    {\displaystyle K.}
+  In particular, if 
+  
+    
+      
+        K
+      
+    
+    {\displaystyle K}
+   is as above and 
+  
+    
+      
+        q
+      
+    
+    {\displaystyle q}
+   is any seminorm on 
+  
+    
+      
+        X
+        ,
+      
+    
+    {\displaystyle X,}
+   then 
+  
+    
+      
+        q
+        =
+        p
+      
+    
+    {\displaystyle q=p}
+   if and only if 
+  
+    
+      
+        {
+        x
+        ∈
+        X
+        :
+        q
+        (
+        x
+        )
+        <
+        1
+        }
+        
+        ⊆
+        
+        K
+        
+        ⊆
+        
+        {
+        x
+        ∈
+        X
+        :
+        q
+        (
+        x
+        )
+        ≤
+        1
+        }
+        .
+      
+    
+    {\displaystyle \{x\in X:q(x)<1\}\;\subseteq \;K\;\subseteq \;\{x\in X:q(x)\leq 1\}.}
+  If 
+  
+    
+      
+        x
+        ∈
+        X
+      
+    
+    {\displaystyle x\in X}
+   satisfies 
+  
+    
+      
+        
+          p
+          
+            K
+          
+        
+        (
+        x
+        )
+        <
+        1
+      
+    
+    {\displaystyle p_{K}(x)<1}
+   then 
+  
+    
+      
+        x
+        ∈
+        K
+        .
+      
+    
+    {\displaystyle x\in K.}
+  
+
+
+=== Topological properties ===
+Assume that 
+  
+    
+      
+        X
+      
+    
+    {\displaystyle X}
+   is a (real or complex) topological vector space (TVS) (not necessarily Hausdorff or locally convex) and let 
+  
+    
+      
+        K
+      
+    
+    {\displaystyle K}
+   be an absorbing disk in 
+  
+    
+      
+        X
+        .
+      
+    
+    {\displaystyle X.}
+   Then
+
+where 
+  
+    
+      
+        
+          Int
+          
+            X
+          
+        
+        ⁡
+        K
+      
+    
+    {\displaystyle \operatorname {Int} _{X}K}
+    is the topological interior and 
+  
+    
+      
+        
+          Cl
+          
+            X
+          
+        
+        ⁡
+        K
+      
+    
+    {\displaystyle \operatorname {Cl} _{X}K}
+   is the topological closure of 
+  
+    
+      
+        K
+      
+    
+    {\displaystyle K}
+   in 
+  
+    
+      
+        X
+        .
+      
+    
+    {\displaystyle X.}
+   
+Importantly, it was not assumed that 
+  
+    
+      
+        
+          p
+          
+            K
+          
+        
+      
+    
+    {\displaystyle p_{K}}
+   was continuous nor was it assumed that 
+  
+    
+      
+        K
+      
+    
+    {\displaystyle K}
+   had any topological properties. 
+Moreover, the Minkowski functional 
+  
+    
+      
+        
+          p
+          
+            K
+          
+        
+      
+    
+    {\displaystyle p_{K}}
+   is continuous if and only if 
+  
+    
+      
+        K
+      
+    
+    {\displaystyle K}
+   is a neighborhood of the origin in 
+  
+    
+      
+        X
+        .
+      
+    
+    {\displaystyle X.}
+   
+If 
+  
+    
+      
+        
+          p
+          
+            K
+          
+        
+      
+    
+    {\displaystyle p_{K}}
+   is continuous then
+
+
+== Minimal requirements on the set ==
+This section will investigate the most general case of the gauge of any subset 
+  
+    
+      
+        K
+      
+    
+    {\displaystyle K}
+   of 
+  
+    
+      
+        X
+        .
+      
+    
+    {\displaystyle X.}
+   
+The more common special case where 
+  
+    
+      
+        K
+      
+    
+    {\displaystyle K}
+   is assumed to be an absorbing disk in 
+  
+    
+      
+        X
+      
+    
+    {\displaystyle X}
+   was discussed above. 
+
+
+=== Properties ===
+All results in this section may be applied to the case where 
+  
+    
+      
+        K
+      
+    
+    {\displaystyle K}
+   is an absorbing disk. 
+Throughout, 
+  
+    
+      
+        K
+      
+    
+    {\displaystyle K}
+   is any subset of 
+  
+    
+      
+        X
+        .
+      
+    
+    {\displaystyle X.}
+  
+
+
+=== Examples ===
+If 
+  
+    
+      
+        
+          
+            L
+          
+        
+      
+    
+    {\displaystyle {\mathcal {L}}}
+   is a non-empty collection of subsets of 
+  
+    
+      
+        X
+      
+    
+    {\displaystyle X}
+   then 
+  
+    
+      
+        
+          p
+          
+            ∪
+            
+              
+                L
+              
+            
+          
+        
+        (
+        x
+        )
+        =
+        inf
+        
+          {
+          
+            
+              p
+              
+                L
+              
+            
+            (
+            x
+            )
+            :
+            L
+            ∈
+            
+              
+                L
+              
+            
+          
+          }
+        
+      
+    
+    {\displaystyle p_{\cup {\mathcal {L}}}(x)=\inf \left\{p_{L}(x):L\in {\mathcal {L}}\right\}}
+   for all 
+  
+    
+      
+        x
+        ∈
+        X
+        ,
+      
+    
+    {\displaystyle x\in X,}
+   where 
+  
+    
+      
+        ∪
+        
+          
+            L
+          
+        
+         
+        
+          
+            
+              
+                =
+              
+              
+                
+                  
+                    def
+                  
+                
+              
+            
+          
+        
+         
+        
+          
+            
+              ⋃
+              
+                L
+                ∈
+                
+                  
+                    L
+                  
+                
+              
+            
+          
+        
+        L
+        .
+      
+    
+    {\displaystyle \cup {\mathcal {L}}~{\stackrel {\scriptscriptstyle {\text{def}}}{=}}~{\textstyle \bigcup \limits _{L\in {\mathcal {L}}}}L.}
+   
+Thus 
+  
+    
+      
+        
+          p
+          
+            K
+            ∪
+            L
+          
+        
+        (
+        x
+        )
+        =
+        min
+        
+          {
+          
+            
+              p
+              
+                K
+              
+            
+            (
+            x
+            )
+            ,
+            
+              p
+              
+                L
+              
+            
+            (
+            x
+            )
+          
+          }
+        
+      
+    
+    {\displaystyle p_{K\cup L}(x)=\min \left\{p_{K}(x),p_{L}(x)\right\}}
+   for all 
+  
+    
+      
+        x
+        ∈
+        X
+        .
+      
+    
+    {\displaystyle x\in X.}
+  
+If 
+  
+    
+      
+        
+          
+            L
+          
+        
+      
+    
+    {\displaystyle {\mathcal {L}}}
+   is a non-empty collection of subsets of 
+  
+    
+      
+        X
+      
+    
+    {\displaystyle X}
+   and 
+  
+    
+      
+        I
+        ⊆
+        X
+      
+    
+    {\displaystyle I\subseteq X}
+   satisfies 
+ 
+then 
+  
+    
+      
+        
+          p
+          
+            I
+          
+        
+        (
+        x
+        )
+        =
+        sup
+        
+          {
+          
+            
+              p
+              
+                L
+              
+            
+            (
+            x
+            )
+            :
+            L
+            ∈
+            
+              
+                L
+              
+            
+          
+          }
+        
+      
+    
+    {\displaystyle p_{I}(x)=\sup \left\{p_{L}(x):L\in {\mathcal {L}}\right\}}
+   for all 
+  
+    
+      
+        x
+        ∈
+        X
+        .
+      
+    
+    {\displaystyle x\in X.}
+  
+
+The following examples show that the containment 
+  
+    
+      
+        (
+        0
+        ,
+        R
+        ]
+        K
+        
+        ⊆
+        
+        
+          
+            
+              ⋂
+              
+                e
+                >
+                0
+              
+            
+          
+        
+        (
+        0
+        ,
+        R
+        +
+        e
+        )
+        K
+      
+    
+    {\displaystyle (0,R]K\;\subseteq \;{\textstyle \bigcap \limits _{e>0}}(0,R+e)K}
+   could be proper. 
+Example: If 
+  
+    
+      
+        R
+        =
+        0
+      
+    
+    {\displaystyle R=0}
+   and 
+  
+    
+      
+        K
+        =
+        X
+      
+    
+    {\displaystyle K=X}
+   then 
+  
+    
+      
+        (
+        0
+        ,
+        R
+        ]
+        K
+        =
+        (
+        0
+        ,
+        0
+        ]
+        X
+        =
+        ∅
+        X
+        =
+        ∅
+      
+    
+    {\displaystyle (0,R]K=(0,0]X=\varnothing X=\varnothing }
+   but 
+  
+    
+      
+        
+          
+            
+              ⋂
+              
+                e
+                >
+                0
+              
+            
+          
+        
+        (
+        0
+        ,
+        e
+        )
+        K
+        =
+        
+          
+            
+              ⋂
+              
+                e
+                >
+                0
+              
+            
+          
+        
+        X
+        =
+        X
+        ,
+      
+    
+    {\displaystyle {\textstyle \bigcap \limits _{e>0}}(0,e)K={\textstyle \bigcap \limits _{e>0}}X=X,}
+   which shows that its possible for 
+  
+    
+      
+        (
+        0
+        ,
+        R
+        ]
+        K
+      
+    
+    {\displaystyle (0,R]K}
+   to be a proper subset of 
+  
+    
+      
+        
+          
+            
+              ⋂
+              
+                e
+                >
+                0
+              
+            
+          
+        
+        (
+        0
+        ,
+        R
+        +
+        e
+        )
+        K
+      
+    
+    {\displaystyle {\textstyle \bigcap \limits _{e>0}}(0,R+e)K}
+   when 
+  
+    
+      
+        R
+        =
+        0.
+      
+    
+    {\displaystyle R=0.}
+   
+  
+    
+      
+        ◼
+      
+    
+    {\displaystyle \blacksquare }
+  
+The next example shows that the containment can be proper when 
+  
+    
+      
+        R
+        =
+        1
+        ;
+      
+    
+    {\displaystyle R=1;}
+   the example may be generalized to any real 
+  
+    
+      
+        R
+        >
+        0.
+      
+    
+    {\displaystyle R>0.}
+   
+Assuming that 
+  
+    
+      
+        [
+        0
+        ,
+        1
+        ]
+        K
+        ⊆
+        K
+        ,
+      
+    
+    {\displaystyle [0,1]K\subseteq K,}
+   the following example is representative of how it happens that 
+  
+    
+      
+        x
+        ∈
+        X
+      
+    
+    {\displaystyle x\in X}
+   satisfies 
+  
+    
+      
+        
+          p
+          
+            K
+          
+        
+        (
+        x
+        )
+        =
+        1
+      
+    
+    {\displaystyle p_{K}(x)=1}
+   but 
+  
+    
+      
+        x
+        ∉
+        (
+        0
+        ,
+        1
+        ]
+        K
+        .
+      
+    
+    {\displaystyle x\not \in (0,1]K.}
+  
+Example: Let 
+  
+    
+      
+        x
+        ∈
+        X
+      
+    
+    {\displaystyle x\in X}
+   be non-zero and let 
+  
+    
+      
+        K
+        =
+        [
+        0
+        ,
+        1
+        )
+        x
+      
+    
+    {\displaystyle K=[0,1)x}
+   so that 
+  
+    
+      
+        [
+        0
+        ,
+        1
+        ]
+        K
+        =
+        K
+      
+    
+    {\displaystyle [0,1]K=K}
+   and 
+  
+    
+      
+        x
+        ∉
+        K
+        .
+      
+    
+    {\displaystyle x\not \in K.}
+   
+From 
+  
+    
+      
+        x
+        ∉
+        (
+        0
+        ,
+        1
+        )
+        K
+        =
+        K
+      
+    
+    {\displaystyle x\not \in (0,1)K=K}
+   it follows that 
+  
+    
+      
+        
+          p
+          
+            K
+          
+        
+        (
+        x
+        )
+        ≥
+        1.
+      
+    
+    {\displaystyle p_{K}(x)\geq 1.}
+   
+That 
+  
+    
+      
+        
+          p
+          
+            K
+          
+        
+        (
+        x
+        )
+        ≤
+        1
+      
+    
+    {\displaystyle p_{K}(x)\leq 1}
+   follows from observing that for every 
+  
+    
+      
+        e
+        >
+        0
+        ,
+      
+    
+    {\displaystyle e>0,}
+   
+  
+    
+      
+        (
+        0
+        ,
+        1
+        +
+        e
+        )
+        K
+        =
+        [
+        0
+        ,
+        1
+        +
+        e
+        )
+        (
+        [
+        0
+        ,
+        1
+        )
+        x
+        )
+        =
+        [
+        0
+        ,
+        1
+        +
+        e
+        )
+        x
+        ,
+      
+    
+    {\displaystyle (0,1+e)K=[0,1+e)([0,1)x)=[0,1+e)x,}
+   which contains 
+  
+    
+      
+        x
+        .
+      
+    
+    {\displaystyle x.}
+   
+Thus 
+  
+    
+      
+        
+          p
+          
+            K
+          
+        
+        (
+        x
+        )
+        =
+        1
+      
+    
+    {\displaystyle p_{K}(x)=1}
+   and 
+  
+    
+      
+        x
+        ∈
+        
+          
+            
+              ⋂
+              
+                e
+                >
+                0
+              
+            
+          
+        
+        (
+        0
+        ,
+        1
+        +
+        e
+        )
+        K
+        .
+      
+    
+    {\displaystyle x\in {\textstyle \bigcap \limits _{e>0}}(0,1+e)K.}
+   
+However, 
+  
+    
+      
+        (
+        0
+        ,
+        1
+        ]
+        K
+        =
+        (
+        0
+        ,
+        1
+        ]
+        (
+        [
+        0
+        ,
+        1
+        )
+        x
+        )
+        =
+        [
+        0
+        ,
+        1
+        )
+        x
+        =
+        K
+      
+    
+    {\displaystyle (0,1]K=(0,1]([0,1)x)=[0,1)x=K}
+   so that 
+  
+    
+      
+        x
+        ∉
+        (
+        0
+        ,
+        1
+        ]
+        K
+        ,
+      
+    
+    {\displaystyle x\not \in (0,1]K,}
+   as desired. 
+
+  
+    
+      
+        ◼
+      
+    
+    {\displaystyle \blacksquare }
+  
+
+
+=== Positive homogeneity characterizes Minkowski functionals ===
+The next theorem shows that Minkowski functionals are exactly those functions 
+  
+    
+      
+        f
+        :
+        X
+        →
+        [
+        0
+        ,
+        ∞
+        ]
+      
+    
+    {\displaystyle f:X\to [0,\infty ]}
+   that have a certain purely algebraic property that is commonly encountered. 
+
+This theorem can be extended to characterize certain classes of 
+  
+    
+      
+        [
+        −
+        ∞
+        ,
+        ∞
+        ]
+      
+    
+    {\displaystyle [-\infty ,\infty ]}
+  -valued maps (for example, real-valued sublinear functions) in terms of Minkowski functionals. 
+For instance, it can be used to describe how every real homogeneous function 
+  
+    
+      
+        f
+        :
+        X
+        →
+        
+          R
+        
+      
+    
+    {\displaystyle f:X\to \mathbb {R} }
+   (such as linear functionals) can be written in terms of a unique Minkowski functional having a certain property.
+
+
+=== Characterizing Minkowski functionals on star sets ===
+
+
+=== Characterizing Minkowski functionals that are seminorms ===
+In this next theorem, which follows immediately from the statements above, 
+  
+    
+      
+        K
+      
+    
+    {\displaystyle K}
+   is not assumed to be absorbing in 
+  
+    
+      
+        X
+      
+    
+    {\displaystyle X}
+   and instead, it is deduced that 
+  
+    
+      
+        (
+        0
+        ,
+        1
+        )
+        K
+      
+    
+    {\displaystyle (0,1)K}
+   is absorbing when 
+  
+    
+      
+        
+          p
+          
+            K
+          
+        
+      
+    
+    {\displaystyle p_{K}}
+   is a seminorm. It is also not assumed that 
+  
+    
+      
+        K
+      
+    
+    {\displaystyle K}
+   is balanced (which is a property that 
+  
+    
+      
+        K
+      
+    
+    {\displaystyle K}
+   is often required to have); in its place is the weaker condition that 
+  
+    
+      
+        (
+        0
+        ,
+        1
+        )
+        s
+        K
+        ⊆
+        (
+        0
+        ,
+        1
+        )
+        K
+      
+    
+    {\displaystyle (0,1)sK\subseteq (0,1)K}
+   for all scalars 
+  
+    
+      
+        s
+      
+    
+    {\displaystyle s}
+   satisfying 
+  
+    
+      
+        
+          |
+        
+        s
+        
+          |
+        
+        =
+        1.
+      
+    
+    {\displaystyle |s|=1.}
+   
+The common requirement that 
+  
+    
+      
+        K
+      
+    
+    {\displaystyle K}
+   be convex is also weakened to only requiring that 
+  
+    
+      
+        (
+        0
+        ,
+        1
+        )
+        K
+      
+    
+    {\displaystyle (0,1)K}
+   be convex.
+
+
+=== Positive sublinear functions and Minkowski functionals ===
+It may be shown that a real-valued subadditive function 
+  
+    
+      
+        f
+        :
+        X
+        →
+        
+          R
+        
+      
+    
+    {\displaystyle f:X\to \mathbb {R} }
+   on an arbitrary topological vector space 
+  
+    
+      
+        X
+      
+    
+    {\displaystyle X}
+   is continuous at the origin if and only if it is uniformly continuous, where if in addition 
+  
+    
+      
+        f
+      
+    
+    {\displaystyle f}
+   is nonnegative, then 
+  
+    
+      
+        f
+      
+    
+    {\displaystyle f}
+   is continuous if and only if 
+  
+    
+      
+        V
+        :=
+        {
+        x
+        ∈
+        X
+        :
+        f
+        (
+        x
+        )
+        <
+        1
+        }
+      
+    
+    {\displaystyle V:=\{x\in X:f(x)<1\}}
+   is an open neighborhood in 
+  
+    
+      
+        X
+        .
+      
+    
+    {\displaystyle X.}
+   
+If 
+  
+    
+      
+        f
+        :
+        X
+        →
+        
+          R
+        
+      
+    
+    {\displaystyle f:X\to \mathbb {R} }
+   is subadditive and satisfies 
+  
+    
+      
+        f
+        (
+        0
+        )
+        =
+        0
+        ,
+      
+    
+    {\displaystyle f(0)=0,}
+   then 
+  
+    
+      
+        f
+      
+    
+    {\displaystyle f}
+   is continuous if and only if its absolute value 
+  
+    
+      
+        
+          |
+        
+        f
+        
+          |
+        
+        :
+        X
+        →
+        [
+        0
+        ,
+        ∞
+        )
+      
+    
+    {\displaystyle |f|:X\to [0,\infty )}
+   is continuous. 
+A nonnegative sublinear function is a nonnegative homogeneous function 
+  
+    
+      
+        f
+        :
+        X
+        →
+        [
+        0
+        ,
+        ∞
+        )
+      
+    
+    {\displaystyle f:X\to [0,\infty )}
+   that satisfies the triangle inequality. 
+It follows immediately from the results below that for such a function 
+  
+    
+      
+        f
+        ,
+      
+    
+    {\displaystyle f,}
+   if 
+  
+    
+      
+        V
+        :=
+        {
+        x
+        ∈
+        X
+        :
+        f
+        (
+        x
+        )
+        <
+        1
+        }
+      
+    
+    {\displaystyle V:=\{x\in X:f(x)<1\}}
+   then 
+  
+    
+      
+        f
+        =
+        
+          p
+          
+            V
+          
+        
+        .
+      
+    
+    {\displaystyle f=p_{V}.}
+   
+Given 
+  
+    
+      
+        K
+        ⊆
+        X
+        ,
+      
+    
+    {\displaystyle K\subseteq X,}
+   the Minkowski functional 
+  
+    
+      
+        
+          p
+          
+            K
+          
+        
+      
+    
+    {\displaystyle p_{K}}
+   is a sublinear function if and only if it is real-valued and subadditive, which is happens if and only if 
+  
+    
+      
+        (
+        0
+        ,
+        ∞
+        )
+        K
+        =
+        X
+      
+    
+    {\displaystyle (0,\infty )K=X}
+   and 
+  
+    
+      
+        (
+        0
+        ,
+        1
+        )
+        K
+      
+    
+    {\displaystyle (0,1)K}
+   is convex. 
+Correspondence between open convex sets and positive continuous sublinear functions
+
+
+== See also ==
+Asymmetric norm – Generalization of the concept of a norm
+Auxiliary normed space
+Cauchy's functional equation – Functional equation
+Finest locally convex topology – A vector space with a topology defined by convex open setsPages displaying short descriptions of redirect targets
+Finsler manifold – smooth manifold equipped with a Minkowski functional at each tangent spacePages displaying wikidata descriptions as a fallback
+Hadwiger's theorem
+Hugo Hadwiger – Swiss mathematician
+Locally convex topological vector space – A vector space with a topology defined by convex open sets
+Morphological image processing – theory and technique for the analysis and processing of geometrical structuresPages displaying wikidata descriptions as a fallback
+Norm (mathematics) – Length in a vector space
+Seminorm – nonnegative-real-valued function on a real or complex vector space that satisfies the triangle inequality and is absolutely homogenousPages displaying wikidata descriptions as a fallback
+Topological vector space – Vector space with a notion of nearness
+
+
+== Notes ==
+
+
+== References ==
+
+Berberian, Sterling K. (1974). Lectures in Functional Analysis and Operator Theory. Graduate Texts in Mathematics. Vol. 15. New York: Springer. ISBN 978-0-387-90081-0. OCLC 878109401.
+Bourbaki, Nicolas (1987) [1981]. Topological Vector Spaces: Chapters 1–5. Éléments de mathématique. Translated by Eggleston, H.G.; Madan, S. Berlin New York: Springer-Verlag. ISBN 3-540-13627-4. OCLC 17499190.
+Conway, John (1990). A course in functional analysis. Graduate Texts in Mathematics. Vol. 96 (2nd ed.). New York: Springer-Verlag. ISBN 978-0-387-97245-9. OCLC 21195908.
+Diestel, Joe (2008). The Metric Theory of Tensor Products: Grothendieck's Résumé Revisited. Vol. 16. Providence, R.I.: American Mathematical Society. ISBN 9781470424831. OCLC 185095773.
+Dineen, Seán (1981). Complex Analysis in Locally Convex Spaces. North-Holland Mathematics Studies. Vol. 57. Amsterdam New York New York: North-Holland Pub. Co., Elsevier Science Pub. Co. ISBN 978-0-08-087168-4. OCLC 16549589.
+Dunford, Nelson; Schwartz, Jacob T. (1988). Linear Operators. Pure and applied mathematics. Vol. 1. New York: Wiley-Interscience. ISBN 978-0-471-60848-6. OCLC 18412261.
+Edwards, Robert E. (1995). Functional Analysis: Theory and Applications. New York: Dover Publications. ISBN 978-0-486-68143-6. OCLC 30593138.
+Grothendieck, Alexander (1973). Topological Vector Spaces. Translated by Chaljub, Orlando. New York: Gordon and Breach Science Publishers. ISBN 978-0-677-30020-7. OCLC 886098.
+Hogbe-Nlend, Henri (1977). Bornologies and Functional Analysis: Introductory Course on the Theory of Duality Topology-Bornology and its use in Functional Analysis. North-Holland Mathematics Studies. Vol. 26. Amsterdam New York New York: North Holland. ISBN 978-0-08-087137-0. MR 0500064. OCLC 316549583.
+Hogbe-Nlend, Henri; Moscatelli, V. B. (1981). Nuclear and Conuclear Spaces: Introductory Course on Nuclear and Conuclear Spaces in the Light of the Duality "topology-bornology". North-Holland Mathematics Studies. Vol. 52. Amsterdam New York New York: North Holland. ISBN 978-0-08-087163-9. OCLC 316564345.
+Husain, Taqdir; Khaleelulla, S. M. (1978). Barrelledness in Topological and Ordered Vector Spaces. Lecture Notes in Mathematics. Vol. 692. Berlin, New York, Heidelberg: Springer-Verlag. ISBN 978-3-540-09096-0. OCLC 4493665.
+Jarchow, Hans (1981). Locally convex spaces. Stuttgart: B.G. Teubner. ISBN 978-3-519-02224-4. OCLC 8210342.
+Keller, Hans (1974). Differential Calculus in Locally Convex Spaces. Lecture Notes in Mathematics. Vol. 417. Berlin New York: Springer-Verlag. ISBN 978-3-540-06962-1. OCLC 1103033.
+Khaleelulla, S. M. (1982). Counterexamples in Topological Vector Spaces. Lecture Notes in Mathematics. Vol. 936. Berlin, Heidelberg, New York: Springer-Verlag. ISBN 978-3-540-11565-6. OCLC 8588370.
+Kubrusly, Carlos S. (2011). The Elements of Operator Theory (Second ed.). Boston: Birkhäuser Basel. ISBN 978-0-8176-4998-2. OCLC 710154895.
+Jarchow, Hans (1981). Locally convex spaces. Stuttgart: B.G. Teubner. ISBN 978-3-519-02224-4. OCLC 8210342.
+Köthe, Gottfried (1983) [1969]. Topological Vector Spaces I. Grundlehren der mathematischen Wissenschaften. Vol. 159. Translated by Garling, D.J.H. New York: Springer Science & Business Media. ISBN 978-3-642-64988-2. MR 0248498. OCLC 840293704.
+Köthe, Gottfried (1979). Topological Vector Spaces II. Grundlehren der mathematischen Wissenschaften. Vol. 237. New York: Springer Science & Business Media. ISBN 978-0-387-90400-9. OCLC 180577972.
+Narici, Lawrence; Beckenstein, Edward (2011). Topological Vector Spaces. Pure and applied mathematics (Second ed.). Boca Raton, FL: CRC Press. ISBN 978-1584888666. OCLC 144216834.
+Pietsch, Albrecht (1979). Nuclear Locally Convex Spaces. Ergebnisse der Mathematik und ihrer Grenzgebiete. Vol. 66 (Second ed.). Berlin, New York: Springer-Verlag. ISBN 978-0-387-05644-9. OCLC 539541.
+Robertson, Alex P.; Robertson, Wendy J. (1980). Topological Vector Spaces. Cambridge Tracts in Mathematics. Vol. 53. Cambridge England: Cambridge University Press. ISBN 978-0-521-29882-7. OCLC 589250.
+Rudin, Walter (1991). Functional Analysis. International Series in Pure and Applied Mathematics. Vol. 8 (Second ed.). New York, NY: McGraw-Hill Science/Engineering/Math. ISBN 978-0-07-054236-5. OCLC 21163277.
+Thompson, Anthony C. (1996). Minkowski Geometry. Encyclopedia of Mathematics and Its Applications. Cambridge University Press. ISBN 0-521-40472-X.
+Schaefer, Helmut H.; Wolff, Manfred P. (1999). Topological Vector Spaces. GTM. Vol. 8 (Second ed.). New York, NY: Springer New York Imprint Springer. ISBN 978-1-4612-7155-0. OCLC 840278135.
+Schechter, Eric (1996). Handbook of Analysis and Its Foundations. San Diego, CA: Academic Press. ISBN 978-0-12-622760-4. OCLC 175294365.
+Schaefer, H. H. (1999). Topological Vector Spaces. New York, NY: Springer New York Imprint Springer. ISBN 978-1-4612-7155-0. OCLC 840278135.
+Swartz, Charles (1992). An introduction to Functional Analysis. New York: M. Dekker. ISBN 978-0-8247-8643-4. OCLC 24909067.
+Trèves, François (2006) [1967]. Topological Vector Spaces, Distributions and Kernels. Mineola, N.Y.: Dover Publications. ISBN 978-0-486-45352-1. OCLC 853623322.
+Wilansky, Albert (2013). Modern Methods in Topological Vector Spaces. Mineola, New York: Dover Publications, Inc. ISBN 978-0-486-49353-4. OCLC 849801114.
+Wong, Yau-Chuen (1979). Schwartz Spaces, Nuclear Spaces, and Tensor Products. Lecture Notes in Mathematics. Vol. 726. Berlin New York: Springer-Verlag. ISBN 978-3-540-09513-2. OCLC 5126158.
+
+
+== Further reading ==
+F. Simeski, A.M.P. Boelens and M. Ihme. Modeling Adsorption in Silica Pores via Minkowski Functionals and Molecular Electrostatic Moments. Energies 13 (22) 5976 (2020). https://doi.org/10.3390/en13225976

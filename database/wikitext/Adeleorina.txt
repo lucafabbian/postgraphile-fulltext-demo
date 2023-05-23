@@ -1,0 +1,77 @@
+Adeleorina is a suborder of parasites in the phylum Apicomplexa.
+
+
+== History ==
+Léger proposed this taxon in 1911. The first species identified was Dactylosoma ranarum by Lankester (1871) in a frog in Europe. It was initially called Undulina ranarum, but this was changed in 1882 to Drepanidium ranarum. This species was subsequently moved to the genus Dactylosoma.
+Canine hepatozoonosis was first described in India in 1905 by James. The organism was named Leukocytozoon canis. The vector was identified in 1907 by Christopher to be the brown dog tick (Rhipicephalus sanguineus). The genus Hepatozoon was created by Miller in 1908 for a parasite of the white rat (Rattus norvegicus) that underwent merogony in the liver and sporogony in the mite Laelap echidinus. Ledger initially placed this genus in the family Haemogregarinidae, but Wenyon subsequently removed it and placed it in the newly created taxon Hepatozoidae in 1926.
+
+
+== Life cycle ==
+All species in this suborder use the syzygy method of gamete formation. This involves the association of often motile gamonts prior to the formation of functional gametes and fertilization.
+Their life cycles tend to be complex, involving at least one (and often several) asexual cycles of merogony followed by gametogony, syngamy and sporogony. In many species of the group, the meronts and merozoites have morphologically distinct types: one type of meront produces large merozoites which initiate a further round of merogonic replication; a second produces smaller merozoites which are the progenitors of the gamonts. Microgamonts produce usually only one to four microgametes. Other characteristic features include the absence of endodyogeny and the enclosure of sporozoites in a sporocyst.
+In haemogregarines with heteroxenous species, conjugation of gamonts and subsequent sporogony usually occurs within an invertebrate (definitive host), which also serves as the vector. Merogonial division usually takes place in the parenchymatous organs of the vertebrate host. This is followed by the formation of infective gametocytes in the erythrocytes. In the genus Hepatozoon, gametocytes are also formed in the leukocytes.
+The haemogregarines use two modes of transmission:
+
+Inoculation — the infectious sporozoites enter the vertebrate host during blood-feeding of the vector (Dactylosoma, Haemogregarina)
+Ingestion — the parasite is transmitted by the ingestion of the infected invertebrate host by the vertebrate host. The mode of transmission may even involve a paratenic host. The next definitive host in the life cycle is infected exclusively through blood feeding. Examples include the genera Karyolysus, Hemolivia and Hepatozoon.
+
+
+== Taxonomy ==
+Adeleorina has about 500 species, which have been organised into seven families and 19 genera. The families have been divided into two groups:
+
+Adelines — monoxenous coccidians of invertebrates — Adeleidae and Legerellidae
+Haemogregarines — heteroxenous coccidians cycling between blood-sucking invertebrates (definitive hosts) and various vertebrates (intermediate hosts) — Dactylosomatidae, Haemogregarinidae, Hepatozoidae and KaryolysidaeOne exception to this classification is known: Klossiella (family Klossiellidae) is a monoxenous coccidium of mammals and reptiles.
+The taxonomy is this group may be incorrect as the Hepatozoidae appear to be paraphyletic. The genus Hemolivia appears to lie within the genus Hepatozoon. The genus Hepatozoon appears to have two subgenera with one in the carnivorous mammals and the other in lower vertebrates and rodents.
+
+
+=== Families and genera ===
+The families in this suborder are:
+
+Family Adeleidae Mesnil, 1903
+Genera:
+Chagasella Machado in 1911
+Ganapatiella Kalavati, 1977
+Gibbsia Levine, 1986
+Klossia Schneiderin, 1875
+Orcheobius Schuberg & Kunze, 1906
+Rasajeyna Beesley, 1977
+Subfamily Ithaniinae
+Genera
+Adelea Schneider, 1875
+Adelina Hesse, 1911
+Ithania Ludwigin, 1947
+Family Dactylosomatidae Jakowska & Nigrelli, 1955
+Genera:
+Babesiosoma Jakowska & Nigrelli, 1956
+Dactylosoma Labbé, 1894 
+Family Haemogregarinidae Neveu-Lemaire, 1901
+Genera:
+Cyrilia Lainson, 1981
+Desseria Siddall, 1995
+Haemogregarina Danilewsky, 1885
+Family Hepatozoidae Wenyon, 1926
+Genera:
+Hepatozoon Miller, 1908
+Family Karyolysidae Wenyon, 1926
+Genera:
+Karyolysus Labbé, 1894
+Hemolivia Petit et al, 1990
+Family Klossiellidae Smith & Johnson, 1902
+Genera:
+Klossiella
+Family Legerellidae Minchin, 1903
+Genera:
+Legerella Mesnil, 1900
+
+
+=== Notes ===
+Karyolysus infects lizards (Lacerta) and possibly scincids.  Haemogregarina infects turtles and leeches. Species of the genus Desseria infect fish and lack erythrocytic merogony.  The genera in the subfamily Ithaniinae share a number of morphological features and infect the digestive tract of insects.
+DNA studies suggest Hemolivia may lie within the Hepatozoon clade. If this can be confirmed, the taxonomy of this group will need revision. A study of the 18s rRNA gene suggests that there may be some overlap between Karyolysus and Hepatozoon.Karadjian, Chavatte and Landau revised the Adeleidae in 2015, performed a molecular analysis and proposed a new classification in four 'types' based on their biology, as follows:
+
+Type I, Hepatozoon Miller, 1908, with type species H. perniciosum Miller, 1908
+Type II, Karyolysus Labbé, 1894, with type species K. lacertae (Danilewsky, 1886) Reichenow, 1913
+Type III Hemolivia Petit et al., 1990, with type species H. stellata Petit et al., 1990
+Type IV: Bartazoon Karadjian, Chavatte and Landau, 2015, with type species B. breinli (Mackerras, 1960).
+
+
+== References ==

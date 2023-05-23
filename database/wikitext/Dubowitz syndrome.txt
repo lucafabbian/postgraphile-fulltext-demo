@@ -1,0 +1,44 @@
+Dubowitz syndrome is a rare genetic disorder characterized by microcephaly, stunted growth, and a receding chin. Symptoms vary among patients, but other characteristics include a soft, high-pitched voice, partial webbing of the fingers and toes, palate deformations, genital abnormalities, language difficulties, and an aversion to crowds. The pathogenesis of the disease is yet to be identified, and no medical tests can definitively diagnose the disease.  The primary method of diagnosis is to identify facial phenotypes. Since it was first described in 1965 by English physician Victor Dubowitz, over 140 cases have been reported worldwide. Although the majority of cases have been reported from the United States, Germany, and Russia, the disorder appears to affect both genders and all ethnicities equally.
+
+
+== Signs and symptoms ==
+Microcephaly is a characteristic in which the circumference of the head is smaller than normal due to improper development of the brain. It is caused by genetic disorders, infections, radiation, medications or alcohol use during pregnancy. Defects in the growth of the cerebral cortex lead to many of the features associated with microcephaly.Microcephaly has a vast range of prognoses: some patients experience little to very intellectual disability and can reach regular age-appropriate milestones. Others may experience severe intellectual disability and neuromuscular side effects.
+
+
+== Genetics ==
+
+Although the pathology of Dubowitz syndrome is unknown, it is a heritable autosomal recessive disorder. Parents of people with Dubowitz syndrome are sometimes related, and there have been several cases of it occurring in monozygotic twins, siblings, and cousins. There is great variability in symptoms between cases, especially in intelligence.  Although there is much evidence that Dubowitz syndrome is genetic, the symptoms are similar to fetal alcohol syndrome. Further studies are needed to determine whether alcohol influences whether Dubowitz syndrome manifests in people who are genetically vulnerable.  Breakdown of chromosomes is known to occur.
+
+
+=== Growth hormone ===
+Dubowitz syndrome is accompanied by a deficiency in growth hormone.  People with Dubowitz syndrome have stunted growth, and growth hormones are secreted by the anterior pituitary of the brain. The main function of the anterior pituitary is to increase height during development. Other functions include regulating the immune system, increasing calcium retention, increasing muscle mass and stimulating gluconeogenesis. A deficiency in growth hormone may be caused by genetic mutations, malformations of the hypothalamus or pituitary gland during development, or damage to the pituitary.  In Dubowitz syndrome, the cause is likely the underlying mutations or disruption of brain structures during development. Growth hormone deficiency also correlates with low levels of IgG antibodies, a condition found in Dubowitz patients.
+
+
+=== DNA repair defect ===
+A fibroblast cell line developed from a patient with Dubowitz syndrome was found to be hypersensitive to ionizing radiation and several other DNA damaging agents due to a defect in the repair of DNA double strand breaks.  The DNA repair defect was traced to mutations in the DNA ligase IV LIG4 gene.  This finding suggests that the molecular basis for at least a subset of Dubowitz syndrome cases is a DNA ligase IV defect.
+
+
+=== Relationship to Smith–Lemli–Opitz syndrome ===
+Researchers are investigating the genetic similarities between Dubowitz syndrome and Smith–Lemli–Opitz syndrome (SLOS). Patients with SLOS and Dubowitz syndromes have many of the same abnormalities, and the two disorders are hypothesized to be linked. Two characteristics of SLOS are a low cholesterol level and a high 7-Dehydrocholesterol level. Cholesterol is essential for several bodily functions, including maintaining cell membrane structure, embryogenesis, and synthesis of steroid and sex hormones. Impaired cholesterol synthesis or transport may account for most of the symptoms of both SLOS and Dubowitz syndrome. Although only a few patients with Dubowitz syndrome have been identified with altered cholesterol levels, researchers are exploring whether Dubowitz syndrome, like SLOS, is linked to a defect in the cholesterol biosynthetic pathway.The pathology of Dubowitz syndrome is still unclear because of its rarity and the wide array of associated symptoms. Several studies have focused on different aspects of the disorder to try to find its exact cause and expression. One study examined the specific oral features in one patient. Another found abnormalities in the brain, such as corpus callosum dysgenesis, an underdeveloped anterior pituitary and a brain stalk with an ectopic (misplaced) posterior pituitary.
+
+
+== Diagnosis ==
+There is no definitive test available for this condition. The diagnosis is based on the constellation of typical clinical features.
+
+
+== Management ==
+There is currently no specific treatment for this condition. Management is supportive.In particular there is currently no known method of correcting microcephaly. However, there are a variety of symptomatic treatments that help to counter some of its adverse effects, such as speech and occupational therapies, as well as medication to control  seizures and hyperactivity.
+
+
+== Epidemiology ==
+This condition is rare with ~200 cases reported between 1965 and 2018.
+
+
+== History ==
+This condition was first reported in 1965.
+
+
+== References ==
+
+
+== External links ==

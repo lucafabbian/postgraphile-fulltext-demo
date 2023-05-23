@@ -1,0 +1,15 @@
+Thyroid receptor-interacting protein 11 is a protein that in humans is encoded by the TRIP11 gene.
+
+
+== Function ==
+TRIP11 was first identified through its ability to interact functionally with thyroid hormone receptor-beta (THRB; MIM 190160). It has also been found in association with the Golgi apparatus and microtubules.[supplied by OMIM]
+
+
+== Interactions ==
+TRIP11 has been shown to interact with Retinoblastoma protein and Thyroid hormone receptor alpha.
+
+
+== References ==
+
+
+== Further reading ==

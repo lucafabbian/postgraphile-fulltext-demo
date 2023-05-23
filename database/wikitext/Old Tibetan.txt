@@ -1,0 +1,58 @@
+Old Tibetan refers to the period of Tibetan language reflected in documents from the adoption of writing by the Tibetan Empire in the mid-7th century to works of the early 11th century.
+In 816 CE, during the reign of Sadnalegs, literary Tibetan underwent a thorough reform aimed at standardizing the language and vocabulary of the translations being made from Indian texts, and this resulted in what we now call Classical Tibetan.
+
+
+== Phonology ==
+Old Tibetan is characterised by many features that are lost in Classical Tibetan, including my- rather than m- before the vowels -i- and -e-, the cluster sts- which simplifies to s- in Classical Tibetan, and a reverse form of the "i" vowel letter (gi-gu). Aspiration was not phonemic and many words were written indiscriminately with consonants from the aspirated or unaspirated series. Most consonants could be palatalized, and the palatal series from the Tibetan script represents palatalized coronals. The sound conventionally transcribed with the letter འ (Wylie: 'a) was a voiced velar fricative, while the voiceless rhotic and lateral are written with digraphs ཧྲ ⟨hr⟩ and ལྷ ⟨lh⟩. The following table is based on Hill's analysis of Old Tibetan:
+In Old Tibetan, the glide /w/ occurred as a medial, but not as an initial.
+The Written Tibetan letter ཝ w was originally a digraph representing two Old Tibetan consonants ɦw.
+
+
+=== Syllable structure ===
+In Old Tibetan, syllables can be quite complex with up to three consonants in the onset, two glides, and two coda consonants. This structure can be represented as (C1C2)C3(G1G2)V(C4C5), with all positions except C3 and V optional. This allows for complicated syllables like བསྒྲིགས bsgrigs "arranged" and འདྲྭ 'drwa "web", for which the pronunciations [βzɡriks] and [ɣdrʷa] can be reconstructed.
+A voicing contrast only exists in slot C3 and spreads to C1 and C2 so སྒོ sgo "door" would be realized as [zɡo] while སྐུ sku "body" would be [sku]. Final consonants are always voiceless e.g. འཛིནད་ 'dzind [ɣd͡zint] and གཟུགས་ gzugs [gzuks]. The phoneme /b/ in C1 was likely realized as [ɸ] (or [β] when C3 is voiced) e.g. བསྒྲེ bsgre [βzɡre] and བརྩིས brtsis [ɸrtˢis]. The features of palatalization /i̯/ [Cʲ] and labialization /w/ [Cʷ] can be considered separate phonemes, realized as glides in G1 and G2 respectively. Only certain consonants are permitted in some syllable slots, as summarized below:
+§ In C2 position, /d/ and /ɡ/ are in complementary distribution: /ɡ/ appears before /t/, /ts/, /d/, /n/, /s/, /z/, /l/, and /l̥/ in C3, while /d/ appears before /k/, /ɡ/, /ŋ/, /p/, /b/, and /m/ in C3. Additionally, /ɡ/ is written ⟨k⟩ before /l̥/.
+
+
+=== Palatalization ===
+Palatalization /Cʲ/ was phonemically distinct from the onset cluster /Cj/. This produces a contrast between གཡ ⟨g.y⟩ /ɡj/ and གྱ ⟨gy⟩ /ɡʲ/, demonstrated by the minimal pair གཡང་ g.yaṅ "sheep" and གྱང་ gyaṅ "also, and". The sounds written with the palatal letters ཅ c, ཇ j, ཉ ny, ཞ zh, and ཤ sh were palatalized counterparts of the phonemic sounds ཙ ts, ཛ dz, ན n, ཟ z, and ས s.
+
+
+== Morphology ==
+
+
+=== Nominal ===
+Case markers are affixed to entire noun phrases, not to individual words (i.e. Gruppenflexion). Old Tibetan distinguishes the same ten cases as Classical Tibetan:
+absolutive (morphologically unmarked)
+genitive (གི་ -gi,  གྱི་ -kyi, ཀྱི་ -gyi, འི་ -'i, ཡི་ -yi)
+agentive (གིས་ -gis, གྱིས་ -kyis, ཀྱིས་ -gyis, ས་ -sa, ཡིས་ -yis)
+locative (ན་ -na)
+allative (ལ་ -la)
+terminative (རུ་ -ru, སུ་ -su, ཏུ་ -tu, དུ་ -du, ར་ -ra)
+comitative (དང་ -dang)
+ablative (ནས་ -nas)
+elative (ལས་ -las)
+comparative (བས་ -bas)However, whereas the locative, allative, and terminative gradually fell together in Classical Tibetan (and are referred to the indigenous grammatical tradition as the la don bdun), in Old Tibetan these three cases are clearly distinguished. Traditional Tibetan grammarians do not distinguish case markers in this manner, but rather distribute these case morphemes (excluding -dang and -bas) into the eight cases of Sanskrit.
+
+
+=== Verbal ===
+Old Tibetan transitive verbs were inflected for up to four stems, while intransitive verbs only had one or two stems. In the active voice, there was an imperfective stem and a perfective stem, corresponding to the Classical Tibetan present and past stems respectively. Transitive verbs also may have two passive voice stems, a dynamic stem and stative stem. These two stems in turn correspond to the Classical future and imperative stems.
+
+
+== Personal pronouns ==
+Old Tibetan has three first person singular pronouns ང་ ṅa, བདག་ bdag, and ཁོ་བོ་ kho-bo, and three first-person plural pronouns ངེད་ nged, བདག་ཅག་ bdag-cag, and འོ་སྐོལ་ 'o-skol. The second person pronouns include two singulars ཁྱོད་ khyod and ཁྱོ(ན)་འདའ་  khyo(n)-'da' and a plural ཁྱེད་ khyed.
+
+
+== References ==
+
+
+=== Citations ===
+
+
+=== Works cited ===
+
+
+== External links ==
+Old Tibetan Documents Online, Tokyo University of Foreign Studies: transliteration of selected Old Tibetan and Classical Tibetan texts.
+International Dunhuang Project: includes images of many of the texts.
+Translations of Tibetan texts, Tibetan language courses & publications by Erick Tsiknopoulos and the Trikāya Translation Committee.

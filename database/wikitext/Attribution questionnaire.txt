@@ -1,0 +1,92 @@
+The Attribution Questionnaire (AQ) is a 27-item self-report assessment tool designed to measure public stigma towards people with mental illnesses.   It  assesses emotional reaction and discriminatory responses based on answers to a hypothetical vignette about a man with schizophrenia named Harry.  There are several different versions of the vignette that test multiple forms of attribution.  Responses assessing stigma towards Harry are in the form of 27 items rated on a Likert scale ranging from 1 (not at all) to 9 (very much).  There are 9 subscales within the AQ that breakdown the responses one could have towards a person with mental illness into different categories.  The AQ was created in 2003 by Dr. Patrick Corrigan and colleagues and has since been revised into smaller tests because of the complexity and hypothetical that did not capture children and adolescent's stigmas well.  The later scales are the Attribution Questionnaire-9 (AQ-9), the revised Attribution Questionnaire (r-AQ), and the children's Attribution Questionnaire (AQ-8-C).
+
+
+== Development and history ==
+Surveys have suggested that people hold deeply embedded beliefs about people with mental illness through discrimination and stereotypes.  The attribution theory holds that behaviors may be perceived by others as a trait of the person or that the behavior has been brought about by their own doing.  In the case of mental illness many people believe that the individual with mental illness is in control of their behaviors and can therefore control what happens to them.  These attributions about the causes of mental illness can lead toward stigmatizing behaviors such as blame and refusal to help.  They can also lead to negative emotions such as anger and fear towards an individual with mental illness.  A study in 2003 by Corrigan, Markowitz, Watson, Rowan, and Kubiak researched the validity of the AQ and analyzed the different aspects of public stigma toward mental illness.  This study revealed the most common areas of stigma that need to be addressed.The researchers in this study created the Attribution Questionnaire using their knowledge of attribution theory and the resulting responses such as stereotypes and negative emotions.  They tested the AQ on a sample of students attending a community college in the United States.  In this study, the vignette was manipulated to describe Harry as being non-violent to one group and violent to another.  21 items were collected to measure stigmatizing behaviors towards Harry and were grouped into 6 subscales.  The 6 original subscales were personal responsibility, pity, anger, fear, helping/avoiding behavior, and coercion/segregation.  After the study was completed, Corrigan created a different version of the AQ containing 27 items instead of 21 which were then broken up into 9 subscales instead of 6.  A new subscale categorized as dangerousness was included and coercion, segregation, avoidance, and helping were split into their own subscales.  This version, called the AQ-27 is the most current version.
+AQ-27's 9 subscales and their descriptions are listed below:
+
+Blame: mental illness is controllable by the person and they are responsible for it and the related symptoms.
+Anger: irritation with the person with mental illness because they are to blame for it.
+Pity: sympathy towards the person with mental illness because they are overcome by it.
+Help: assistance to people with mental illness; willingness to support those with mental illness.
+Dangerousness: the perception that individuals with mental illness are not safe and pose a threat to themselves or others.
+Fear: fright towards the person with mental illness because they are dangerous.
+Avoidance: deliberate attempts to stay away from people with mental illness.
+Segregation: the need to send people with mental illness away to institutions in isolation from the community.
+Coercion: mandatory participation in treatment or in medication management for people with mental illness.
+
+
+== Versions ==
+
+
+=== Attribution Questionnaire-9 (AQ-9) ===
+The AQ-9 is a shorter version of the AQ-27 in which there are 9 items rather than 27.  It was created by Corrigan and colleagues in 2003.  Each of the 9 questions represents one of the 9 subscales from the AQ-27.  The items were chosen based on which had the strongest factor loadings from the original version.
+
+
+=== Revised Attribution Questionnaire (r-AQ) ===
+The r-AQ was created by Watson and colleagues using the AQ-9 as a basis.  It is the same length as the AQ-9 but was modified to be used with children.  This was done by using simpler vocabulary and a new vignette of a younger individual with mental illness.  The first eight items measure constructs of mental illness stigma developed by Corrigan in 2002.  The last item asks children whether they would seek mental health treatment if they were in need.  This scale also has a revised Level of Contact Report to assess familiarity with mental illness.
+
+
+=== Children's Attribution Questionnaire (AQ-8-C) ===
+This scale is intended for ages 10–18 and is a simplified version of the Harry vignette and test items.  It includes 8 items for each of the stigmas except for coercion.  The vignette and test items are simplified for children and has been tested as reliable for this age group. This scale was created as a result of research on how children develop prejudice and stereotypes.
+
+
+== Use in other populations ==
+Currently the AQ is not a widely used measure and therefore does not have translations into many other languages.  An Italian version of the AQ exists.  More research needs to be done on the scale before it becomes widely accepted across other cultures.
+
+
+== Psychometric properties ==
+The Attribution Questionnaire has been extensively used in research on various age ranges.  However, there is not normative data to calibrate scores available to the general population.
+
+
+=== Reliability ===
+Reliability tests whether or not the scores are reproducible in other studies.  It tests whether the measure produces stable and consistent results across multiple studies.  Since the AQ scale is still fairly new, there is still the need for more testing done on its reliability.
+Here is the rubric for evaluating the reliability of scores on a measure for the purpose of evidence based assessment.
+
+
+=== Validity ===
+Validity assesses whether or not an assessment tool measures what it was intended to measure.  Validity can be tested in various ways.  For screening measures, discriminative validity is typically the most useful way to assess validity.
+Here is a rubric for describing validity of test scores in the context of evidence-based assessment.
+
+
+== Interpretation ==
+
+
+=== AQ-27 scoring ===
+The AQ-27 contains 27 Likert-scaled items ranging from 1 (not at all) to 9 (very much).  Each of the 9 subscales has 3 questions that correspond to it.  These 3 items are added up to form the score for that item with help and pity being reverse scored.  The subscales with the highest scores are the ones that are being endorsed by the subject.
+
+
+=== AQ-9 and r-AQ scoring ===
+Since there are only 9 items and 9 subscales, only 1 item corresponds to each of the subscales.  It is scored the same way as the AQ-27: the subscales with the highest scores are the ones being endorsed by the subject.
+
+
+== Impact ==
+The Attribution Questionnaire is not widely used right now and there has yet to be a single best method established for measuring mental health stigma.  As more research is done on this topic, the AQ may begin to be used widespread and potentially be applied to a clinical setting.  More studies need to be conducted on the AQ's reliability and validity before determining how effective of a measure it is.
+
+
+== Limitations ==
+The AQ is a self-report measure which allows for the subject to give lower scores to the items they think would be see as stigmatizing or discriminatory towards those with mental illness in order to make themselves look better.  Because the scale is a self-report questionnaire and not a behavioral observation, the answers given may not align with actual behaviors the subject engages in.  Additionally, most of the studies on the AQ have been conducted in United States populations which does not make it generalizable to those outside of the US.  It has also only been validated in volunteer studies of college students and adolescent students.  In order to assess whether the scale can be used in measuring stigma in other populations, more research in wider and more diverse populations is needed.  Another limitation is that there is only 9 subscales of stigmatizing behaviors and stereotypes.  Because there are not many questions asked in the subscales, there may be key components of that behavior that are missed.  There may also be other subscales that should be included upon further research into stigma.
+
+
+== See also ==
+Stigma of mental illness
+
+
+== References ==
+
+
+== External links ==
+
+
+=== AQ form ===
+Attribution Questionnaire
+
+
+=== For youth ===
+Stigma of mental disorders in youth
+Stigma as a barrier to recovery
+
+
+=== For adults ===
+Understanding the impact of stigma
+Impact of stigma on seeking help

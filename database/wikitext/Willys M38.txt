@@ -1,0 +1,71 @@
+The Willys MC, formally the 1⁄4-Ton, 4 x 4, Utility Truck M38, or the G‑740 by its U.S. Army Standard Nomenclature supply catalog designation, is a quarter-ton four-wheel drive military light utility vehicle made by Willys between 1949 and 1952. It replaced (in production), and succeeded the World War II Willys MB and Ford GPW models, with a total production of some 50,000 units — less than one tenth the number of WWII models built. Unlike during WWII, Ford was no longer involved in the production.
+The M38 was a military version of the then-current civilian Jeep CJ-3A. It differed from the CJ-3A in numerous ways, including a reinforced frame and suspension, waterproof 24-volt electrical system, sealed vent system for the engine, transmission, transfer case, fuel system and brake system.Some M38 jeeps served in the Korean theatre of operations, but the majority of units used there were remanufactured World War II jeeps. Approximately 2,300 M38 Jeeps were manufactured by Ford of Canada for Canadian Armed Forces in 1952, designated as the M38-CDN jeep. The M38 Willys MC was succeeded by the M38A1 Willys MD in 1952.
+The M38 windshield could be folded flat for firing and the body was equipped with a pintle hook for towing and lifting shackles front and rear. The headlights were no longer recessed as on previous models, but protruded with a guard wire in front. The "pioneer" tools (axe and shovel) which were carried on the MB's driver side were transferred to the passenger side of this vehicle.
+
+
+== Specifications ==
+
+Wheelbase: 80 in (2.03 m)
+Length overall: 132+15⁄16 in (3.38 m) 
+Width, minimum: 62 in (1.57 m)
+Height overall: maximum 74 in (1.88 m) with top up; reducible to 55 in (1.40 m) 
+Ground clearance: 9+1⁄4 in (0.23 m) at the rear axle
+Empty weight: 2,625 pounds (1,191 kg)
+Gross vehicle weight: 3,825 pounds (1,735 kg) on road 
+Payload: 1,200 pounds (544 kg) on road / 800 pounds (363 kg) off-road. 
+
+
+== Engine ==
+Displacement: 134.2 cubic inches (2,199 cc)
+Bore/Stroke: 3+1⁄8 in × 4+3⁄8 in (79 mm × 111 mm)
+Compression Ratio: 6.48:1
+Power: 60 hp (45 kW) at 4000 rpm
+Torque: 105 lb⋅ft (142 N⋅m) at 2000 rpm
+Main Bearings: 3
+Carburetor: Carter YS 637S, 1+1⁄4 in (32 mm) downdraft
+
+
+== Powertrain ==
+The entire engine air intake and the axle system was fully vented to allow for operation while submerged under water. Its full-floating front axle (Dana 25) was supported by the wheel hub, rather than the axle itself, and provided greater load capacity. The rear axle (Dana 44) was semi-floating. Its drivetrain was the L-head 134.2 cu in (2.2 L) with a T-90 transmission and the Dana 18 transfer case.
+A few M38 Jeeps were fitted with a transmission power take-off (PTO) driven winch. This feature was not used in regular production models due to increased weight on the front of the vehicle, as well as additional maintenance requirements.
+
+
+== Electrical system ==
+The electrical system was upgraded to a 24 volt system which required dual 12 volt batteries connected in series. Its ignition and electrical systems were waterproof; a valuable feature in rainy environments and where deep river fording was necessary.
+
+
+== See also ==
+List of U.S. military vehicles by supply catalog designation
+List of U.S. military vehicles by model number
+Jeep trailer (M100)
+
+
+== Notes ==
+
+
+=== Footnotes ===
+
+
+=== Citations ===
+
+
+== References ==
+
+
+=== General ===
+Brown, Arch (1994). Jeep: The Unstoppable Legend. Lincolnwood, IL US: Publications International. p. 64. ISBN 0-7853-0870-9.
+
+
+=== Technical manuals ===
+"TM-9-804 1/4 4x4 Utility truck M38". US Dept. of the Army. September 1950. Retrieved 3 December 2014.
+"TM-9-1804A Engine (Willys-Overland Model MC)". US Dept. of the Army. June 1951. Retrieved 3 December 2014.
+"TM-9-1804B Power train body and frame". US Dept. of the Army. 16 July 1952. Retrieved 3 December 2014.
+"TM-9-8012 Operation and Maintenance". US Dept. of the Army. 12 January 1956. Retrieved 3 December 2014.
+"TM-9-2800-1953 Military Vehicles". US Depts. Of the Army and Air Force. February 1953. p. 154. Retrieved 27 May 2014.
+
+
+== External links ==
+
+http://www.willysmjeeps.com
+http://www.g503.com/
+http://www.olive-drab.com/idphoto/id_photos_m38.php3

@@ -1,0 +1,30 @@
+Prentice Hall International Series in Computer Science was a series of books on computer science published by Prentice Hall.The series' founding editor was Tony Hoare. Richard Bird subsequently took over editing the series. Many of the books in the series have been in the area of formal methods in particular.
+
+
+== Selected books ==
+The following books were published in the series:
+R. S. Bird, Introduction to Functional Programming using Haskell, 2nd edition, 1998. ISBN 0-13-484346-0.
+R. S. Bird and O. de Moor, Algebra of Programming, 1996. ISBN 0-13-507245-X. (100th volume in the series.)
+O.-J. Dahl, Verifiable Programming, 1992. ISBN 0-13-951062-1.
+D. M. Gabbay, Elementary Logics: A Procedural Perspective, 1998. ISBN 0-13-726365-1.
+I. J. Hayes (ed.), Specification Cases Studies, 2nd edition, 1993. ISBN 0-13-832544-8.
+M. G. Hinchey and J. P. Bowen (eds.), Applications of Formal Methods, 1996. ISBN 0-13-366949-1.
+C. A. R. Hoare, Communicating Sequential Processes, 1985. ISBN 0-13-153271-5 hardback or ISBN 0-13-153289-8 paperback.
+C. A. R. Hoare and M. J. C. Gordon, Mechanized Reasoning and Hardware Design, 1998. ISBN 0-13-572405-8.
+C. A. R. Hoare and He Jifeng, Unifying Theories of Programming, 1998. ISBN 0-13-458761-8.
+INMOS Limited, Occam 2 Reference Manual, 1988. ISBN 0-13-629312-3.
+Cliff Jones, Systematic Software Development Using VDM, 1986. ISBN 0-13-880725-6 hardback or ISBN 0-13-880717-5 paperback.
+M. Joseph (ed.), Real-Time Systems: Specification, Verification and Analysis, 1996. ISBN 0-13-455297-0.
+Bertrand Meyer, Object-Oriented Software Construction (first edition only).
+Robin Milner, Communication and Concurrency, 1989. ISBN 0-13-115007-3 (for the paperback).
+C. C. Morgan, Programming from Specifications, 2nd edition, 1994. ISBN 0-13-123274-6.
+P. N. Nissanke, Realtime Systems, 1997. ISBN 0-13-651274-7.
+B. Potter, J. Sinclair and D. Till, An Introduction to Formal Specification and Z, 2nd edition, 1996. ISBN 0-13-242207-7.
+A. W. Roscoe (ed.), A Classical Mind: Essays in Honour of C. A. R. Hoare, 1994. ISBN 0-13-294844-3.
+A. W. Roscoe, The Theory and Practice of Concurrency, 1997. ISBN 0-13-674409-5.
+J. M. Spivey, The Z Notation: A Reference Manual, 2nd edition, 1992. ISBN 0-13-978529-9.
+J. C. P. Woodcock and 
+J. W. Davies, Using Z: Specification, Refinement and Proof, 1996. ISBN 0-13-948472-8.
+
+
+== References ==

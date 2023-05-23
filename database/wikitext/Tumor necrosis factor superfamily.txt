@@ -1,0 +1,13 @@
+The tumor necrosis factor (TNF) superfamily is a protein superfamily of type II transmembrane proteins containing TNF homology domain and forming trimers. Members of this superfamily can be released from the cell membrane by extracellular proteolytic cleavage and function as a cytokine. These proteins are expressed predominantly by immune cells and they regulate diverse cell functions, including immune response and inflammation, but also proliferation, differentiation, apoptosis and embryogenesis.The superfamily contains 19 members that bind to 29 members of TNF receptor superfamily. An occurrence of orthologs in invertebrates hints at ancient origin of this superfamily in evolution.The PROSITE pattern of this superfamily is located in a beta sheet in the central section of the protein that is conserved across all members.
+
+
+== Members ==
+There are 19 family members, numerically classified as TNFSF#, where # denotes the member number, sometimes followed by a letter.
+
+
+== References ==
+
+
+== External links ==
+Tumor+Necrosis+Factors at the U.S. National Library of Medicine Medical Subject Headings (MeSH)
+pex1 tumor necrosis factor gene

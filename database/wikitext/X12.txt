@@ -1,0 +1,6 @@
+X12 or X-12 may refer to:
+
+ASC X12, the standard for the development and maintenance of Electronic Data Interchange standards for the United States
+Convair X-12, an advanced testbed for the Atlas rocket program
+X-12-ARIMA, software for seasonal adjustment of time series data
+SJ X12, a Swedish train.

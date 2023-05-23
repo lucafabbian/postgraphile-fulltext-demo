@@ -1,0 +1,19 @@
+Pseudovespicula is a genus of venomous ray-finned fishes, waspfishes belonging to the subfamily Tetraroginae, which is classified as part of the family Scorpaenidae, the scorpionfishes and their relatives. It has been considered to be a monotypic genus, containing only the type species, Pseudovespicula dracaena, but some authorities classify three species within the genus. The genus is found in the Indo-Pacific region.
+
+
+== Taxonomy and etymology ==
+Pseudovespicula was first described as a genus in 2001 by the Russian zoologist Sergey Anatolyevich Mandritsa as a monotypic genus containing only Apistus dracaena, which he also designated the type species. A. dracaena had been described by Georges Cuvier in 1829 from the Malabar Coast of India. This genus is included in the subfamily Tetraroginae within the Scorpaenidae in the 5th edition of Fishes of the World however other authorities place that subfamily within the stonefish family Synanceiidae, while other authorities classify this subfamily as a family in its own right.In 1910 David Starr Jordan and Robert Earl Richardson described the genus Vespicula as a monotypic genus, its only species being Prosopodasys gogorzae. In 2001 Mandrytsa proposed that Prosopodasys was a synonym of Vespicula. Various workers had then included the species Apistus bottae,  Apistus dracaena, Prosopodasys cypho, Apistes depressifrons , Apistus trachinoides and Apistus zollingeri in the genus Vespicula. More recently A. depressifrons was placed in the monotypic genus Neovespicula, A. dracaena in Pseudovespicula, and A. trachinoides into Trichosomus with A. bottae and A. gogorzae being regarded as junior synonyms of Trichosomus trachinoides. As the type species of Vespicula is regarded as a junior synonym of T. trachinoides, it follows that Vespicula is a junior synonym of Trichosomus. This left P. cypho and A. zollingeri in Vespicula but these two species share a number of characteristics with P. dracaena so they were placed in an expanded Pseudovespicula.The genus name Pseudovespicula combines pseudo, meaning "false", with the genus name Vespicula, which is a diminutive of Vespa, meaning wasp. P. dracaena was previously included in Vespicula.
+
+
+== Species ==
+Pseudovespicula includes the following 3 species:
+Psuedovespicula cypho Fowler, 1938
+Pseudovespicula dracaena Cuvier, 1829 (Draco waspfish)
+Pseudovespicula zollingeri  (Bleeker, 1848)However, FishBase only includes P. dracaena in Pseudovespicula and retains 3 species in Vespicula: V. cypho, V. trachinoides and V. zollingeri.
+
+
+== Characters ==
+Pseudovepicula waspfishes are characterised by their bodies being covered in small cycloid scales and there are no cirri or papillae. There is a single spine and 5 soft rays in the pelvic fin. None of the fin rays in the pectoral fin are detached. The origin of the dorsal fin is to the rear of the rear edge of the orbit. They have an oblique dorsal profile to the head with a large mouth which is nearly a third of the length of the head and a flattened nape. The dorsal fin has its origin is pin front of the edge of the preoperculum, is continuous with a deep notch, nearly reaching the base, in the membrane between the third and fourth dorsal-fin spines. There is no spine on the cleithrum. These are small fishes with the draco waspfish being the largest with a maximum total length of 7.5 cm (3.0 in).
+
+
+== References ==

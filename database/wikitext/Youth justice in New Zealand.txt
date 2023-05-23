@@ -1,0 +1,115 @@
+The youth justice system in New Zealand consists of organisations and processes that deal with offending by children aged 10–13 years and young people aged 14–16 years. These differ from general criminal processes, and are governed by different principles.
+
+
+== Law governing child and youth justice ==
+
+
+=== Historical context ===
+New Zealand has historically focused on a welfare model for youth offenders, which put the child's needs at the forefront. This often involved taking the child away from their family and by putting them into institutions.
+The Children, Young Persons, and Their Families Act 1989 (CYPTFA) signified a shift away from this to a family-based process and justice model, which views state intervention as a last resort. The argument supporting this was that the community needed to be kept together, and these ties were important for helping youth.
+
+
+=== Current domestic context ===
+New Zealand legislation differentiates justice processes for under-17-year-olds.
+The CYPTFA governs these processes. They are diversion-focused, and include the dual aim of rehabilitation and accountability.
+Other legislation is also relevant, particularly the New Zealand Bill of Rights Act 1990 (NZBORA). This includes a child's right to be dealt with in a manner that takes into account their age.
+
+
+==== Overview of CYPTFA ====
+The CYPTFA creates two separate justice processes for children and youth. This differentiation is based on the attitude that younger people are more vulnerable and have a more immature judgment, and this should be accounted for. The different processes recognise the child or youth's offending in a manner that acknowledges their higher needs and vulnerability. Thus, levels of culpability are determined by age group. However, major legislative changes now allow children to be prosecuted if the crime is sufficiently severe.The Act aims to promote the well-being of children, young persons and their families. The process is aimed to reduce the levels of youth incarceration and constructively deal with issues and problems created by youth and children. This is done by holding the child or young person accountable for their behaviour and encouraging them to accept responsibility for their offending, while taking into account their needs and ensuring they are given the chance to develop beneficially from the experience.
+
+
+==== Principles from CYPTFA ====
+Principles governing youth justice reflect different objectives from traditional criminal prosecution. These are:
+
+Avoidance of criminal proceedings when possible;
+Criminal proceedings are not to be used as a means of delivering welfare;
+Strengthening family and whanau;
+Keeping children and young persons in the community;
+Age as a mitigating factor;
+Sanctions should promote young person’s development within family and whanau, and be least restrictive in form;
+Regard for victims interests; and
+Special provisions to address vulnerability of children and young persons.
+
+
+==== Definitions – Child and youth ====
+A child under the age of ten cannot be convicted of an offence. If the child is aged 10 or 11, they can be prosecuted for murder or manslaughter. If the offender is aged 12 or 13, they can only be prosecuted for an offence if the maximum penalty is 14 years imprisonment or more, or if the maximum penalty is 10 years imprisonment or more if they are a repeat offender and the previous offence had a maximum penalty of 14 years imprisonment or more. All children aged between 10 and 13 have a rebuttable presumption of incapacity to commit a crime. Young persons aged 14 to 16 may be prosecuted for any crime, unless a higher age limit is stated in the specific legislation (e.g. people under 16 cannot be convicted of incest).
+If the child is brought within the court system, the judge has a discretion to not use the criminal process and direct them towards social welfare.When the child offender does not fall into these categories, they are dealt with under the care and protection provisions of CYPTFA, or by the police, which are governed by youth justice principles.If between 14 and 17, the court will have regard to the age of the offender. If the crime is dealt with in the Youth Court, then the Youth Justice Act and youth principles will apply. However the offender can be sent to the District Court or High Court for sentencing or trial, where the Sentencing Act 2002 applies. Under the Sentencing Act 2002, a child or young person under 17 cannot be sentenced to prison or home detention unless they commit a Category 4 offence (e.g. murder, manslaughter, crimes against the State) or an offence where the maximum penalty is 14 years imprisonment or more.
+
+
+=== International context ===
+There are several international conventions that affect youth justice, most significantly the United Nations Convention on the Rights of the Child 1990 (UNCROC), which New Zealand ratified in 1993. This requires New Zealand to submit regular reports on the status of children's rights. The latest UN recommendations in response to this has expressed concern about the low age of criminal responsibility, and that NZ has lowered it from 14 to 12 for grave and repeated offences. There is also concern that CYPTFA only extends youth justice protections to 17 years, where UNCROC has defined a "child" up unto 18 years. Once young people turn 17, they are dealt with in adult courts, although age can be taken as a mitigating factor.
+
+
+== Children and young persons justice processes ==
+CYPTFA established an alternative system of dealing with child and youth offenders through Family Group Conferences (FGC) and the Youth Court, with the exception of non-imprisonable traffic offences in the case of young persons.
+This is combined with various policies employed by the police to decrease the use of the court system when possible.
+
+
+=== Family Group Conferences ===
+The first step is the FGC, which is used as both a pre- and post-charge mechanism. They are designed to encourage collaborative decision-making by all affected parties, reflecting Maori custom. Their purpose is to provide recommendation and make decisions that are thought to be "necessary or desirable in relation to the child or young person in respect of whom the conference was convened". If a unanimous decision is not reached, the case can go to the youth court judge.
+Pre-charge FGCs account for 40% of FGCs, and are employed to determine whether prosecution can be avoided. Post-charge, they determine how to deal with cases admitted or proved in the Youth Court.
+
+
+==== Criticisms ====
+There is limited data on the effectiveness of FGCs.
+The focus on the family has been criticised as sometimes resulting in a tension between promoting the child’s development while also addressing underlying causes for their offending, such as their family. The system may not work well for those who come from dysfunctional families, as youth justice principles aim to keep the child with their family, but this is on the assumption that the family has the ability and the interest to control young people and believes offending is not acceptable. For young people such as these, the youth justice system may be better able to provide guidance.
+
+
+=== Police role ===
+Police play a major role in youth justice, and such cases are governed by the principle that criminal proceedings should not be used if there is an alternative way of dealing with the offending. This means that most child and youth apprehensions are dismissed by way of police warning, cautions, or diversion. 62% of youth crime is handled by police without moving onward to FGCs or Youth Court. Police have two statutory alternatives to the formal criminal justice process.
+
+
+==== Police warnings ====
+Police officers are able to issue a warning where appropriate and consider that sufficient. There will be written notice of the warning. Warnings may be issued when the police officer is satisfied the person is guilty, but do not need an admission of guilt.
+Warnings have been criticised as they may end up on the youth’s record regardless of whether the young person is guilty or not. Additionally, it may label them as acting with criminal behaviour when they did nothing.
+
+
+==== Formal police cautions ====
+These are a more formal alternative to warnings. This follows the Family Group Conference approach, and is one of the possible outcomes.
+
+
+==== Diversions ====
+This is a possible police option and is widely used for minor child and youth offending. This is a discretionary response and offers a lot of flexibility to the Police Youth Aid who administers it. Practical examples of potential actions are:
+
+an apology to the victim,
+restitution or reparation,
+possible curfew,
+maintenance of school attendance,
+completing an assignment on the effects of their offending; and
+sometimes permitting the police to take and keep photographs or fingerprints on file.There is no need for a FGC, and the process considers a number of criteria.
+Using identity evidence as a bargaining tool has been questioned, as usually police are not able to hold such information unless the offender has been questioned.
+
+
+=== Criticisms of the relationship between FGC and the police ===
+The relationship between FGC and police diversion has been questioned. Diversion challenges the primacy of FGCs, as 62% of cases do not get to FGCs, and are instead dealt with by the police. The police refer around 6% of cases to FGCs, and outcomes here are agreed and implemented, typically without referral to the Court. The other 29% of cases involve youths being arrested and directly referred to the Youth Court, who have an obligation to refer all proved cases under its jurisdiction to a FGC for a recommendation. The reasoning for this is unclear, but it is questioned if it is useful to divert and keep the youth out of the system, or if this process is undermining the process and role of the family.
+Police motives are also questioned. It is argued that police are avoiding FGCs because either they want to keep people out of the system or they do not trust it as an option.
+
+
+=== Youth Court ===
+The Youth Court is less formal than other courts, and the judge is more active in explaining the procedure as well as gathering data. The punishments are less severe, and are grouped depending on their restrictiveness into seven categories. The court has a stronger focus on restorative justice, reflected in the involvement of the victims, the young person's understanding and co-operation in the proceedings, acknowledgement of the power imbalanced by proving all young people with a lawyer, and the restorative justice outcomes promoted.The Youth Court is a subdivision of the District Court and has the same general status and powers. Youth Court decisions are appealed to the High Court.
+
+
+== Youth offending trends ==
+Youth are over-represented in the criminal justice system. Young people aged 14–16 account for around 15% of all police arrests, which is second only to 17- to 20-year-olds. However, the number of apprehensions is decreasing.The number and rate of youth appearing in court is also declining, with only the most serious cases reaching court. Nearly 80% of child and youth cases are dealt with by FGCs or police alternative actions, including diversions, before reaching court.
+
+
+=== Characteristics of youth offenders ===
+
+
+==== Gender ====
+In line with adult statistics, the majority of youth appearing in court are male. While the rate of males appearing in court has substantially decreased in recent years, they still account for 79% of young people appearing in court.
+The rate of females appearing in court has also decreased; however it is less marked that males.
+
+
+==== Ethnicity ====
+While the number of children and young people recorded as Māori has decreased, they are still over-represented in court. Around 20 percent of the youth population is Māori, yet Māori account for 54% of all children and youth in court.
+The number of children and young people recorded as European appearing in court has decreased most substantially. Between 2002 and 2011, the rate dropped by 18%.
+
+
+== References ==
+
+
+== External links ==
+Child, Youth, and Family
+Ministry of Justice

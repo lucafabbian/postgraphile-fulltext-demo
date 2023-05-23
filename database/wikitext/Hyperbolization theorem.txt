@@ -1,0 +1,47 @@
+In geometry, Thurston's geometrization theorem or hyperbolization theorem  implies that closed atoroidal  Haken manifolds are hyperbolic, and in particular  satisfy the Thurston conjecture.
+
+
+== Statement ==
+One form of Thurston's geometrization theorem states:
+If M is a compact irreducible atoroidal Haken manifold whose boundary has zero Euler characteristic, then the interior of M has a complete hyperbolic structure of finite volume.
+The Mostow rigidity theorem implies that if a manifold of dimension at least 3 has a hyperbolic structure of finite volume, then it is essentially unique.
+The conditions that the manifold M should be irreducible and atoroidal are necessary, as hyperbolic manifolds have these properties. However the condition that the manifold be Haken is unnecessarily strong. Thurston's hyperbolization conjecture states that a  closed irreducible atoroidal 3-manifold with infinite fundamental group is hyperbolic, and this follows from Perelman's proof of the Thurston geometrization conjecture.
+
+
+== Manifolds with boundary ==
+Thurston (1982, 2.3)  showed that if a compact 3 manifold is prime, homotopically atoroidal, and has non-empty boundary, then it has a complete hyperbolic structure unless it is homeomorphic to a certain manifold (T2×[0,1])/Z/2Z with boundary T2.
+A hyperbolic structure on the interior of a compact orientable 3-manifold has finite volume if and only if all boundary components are tori, except for the manifold  T2×[0,1] which has a hyperbolic structure but none of finite volume (Thurston 1982, p. 359).
+
+
+== Proofs ==
+Thurston never published a complete proof of his theorem for reasons that he explained in (Thurston 1994), though parts of his argument are contained in Thurston (1986, 1998a, 1998b). Wall (1984) and Morgan (1984) gave summaries of Thurston's proof. Otal (1996) gave a proof in the case of manifolds that fiber over the circle, and Otal (1998) and Kapovich (2009) gave proofs for the generic case of manifolds that do not fiber over the circle. Thurston's geometrization theorem also follows from Perelman's proof using Ricci flow of the more general Thurston geometrization conjecture.
+
+
+== Manifolds that fiber over the circle ==
+Thurston's original argument for this case was summarized by Sullivan (1979). 
+Otal (1996) gave a proof in the case of manifolds that fiber over the circle.
+Thurston's geometrization theorem in this special case states that if M is a 3-manifold that fibers over the circle and whose monodromy is a pseudo-Anosov diffeomorphism, then the interior of M has a complete hyperbolic metric of finite volume.
+
+
+== Manifolds that do not fiber over the circle ==
+Otal (1998) and Kapovich (2009) gave proofs of Thurston's theorem for the generic case of manifolds that do not fiber over the circle.
+The idea of the proof is to cut a Haken manifold M along an incompressible surface, to obtain a new manifold N. By induction one assumes that the interior of N has a hyperbolic structure, and the problem is to modify it so that it can be extended to the boundary of N and glued together. Thurston showed that this follows from the existence of a fixed point for a map of Teichmuller space called the skinning map. The core of the proof of the geometrization theorem is to prove that if N is not an interval bundle over a surface and M is an atoroidal then the skinning map has a fixed point. (If N is an interval bundle then the skinning map has no fixed point, which is why one needs a separate argument when M fibers over the circle.) McMullen (1990) gave a new proof of the existence of a fixed point of the skinning map.
+
+
+== References ==
+Kapovich, Michael (2009) [2001], Hyperbolic manifolds and discrete groups, Modern Birkhäuser Classics, Boston, MA: Birkhäuser Boston, doi:10.1007/978-0-8176-4913-5, ISBN 978-0-8176-4912-8, MR 1792613
+McMullen, C. (1990), "Iteration on Teichmüller space", Inventiones Mathematicae, 99 (2): 425–454, Bibcode:1990InMat..99..425M, CiteSeerX 10.1.1.39.2226, doi:10.1007/BF01234427, MR 1031909, S2CID 122626150
+Morgan, John W. (1984), "On Thurston's uniformization theorem for three-dimensional manifolds",  in Morgan, John W.; Bass, Hyman (eds.), The Smith conjecture (New York, 1979), Pure Appl. Math., vol. 112, Boston, MA: Academic Press, pp. 37–125, ISBN 978-0-12-506980-9, MR 0758464
+Otal, Jean-Pierre (1996), "Le théorème d'hyperbolisation pour les variétés fibrées de dimension 3", Astérisque (235), MR 1402300 Translated into English as Otal, Jean-Pierre (2001) [1996],  Kay, Leslie D. (ed.), The hyperbolization theorem for fibered 3-manifolds, SMF/AMS Texts and Monographs, vol. 7, Providence, R.I.: American Mathematical Society, ISBN 978-0-8218-2153-4, MR 1855976
+Otal, Jean-Pierre (1998), "Thurston's hyperbolization of Haken manifolds",  in Hsiung, C.-C.; Yau, Shing-Tung (eds.), Surveys in differential geometry, Vol. III (Cambridge, MA, 1996), Int. Press, Boston, MA, pp. 77–194, ISBN 978-1-57146-067-7, MR 1677888, archived from the original on 2011-01-06
+Sullivan, Dennis (1981), "Travaux de Thurston sur les groupes quasi-fuchsiens et les variétés hyperboliques de dimension 3 fibrées sur S1", Bourbaki Seminar, Vol. 1979/80, Lecture Notes in Math., vol. 842, Berlin, New York: Springer-Verlag, pp. 196–214, doi:10.1007/BFb0089935, ISBN 978-3-540-10292-2, MR 0636524
+Thurston, William P. (1982), "Three-dimensional manifolds, Kleinian groups and hyperbolic geometry", Bulletin of the American Mathematical Society, New Series, 6 (3): 357–381, doi:10.1090/S0273-0979-1982-15003-0, MR 0648524 This gives the original statement of the conjecture.
+Thurston, William P. (1986), "Hyperbolic structures on 3-manifolds. I. Deformation of acylindrical manifolds", Annals of Mathematics, Second Series, 124 (2): 203–246, arXiv:math/9801019, doi:10.2307/1971277, JSTOR 1971277, MR 0855294, S2CID 14114726
+Thurston, William P. (1994), "On proof and progress in mathematics", Bulletin of the American Mathematical Society, New Series, 30 (2): 161–177, arXiv:math/9404236, doi:10.1090/S0273-0979-1994-00502-6, MR 1249357
+Thurston, William P. (1998a) [1986], Hyperbolic Structures on 3-manifolds, II: Surface groups and 3-manifolds which fiber over the circle, arXiv:math/9801045, Bibcode:1998math......1045T
+Thurston, William P. (1998b) [1986], Hyperbolic Structures on 3-manifolds, III: Deformations of 3-manifolds with incompressible boundary, arXiv:math/9801058, Bibcode:1998math......1058T
+Wall, C. T. C. (1984), "On the work of W. Thurston",  in Ciesielski, Zbigniew; Olech, Czesław (eds.), Proceedings of the International Congress of Mathematicians, Vol. 1 (Warsaw, 1983), Warszawa: PWN, pp. 11–14, ISBN 978-83-01-05523-3, MR 0804672
+
+
+== External links ==
+Kapovich, M., Geometrization theorem (PDF)

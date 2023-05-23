@@ -1,0 +1,15 @@
+BAI1-associated protein 3 is a protein that in humans is encoded by the BAIAP3 gene.BAIAP3 was identified as a protein-binding partner of BAI1. BAI1 is a p53-target gene that encodes a brain-specific angiogenesis inhibitor. The protein is a seven-span transmembrane protein and a member of the secretin receptor family. BAIAP3 interacts with the cytoplasmic region of brain-specific angiogenesis inhibitor 1. BAIAP3 also contains two C2 domains, which are often found in proteins involved in signal transduction or membrane trafficking. Its expression pattern and similarity to other proteins suggest that it may be involved in synaptic functions.
+
+
+== Interactions ==
+BAIAP3 has been shown to interact with Brain-specific angiogenesis inhibitor 1.
+
+
+== References ==
+
+
+== External links ==
+Human BAIAP3 genome location and BAIAP3 gene details page  in the UCSC Genome Browser.
+
+
+== Further reading ==

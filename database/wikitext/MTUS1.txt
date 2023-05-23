@@ -1,0 +1,19 @@
+Mitochondrial tumor suppressor 1 (MTSG1) or Microtubule-Associated Scaffold Protein 1 (MTUS1) is a candidate tumor suppressor protein encoded by the MTUS1 gene in humans. Expression levels of MTUS1 was reported to be lost in various types of human malignancies such as colon, ovarian, head-and-neck, pancreas, breast cancers, bladder, gastric, and lung cancers.
+
+
+== Proteins encoded by MTUS1 ==
+As a result of alternative splicing MTUS1 was shown to encode 5 different protein isoforms as listed as ATIP1, ATIP2, ATIP3a, ATIP3b and ATIP4. ATIP3a and ATIP3b was generally considered as ATIP3 and ATIP1 and ATIP3 is the major splice variants encoded by MTUS1 gene.
+
+
+== Function ==
+This gene encodes a protein which contains a C-terminal domain able to interact with the angiotensin II receptor type 2 (AT2) and a large coiled-coil region allowing dimerization. Multiple alternatively spliced transcript variants encoding different isoforms have been found for this gene. One of the transcript variants has been shown to encode a mitochondrial protein that acts as a tumor suppressor and participates in AT2 signaling pathways. Other variants may encode nuclear or transmembrane proteins but it has not been determined whether they also participate in AT2 signaling pathways.
+
+
+== Interactions ==
+MTUS1 has been shown to interact with Angiotensin II receptor type 2.
+
+
+== References ==
+
+
+== Further reading ==

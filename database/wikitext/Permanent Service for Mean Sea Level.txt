@@ -1,0 +1,8 @@
+The Permanent Service for Mean Sea Level is a repository for tide gauge data used in the measurement of long-term sea level change.  The PSMSL is based at the National Oceanography Centre in Liverpool, England. It was founded in 1933 as the IUGG Mean Sea Level Committee, and adopted as a Permanent Service of the International Council for Science (ICSU) in 1958.The tide gauge data are freely accessible by all, and consist predominantly of monthly-mean and annual-mean sea levels. The primary,"Revised Local Reference" data set has a continuous history of benchmark surveys for each gauge, ensuring that sea level is measured relative to a known land-based datum. There is also a "Metric" data set without such datum control, and a set of hourly and daily ocean bottom pressure data from the open ocean. The latter has no datum control, and the instruments are prone to calibration drift, so the bottom pressure data are useful only for oscillations with periods significantly shorter than the length of an individual instrument deployment (typically 1 year).The PSMSL is financially supported by the UK Natural Environment Research Council, the International Council for Science World Data System, and the Intergovernmental Oceanographic Commission.
+
+
+== References ==
+
+
+== External links ==
+Official website

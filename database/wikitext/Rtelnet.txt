@@ -1,0 +1,9 @@
+RTelnet is a SOCKS client version of telnet in Unix-like systems. The RTelnet utility provides similar functionality of telnet to those hosts which are behind a firewall.
+Normally, firewalls are designed to permit or deny network transmissions based upon a set of rules. Network accessibility across the firewall is reduced in order to provide adequate security to hosts within the firewall. Because of this, many services can not directly access the resources placed outside the firewall. RTelnet utility provides functionality of telnet while maintaining the security requirement of firewall and NAT. Though the utility differs very much from its counterpart in implementation, it behaves almost indistinguishably to users in terms of command interface and communication scheme. RTelnet is a "versatile" client - it can be used for both connections to inside hosts directly and to outside hosts via SOCKS proxy servers.
+
+
+== Protocol details ==
+When RTelnet starts, it prints its version number and the name or IP address of its default SOCKS proxy server to stderr stream channel. It then consults the configuration file (/etc/socks.conf) to determine whether a request should be allowed or denied based on the requesting user, the destination host, and the requested service.For allowable requests, the configuration file also dictates whether direct or proxy connection should be used to the given destination, and optionally the actual SOCKS servers to use for the proxy connection. The RTelnet utility requires the libsocket.so shared library to run.RTelnet is a listed project on SourceForge code repository.
+
+
+== References ==

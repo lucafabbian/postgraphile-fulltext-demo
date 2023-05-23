@@ -1,0 +1,24 @@
+The European Space Weather Portal (ESWeP) results from the COST (European Cooperation in Science and Technology) action 724 (Developing the basis for monitoring, modelling and predicting Space Weather).  ESWeP is a website providing a centralized access point to the space weather community to share their knowledge and results.  The website is hosted and maintained at the Belgian Institute for Space Aeronomy.  Its development will be continued in the framework of the COST ES0803 action (Developing space weather products and services in Europe).
+On ESWeP, a section is devoted to education and outreach.  Children as young as five years old are invited to get involved in some of these activities.  For example, artworks illustrating space weather made by primary school children from several countries are presented on the website.
+
+
+== Models ==
+The portal provides a platform to run local and remote models and access their results both in graphical and numerical forms.  Models hosted at ESWeP:
+
+Geomagnetic cutoff calculations (K. Kudela (IEP/SAV) & M. Storini (IFSI/CNR), COST724)
+SOLPENCO (A. Aran, B. Sanahuja and D. Lario, University of Barcelona, COST724)
+Exospheric solar wind model (H. Lamy and V. Pierrard, BISA, COST724)
+Plasmapause location (V. Pierrard, BISA, COST724)
+Magnetocosmics cutoffs (L. Desorgher, University of Bern, COST724)
+Magnetocosmics trajectories (L. Desorgher, University of Bern, COST724)
+
+
+== Space weather document repository ==
+Space weather research and services can only be organized efficiently with reference documentation.  The FP7 SOTERIA project identified the need to have a repository where space weather professionals can upload and share their technical documents, reference documents, standards, or research papers.
+The "Space Weather Document Repository", which is an online tool to disseminate reference documents (papers, reports, etc.) that are space weather-related, was developed by ESWeP in collaboration with SOTERIA.
+
+
+== References ==
+
+
+== External links ==

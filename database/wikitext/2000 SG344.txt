@@ -1,0 +1,29 @@
+2000 SG344 is a small Aten asteroid first observed in 2000. It is assumed to have a diameter of approximately 37 meters (120 feet) – or roughly twice that of the Chelyabinsk meteor – and an assumed mass of 7.1×107 kg (71,000 tonnes). But the size is only known within about a factor 2. It is the largest object known to have a better than 1/1000 chance (0.1%) of impacting Earth and has the fourth highest cumulative Palermo rating at −2.79. The next good chance to observe the object will be in May 2028 when it passes 0.02 AU (3,000,000 km; 1,900,000 mi) from Earth.Because of its very Earth-like orbit and because it would have been near the Earth in 1971 (coinciding with the Apollo program), there was speculation that 2000 SG344 might not be an asteroid but a man-made object such as an S-IVB booster stage from a Saturn V rocket which would make it about 15 meters in diameter and much less massive. (cf. J002E3, the S-IVB booster of Apollo 12 which was mistaken for an asteroid.)
+
+
+== Possible impacts with Earth ==
+Until December 2004, it was considered to have the highest (though still very low) likelihood of any near-Earth object to impact Earth in the next 100 years. It is ranked a zero on the Torino scale of impact risk because of its small size (the scale is 0–10) and is listed on Sentry Risk Table. It was briefly surpassed in December 2004 by 99942 Apophis (which at the time was known only by its provisional designation 2004 MN4). Smaller asteroids such as 2006 JY26 and 2006 RH120 have a greater chance of impacting Earth.
+Based on 31 observations of 2000 SG344 made from May 1999 to October 2000, there is about a 1 in 360 chance that it will collide with Earth between 2069 and 2121. The greatest chance of impact is on 16 September 2071 with a 1 in 1000 chance of impact. Assuming the object is a rocky asteroid and that it reaches Earth's surface without exploding in the atmosphere, the impact energy released would be an estimated 1.0 megatons of TNT, comparable to the Tunguska and Chelyabinsk events, which could create an impact crater approximately 100 feet (30 m) wide.
+
+
+== Planned NASA mission ==
+In 2008, NASA considered this asteroid as a possible target for a crewed mission (Artemis 2) using the Orion spacecraft, prior to a projected 2030 push to Mars. Those plans were since abandoned. 2000 SG344 will be observable in May 2028 at an apparent magnitude of 19.
+
+
+== References ==
+
+
+== Further reading ==
+"IAU Circular: MPEC 2000-U19". 24 October 2000. Retrieved 18 May 2008. {{cite journal}}: Cite journal requires |journal= (help)
+"IAU Circular: MPEC 2000-U24". 25 October 2000. Retrieved 9 May 2008. {{cite journal}}: Cite journal requires |journal= (help)
+"IAU Circular: MPEC 2000-V26". 8 November 2000. Retrieved 9 May 2008. {{cite journal}}: Cite journal requires |journal= (help)
+
+
+== External links ==
+NASA NEO Study home page
+Piloted Orion Flight Feasibility Study
+2000 SG344 at NeoDyS-2, Near Earth Objects—Dynamic Site
+Ephemerides · Observation prediction · Orbital info · MOID · Proper elements · Observational info · Close approaches · Physical info · Orbit animation
+2000 SG344 at ESA–space situational awareness
+Ephemerides · Observations · Orbit · Physical properties · Summary
+2000 SG344 at the JPL Small-Body Database

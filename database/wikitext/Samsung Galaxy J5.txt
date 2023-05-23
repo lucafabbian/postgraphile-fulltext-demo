@@ -1,0 +1,25 @@
+The Samsung Galaxy J5 is an Android smartphone produced by Samsung Electronics. It was unveiled and released in June 2015. It has Qualcomm Snapdragon 410 SoC that is backed by 1.5 GB RAM and that has a 64 bit processor.
+It has a 13 megapixel rear camera with an LED flash, f/1.9 aperture, auto-focus and a 5 megapixel wide-angle front facing camera which can extend up to 120°, also equipped with an LED flash.
+
+
+== Specifications ==
+
+
+=== Hardware ===
+The phone is powered by Qualcomm's Snapdragon 410 chipset that has a 1.2 GHz processor, Adreno 306 GPU and that is backed by 1.5 GB RAM with 8 GB of internal storage and a 2600 mAh battery. J500G model comes with a 2100 mAh battery. Samsung Galaxy J5 is fitted with a 5-inch HD Super AMOLED display. The South Korean variant adds support for T-DMB & Smart DMB. The phone has a plastic chassis and plastic back cover.According to the BLE Checker app, the phone supports Bluetooth Low Energy devices.
+
+
+=== Software ===
+This phone comes with Android 5.1.1 Lollipop and is upgradable to Android 6.0.1 Marshmallow. It supports 4G LTE with dual SIM enabled 4G and Voice over LTE. It also supports Samsung Knox. In 2016, it received an update to support Samsung S-Bike Mode
+For the device, there is an unofficial Android 7.1.1 Nougat firmware based on the official Samsung firmware for SM-A530F.
+
+
+== See also ==
+Samsung Galaxy J
+Samsung Galaxy
+Samsung
+Android (operating system)
+Samsung Galaxy J series
+
+
+== References ==

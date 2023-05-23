@@ -1,0 +1,58 @@
+A self-organizing network (SON) is an automation technology designed to make the planning, configuration, management, optimization and healing of mobile radio access networks simpler and faster. SON functionality and behavior has been defined and specified in generally accepted mobile industry recommendations produced by organizations such as 3GPP (3rd Generation Partnership Project) and the NGMN (Next Generation Mobile Networks).
+SON has been codified within 3GPP Release 8 and subsequent specifications in a series of standards including 36.902, as well as public white papers outlining use cases from the NGMN. The first technology making use of SON features will be Long Term Evolution (LTE), but the technology has also been retro-fitted to older radio access technologies such as Universal Mobile Telecommunications System (UMTS). The LTE specification inherently supports SON features like Automatic Neighbor Relation (ANR) detection, which is the 3GPP LTE Rel. 8 flagship feature.Newly added base stations should be self-configured in line with a "plug-and-play" paradigm while all operational base stations will regularly self-optimize parameters and algorithmic behavior in response to observed network performance and radio conditions. Furthermore, self-healing mechanisms can be triggered to temporarily compensate for a detected equipment outage, while awaiting a more permanent solution.
+
+
+== SON architectural types ==
+Self-organizing networks are commonly divided into three major architectural types.
+
+
+=== Distributed SON ===
+In this type of SON (D-SON), functions are distributed among the network elements at the edge of the network, typically the ENodeB elements. This implies a certain degree of localization of functionality and is normally supplied by the network equipment vendor manufacturing the radio cell.
+
+
+=== Centralized SON ===
+In centralized SON (C-SON), function is more typically concentrated closer to higher-order network nodes or the network OSS, to allow a broader overview of more edge elements and coordination of e.g. load across a wide geographic area. Due to the need to inter-work with cells supplied by different equipment vendors, C-SON systems are more typically supplied by 3rd parties. 
+
+
+=== Hybrid SON ===
+Hybrid SON is a mix of centralized and distributed SON, combining elements of each in a hybrid solution.
+
+
+== SON sub-functions ==
+Self-organizing network functionalities are commonly divided into three major sub-functional groups, each containing a wide range of decomposed use cases.
+
+
+=== Self-configuration functions ===
+Self-configuration strives towards the "plug-and-play" paradigm in the way that new base stations shall automatically be configured and integrated into the network. This means both connectivity establishment, and download of configuration parameters are software. Self-configuration is typically supplied as part of the software delivery with each radio cell by equipment vendors. When a new base station is introduced into the network and powered on, it gets immediately recognized and registered by the network. The neighboring base stations then automatically adjust their technical parameters (such as emission power, antenna tilt, etc.) in order to provide the required coverage and capacity, and, in the same time, avoid the interference.
+
+
+=== Self-optimisation functions ===
+
+Every base station contains hundreds of configuration parameters that control various aspects of the cell site. Each of these can be altered to change network behaviour, based on observations of both the base station itself and measurements at the mobile station or handset. One of the first SON features establishes neighbour relations automatically (ANR) while others optimise random access parameters or mobility robustness in terms of handover oscillations. A very illustrative use case is the automatic switch-off of a percent of base stations during the night hours. The neighbouring base station would then re-configure their parameters in order to keep the entire area covered by the signal. In case of a sudden growth in connectivity demand for any reason, the "sleeping" base stations "wake up" almost instantaneously. This mechanism leads to significant energy savings for operators.
+
+
+=== Self-healing functions ===
+When some nodes in the network become inoperative, self-healing mechanisms aim at reducing the impacts from the failure, for example by adjusting parameters and algorithms in adjacent cells so that other nodes can support the users that were supported by the failing node. In legacy networks, the failing base stations are at times hard to identify and a significant amount of time and resources is required to fix it. This function of SON permits to spot such a failing base stations immediately in order to take further measures, and ensure no or insignificant degradation of service for the users.
+
+
+=== Self-protection functions ===
+It is a proactive approach of a system for defending itself from the penetration of any unauthorised user in the system and from any active or passive attack. The main objectives of self-protection are to make the security of the system unbreakable and also make the data confidential and secure.
+
+
+== Introduction of SON ==
+Self-organizing Networks features are being introduced gradually with the arrival of new 4G systems in radio access networks, allowing for the impact of potential ‘teething troubles’ to be limited and gradually increasing confidence. Self-optimization mechanisms in mobile radio access networks can be seen to have some similarities to automated trading algorithms in financial markets. SON has also been retrofitted to existing 3G networks to help reduce cost and improve service reliability.
+The Mobile World Congress trade conference in 2009 saw the first major announcements of SON functionality for LTE mobile networks. First deployments occurred in Japan and USA during 2009/10.Among other benefits, SON deployments have enabled mobile operators to decrease network roll-out times, reduce dropped calls, improve throughput, lessen congestion and achieve other operational efficiencies including energy and cost savings.
+
+
+== References ==
+
+
+== Literature ==
+C. Brunner, D. Flore: Generation of Pathloss and Interference Maps as SON Enabler in Deployed UMTS Networks. In: Proceedings of IEEE Vehicular Technology Conf. (VTC Spring '09). Barcelona, Spain, April 2009
+
+
+== External links ==
+3GPP
+NGMN
+Nomor Research: White Paper "Self-Organizing Networks (SON) in 3GPP Long Term Evolution"
+Self-Organizing Networks, SON, tutorial covering self configuration, optimization and healing

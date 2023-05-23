@@ -1,0 +1,69 @@
+Homogeneity and heterogeneity are concepts relating to the uniformity of a substance, process or image. A homogeneous feature is uniform in composition or character (i.e. color, shape, size, weight, height, distribution, texture, language, income, disease, temperature, radioactivity, architectural design, etc.); one that is heterogeneous is distinctly nonuniform in at least one of these qualities.
+
+
+== Etymology and spelling ==
+The words homogeneous and heterogeneous come from Medieval Latin homogeneus and heterogeneus, from Ancient Greek ὁμογενής (homogenēs) and  ἑτερογενής (heterogenēs), from ὁμός (homos, “same”) and ἕτερος (heteros, “other, another, different”) respectively, followed by γένος (genos, “kind”); -ous is an adjectival suffix.Alternate spellings omitting the last -e- (and the associated pronunciations) are common, but mistaken: homogenous is strictly a biological/pathological term which has largely been replaced by homologous.  But use of homogenous to mean homogeneous has seen a rise since 2000 sufficient enough for it to now be considered an "established variant". Similarly, heterogenous is a spelling traditionally reserved to biology and pathology, referring to the property of an object in the body having its origin outside the body.
+
+
+== Scaling ==
+The concepts are the same to every level of complexity.  From atoms to galaxies, plants, animals, humans, and other living organisms all share both a common or unique set of complexities. 
+Hence, an element may be homogeneous on a larger scale, compared to being heterogeneous on a smaller scale. This is known as an effective medium approximation. 
+
+
+== Examples ==
+Various disciplines understand heterogeneity, or being heterogeneous,  in different ways.
+
+
+=== Chemistry ===
+
+In chemistry, a heterogeneous mixture consists of either or both of 1) multiple states of matter or 2) hydrophilic and hydrophobic substances in one mixture; an example of the latter would be a mixture of water, octane, and silicone grease. Heterogeneous solids, liquids, and gases may be made homogeneous by melting, stirring, or by allowing time to pass for diffusion to distribute the molecules evenly. For example, adding dye to water will create a heterogeneous solution at first, but will become homogeneous over time. Entropy allows for heterogeneous substances to become homogeneous over time.A heterogeneous mixture is a mixture of two or more compounds. Examples are: mixtures of sand and water or sand and iron filings, a conglomerate rock, water and oil, a salad, trail mix, and concrete (not cement). A mixture can be determined to be homogeneous when everything is settled and equal, and the liquid, gas, the object is one color or the same form. Various models have been proposed to model the concentrations in different phases. The phenomena to be considered are mass rates and reaction.
+
+
+==== Homogeneous and heterogeneous reactions ====
+Homogeneous reactions are chemical reactions in which the reactants and products are in the same phase, while heterogeneous reactions have reactants in two or more phases. Reactions that take place on the surface of a catalyst of a different phase are also heterogeneous. A reaction between two gases or two miscible liquids is homogeneous. A reaction between a gas and a liquid, a gas and a solid or a liquid and a solid is heterogeneous.
+
+
+=== Geology ===
+Earth is a heterogeneous substance in many aspects; for instance, rocks (geology) are inherently heterogeneous, usually occurring at the micro-scale and mini-scale.
+
+
+=== Information technology ===
+With information technology, heterogeneous computing occurs in a network comprising different types of computers, potentially with vastly differing memory sizes, processing power and even basic underlying architecture.
+
+
+=== Mathematics and statistics ===
+
+In algebra, homogeneous polynomials have the same number of factors of a given kind.
+In the study of binary relations, a homogeneous relation R is on a single set (R ⊆ X × X) while a heterogeneous relation concerns possibly distinct sets (R ⊆ X × Y,  X = Y or X ≠ Y).In statistical meta-analysis, study heterogeneity is when multiple studies on an effect are measuring somewhat different effects due to differences in subject population, intervention, choice of analysis, experimental design, etc.; this can cause problems in attempts to summarize the meaning of the studies.
+
+
+=== Medicine ===
+
+In medicine and genetics, a genetic or allelic heterogeneous condition is one where the same disease or condition can be caused, or contributed to, by several factors, or in genetic terms, by varying or different genes or alleles.
+In cancer research, cancer cell heterogeneity is thought to be one of the underlying reasons that make treatment of cancer difficult.
+
+
+=== Physics ===
+
+In physics, "heterogeneous" is understood to mean "having physical properties that vary within the medium".
+
+
+=== Sociology ===
+In sociology, "heterogeneous" may refer to a society or group that includes individuals of differing ethnicities, cultural backgrounds, sexes, or ages.  Diverse is the more common synonym in the context.
+
+
+== See also ==
+Complete spatial randomness
+Heterologous
+Epidemiology
+Spatial analysis
+Statistical hypothesis testing
+Homogeneity blockmodeling
+
+
+== References ==
+
+
+== External links ==
+
+The following cited pages in this book cover the meaning of "homogeneity" across disciplines Morris, Christopher G. (1992). Academic Press Dictionary of Science and Technology. Gulf Professional Publishing. pp. 1039, 1040. ISBN 0-12-200400-0. Homogeneity in physics..

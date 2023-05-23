@@ -1,0 +1,218 @@
+The decay energy is the energy change of a nucleus having undergone a radioactive decay. Radioactive decay is the process in which an unstable atomic nucleus loses energy by emitting ionizing particles and radiation. This decay, or loss of energy, results in an atom of one type (called the parent nuclide) transforming to an atom of a different type (called the daughter nuclide).
+
+
+== Decay calculation ==
+The energy difference of the reactants is often written as Q:
+
+  
+    
+      
+        Q
+        =
+        
+          
+            (
+            
+              Kinetic energy
+            
+            )
+          
+          
+            after
+          
+        
+        −
+        
+          
+            (
+            
+              Kinetic energy
+            
+            )
+          
+          
+            before
+          
+        
+        ,
+      
+    
+    {\displaystyle Q=\left({\text{Kinetic energy}}\right)_{\text{after}}-\left({\text{Kinetic energy}}\right)_{\text{before}},}
+  
+
+  
+    
+      
+        Q
+        =
+        
+          
+            (
+            
+              Rest mass
+            
+            )
+          
+          
+            before
+          
+        
+        
+          c
+          
+            2
+          
+        
+        −
+        
+          
+            (
+            
+              Rest mass
+            
+            )
+          
+          
+            after
+          
+        
+        
+          c
+          
+            2
+          
+        
+        .
+      
+    
+    {\displaystyle Q=\left({\text{Rest mass}}\right)_{\text{before}}c^{2}-\left({\text{Rest mass}}\right)_{\text{after}}c^{2}.}
+  Decay energy is usually quoted in terms of the energy units MeV (million electronvolts) or keV (thousand electronvolts):
+
+  
+    
+      
+        Q
+        
+           [MeV]
+        
+        =
+        −
+        931.5
+        Δ
+        M
+        
+           [Da]
+        
+        ,
+         
+         
+        (
+        
+          where 
+        
+        Δ
+        M
+        =
+        Σ
+        
+          M
+          
+            products
+          
+        
+        −
+        Σ
+        
+          M
+          
+            reactants
+          
+        
+        )
+        .
+      
+    
+    {\displaystyle Q{\text{ [MeV]}}=-931.5\Delta M{\text{ [Da]}},~~({\text{where }}\Delta M=\Sigma M_{\text{products}}-\Sigma M_{\text{reactants}}).}
+  Types of radioactive decay include
+
+gamma ray
+beta decay (decay energy is divided between the emitted electron and the neutrino which is emitted at the same time)
+alpha decayThe decay energy is the mass difference Δm between the parent and the daughter atom and particles. It is equal to the energy of radiation E. If A is the radioactive activity, i.e. the number of transforming atoms per time, M the molar mass, then the radiation power P is:
+
+  
+    
+      
+        P
+        =
+        Δ
+        
+          m
+        
+        
+          (
+          
+            
+              A
+              M
+            
+          
+          )
+        
+        .
+      
+    
+    {\displaystyle P=\Delta {m}\left({\frac {A}{M}}\right).}
+  or
+
+  
+    
+      
+        P
+        =
+        E
+        
+          (
+          
+            
+              A
+              M
+            
+          
+          )
+        
+        .
+      
+    
+    {\displaystyle P=E\left({\frac {A}{M}}\right).}
+  or
+
+  
+    
+      
+        P
+        =
+        Q
+        A
+        .
+      
+    
+    {\displaystyle P=QA.}
+  Example: 60Co decays into 60Ni. The mass difference Δm is 0.003 u. The radiated energy is approximately 2.8 MeV. The molar weight is 59.93. The half life T of 5.27 year corresponds to the activity A = N [ ln(2) / T ], where N is the number of atoms per mol, and T is the half-life. Taking care of the units the radiation power for 60Co is 17.9 W/g
+Radiation power in W/g for several isotopes:
+
+60Co: 17.9
+238Pu: 0.57
+137Cs: 0.6
+241Am: 0.1
+210Po: 140 (T = 136 d)
+90Sr: 0.9
+226Ra: 0.02For use in radioisotope thermoelectric generators (RTGs) high decay energy combined with a long half life is desirable. To reduce the cost and weight of radiation shielding, sources that do not emit strong gamma radiation are preferred. This table gives an indication why - despite its enormous cost - 238Pu with its roughly eighty year half life and low gamma emissions has become the RTG nuclide of choice. 90Sr performs worse than 238Pu on almost all measures, being shorter lived, a beta emitter rather than an easily shielded alpha emitter and releasing significant gamma radiation when its daughter nuclide 90Y decays, but as it is a high yield product of nuclear fission and easy to chemically extract from other fission products, Strontium titanate based RTGs were in widespread use for remote locations during much of the 20th century. Cobalt-60 while widely used for purposes such as food irradiation is not a practicable RTG isotope as most of its decay energy is released by gamma rays, requiring substantial shielding. Furthermore its five year half life is too short for many applications.
+
+
+== See also ==
+Q value (nuclear science)
+
+
+== References ==
+
+Radioactivity Radionuclides Radiation by Joseph Magill and Jean Galy, Springer Verlag, 2005

@@ -1,0 +1,902 @@
+This list of birds of California is a comprehensive listing of all the bird species seen naturally in the U.S. state of California as determined by the California Bird Records Committee (CBRC).As of August 5, 2022, there are 681 species on the CBRC list. Two of these species are endemic, 13 were introduced by humans (directly or indirectly), one species has been extirpated, and one was extirpated in the wild but its reintroduction is in progress. Five additional species have been documented but "the CBRC could not reach a consensus as to whether records of these species involved true naturally occurring vagrants or escapes from captivity." 
+The following tags note species in each of those categories and one additional category:
+
+(En) Endemic to California
+(I) Introduced but now established in California
+(Ex) Extirpated from California
+(RI) Reintroduction in progress - not yet established
+(*) California Bird Records Committee Review Species (200 species; in general, review species average four or fewer occurrences per year in California over the most recent ten-year period.)
+(UO) Of unknown originIndividuals or even flocks of many additional species have been recorded in California but these birds are assumed to be deliberately released or escaped from captivity. In the absence of evidence of wild origin, they are not included in the CBRC list.
+This list is presented in the taxonomic sequence of the Check-list of North and Middle American Birds, 7th edition through the 623rd Supplement, published by the American Ornithological Society (AOS). Common and scientific names are also those of the Check-list, except that the common names of families are from the Clements taxonomy because the AOS list does not include them.
+
+
+== Ducks, geese, and waterfowl ==
+Order: Anseriformes   Family: Anatidae
+
+The family Anatidae includes the ducks and most duck-like waterfowl, such as geese and swans. These birds are adapted to an aquatic existence with webbed feet, bills which are flattened to a greater or lesser extent, and feathers that are excellent at shedding water due to special oils.
+
+
+== New World quail ==
+Order: Galliformes   Family: Odontophoridae
+The New World quails are small, plump terrestrial birds only distantly related to the quails of the Old World, but named for their similar appearance and habits.
+
+Mountain quail, Oreortyx pictus
+California quail, Callipepla californica
+Gambel's quail, Callipepla gambelii
+
+
+== Pheasants, grouse, and allies ==
+Order: Galliformes   Family: Phasianidae
+Phasianidae consists of the pheasants and their allies, including partridges, grouse, turkeys, and Old World quail. These are terrestrial species, variable in size but generally plump with broad relatively short wings. Many species are gamebirds or have been domesticated as a food source for humans.
+
+Wild turkey, Meleagris gallopavo (I)
+Ruffed grouse, Bonasa umbellus
+White-tailed ptarmigan, Lagopus leucurus (I)
+Sooty grouse, Dendragapus fuliginosus
+Sharp-tailed grouse, Tympanuchus phasianellus (Ex)
+Greater sage-grouse, Centrocercus urophasianus
+Ring-necked pheasant, Phasianus colchicus (I)
+Chukar, Alectoris chukar (I)
+
+
+== Grebes ==
+Order: Podicipediformes   Family: Podicipedidae
+
+Grebes are small to medium-large freshwater diving birds. They have lobed toes and are excellent swimmers and divers. However, they have their feet placed far back on the body, making them quite ungainly on land.
+
+Least grebe, Tachybaptus dominicus (*)
+Pied-billed grebe, Podilymbus podiceps
+Horned grebe, Podiceps auritus
+Red-necked grebe, Podiceps grisegena
+Eared grebe, Podiceps nigricollis
+Western grebe, Aechmorphorus occidentalis
+Clark's grebe, Aechmorphorus clarkii
+
+
+== Pigeons and doves ==
+Order: Columbiformes   Family: Columbidae
+
+Pigeons and doves are stout-bodied birds with short necks and short slender bills with a fleshy cere.
+
+Rock pigeon, Columba livia (I)
+Band-tailed pigeon, Patagioenas fasciata
+Oriental turtle-dove, Streptopelia orientalis (*)
+Eurasian collared-dove, Streptopelia decaocto (I)
+Spotted dove, Spilopelia chinensis (I)
+Inca dove, Columbina inca
+Common ground dove, Columbina passerina
+Ruddy ground dove, Columbina talpacoti (*)
+White-winged dove, Zenaida asiatica
+Mourning dove, Zenaida macroura
+
+
+== Cuckoos ==
+Order: Cuculiformes   Family: Cuculidae
+
+The family Cuculidae includes cuckoos, roadrunners, and anis. These birds are of variable size with slender bodies, long tails, and strong legs. The Old World cuckoos are brood parasites.
+
+Groove-billed ani, Crotophaga sulcirostris (*)
+Common cuckoo, Cuculus canorus (*)
+Greater roadrunner, Geococcyx californianus
+Yellow-billed cuckoo, Coccyzus americanus
+Black-billed cuckoo, Coccyzus erythropthalmus (*)
+
+
+== Nightjars and allies ==
+Order: Caprimulgiformes   Family: Caprimulgidae
+
+Nightjars are medium-sized nocturnal birds that usually nest on the ground. They have long wings, short legs, and very short bills. Most have small feet, of little use for walking, and long pointed wings. Their soft plumage is cryptically colored to resemble bark or leaves.
+
+Lesser nighthawk,  Chordeiles acutipennis
+Common nighthawk,  Chordeiles minor
+Common poorwill,  Phalaenoptilus nuttallii
+Chuck-will's-widow, Antrostomus carolinensis (*)
+Buff-collared nightjar, Antrostomus ridgwayi (*)
+Eastern whip-poor-will, Antrostomus vociferus (*)
+Mexican whip-poor-will, Antrostomus arizonae
+
+
+== Swifts ==
+Order: Apodiformes   Family: Apodidae
+The swifts are small birds which spend the majority of their lives flying. These birds have very short legs and never settle voluntarily on the ground, perching instead only on vertical surfaces. Many swifts have long swept-back wings which resemble a crescent or boomerang.
+
+Black swift, Cypseloides niger
+White-collared swift, Streptoprocne zonaris (*)
+Chimney swift, Chaetura pelagica
+Vaux's swift, Chaetura vauxi
+Common swift, Apus apus (*)
+White-throated swift, Aeronautes saxatalis
+
+
+== Hummingbirds ==
+Order: Apodiformes   Family: Trochilidae
+Hummingbirds are small birds capable of hovering in mid-air due to the rapid flapping of their wings. They are the only birds that can fly backwards.
+
+Mexican violetear, Colibri thalassinus (*)
+Rivoli's hummingbird, Eugenes fulgens (*)
+Blue-throated mountain-gem, Lampornis clemenciae (*)
+Ruby-throated hummingbird, Archilochus colubris (*)
+Black-chinned hummingbird, Archilochus alexandri
+Anna's hummingbird, Calypte anna
+Costa's hummingbird, Calypte costae
+Calliope hummingbird, Selasphorus calliope
+Rufous hummingbird, Selasphorus rufus
+Allen's hummingbird, Selasphorus sasin
+Broad-tailed hummingbird, Selasphorus platycercus
+Broad-billed hummingbird, Cynanthus latirostris (*)
+Xantus's hummingbird, Basilinna xantusii (*)
+Violet-crowned hummingbird, Leucolia violiceps (*)
+
+
+== Rails, gallinules, and coots ==
+Order: Gruiformes   Family: Rallidae
+Rallidae is a large family of small to medium-sized birds which includes the rails, crakes, coots, and gallinules. The most typical family members occupy dense vegetation in damp environments near lakes, swamps, or rivers. In general they are shy and secretive birds, making them difficult to observe. Most species have strong legs and long toes which are well adapted to soft uneven surfaces. They tend to have short, rounded wings and to be weak fliers.
+
+Ridgway's rail, Rallus obsoletus
+Virginia rail, Rallus limicola
+Sora, Porzana carolina
+Common gallinule, Gallinula galeata
+American coot, Fulica americana
+Purple gallinule, Porphyrio martinicus (*)
+Yellow rail, Coturnicops noveboracensis
+Black rail, Laterallus jamaicensis
+
+
+== Cranes ==
+Order: Gruiformes   Family: Gruidae
+Cranes are large, long-legged, long-necked birds. Unlike the similar-looking but unrelated herons, cranes fly with necks outstretched, not pulled back. Most have elaborate and noisy courting displays or "dances".
+
+Demoiselle crane, Anthropoides virgo (UO)
+Sandhill crane, Antigone canadensis
+Common crane, Grus grus (*)
+
+
+== Stilts and avocets ==
+Order: Charadriiformes   Family: Recurvirostridae
+Recurvirostridae is a family of large wading birds which includes the avocets and stilts. The avocets have long legs and long up-curved bills. The stilts have extremely long legs and long, thin, straight bills.
+
+Black-necked stilt, Himantopus mexicanus
+American avocet, Recurvirostra americana
+
+
+== Oystercatchers ==
+Order: Charadriiformes   Family: Haematopodidae
+The oystercatchers are large, obvious, and noisy plover-like birds, with strong bills used for smashing or prising open molluscs.
+
+American oystercatcher, Haematopus palliatus
+Black oystercatcher, Haematopus bachmani
+
+
+== Plovers and lapwings ==
+Order: Charadriiformes   Family: Charadriidae
+The family Charadriidae includes the plovers, dotterels, and lapwings. They are small to medium-sized birds with compact bodies, short thick necks, and long, usually pointed, wings. They are found in open country worldwide, mostly in habitats near water.
+
+Black-bellied plover, Pluvialis squatarola
+American golden-plover, Pluvialis dominica
+Pacific golden-plover, Pluvialis fulva
+Eurasian dotterel, Charadrius morinellus (*)
+Killdeer, Charadrius vociferus
+Common ringed plover, Charadrius hiaticula (*)
+Semipalmated plover, Charadrius semipalmatus
+Piping plover, Charadrius melodus (*)
+Lesser sand-plover, Charadrius mongolus (*)
+Greater sand-plover, Charadrius leschenaultii (*)
+Wilson's plover, Charadrius wilsonia (*)
+Snowy plover, Charadrius nivosus
+Mountain plover, Charadrius montanus
+
+
+== Sandpipers and allies ==
+Order: Charadriiformes   Family: Scolopacidae
+
+Scolopacidae is a large diverse family of small to medium-sized shorebirds including the sandpipers, curlews, godwits, shanks, tattlers, woodcocks, snipes, dowitchers, and phalaropes. The majority of these species eat small invertebrates picked out of the mud or soil. Different lengths of legs and bills enable multiple species to feed in the same habitat, particularly on the coast, without direct competition for food.
+
+
+== Skuas and jaegers ==
+Order: Charadriiformes   Family: Stercorariidae
+Skuas and jaegers are in general medium to large birds, typically with gray or brown plumage, often with white markings on the wings. They have longish bills with hooked tips and webbed feet with sharp claws. They look like large dark gulls, but have a fleshy cere above the upper mandible. They are strong, acrobatic fliers.
+
+South polar skua, Stercorarius maccormicki
+Pomarine jaeger, Stercorarius pomarinus
+Parasitic jaeger, Stercorarius parasiticus
+Long-tailed jaeger, Stercorarius longicaudus
+
+
+== Auks, murres, and puffins ==
+Order: Charadriiformes   Family: Alcidae
+Alcids are superficially similar to penguins due to their black-and-white colors, their upright posture, and some of their habits. However, they are only distantly related to the penguins and are able to fly. Auks live on the open sea, only deliberately coming ashore to nest.
+
+Common murre, Uria aalge
+Thick-billed murre, Uria lomvia (*)
+Pigeon guillemot, Cepphus columba
+Long-billed murrelet, Brachyramphus perdix (*)
+Marbled murrelet, Brachyramphus marmoratus
+Kittlitz's murrelet, Brachyramphus brevirostris (*)
+Scripps's murrelet, Synthliboramphus scrippsi
+Guadalupe murrelet, Synthliboramphus hypoleucus
+Craveri's murrelet, Synthliboramphus craveri
+Ancient murrelet, Synthliboramphus antiquus
+Cassin's auklet, Ptychoramphus aleuticus
+Parakeet auklet, Aethia psittacula
+Least auklet, Aethia pusilla (*)
+Crested auklet, Aethia cristatella (*)
+Rhinoceros auklet, Cerorhinca monocerata
+Horned puffin, Fratercula corniculata
+Tufted puffin, Fratercula cirrhata
+
+
+== Gulls, terns, and skimmers ==
+Order: Charadriiformes   Family: Laridae
+
+Laridae is a family of medium to large seabirds and includes gulls, terns, kittiwakes, and skimmers. They are typically gray or white, often with black markings on the head or wings. They have stout, longish bills and webbed feet.
+
+
+== Tropicbirds ==
+Order: Phaethontiformes   Family: Phaethontidae
+Tropicbirds are slender white birds of tropical oceans with exceptionally long central tail feathers. Their long wings have black markings, as does the head.
+
+White-tailed tropicbird, Phaethon lepturus (*)
+Red-billed tropicbird, Phaethon aethereus
+Red-tailed tropicbird, Phaethon rubricauda (*)
+
+
+== Loons ==
+Order: Gaviiformes   Family: Gaviidae
+Loons are aquatic birds, the size of a large duck, to which they are unrelated. Their plumage is largely gray or black, and they have spear-shaped bills. Loons swim well and fly adequately, but are almost hopeless on land, because their legs are placed towards the rear of the body.
+
+Red-throated loon, Gavia stellata
+Arctic loon, Gavia arctica (*)
+Pacific loon, Gavia pacifica
+Common loon, Gavia immer
+Yellow-billed loon, Gavia adamsii (*)
+
+
+== Albatrosses ==
+Order: Procellariiformes   Family: Diomedeidae
+The albatrosses are amongst the largest of flying birds, and the great albatrosses from the genus Diomedea have the largest wingspans of any extant birds.
+
+White-capped albatross, Thalassarche cauta (*)
+Chatham albatross, Thalassarche eremita (*)
+Salvin's albatross, Thalassarche salvini (*)
+Light-mantled albatross, Phoebetria palpebrata (*)
+Wandering albatross, Diomedea exulans (*)
+Laysan albatross, Phoebastria immutabilis
+Black-footed albatross, Phoebastria nigripes
+Short-tailed albatross, Phoebastria albatrus (*)
+
+
+== Southern storm-petrels ==
+
+Order: Procellariiformes   Family: Oceanitidae
+The storm-petrels are the smallest seabirds, relatives of the petrels, feeding on planktonic crustaceans and small fish picked from the surface, typically while hovering. The flight is fluttering and sometimes bat-like. Until 2018, this family's three species were included with the other storm-petrels in family Hydrobatidae.
+
+Wilson's storm-petrel, Oceanites oceanicus
+
+
+== Northern storm-petrels ==
+Order: Procellariiformes   Family: Hydrobatidae
+Though the members of this family are similar in many respects to the southern storm-petrels, including their general appearance and habits, there are enough genetic differences to warrant their placement in a separate family.
+
+Fork-tailed storm-petrel, Hydrobates furcatus
+Ringed storm-petrel, Hydrobates hornbyi (*)
+Leach's storm-petrel, Hydrobates leucorhous
+Townsend's storm-petrel, Hydrobates socorroensis
+Ashy storm-petrel, Hydrobates homochroa
+Band-rumped storm-petrel, Hydrobates castro (*)
+Wedge-rumped storm-petrel, Hydrobates tethys (*)
+Black storm-petrel, Hydrobates melania
+Tristram's storm-petrel, Hydrobates tristrami (*)
+Least storm-petrel, Hydrobates microsoma
+
+
+== Shearwaters and petrels ==
+Order: Procellariiformes   Family: Procellariidae
+
+The procellariids are the main group of medium-sized "true petrels", characterized by united nostrils with medium septum and a long outer functional primary.
+
+
+== Storks ==
+Order: Ciconiiformes   Family: Ciconiidae
+Storks are large, heavy, long-legged, long-necked wading birds with long stout bills and wide wingspans. They lack the powder down that other wading birds such as herons, spoonbills, and ibises use to clean off fish slime. Storks lack a pharynx and are mute.
+
+Wood stork, Mycteria americana (*)
+
+
+== Frigatebirds ==
+Order: Suliformes   Family: Fregatidae
+Frigatebirds are large seabirds usually found over tropical oceans. They are large, black or black-and-white, with long wings and deeply forked tails. The males have colored inflatable throat pouches. They do not swim or walk and cannot take off from a flat surface. Having the largest wingspan-to-body-weight ratio of any bird, they are essentially aerial, able to stay aloft for more than a week.
+
+Lesser frigatebird, Fregata ariel (*)
+Magnificent frigatebird, Fregata magnificens
+Great frigatebird, Fregata minor (*)
+
+
+== Boobies and gannets ==
+Order: Suliformes   Family: Sulidae
+The sulids comprise the gannets and boobies. Both groups are medium-large coastal seabirds that plunge-dive for fish.
+
+Masked booby, Sula dactylatra (*)
+Nazca booby, Sula granti
+Blue-footed booby, Sula nebouxii
+Brown booby, Sula leucogaster
+Red-footed booby, Sula sula (*)
+Northern gannet, Morus bassanus (*)
+
+
+== Anhingas ==
+Order: Suliformes   Family: Anhingidae
+Anhingas are cormorant-like water birds with very long necks and long straight beaks. They are fish eaters which often swim with only their neck above the water.
+
+Anhinga, Anhinga anhinga (*)
+
+
+== Cormorants and shags ==
+
+Order: Suliformes   Family: Phalacrocoracidae
+Cormorants are medium-to-large aquatic birds, usually with mainly dark plumage and areas of colored skin on the face. The bill is long, thin, and sharply hooked. Their feet are four-toed and webbed.
+
+Brandt's cormorant, Urile penicillatus
+Pelagic cormorant, Urile pelagicus
+Double-crested cormorant, Nannopterum auritum
+Neotropic cormorant, Nannopterum brasilianum
+
+
+== Pelicans ==
+Order: Pelecaniformes   Family: Pelecanidae
+Pelicans are very large water birds with a distinctive pouch under their beak. Like other birds in the order Pelecaniformes, they have four webbed toes.
+
+American white pelican, Pelecanus erythrorhynchos
+Brown pelican, Pelecanus occidentalis
+
+
+== Herons, egrets, and bitterns ==
+Order: Pelecaniformes   Family: Ardeidae
+
+The family Ardeidae contains the herons, egrets, and bitterns. Herons and egrets are medium to large wading birds with long necks and legs. Bitterns tend to be shorter-necked and more secretive. Members of Ardeidae fly with their necks retracted, unlike other long-necked birds such as storks, ibises, and spoonbills.
+
+American bittern, Botaurus lentiginosus
+Least bittern, Ixobrychus exilis
+Great blue heron, Ardea herodias
+Great egret, Ardea alba
+Snowy egret, Egretta thula
+Little blue heron, Egretta caerulea
+Tricolored heron, Egretta tricolor (*)
+Reddish egret, Egretta rufescens
+Cattle egret, Bubulcus ibis
+Green heron, Butorides virescens
+Black-crowned night-heron, Nycticorax nycticorax
+Yellow-crowned night-heron, Nyctanassa violacea
+
+
+== Ibises and spoonbills ==
+Order: Pelecaniformes   Family: Threskiornithidae
+The family Threskiornithidae includes the ibises and spoonbills. They have long, broad wings. Their bodies tend to be elongated, the neck more so, with rather long legs. The bill is also long, decurved in the case of the ibises, straight and distinctively flattened in the spoonbills.
+
+White ibis, Eudocimus albus (*)
+Glossy ibis, Plegadis falcinellus (*)
+White-faced ibis, Plegadis chihi
+Roseate spoonbill, Platalea ajaja (*)
+
+
+== New World vultures ==
+Order: Cathartiformes   Family: Cathartidae
+
+The New World vultures are not closely related to Old World vultures, but superficially resemble them because of convergent evolution. Like the Old World vultures, they are scavengers. However, unlike Old World vultures, which find carcasses by sight, New World vultures have a good sense of smell with which they locate carcasses.
+
+California condor, Gymnogyps californianus (RI)
+Black vulture, Coragyps atratus (*)
+Turkey vulture, Cathartes aura
+
+
+== Osprey ==
+
+Order: Accipitriformes   Family: Pandionidae
+Pandionidae is a monotypic family of fish-eating birds of prey.  Its single species possesses a very large and powerful hooked beak, strong legs, strong talons, and keen eyesight.
+
+Osprey, Pandion haliaetus
+
+
+== Hawks, eagles, and kites ==
+Order: Accipitriformes   Family: Accipitridae
+Accipitridae is a family of birds of prey which includes hawks, eagles, kites, harriers, and Old World vultures. These birds have very large powerful hooked beaks for tearing flesh from their prey, strong legs, powerful talons, and keen eyesight.
+
+White-tailed kite, Elanus leucurus
+Swallow-tailed kite, Elanoides forficatus (*)
+Golden eagle, Aquila chrysaetos
+Northern harrier, Circus hudsonius
+Sharp-shinned hawk, Accipiter striatus
+Cooper's hawk, Accipiter cooperii
+Northern goshawk, Accipiter gentilis
+Bald eagle, Haliaeetus leucocephalus
+Mississippi kite, Ictinia mississippiensis (*)
+Common black hawk, Buteogallus anthracinus (*)
+Harris's hawk, Parabuteo unicinctus
+Gray hawk, Buteo plagiatus (*)
+Red-shouldered hawk, Buteo lineatus
+Broad-winged hawk, Buteo platypterus
+Swainson's hawk, Buteo swainsoni
+Zone-tailed hawk, Buteo albonotatus
+Red-tailed hawk, Buteo jamaicensis
+Rough-legged hawk, Buteo lagopus
+Ferruginous hawk, Buteo regalis
+
+
+== Barn-owls ==
+Order: Strigiformes   Family: Tytonidae
+Barn-owls are medium to large owls with large heads and characteristic heart-shaped faces. They have long strong legs with powerful talons.
+
+Barn owl, Tyto alba
+
+
+== Owls ==
+Order: Strigiformes   Family: Strigidae
+Typical owls are small to large solitary nocturnal birds of prey. They have large forward-facing eyes and ears, a hawk-like beak, and a conspicuous circle of feathers around each eye called a facial disk.
+
+Flammulated owl, Psiloscops flammeolus
+Western screech-owl, Megascops kennicottii
+Great horned owl, Bubo virginianus
+Snowy owl, Bubo scandiacus (*)
+Northern pygmy-owl, Glaucidium gnoma
+Elf owl, Micrathene whitneyi (*)
+Burrowing owl, Athene cunicularia
+Spotted owl, Strix occidentalis
+Barred owl, Strix varia
+Great gray owl, Strix nebulosa
+Long-eared owl, Asio otus
+Short-eared owl, Asio flammeus
+Northern saw-whet owl, Aegolius acadicus
+
+
+== Kingfishers ==
+Order: Coraciiformes   Family: Alcedinidae
+Kingfishers are medium-sized birds with large heads, long pointed bills, short legs, and stubby tails.
+
+Belted kingfisher, Megaceryle alcyon
+
+
+== Woodpeckers ==
+Order: Piciformes   Family: Picidae
+Woodpeckers are small to medium-sized birds with chisel-like beaks, short legs, stiff tails, and long tongues used for capturing insects. Some species have feet with two toes pointing forward and two backward, while several species have only three toes. Many woodpeckers have the habit of tapping noisily on tree trunks with their beaks.
+
+Eurasian wryneck, Jynx torquilla (*)
+Lewis's woodpecker, Melanerpes lewis
+Red-headed woodpecker, Melanerpes erythrocephalus (*)
+Acorn woodpecker, Melanerpes formicivorus
+Gila woodpecker, Melanerpes uropygialis
+Williamson's sapsucker, Sphyrapicus thyroideus
+Yellow-bellied sapsucker, Sphyrapicus varius
+Red-naped sapsucker, Sphyrapicus nuchalis
+Red-breasted sapsucker, Sphyrapicus ruber
+Black-backed woodpecker, Picoides arcticus
+Downy woodpecker, Dryobates pubescens
+Nuttall's woodpecker, Dryobates nuttallii
+Ladder-backed woodpecker, Dryobates scalaris
+Hairy woodpecker, Dryobates villosus
+White-headed woodpecker, Dryobates albolarvatus
+Northern flicker, Colaptes auratus
+Gilded flicker, Colaptes chrysoides
+Pileated woodpecker, Dryocopus pileatus
+
+
+== Falcons and caracaras ==
+Order: Falconiformes   Family: Falconidae
+Falconidae is a family of diurnal birds of prey, notably the falcons and caracaras. They differ from hawks, eagles, and kites in that they kill with their beaks instead of their talons.
+
+Crested caracara, Caracara plancus (*)
+Eurasian kestrel, Falco tinnunculus (*)
+American kestrel, Falco sparverius
+Merlin, Falco columbarius
+Gyrfalcon, Falco rusticolus (*)
+Peregrine falcon, Falco peregrinus
+Prairie falcon, Falco mexicanus
+
+
+== New World and African parrots ==
+
+Order: Psittaciformes   Family: Psittacidae
+Characteristic features of parrots include a strong curved bill, an upright stance, strong legs, and clawed zygodactyl feet. Many parrots are vividly colored, and some are multi-colored. In size they range from 8 cm (3.1 in) to 1 m (3.3 ft) in length. Most of the more than 150 species in this family are found in the New World.
+
+Yellow-chevroned parakeet, Brotogeris chiriri (I)
+Red-crowned parrot, Amazona viridigenalis (I)
+
+
+== Tyrant flycatchers ==
+Order: Passeriformes   Family: Tyrannidae
+Tyrant flycatchers are Passerine birds which occur throughout North and South America. They superficially resemble the Old World flycatchers, but are more robust and have stronger bills. They do not have the sophisticated vocal capabilities of the songbirds. Most, but not all, are rather plain. As the name implies, most are insectivorous.
+
+
+== Vireos, shrike-babblers, and erpornis ==
+Order: Passeriformes   Family: Vireonidae
+The vireos and greenlets are a group of small to medium-sized passerine birds mostly restricted to the New World, though a few members of the family, called shrike-babblers, are found in Asia. They are typically greenish in color and resemble wood-warblers apart from their heavier bills.
+
+White-eyed vireo, Vireo griseus (*)
+Bell's vireo, Vireo bellii
+Gray vireo, Vireo vicinior
+Hutton's vireo, Vireo huttoni
+Yellow-throated vireo, Vireo flavifrons
+Cassin's vireo, Vireo cassinii
+Blue-headed vireo, Vireo solitarius (*)
+Plumbeous vireo, Vireo plumbeus
+Philadelphia vireo, Vireo philadelphicus
+Warbling vireo, Vireo gilvus
+Red-eyed vireo, Vireo olivaceus
+Yellow-green vireo, Vireo flavoviridis
+
+
+== Shrikes ==
+Order: Passeriformes   Family: Laniidae
+
+Shrikes are passerine birds known for their habit of catching other birds and small animals and impaling the uneaten portions of their bodies on thorns. A shrike's beak is hooked, like that of a typical bird of prey.
+
+Brown shrike, Lanius cristatus (*)
+Loggerhead shrike, Lanius ludovicianus
+Northern shrike, Lanius borealis
+
+
+== Crows, jays, and magpies ==
+Order: Passeriformes   Family: Corvidae
+
+The family Corvidae includes crows, ravens, jays, choughs, magpies, treepies, nutcrackers, and ground jays. Corvids are above average in size among the Passeriformes, and some of the larger species show high levels of intelligence.
+
+Canada jay, Perisoreus canadensis
+Pinyon jay, Gymnorhinus cyanocephalus
+Steller's jay, Cyanocitta stelleri
+Blue jay, Cyanocitta cristata (*)
+Island scrub-jay, Aphelocoma insularis (En)
+California scrub-jay, Aphelocoma californica
+Woodhouse's scrub-jay, Aphelocoma woodhouseii
+Clark's nutcracker, Nucifraga columbiana
+Black-billed magpie, Pica hudsonia
+Yellow-billed magpie, Pica nuttalli (En)
+American crow, Corvus brachyrhynchos
+Common raven, Corvus corax
+
+
+== Penduline-tits ==
+Order: Passeriformes   Family: Remizidae
+The only member of this family in the New World, the verdin is one of the smallest passerines in North America. It is gray overall and adults have a bright yellow head and rufous "shoulder patch" (the lesser coverts). Verdins are insectivorous, continuously foraging among the desert trees and scrubs. They are usually solitary except when they pair up to construct their conspicuous nests.
+
+Verdin, Auriparus flaviceps
+
+
+== Tits, chickadees, and titmice ==
+
+Order: Passeriformes   Family: Paridae
+The Paridae are mainly small stocky woodland species with short stout bills. Some have crests. They are adaptable birds, with a mixed diet including seeds and insects.
+
+Black-capped chickadee, Poecile atricapilla
+Mountain chickadee, Poecile gambeli
+Chestnut-backed chickadee, Poecile rufescens
+Oak titmouse, Baeolophus inornatus
+Juniper titmouse, Baeolophus ridgwayi
+
+
+== Larks ==
+Order: Passeriformes   Family: Alaudidae
+Larks are small terrestrial birds with often extravagant songs and display flights. Most larks are fairly dull in appearance. Their food is insects and seeds.
+
+Eurasian skylark, Alauda arvensis (*)
+Horned lark, Eremophila alpestris
+
+
+== Grassbirds and allies ==
+Order: Passeriformes   Family: Locustellidae
+Locustellidae are a family of small insectivorous songbirds found mainly in Eurasia, Africa, and the Australian region. They are smallish birds with tails that are usually long and pointed, and tend to be drab brownish or buffy all over.
+
+Lanceolated warbler, Locustella lanceolata (*)
+
+
+== Swallows ==
+Order: Passeriformes   Family: Hirundinidae
+
+The family Hirundinidae is adapted to aerial feeding. They have a slender streamlined body, long pointed wings, and a short bill with a wide gape. The feet are adapted to perching rather than walking, and the front toes are partially joined at the base.
+
+Bank swallow, Riparia riparia
+Tree swallow, Tachycineta bicolor
+Violet-green swallow, Tachycineta thalassina
+Northern rough-winged swallow, Stelgidopteryx serripennis
+Purple martin, Progne subis
+Barn swallow, Hirundo rustica
+Cliff swallow, Petrochelidon pyrrhonota
+Cave swallow, Petrochelidon fulva (*)
+
+
+== Long-tailed tits ==
+Order: Passeriformes   Family: Aegithalidae
+The long-tailed tits are a family of small passerine birds with medium to long tails. They make woven bag nests in trees. Most eat a mixed diet which includes insects.
+
+Bushtit, Psaltriparus minimus
+
+
+== Leaf warblers ==
+Order: Passeriformes   Family: Phylloscopidae
+Leaf warblers are a family of small insectivorous birds found mostly in Eurasia and ranging into Wallacea and Africa. The Arctic warbler breeds east into Alaska. The species are of various sizes, often green-plumaged above and yellow below, or more subdued with grayish-green to grayish-brown colors.
+
+Yellow-browed warbler, Phylloscopus inornatus (*)
+Dusky warbler, Phylloscopus fuscatus (*)
+Arctic warbler/Kamchatka leaf warbler, Phylloscopus borealis/examinandus (*)
+
+
+== Bulbuls ==
+Order: Passeriformes   Family: Pycnonotidae
+The bulbuls are a family of medium-sized passerine songbirds native to Africa and tropical Asia. These are noisy and gregarious birds with often beautiful striking songs.
+
+Red-whiskered bulbul Pycnonotus jocosus (I)
+
+
+== Sylviid warblers, parrotbills, and allies ==
+Order: Passeriformes   Family: Sylviidae
+The family Sylviidae is a group of small insectivorous passerine birds. They mainly occur as breeding species, as the common name implies, in Europe, Asia, and to a lesser extent Africa. Most are of generally undistinguished appearance, but many have distinctive songs.
+
+Wrentit, Chamaea fasciata
+
+
+== Kinglets ==
+Order: Passeriformes   Family: Regulidae
+The kinglets are a small family of birds which resemble the titmice. They are very small insectivorous birds. The adults have colored crowns, giving rise to their name.
+
+Ruby-crowned kinglet, Corthylio calendula
+Golden-crowned kinglet, Regulus satrapa
+
+
+== Waxwings ==
+Order: Passeriformes   Family: Bombycillidae
+The waxwings are a group of birds with soft silky plumage and unique red tips to some of the wing feathers. In the Bohemian and cedar waxwings, these tips look like sealing wax and give the group its name. These are arboreal birds of northern forests. They live on insects in summer and berries in winter.
+
+Bohemian waxwing, Bombycilla garrulus
+Cedar waxwing, Bombycilla cedrorum
+
+
+== Silky-flycatchers ==
+Order: Passeriformes   Family: Ptiliogonatidae
+The silky-flycatchers are a small family of passerine birds which occur mainly in Central America. They are related to waxwings and most species have small crests.
+
+Gray silky-flycatcher, Ptiliogonys cinereus (UO)
+Phainopepla, Phainopepla nitens
+
+
+== Nuthatches ==
+
+Order: Passeriformes   Family: Sittidae
+Nuthatches are small woodland birds. They have the unusual ability to climb down trees head first, unlike other birds which can only go upwards. Nuthatches have big heads, short tails, and powerful bills and feet.
+
+Red-breasted nuthatch, Sitta canadensis
+White-breasted nuthatch, Sitta carolinensis
+Pygmy nuthatch, Sitta pygmaea
+
+
+== Treecreepers ==
+Order: Passeriformes   Family: Certhiidae
+Treecreepers are small woodland birds, brown above and white below. They have thin pointed down-curved bills, which they use to extricate insects from bark. They have stiff tail feathers, like woodpeckers, which they use to support themselves on vertical trees.
+
+Brown creeper, Certhia americana
+
+
+== Gnatcatchers ==
+Order: Passeriformes   Family: Polioptilidae
+These dainty birds resemble Old World warblers in their structure and habits, moving restlessly through the foliage seeking insects. The gnatcatchers are mainly soft bluish gray in color and have the typical insectivore's long sharp bill. Many species have distinctive black head patterns (especially males) and long, regularly cocked, black-and-white tails.
+
+Blue-gray gnatcatcher, Polioptila caerulea
+Black-tailed gnatcatcher, Polioptila melanura
+California gnatcatcher, Polioptila californica
+
+
+== Wrens ==
+Order: Passeriformes   Family: Troglodytidae
+
+Wrens are small and inconspicuous birds, except for their loud songs. They have short wings and thin down-turned bills. Several species often hold their tails upright. All are insectivorous.
+
+Rock wren, Salpinctes obsoletus
+Canyon wren, Catherpes mexicanus
+House wren, Troglodytes aedon
+Pacific wren, Troglodytes pacificus
+Winter wren, Troglodytes hiemalis (*)
+Sedge wren, Cistothorus platensis (*)
+Marsh wren, Cistothorus palustris
+Bewick's wren, Thryomanes bewickii
+Cactus wren, Campylorhynchus brunneicapillus
+
+
+== Mockingbirds and thrashers ==
+Order: Passeriformes   Family: Mimidae
+The mimids are a family of passerine birds which includes thrashers, mockingbirds, tremblers, and the New World catbirds. These birds are notable for their vocalization, especially their remarkable ability to mimic a wide variety of birds and other sounds heard outdoors. The species tend towards dull grays and browns in their appearance.
+
+Blue mockingbird, Melanotis caerulescens (UO)
+Gray catbird, Dumetella carolinensis
+Curve-billed thrasher, Toxostoma curvirostre (*)
+Brown thrasher, Toxostoma rufum
+Bendire's thrasher, Toxostoma bendirei
+Gray thrasher, Toxostoma cinereum (UO) (not on the AOS Check-list; placement is per the Clements taxonomy)
+California thrasher, Toxostoma redivivum
+LeConte's thrasher, Toxostoma lecontei
+Crissal thrasher, Toxostoma crissale
+Sage thrasher, Oreoscoptes montanus
+Northern mockingbird, Mimus polyglottos
+
+
+== Starlings ==
+Order: Passeriformes   Family: Sturnidae
+
+Starlings are small to medium-sized Old World passerine birds with strong feet. Their flight is strong and direct and most are very gregarious. Their preferred habitat is fairly open country, and they eat insects and fruit. The plumage of several species is dark with a metallic sheen.
+
+European starling, Sturnus vulgaris (I)
+
+
+== Dippers ==
+Order: Passeriformes   Family: Cinclidae
+Dippers are a group of perching birds whose habitat includes aquatic environments in the Americas, Europe, and Asia. They are named for their bobbing or dipping movements. These birds have adaptations which allows them to submerge and walk on the bottom to feed on insect larvae.
+
+American dipper, Cinclus mexicanus
+
+
+== Thrushes and allies ==
+Order: Passeriformes   Family: Turdidae
+The thrushes are a group of passerine birds that occur mainly but not exclusively in the Old World. They are plump, soft plumaged, small to medium-sized insectivores or sometimes omnivores, often feeding on the ground. Many have attractive songs.
+
+Western bluebird, Sialia mexicana
+Mountain bluebird, Sialia currucoides
+Townsend's solitaire, Myadestes townsendi
+Veery, Catharus fuscescens (*)
+Gray-cheeked thrush, Catharus minimus (*)
+Swainson's thrush, Catharus ustulatus
+Hermit thrush, Catharus guttatus
+Wood thrush, Hylocichla mustelina (*)
+Eyebrowed thrush, Turdus obscurus (*)
+Rufous-backed robin, Turdus rufopalliatus (*)
+American robin, Turdus migratorius
+Varied thrush, Ixoreus naevius
+
+
+== Old World flycatchers ==
+Order: Passeriformes   Family: Muscicapidae
+The Old World flycatchers form a large family of small passerine birds. These are mainly small arboreal insectivores, many of which, as the name implies, take their prey on the wing.
+
+Bluethroat, Cyanecula svecica (*)
+Red-flanked bluetail, Tarsiger cyanurus (*)
+Taiga flycatcher, Ficedula albicilla (*)
+Asian stonechat, Saxicola maurus (*)
+Northern wheatear, Oenanthe oenanthe (*)
+
+
+== Waxbills and allies ==
+Order: Passeriformes   Family: Estrildidae
+The members of this family are small passerine birds native to the Old World tropics. They are gregarious and often colonial seed eaters with short thick but pointed bills. They are all similar in structure and habits, but have wide variation in plumage colors and patterns.
+
+Scaly-breasted munia, Lonchura punctulata (I)
+
+
+== Old World sparrows ==
+Order: Passeriformes   Family: Passeridae
+Old World sparrows are small passerine birds. In general, sparrows tend to be small plump brownish or grayish birds with short tails and short powerful beaks. Sparrows are seed eaters, but they also consume small insects.
+
+House sparrow, Passer domesticus (I)
+
+
+== Wagtails and pipits ==
+Order: Passeriformes   Family: Motacillidae
+
+Motacillidae is a family of small passerine birds with medium to long tails. They include the wagtails, longclaws, and pipits. They are slender ground-feeding insectivores of open country.
+
+Eastern yellow wagtail, Motacilla tschutschensis (*)
+Citrine wagtail, Motacilla citreola (*)
+Gray wagtail, Motacilla cinerea (*)
+White wagtail, Motacilla alba (*)
+Olive-backed pipit, Anthus hodgsoni (*)
+Red-throated pipit, Anthus cervinus
+American pipit, Anthus rubescens
+Sprague's pipit, Anthus spragueii
+
+
+== Finches, euphonias, and allies ==
+Order: Passeriformes   Family: Fringillidae
+Finches are seed-eating passerine birds that are small to moderately large and have a strong beak, usually conical and in some species very large. All have twelve tail feathers and nine primaries. These birds have a bouncing flight with alternating bouts of flapping and gliding on closed wings, and most sing well.
+
+Brambling, Fringilla montifringilla (*)
+Evening grosbeak, Coccothraustes vespertinus
+Common rosefinch, Carpodacus erythrinus (*)
+Pine grosbeak, Pinicola enucleator
+Gray-crowned rosy-finch, Leucosticte tephrocotis
+Black rosy-finch, Leucosticte atrata (*)
+House finch, Haemorhous mexicanus
+Purple finch, Haemorhous purpureus
+Cassin's finch, Haemorhous cassinii
+Oriental greenfinch, Chloris sinica (*)
+Common redpoll, Acanthis flammea (*)
+Red crossbill, Loxia curvirostra
+White-winged crossbill, Loxia leucoptera (*)
+Pine siskin, Spinus pinus
+Lesser goldfinch, Spinus psaltria
+Lawrence's goldfinch, Spinus lawrencei
+American goldfinch, Spinus tristis
+
+
+== Longspurs and snow buntings ==
+Order: Passeriformes   Family: Calcariidae
+The Calcariidae are a group of passerine birds that had been traditionally grouped with the New World sparrows, but differ in a number of respects and are usually found in open grassy areas.
+
+Lapland longspur, Calcarius lapponicus
+Chestnut-collared longspur, Calcarius ornatus
+Smith's longspur, Calcarius pictus (*)
+Thick-billed longspur, Rhynchophanes mccownii
+Snow bunting, Plectrophenax nivalis (*)
+
+
+== Old World buntings ==
+Order: Passeriformes   Family: Emberizidae
+Emberizidae is a family of passerine birds containing a single genus. Until 2017, the New World sparrows (Passerellidae) were also considered part of this family.
+
+Little bunting, Emberiza pusilla (*)
+Rustic bunting, Emberiza rustica (*)
+
+
+== New World sparrows ==
+Order: Passeriformes   Family: Passerellidae
+
+Until 2017, these species were considered part of the family Emberizidae. Most of the species are known as sparrows, but these birds are not closely related to the Old World sparrows which are in the family Passeridae. Many of these have distinctive head patterns.
+
+
+== Yellow-breasted chat ==
+Order: Passeriformes   Family: Icteriidae
+This species was historically placed in the wood-warblers (Parulidae) but nonetheless most authorities were unsure if it belonged there. It was placed in its own family in 2017.
+
+Yellow-breasted chat, Icteria virens
+
+
+== Troupials and allies ==
+Order: Passeriformes   Family: Icteridae
+The icterids are a group of small to medium-sized, often colorful passerine birds restricted to the New World and include the grackles, New World blackbirds, and New World orioles. Most species have black as a predominant plumage color, often enlivened by yellow, orange, or red.
+
+Yellow-headed blackbird, Xanthocephalus xanthocephalus
+Bobolink, Dolichonyx oryzivorus
+Western meadowlark, Sturnella neglecta
+Eastern meadowlark, Sturnella magna (*)
+Orchard oriole, Icterus spurius
+Hooded oriole, Icterus cucullatus
+Streak-backed oriole, Icterus pustulatus (*)
+Bullock's oriole, Icterus bullockii
+Baltimore oriole, Icterus galbula
+Black-backed oriole, Icterus abeillei (UO)
+Scott's oriole, Icterus parisorum
+Red-winged blackbird, Agelaius phoeniceus
+Tricolored blackbird, Agelaius tricolor
+Bronzed cowbird, Molothrus aeneus
+Brown-headed cowbird, Molothrus ater
+Rusty blackbird, Euphagus carolinus
+Brewer's blackbird, Euphagus cyanocephalus
+Common grackle, Quiscalus quiscula (*)
+Great-tailed grackle, Quiscalus mexicanus
+
+
+== New World warblers ==
+Order: Passeriformes   Family: Parulidae
+The wood warblers are a group of small and often colorful passerine birds restricted to the New World. Most are arboreal, but some are more terrestrial. Most members of this family are insectivores.
+
+
+== Cardinals and allies ==
+Order: Passeriformes   Family: Cardinalidae
+The cardinals are a family of robust seed-eating birds with strong bills. They are typically associated with open woodland. The sexes usually have distinct plumages.
+
+Hepatic tanager, Piranga flava
+Summer tanager, Piranga rubra
+Scarlet tanager, Piranga olivacea
+Western tanager, Piranga ludoviciana
+Northern cardinal, Cardinalis cardinalis
+Pyrrhuloxia, Cardinalis sinuatus (*)
+Rose-breasted grosbeak, Pheucticus ludovicianus
+Black-headed grosbeak, Pheucticus melanocephalus
+Blue grosbeak, Passerina caerulea
+Lazuli bunting, Passerina amoena
+Indigo bunting, Passerina cyanea
+Varied bunting, Passerina versicolor (*)
+Painted bunting, Passerina ciris
+Dickcissel, Spiza americana
+
+
+== References ==
+
+
+== See also ==
+List of birds of Channel Islands National Park
+List of birds of Yosemite National Park
+List of birds
+Lists of birds by region

@@ -1,0 +1,76 @@
+Gambit is an American television game show based on the card game blackjack, created by Heatter-Quigley Productions. The show originally ran on CBS from September 4, 1972, to December 10, 1976, and was recorded at CBS Television City in Studios 31, 33, 41, and 43. On October 27, 1980, NBC revived the show as Las Vegas Gambit, as a replacement for The David Letterman Show, and kept it on its schedule until November 27, 1981. As the title implied, this edition of Gambit was recorded in Las Vegas at the Tropicana Las Vegas.  Both versions were hosted by Wink Martindale and announced by Kenny Williams. Elaine Stewart was the card dealer for the CBS version, while Beverly Malden filled this role for the first half of Las Vegas Gambit, and was later replaced by Lee Menning.
+Another Merrill Heatter-produced, blackjack-based quiz show, Catch 21, began airing on GSN in 2008.
+
+
+== Gameplay ==
+
+
+=== Main game ===
+The object of the main game was similar to blackjack, with two married couples attempting to build a hand as close to 21 as possible without going over (busting). Number cards (2 through 10) were worth their face value, face cards (Kings, Queens, Jacks) counted as 10, and Aces counted as either 1 or 11.
+Martindale asked a series of toss-up questions, usually multiple-choice or true-false. The first couple who buzzed-in and correctly answered the question won control of the top card from a deck of oversized playing cards. An incorrect answer awarded control of the card to the couple's opponents.
+Once a couple gained control of a card, they had the option of adding it to their own hand or passing it to their opponents. The first card of the game was revealed before the question was asked. Each subsequent card was presented face-down and was turned up once the couple in control decided who should receive it. After a couple received any card (either by choice or by having it passed to them) and could potentially bust with another card, they could elect to freeze, preventing them from receiving any more cards. Freezing was not permitted when the two couples were tied. If one couple froze, the other continued answering questions and received a card after each one.
+A couple could win the game in one of four ways:
+
+If they reached a total of 21. Doing so also won the Gambit Jackpot, a cash bonus that reset to $500 after it was claimed. On the original series, the Gambit Jackpot increased by $500 at the start of each program if it had not been won on the previous show. On Las Vegas Gambit, the Gambit Jackpot increased for each match it went unclaimed.
+If their opponents busted.
+If they froze and their opponents missed a subsequent question.
+If they exceeded their frozen opponents' total without busting.Each game was worth $100. The first team to win two out of three games won the match and advanced to the bonus round.
+
+
+=== Bonus round ===
+
+
+==== Gambit Board ====
+For the entire original series and the first half of Las Vegas Gambit, the winning couple played the Gambit Bonus Board. They faced a large game board with 21 numbered cards (18 numbered video screens on Las Vegas Gambit), each concealing a prize. After selecting a number, the couple received the prize behind it and a card was added to their hand from the top of the deck.
+The couple could end the bonus game by doing any of the following:
+
+Choosing to stop before reaching 21, which allowed them to keep all the prizes they had uncovered. Couples could do this if they feared the next card might cause them to bust, or if they had won a desirable prize that they did not want to risk losing. In early episodes of Las Vegas Gambit, a couple could elect to stop only when their hand totaled 17 or more.
+Busting, at which point they lost everything they found on the board.
+Reaching 21 exactly, which awarded a new car (original series) or $5,000 cash (Las Vegas Gambit), the Gambit Jackpot, and all prizes uncovered during the bonus game.Throughout the CBS run, champions remained on the show until they either lost in the main game or reached/exceeded the $25,000 winnings limit that the network had in place for its game shows at the time.
+From 1972 to 1975, the show featured an annual promotion in which the first couple to get a two-card 21 (an Ace and a face card/10) in the bonus round won either $200 a week for a year (totaling $10,400) or a flat $10,000, depending on the year.
+Special awards were occasionally hidden among the numbers, including:
+
+Half-Checks: Showed cash amounts from $500 to $10,000 that had been split down the middle. Each right half showed two zeroes, while each left half showed the first digit(s) of the amount (for example, "$2,5" left and "00" right awarded $2,500). Any left and right halves could be matched together, crediting the couple with that amount of money. If a couple ended a bonus game without busting and had an unmatched half-check, they held onto it and would try to find its opposite half if they won their next match.
+Suit Cards: Displayed one of the four playing card suits. The couple won $500 immediately, plus an additional $500 for each card in the indicated suit that they had in their hand when the round ended.
+Hot Card: A card whose rank was kept hidden until the round was over. The couple won $1,000 if they had a card of this rank in their hand, or $100 otherwise.
+Swap: Allowed the couple to trade in one of their prizes for another pick from the board after the round ended, if they chose to do so. This award did not add a card to the couple's hand.
+Take Two: Allowed the couple to choose two more numbers before being dealt the next card.
+100/200/500 Times: After the round ended, one card was dealt from the deck and its value was multiplied by the indicated number in dollars. Aces always counted as 11 in this respect, for a maximum of $1,100, $2,200, or $5,500.
+Top or Bottom: A blind choice between two prizes of a similar type, one of which was considerably more expensive than the other. "Cruise," for example, could award a cruise to either the Caribbean or Catalina Island.
+Stop or Go: After the round ended, cards were dealt out one at a time, each worth $100 times its value (with aces counted as 11). The couple could stop at any time, but if a card came up that matched the suit of the first one dealt, the game ended and they lost the accumulated money.
+Beat the House (original series) / Beat the Dealer (Las Vegas Gambit): After the round ended, the couple played a hand of traditional blackjack against Martindale, who acted as the house and had to follow standard rules (hit on 16 or lower, stand on 17 or higher). If the couple won, they received an additional $2,500 (original series) or $1,000 (Las Vegas Gambit).
+
+
+==== Gambit Galaxy ====
+For the second half of the NBC version, the Gambit Board was replaced by a renamed Big Numbers bonus round from the Heatter-Quigley show High Rollers. In this round, called the Gambit Galaxy, the couple was presented with a pair of dice and was required to remove the numbers 1 through 9 from a board in front of them. On each turn, the couple rolled the dice and chose numbers to remove that added up to the total shown. (For example, if they rolled an 8, they could remove the 8 alone; 1 and 7; 2 and 6; 3 and 5; 1, 2, and 5; or 1, 3, and 4.) They won $100 for each number removed, while removing all nine numbers awarded $5,000 in cash and a prize package, which usually included at least $5,000 and grew in value after every failed attempt.
+The round ended if the couple made a "bad roll" – a total that could not be achieved using the remaining numbers – or if they removed every number except 1. Rolling doubles awarded an insurance marker; if a bad roll came up, the couple could turn in the marker and continue playing.
+
+
+== Broadcast history ==
+
+
+=== CBS, 1972–76 ===
+
+CBS originally aired Gambit at 11 a.m/10 Central, where it defeated NBC's Sale of the Century. It also easily beat Alex Trebek's American debut program, The Wizard of Odds, which NBC began in July 1973. On April 1, 1974 (the same day Now You See It with Jack Narz premiered), CBS moved the show back a half-hour to 10:30/9:30, where it faced NBC's aging quiz Jeopardy! with Art Fleming, just over a full decade before Trebek would host a revival of that show himself. NBC moved Jeopardy! to the afternoons on July 1 and placed one of the many Bill Cullen-Bob Stewart collaborations, Winning Streak in the slot. That show's weakness made late 1974 the high point of Gambit's original daytime run at least in the Nielsen ratings.
+On January 6, 1975, NBC replaced Winning Streak with Wheel of Fortune, which took a chunk out of Gambit's audience. On the same day, NBC expanded the soap opera Another World to sixty minutes and the impact it had on the ratings of The Price Is Right, which aired at 3:00 pm, forced CBS to shuffle its schedule again on August 18, 1975, and move Price back to the morning schedule, which it had left in 1973. Gambit moved back to 11:00 am, bumping Tattletales back to the afternoon after two months and remained there until late 1977, when it returned to the morning until its March 1978 cancellation. At that slot, Gambit initially had to go against its sister Heatter-Quigley show High Rollers, also hosted by Alex Trebek. However, NBC decided to air a sixty-minute edition of Wheel beginning on December 1 with the second half competing with Gambit. Furthermore, NBC left Wheel at 11:00 am when the experiment ended seven weeks later in January 1976 and it continued to eat away at Gambit in the ratings. The network canceled the four-year-old game two weeks before Christmas 1976 and replaced it with Goodson-Todman's Double Dare with Trebek taking the hosting position after High Rollers came to an end on June 11, 1976.
+After its cancellation, repeats of Gambit were later seen on KHJ-TV Channel 9 (now KCAL-TV) in Los Angeles, starting in fall 1977 and running until spring 1978.
+
+
+=== NBC, 1980–81 (Las Vegas Gambit) ===
+Along with Goodson-Todman's Blockbusters (which aired immediately after), the retitled Las Vegas Gambit returned on October 27, 1980, as one of two replacements for the short-lived The David Letterman Show (Letterman did a tribute/parody of Gambit to conclude his last program). Stan Worth composed the theme for this version, with Beverly Malden serving as card dealer before she was replaced by Lee Menning. Producer Robert Noah, director Jerome Shaw, and announcer Kenny Williams all carried over from the original.Despite limited competition (reruns of The Jeffersons on CBS, and local or syndicated programming on ABC affiliates), the revival failed to draw the ratings of its predecessor and was cancelled after just over a year, ending on November 27, 1981.
+
+
+== Personnel ==
+Both the original version and Las Vegas Gambit were hosted by Wink Martindale, with Kenny Williams, announcer of many other Heatter-Quigley shows, as announcer. Jerome Shaw was the director of both versions, and Robert Noah the producer. Elaine Stewart was the card dealer on the original version, while Beverly Malden served in this role on early episodes of Las Vegas Gambit before being replaced by Lee Menning. Mort Garson composed the original version's theme, and Stan Worth composed the theme to Las Vegas Gambit.
+
+
+== Catch 21 ==
+
+Gambit creator Merrill Heatter developed a similar show, Catch 21, which premiered on GSN July 21, 2008 with Alfonso Ribeiro as host and Mikki Padilla as dealer.
+
+
+== Episode status ==
+Five episodes of the CBS version from 1973 are held by the UCLA Film and Television Archive. The pilot for an unsold 1990 revival, hosted by Bob Eubanks, is also present within the same collection. Several episodes including the CBS finale exist on YouTube and Dailymotion. Reruns of the CBS series aired on WPIX-TV and KHJ-TV in 1976 and 1977, with Rhodes Productions handling distribution, but it is not clear what happened to these episodes afterward.
+
+
+== References ==

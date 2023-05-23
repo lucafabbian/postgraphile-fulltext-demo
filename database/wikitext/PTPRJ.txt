@@ -1,0 +1,15 @@
+Receptor-type tyrosine-protein phosphatase eta is an enzyme that in humans is encoded by the PTPRJ gene.
+
+
+== Function ==
+The protein encoded by this gene is a member of the protein tyrosine phosphatase (PTP) family. PTPs are known to be signaling molecules that regulate a variety of cellular processes including cell growth, differentiation, mitotic cycle, and oncogenic transformation. This PTP possesses an extracellular region containing five fibronectin type III repeats, a single transmembrane region, and a single intracytoplasmic catalytic domain, and thus represents a receptor-type PTP. This PTP is present in all hematopoietic lineages, and was shown to negatively regulate T cell receptor signaling possibly through interfering with the phosphorylation of Phospholipase C Gamma 1 (PLCG1) and Linker for Activation of T Cells (LAT). This PTP was also found to dephosphorylate PDGF beta receptor, and may be involved in UV-induced signal transduction.
+
+
+== Interactions ==
+PTPRJ has been shown to interact with CTNND1.
+
+
+== References ==
+
+
+== Further reading ==

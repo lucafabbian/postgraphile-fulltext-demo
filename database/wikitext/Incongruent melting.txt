@@ -1,0 +1,12 @@
+Incongruent melting occurs when a solid substance does not melt uniformly, so that the chemical composition of the resulting liquid is not the same as that of the original solid. During incongruent melting a new solid of different composition forms. For example, melting of orthoclase (KAlSi3O8) produces leucite (KAlSi2O6) in addition to a melt. The melt produced is richer in silica (SiO2). The proportions of leucite and melt created can be recombined to yield the bulk composition of the starting feldspar. Another mineral that can melt incongruently is enstatite (Mg2Si2O6), which produces forsterite (Mg2SiO4) in addition to a melt richer in SiO2  when melting at low pressure. Enstatite melts congruently at higher pressures between 2.5 and 5.5 kilobars.
+
+
+== See also ==
+Congruent melting
+Incongruent transition
+Phase diagram
+
+
+== References ==
+
+Incongruent melting from Eric Weisstein's World of Physics

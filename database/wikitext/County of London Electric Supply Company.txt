@@ -1,0 +1,106 @@
+The County of London Electric Supply Company Limited (C.L.E.S.Co) was a British electricity undertaking. It was incorporated as a public company in 1891 to generate and supply electricity to parts of south west London and two parishes adjacent to the City of London. It owned and operated power stations at Wandsworth and City Road. From 1925 it cooperated with three other London companies, with the intention of centralising electricity generation in the new, high thermal efficiency, power station at Barking. The company was abolished in March 1948 upon the nationalisation of the British electricity supply industry.
+
+
+== Background ==
+The County of London Electric Lighting Company Limited was registered on 30 June 1891, to supply electricity to areas of north, south and south west London. The company was granted Provisional Orders to supply electricity as follows:
+1892 – County of London North (St Luke and Clerkenwell);
+1892 – District of Wandsworth Board of Works, plus the parishes of Putney, Wandsworth, Tooting Graveney, Streatham and Clapham;
+1895 – St Olave Southwark;
+1896 – Camberwell;
+1897 – Holborn (east part);
+1897 – County of London east for Mile End Old Town, St George’s in the East, and Limehouse District Board of Works.The Company changed its name to the County of London and Brush Provincial Electric Lighting Company Limited in 1893.  By 1903 it was called the County of London Electric Supply Company Limited.
+
+
+== Operations ==
+
+
+=== Management ===
+The Company had five Chairmen between 1896 and 1948:
+
+Lord Rathmore
+Joseph Bevan Braithwaite
+Sir Harry Renwick
+Sir Bernard E. Greenwell
+Sir Robert RenwickThe Company management board in 1922 was composed of:
+Sir Harry Renwick (Chairman and Managing Director)
+Lord Gainford
+Sir Bernard E. Greenwell
+Sir Frederick Hall
+J. A. Hosker
+R. Percy SellonThe company’s registered address was Moorgate Court, Moorgate Place, London EC2.
+
+
+=== Power stations ===
+The company initially built two power stations, one at City Road and one in Wandsworth.
+
+
+==== City Road power station ====
+The City Road power station was located on the City Road basin on the Regent's Canal (51°31'48"N 0°05'50"W). It had coal-fired boilers generating steam for Brush compound engines coupled directly to Mordey dynamos. The initial plant installed was capable of supplying 80,000 8-candle-power lamps.In 1923 the plant at the City Road power station comprised:
+Boilers:
+168,100 lb/h (21.2 kg/s), which provided steam to:
+Generators:
+2 × 1,500 kW turbo-alternators, alternating current,
+1 × 2,500 kW turbo-alternator, alternating current,
+1 × 5,500 kW turbo-alternator, alternating current,
+1 × 525 kW reciprocating engine, direct current,
+2 × 600 kW reciprocating engine, direct currentThese machines had a total generating capacity of 10,500 kW of AC and 1,725 kW of DC.
+The electricity available to customers was:
+
+2-phase AC 50 Hz 104 Volts
+DC 530 VoltsCity Road power station was not a 'selected station' under the Central Electricity Board's 1926 scheme, as a consequence the Company decommissioned it in 1929.
+
+
+==== Wandsworth power station ====
+See main article: Wandsworth power station
+The plant at Wandsworth power station used coal-fired boilers and Brush Universal machines coupled directly to Mordey dynamos. The plant was capable of supplying 40,000 8-candle-power lamps. In addition to the power stations, work included the laying of cables in St Luke, Clerkenwell, Wandsworth, Putney, Streatham, Clapham, Holborn and Camberwell.By 1923 the plant comprised:
+Coal-fired boilers generating up to 322,400 lb/h (40.62 kg/s) of steam which was supplied to:
+Generators:
+1 × 1,000 kW reciprocating engine,
+3 × 1,500 kW steam turbo-alternators,
+2 × 5,000 kW steam turbo-alternators,
+2 × 6,000 kW steam turbo-alternators.These machines had a total generating capacity of 27,500 kW of alternating current.
+The electricity available to customers was:
+2-phase AC 50 Hz 205 and 404 Volts
+3-phase AC 50 Hz 205 and 404 Volts
+DC 410 VoltsWandsworth power station was operational until 1964.
+
+
+=== Electricity supply ===
+The business of the company increased to meet the rising demand for electricity. The following table summarises the growth of the company in terms of capacity of the plant, the electricity load, the amount of current sold, and the number of customers.
+
+The growth in sales of electricity, in GWh, is shown on the following graphs.
+
+
+=== Electricity use ===
+Electricity was originally used for lighting but ‘power’ uses were soon established. The following table illustrates the quantities and changing patterns of use.
+
+
+=== Financial statistics ===
+The capital required to establish, build and operate the business was raised through the offer of shares. Capital expenditure was needed for the purchase of land, buildings, machinery, mains, transformers, meters, electrical instruments, legal costs, fixtures and furniture at the stations. The capital expenditure in 1896 and 1897, associated with the commissioning of the power stations at City Road and Wandsworth, amounted to:
+Profits were made through the sale of electricity which provided an income for the Company and its shareholders. An example of the sums involved is shown in the table.
+Shareholders dividends were paid throughout the operational life of the company. Dividends expressed as a percentage of the total capital raised in a given year were as shown, together with the average dividends paid by the London company electricity undertakings.
+
+
+=== Expansion ===
+The company expanded its operations, particularly in East London and into south Essex and Kent.
+By 1913 the County of London Company was supplying the Metropolitan Boroughs of Bermondsey, Camberwell, Finsbury, Holborn, Lambeth, Southwark and Wandsworth; the Urban Districts of Merton and Morden, Romford, and Tilbury; and the Rural Districts of Croydon, Orsett and Tilbury.To meet the requirements of the expanded supply area, capital expenditure on new plant and equipment was required, as shown on the table below.
+Electricity supplies to further areas continued. By 1937 the Company was supplying electricity additionally to: the Metropolitan Boroughs of Barking, Beddington and Wallington, Dagenham, Mitcham, Reigate, Sutton and Cheam and Wimbledon; the Urban Districts of Banstead, Billericay, Brentwood, Carshalton, Caterham and Warlingham, Hornchurch, Thurrock, Wanstead and Woodford; and the Rural Districts of Epping, and Godstone.The Company supplied users such as the South Metropolitan Electric Tramways and Lighting Company (from 1916, supplying 2,021.0 MWh in 1919); the South London Electric Supply Corporation (from 1917, supplying 5,340.4 MWh in 1923).Between 1918 and 1936 the Company acquired 14 other electricity companies. It was able to consolidate development over a large area of south east England through its Kent Power Company subsidiary.In 1920, the County of London Electric Supply Company applied for permission to build a power station at Creekmouth in Barking capable of expansion to 600 MW. To finance the construction the Company issued shares, there were offers in 1921 and 1922. The 1922 offer consisted of 500,000 six per cent cumulative preference shares and 500,000 ordinary shares. Barking A station was built, and was commissioned in 1925.The County of London Company and three others in south and east London promoted the London Electricity (No.1) Act 1925. The four companies were: the City of London Electric Lighting Company; the County of London Electric Supply Company Limited; the South London Electric Supply Corporation Limited; and the South Metropolitan Electric Light and Power Company Limited. They established a joint committee to specify how generating stations of each company were operated. The companies remained district electricity supply undertakings; although they were physically joined with interconnecting cables. The companies envisaged that power stations such as Barking would provide enough capacity for their electricity requirements. The Act required equal consideration for the interests of shareholders and consumers. Dividends to shareholders were limited to 7 percent per year and the funds that could be carried forward in the accounts were restricted. Profits above these conditions formed a ‘consumers’ benefit’ in the form of lower prices.The company built Barking B power station which was commissioned in 1933.
+
+
+== Government policy ==
+Under the terms of the Electricity (Supply) Act 1926 (16-17 Geo. 5 c. 51) the Central Electricity Board (CEB) was established. The CEB identified high efficiency ‘selected’ power stations that would supply electricity most effectively. The CEB also constructed the national grid (1927–33) to connect power stations within a region.
+City Road power station was not a selected station, as a consequence the Company decommissioned it in 1929.The British electricity supply industry was nationalised in 1948 under the provisions of the Electricity Act 1947 (10-11 Geo. 6 c. 54). The County of London Electric Supply Company undertaking was abolished, ownership of Wandsworth and Barking power stations were vested in the British Electricity Authority, and subsequently the Central Electricity Authority and the Central Electricity Generating Board (CEGB). At the same time the electricity distribution and sales responsibilities of the County of London electricity undertaking were transferred to the London Electricity Board (LEB).
+Wandsworth power station was operational until 1964.Barking A and B power stations were operational until 1969 and 1976 respectively.
+
+
+== See also ==
+Timeline of the UK electricity supply industry
+List of pre-nationalisation UK electric power companies
+London Power Company
+Charing Cross and Strand Electricity Supply Corporation
+City of London Electric Lighting Company
+South Metropolitan Electric Light and Power Company
+South London Electric Supply Corporation
+
+
+== References ==

@@ -1,0 +1,188 @@
+Hypercomputation or super-Turing computation refers to models of computation that can provide outputs that are not Turing-computable. Super-Turing computing, introduced in the early 1990s by Hava Siegelmann, refers to such neurological inspired, biological and physical realizable computing; It became the mathematical foundations of lifelong machine learning. Hypercomputation, introduced as a field of science in the late 1990s, is said to be based on the super-Turing, but it also includes constructs which are philosophical. For example, a machine that could solve the halting problem would be a hypercomputer; so too would one that can correctly evaluate every statement in Peano arithmetic.
+The Church–Turing thesis states that any "computable" function that can be computed by a mathematician with a pen and paper using a finite set of simple algorithms, can be computed by a Turing machine. Hypercomputers compute functions that a Turing machine cannot and which are, hence, not computable in the Church–Turing sense.
+Technically, the output of a random Turing machine is uncomputable; however, most hypercomputing literature focuses instead on the computation of deterministic, rather than random, uncomputable functions.
+
+
+== History ==
+A computational model going beyond Turing machines was introduced by Alan Turing in his 1938 PhD dissertation Systems of Logic Based on Ordinals. This paper investigated mathematical systems in which an oracle was available, which could compute a single arbitrary (non-recursive) function from naturals to naturals. He used this device to prove that even in those more powerful systems, undecidability is still present. Turing's oracle machines are mathematical abstractions, and are not physically realizable.
+
+
+== State space ==
+In a sense, most functions are uncomputable: there are 
+  
+    
+      
+        
+          ℵ
+          
+            0
+          
+        
+      
+    
+    {\displaystyle \aleph _{0}}
+   computable functions, but there are an uncountable number (
+  
+    
+      
+        
+          2
+          
+            
+              ℵ
+              
+                0
+              
+            
+          
+        
+      
+    
+    {\displaystyle 2^{\aleph _{0}}}
+  ) of possible super-Turing functions.
+
+
+== Models ==
+Hypercomputer models range from useful but probably unrealizable (such as Turing's original oracle machines), to less-useful random-function generators that are more plausibly "realizable" (such as a random Turing machine).
+
+
+=== Uncomputable inputs or black-box components ===
+A system granted knowledge of the uncomputable, oracular Chaitin's constant (a number with an infinite sequence of digits that encode the solution to the halting problem) as an input can solve a large number of useful undecidable problems; a system granted an uncomputable random-number generator as an input can create random uncomputable functions, but is generally not believed to be able to meaningfully solve "useful" uncomputable functions such as the halting problem. There are an unlimited number of different types of conceivable hypercomputers, including:
+
+Turing's original oracle machines, defined by Turing in 1939.
+A real computer (a sort of idealized analog computer) can perform hypercomputation if physics admits general real variables (not just computable reals), and these are in some way "harnessable" for useful (rather than random) computation.  This might require quite bizarre laws of physics (for example, a measurable physical constant with an oracular value, such as Chaitin's constant), and would require the ability to measure the real-valued physical value to arbitrary precision, though standard physics makes such arbitrary-precision measurements theoretically infeasible.Similarly, a neural net that somehow had Chaitin's constant exactly embedded in its weight function would be able to solve the halting problem, but is subject to the same physical difficulties as other models of hypercomputation based on real computation.
+Certain fuzzy logic-based "fuzzy Turing machines" can, by definition, accidentally solve the halting problem, but only because their ability to solve the halting problem is indirectly assumed in the specification of the machine; this tends to be viewed as a "bug" in the original specification of the machines.Similarly, a proposed model known as fair nondeterminism can accidentally allow the oracular computation of noncomputable functions, because some such systems, by definition, have the oracular ability to identify reject inputs that would "unfairly" cause a subsystem to run forever.
+Dmytro Taranovsky has proposed a finitistic model of traditionally non-finitistic branches of analysis, built around a Turing machine equipped with a rapidly increasing function as its oracle. By this and more complicated models he was able to give an interpretation of second-order arithmetic. These models require an uncomputable input, such as a physical event-generating process where the interval between events grows at an uncomputably large rate.Similarly, one unorthodox interpretation of a model of unbounded nondeterminism posits, by definition, that the length of time required for an "Actor" to settle is fundamentally unknowable, and therefore it cannot be proven, within the model, that it does not take an uncomputably long period of time.
+
+
+=== "Infinite computational steps" models ===
+In order to work correctly, certain computations by the machines below literally require infinite, rather than merely unlimited but finite, physical space and resources; in contrast, with a Turing machine, any given computation that halts will require only finite physical space and resources.
+
+A Turing machine that can complete infinitely many steps in finite time, a feat known as a supertask. Simply being able to run for an unbounded number of steps does not suffice. One mathematical model is the Zeno machine (inspired by Zeno's paradox). The Zeno machine performs its first computation step in (say) 1 minute, the second step in ½ minute, the third step in ¼ minute, etc.  By summing 1+½+¼+... (a geometric series) we see that the machine performs infinitely many steps in a total of 2 minutes. According to Shagrir, Zeno machines introduce physical paradoxes and its state is logically undefined outside of one-side open period of [0, 2), thus undefined exactly at 2 minutes after beginning of the computation.It seems natural that the possibility of time travel (existence of closed timelike curves (CTCs)) makes hypercomputation possible by itself. However, this is not so since a CTC does not provide (by itself) the unbounded amount of storage that an infinite computation would require. Nevertheless, there are spacetimes in which the CTC region can be used for relativistic hypercomputation. According to a 1992 paper, a computer operating in a Malament–Hogarth spacetime or in orbit around a rotating black hole could theoretically perform non-Turing computations for an observer inside the black hole. Access to a CTC may allow the rapid solution to PSPACE-complete problems, a complexity class which, while Turing-decidable, is generally considered computationally intractable.
+
+
+=== Quantum models ===
+Some scholars conjecture that a quantum mechanical system which somehow uses an infinite superposition of states could compute a non-computable function. This is not possible using the standard qubit-model quantum computer, because it is proven that a regular quantum computer is PSPACE-reducible (a quantum computer running in polynomial time can be simulated by a classical computer running in polynomial space).
+
+
+=== "Eventually correct" systems ===
+Some physically realizable systems will always eventually converge to the correct answer, but have the defect that they will often output an incorrect answer and stick with the incorrect answer for an uncomputably large period of time before eventually going back and correcting the mistake.
+
+In mid 1960s, E Mark Gold and Hilary Putnam independently proposed models of inductive inference (the "limiting recursive functionals" and "trial-and-error predicates", respectively). These models enable some nonrecursive sets of numbers or languages (including all recursively enumerable sets of languages) to be "learned in the limit"; whereas, by definition, only recursive sets of numbers or languages could be identified by a Turing machine. While the machine will stabilize to the correct answer on any learnable set in some finite time, it can only identify it as correct if it is recursive; otherwise, the correctness is established only by running the machine forever and noting that it never revises its answer. Putnam identified this new interpretation as the class of "empirical" predicates, stating: "if we always 'posit' that the most recently generated answer is correct, we will make a finite number of mistakes, but we will eventually get the correct answer. (Note, however, that even if we have gotten to the correct answer (the end of the finite sequence) we are never sure that we have the correct answer.)" L. K. Schubert's 1974 paper "Iterated Limiting Recursion and the Program Minimization Problem" studied the effects of iterating the limiting procedure; this allows any arithmetic predicate to be computed. Schubert wrote, "Intuitively, iterated limiting identification might be regarded as higher-order inductive inference performed collectively by an ever-growing community of lower order inductive inference machines."
+A symbol sequence is computable in the limit if there is a finite, possibly non-halting program on a universal Turing machine that incrementally outputs every symbol of the sequence. This includes the dyadic expansion of π and of every other computable real, but still excludes all noncomputable reals. The 'Monotone Turing machines' traditionally used in description size theory cannot edit their previous outputs; generalized Turing machines, as defined by Jürgen Schmidhuber, can. He defines the constructively describable symbol sequences as those that have a finite, non-halting program running on a generalized Turing machine, such that any output symbol eventually converges; that is, it does not change any more after some finite initial time interval. Due to limitations first exhibited by Kurt Gödel (1931), it may be impossible to predict the convergence time itself by a halting program, otherwise the halting problem could be solved. Schmidhuber () uses this approach to define the set of formally describable or constructively computable universes or constructive theories of everything. Generalized Turing machines can eventually converge to a correct solution of the halting problem by evaluating a Specker sequence.
+
+
+== Analysis of capabilities ==
+Many hypercomputation proposals amount to alternative ways to read an oracle or advice function embedded into an otherwise classical machine. Others allow access to some higher level of the arithmetic hierarchy. For example, supertasking Turing machines, under the usual assumptions, would be able to compute any predicate in the truth-table degree containing 
+  
+    
+      
+        
+          Σ
+          
+            1
+          
+          
+            0
+          
+        
+      
+    
+    {\displaystyle \Sigma _{1}^{0}}
+   or 
+  
+    
+      
+        
+          Π
+          
+            1
+          
+          
+            0
+          
+        
+      
+    
+    {\displaystyle \Pi _{1}^{0}}
+  . Limiting-recursion, by contrast, can compute any predicate or function in the corresponding Turing degree, which is known to be 
+  
+    
+      
+        
+          Δ
+          
+            2
+          
+          
+            0
+          
+        
+      
+    
+    {\displaystyle \Delta _{2}^{0}}
+  . Gold further showed that limiting partial recursion would allow the computation of precisely the 
+  
+    
+      
+        
+          Σ
+          
+            2
+          
+          
+            0
+          
+        
+      
+    
+    {\displaystyle \Sigma _{2}^{0}}
+   predicates.
+
+
+== Criticism ==
+Martin Davis, in his writings on hypercomputation,
+refers to this subject as "a myth" and offers counter-arguments to the
+physical realizability of hypercomputation. As for its theory, he argues against
+the claims that this is a new field founded in the 1990s. This point of view relies
+on the history of computability theory (degrees of unsolvability, computability over
+functions, real numbers and ordinals), as also mentioned above.
+In his argument, he makes a remark that all of hypercomputation is little more than: "if non-computable inputs are permitted, then non-computable outputs are attainable."
+
+
+== See also ==
+Computation
+Digital physics
+Limits of computation
+Supertask
+
+
+== References ==
+
+
+== Further reading ==
+Mario Antoine Aoun, "Advances in Three Hypercomputation Models", (2016)
+L. Blum, F. Cucker, M. Shub, S. Smale, Complexity and Real Computation, Springer-Verlag 1997.  General development of complexity theory for abstract machines that compute on real numbers instead of bits.
+Burgin, M. S. (1983) Inductive Turing Machines, Notices of the Academy of Sciences of the USSR, v. 270, No. 6, pp. 1289–1293
+Keith Douglas. Super-Turing Computation: a Case Study Analysis (PDF), M.S. Thesis, Carnegie Mellon University, 2003.
+Mark Burgin (2005), Super-recursive algorithms, Monographs in computer science, Springer. ISBN 0-387-95569-0
+Cockshott, P. and Michaelson, G. Are there new Models of Computation? Reply to Wegner and Eberbach, The computer Journal, 2007
+Cooper, S. B. (2006). "Definability as hypercomputational effect" (PDF). Applied Mathematics and Computation. 178: 72–82. CiteSeerX 10.1.1.65.4088. doi:10.1016/j.amc.2005.09.072. S2CID 1487739. Archived from the original (PDF) on 2011-07-24. Retrieved 2011-06-16.
+Cooper, S. B.; Odifreddi, P. (2003). "Incomputability in Nature" (PDF).  In S. B. Cooper; S. S. Goncharov (eds.). Computability and Models: Perspectives East and West. Plenum Publishers, New York, Boston, Dordrecht, London, Moscow. pp. 137–160. Archived from the original (PDF) on 2011-07-24. Retrieved 2011-06-16.
+Copeland, J. (2002) Hypercomputation Archived 2016-03-14 at the Wayback Machine, Minds and machines, v. 12, pp. 461–502
+Davis, Martin (2006), "The Church–Turing Thesis: Consensus and opposition". Proceedings, Computability in Europe 2006.  The requested URL /~simon/TEACH/28000/DavisUniversal.pdf was not found on this server. Lecture Notes in Computer Science, 3988 pp. 125–132
+Hagar, A. and Korolev, A., Quantum Hypercomputation—Hype or Computation?, (2007)
+Müller, Vincent C. (2011). "On the possibilities of hypercomputing supertasks". Minds and Machines. 21 (1): 83–96. CiteSeerX 10.1.1.225.3696. doi:10.1007/s11023-011-9222-6. S2CID 253434.
+Ord, Toby. Hypercomputation: Computing more than the Turing machine can compute: A survey article on various forms of hypercomputation.
+Piccinini, Gualtiero: Computation in Physical Systems
+Putz, Volkmar and Karl Svozil, Can a computer be "pushed" to perform faster-than-light?, (2010)
+Rogers, H. (1987) Theory of Recursive Functions and Effective Computability, MIT Press, Cambridge Massachusetts
+Mike Stannett, Mike (1990). "X-machines and the halting problem: Building a super-Turing machine". Formal Aspects of Computing. 2 (1): 331–341. doi:10.1007/BF01888233. S2CID 7406983.
+Mike Stannett, The case for hypercomputation Archived 2016-03-04 at the Wayback Machine, Applied Mathematics and Computation, Volume 178, Issue 1, 1 July 2006, Pages 8–24, Special Issue on Hypercomputation
+Syropoulos, Apostolos (2008), Hypercomputation: Computing Beyond the Church–Turing Barrier (preview), Springer. ISBN 978-0-387-30886-9
+Turing, Alan (1939). "Systems of logic based on ordinals". Proceedings of the London Mathematical Society. 45: 161–228. doi:10.1112/plms/s2-45.1.161. hdl:21.11116/0000-0001-91CE-3.
+Ashish Sharma (2022), Nature Inspired Algorithms with Randomized Hypercomputational Perspective. Information Sciences. https://doi.org/10.1016/j.ins.2022.05.020
+
+
+== External links ==
+Hypercomputation Research Network

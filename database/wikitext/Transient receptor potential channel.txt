@@ -1,0 +1,110 @@
+Transient receptor potential channels (TRP channels) are a group of ion channels located mostly on the plasma membrane of numerous animal cell types. Most of these are grouped into two broad groups: Group 1 includes TRPC ( "C" for canonical), TRPV ("V" for vanilloid), TRPVL ("VL" for vanilloid-like), TRPM ("M" for melastatin), TRPS ("S" for soromelastatin), TRPN ("N" for no mechanoreceptor potential C), and TRPA ("A" for ankyrin). Group 2 consists of TRPP ("P" for polycystic) and TRPML ("ML" for mucolipin). Other less-well categorized TRP channels exist, including yeast channels and a number of Group 1 and Group 2 channels present in non-animals. Many of these channels mediate a variety of sensations such as pain, temperature, different kinds of tastes, pressure, and vision. In the body, some TRP channels are thought to behave like microscopic thermometers and used in animals to sense hot or cold. Some TRP channels are activated by molecules found in spices like garlic (allicin), chili pepper (capsaicin), wasabi (allyl isothiocyanate); others are activated by menthol, camphor, peppermint, and cooling agents; yet others are activated by molecules found in cannabis (i.e., THC, CBD and CBN) or stevia. Some act as sensors of osmotic pressure, volume, stretch, and vibration. Most of the channels are activated or inhibited by signaling lipids and contribute to a family of lipid-gated ion channels.These ion channels have a relatively non-selective permeability to cations, including sodium, calcium and magnesium.
+TRP channels were initially discovered in the so-called "transient receptor potential" mutant (trp-mutant) strain of the fruit fly Drosophila, hence their name (see History of Drosophila TRP channels below). Later, TRP channels were found in vertebrates where they are ubiquitously expressed in many cell types and tissues. Most TRP channels are composed of 6 membrane-spanning helices with intracellular N- and C-termini. Mammalian TRP channels are activated and regulated by a wide variety of stimuli and are expressed throughout the body.
+
+
+== Families ==
+
+In the animal TRP superfamily there are currently 9 proposed families split into two groups, each family containing a number of subfamilies. Group one consists of TRPC, TRPV, TRPVL, TRPA, TRPM, TRPS, and TRPN, while group two contains TRPP and TRPML. There is an additional family labeled TRPY that is not always included in either of these groups. All of these sub-families are similar in that they are molecular sensing, non-selective cation channels that have six transmembrane segments, however, each sub-family is very unique and shares little structural homology with one another. This uniqueness gives rise to the various sensory perception and regulation functions that TRP channels have throughout the body. Group one and group two vary in that both TRPP and TRPML of group two have a much longer extracellular loop between the S1 and S2 transmembrane segments. Another differentiating characteristic is that all the group one sub-families either contain an N-terminal intracellular ankyrin repeat sequence, a C-terminal TRP domain sequence, or both—whereas both group two sub-families have neither. Below are members of the sub-families and a brief description of each:
+
+
+=== TRPA ===
+TRPA, A for "ankyrin", is named for the large amount of ankyrin repeats found near the N-terminus. TRPA is primarily found in afferent nociceptive nerve fibers and is associated with the amplification of pain signaling as well as cold pain hypersensitivity. These channels have been shown to be both mechanical receptors for pain and chemosensors activated by various chemical species, including isothiocyanates (pungent chemicals in substances such as mustard oil and wasabi), cannabinoids, general and local analgesics, and cinnamaldehyde.While TRPA1 is expressed in a wide variety of animals, a variety of other TRPA channels exist outside of vertebrates.  TRPA5, painless, pyrexia, and waterwitch are distinct phylogenetic branches within the TRPA clade, and are only evidenced to be expressed in crustaceans and insects, while HsTRPA arose as a Hymenoptera-specific duplication of waterwitch. Like TRPA1 and other TRP channels, these function as ion channels in a number of sensory systems. TRPA- or TRPA1-like channels also exists in a variety of species as a phylogenetically distinct clade, but these are less well understood.
+
+
+=== TRPC ===
+TRPC, C for "canonical", is named for being the most closely related to Drosophila TRP, the namesake of TRP channels.  The phylogeny of TRPC channels has not been resolved in detail, but they are present across animal taxa.  There are actually only six TRPC channels expressed in humans because TRPC2 is found to be expressed solely in mice and is considered a pseudo-gene in humans; this is partly due to the role of TRPC2 in detecting pheromones, which mice have an increased ability compared to humans. Mutations in TRPC channels have been associated with respiratory diseases along with focal segmental glomerulosclerosis in the kidneys. All TRPC channels are activated either by phospholipase C (PLC) or diacyglycerol (DAG).
+
+
+=== TRPML ===
+TRPML, ML for "mucolipin", gets its name from the neurodevelopmental disorder mucolipidosis IV. Mucolipidosis IV was first discovered in 1974 by E.R. Berman who noticed abnormalities in the eyes of an infant. These abnormalities soon became associated with mutations to the MCOLN1 gene which encodes for the TRPML1 ion channel. TRPML is still not highly characterized.  The three known vertebrate copies are restricted to jawed vertebrates, with some exceptions (e.g. Xenopus tropicalis).
+
+
+=== TRPM ===
+TRPM, M for "melastatin", was found during a comparative genetic analysis between benign nevi and malignant nevi (melanoma). Mutations within TRPM channels have been associated with hypomagnesemia with secondary hypocalcemia. TRPM channels have also become known for their cold-sensing mechanisms, such is the case with TRPM8.  Comparative studies have shown that the functional domains and critical amino acids of TRPM channels are highly conserved across species.Phylogenetics has shown that TRPM channels are split into two major clades, αTRPM and βTRPM. αTRPMs include vertebrate TRPM1, TRPM3, and the "chanzymes" TRPM6 and TRPM7, as well as the only insect TRPM channel, among others. βTRPMs include, but are not limited to, vertebrate TRPM2, TRPM4, TRPM5, and TRPM8 (the cold and menthol sensor).  Two additional major clades have been described: TRPMc, which is present only in a variety of arthropods, and a basal clade, which has since been proposed to be a distinct and separate TRP channel family (TRPS).
+
+
+=== TRPN ===
+TRPN was originally described in Drosophila melanogaster and Caenorhabditis elegans as nompC, a mechanically gated ion channel. Only a single TRPN, N for "no mechanoreceptor potential C," or "nompC", is known to be broadly expressed in animals (although some Cnidarians have more), and is notably only a pseudogene in amniote vertebrates. Despite TRPA being named for ankyrin repeats, TRPN channels are thought to have the most of any TRP channel, typically around 28, which are highly conserved across taxa  Since its discovery, Drosophila nompC has been implicated in mechanosensation (including mechanical stimulation of the cuticle and sound detection) and cold nociception.
+
+
+=== TRPP ===
+TRPP, P for "polycistin", is named for polycystic kidney disease, which is associated with these channels. These channels are also referred to as PKD (polycistic kindey disease) ion channels.
+PKD2-like genes (examples include TRPP2, TRPP3, and TRPP5) encode canonical TRP channels.  PKD1-like genes encode much larger proteins with 11 transmembrane segments, which do not have all the features of other TRP channels.  However, 6 of the transmebrane segments of PKD1-like proteins have substantial sequence homology with TRP channels, indicating they may simply have diversified greatly from other closely related proteins.Insects have a third sub-family of TRPP, called brividos, which participate in cold sensing.
+
+
+=== TRPS ===
+TRPS, S for Soromelastatin, was named as it forms a sister group to TRPM. TRPS is broadly present in animals, but notably absent in vertebrates and insects (among others). TRPS has not yet been well described functionally, though it is known that the C. elegans TRPS, known as CED-11, is a calcium channel which participates in apoptosis.
+
+
+=== TRPV ===
+TRPV, V for "vanilloid", was originally discovered in Caenorhabditis elegans, and is named for the vanilloid chemicals that activate some of these channels. These channels have been made famous for their association with molecules such as capsaicin (a TRPV1 agonist).  In addition to the 6 known vertebrate paralogues, 2 major clades are known outside of the deterostomes: nanchung and Iav. Mechanistic studies of these latter clades have been largely restricted to Drosophila, but phylogenetic analyses has placed a number of other genes from Placozoa, Annelida, Cnidaria, Mollusca, and other arthropods within them. TRPV channels have also been described in protists.
+
+
+=== TRPVL ===
+TRPVL has been proposed to be a sister clade to TRPV, and is limited to the cnidarians Nematostella vectensis and Hydra magnipapillata, and the annelid Capitella teleta. Little is known concerning these channels.
+
+
+=== TRPY ===
+TRPY, Y for "yeast", is highly localized to the yeast vacuole, which is the functional equivalent of a lysosome in a mammalian cell, and acts as a mechanosensor for vacuolar osmotic pressure. Patch clamp techniques and hyperosmotic stimulation have illustrated that TRPY plays a role in intracellular calcium release. Phylogenetic analysis has shown that TRPY1 does not form a part with the other metazoan TRP groups one and two, and is suggested to have evolved after the divergence of metazoans and fungi. Others have indicated that TRPY are more closely related to TRPP.
+
+
+== Structure ==
+TRP channels are composed of 6 membrane-spanning helices (S1-S6) with intracellular N- and C-termini. Mammalian TRP channels are activated and regulated by a wide variety of stimuli including many post-transcriptional mechanisms like phosphorylation, G-protein receptor coupling, ligand-gating, and ubiquitination. The receptors are found in almost all cell types and are largely localized in cell and organelle membranes, modulating ion entry.
+Most TRP channels form homo- or heterotetramers when completely functional. The ion selectivity filter, pore, is formed by the complex combination of p-loops in the tetrameric protein, which are situated in the extracellular domain between the S5 and S6 transmembrane segments. As with most cation channels, TRP channels have negatively charged residues within the pore to attract the positively charged ions.
+
+
+=== Group 1 Characteristics ===
+Each channel in this group is structurally unique, which adds to the diversity of functions that TRP channels possess, however, there are some commonalities that distinguish this group from others. Starting from the intracellular N-terminus there are varying lengths of ankryin repeats (except in TRPM) that aid with membrane anchoring and other protein interactions. Shortly following S6 on the C-terminal end, there is a highly conserved TRP domain (except in TRPA) which is involved with gating modulation and channel multimerization. Other C-terminal modifications such as alpha-kinase domains in TRPM7 and M8 have been seen as well in this group.
+
+
+=== Group 2 Characteristics ===
+Group two most distinguishable trait is the long extracellular span between the S1 and S2 transmembrane segments. Members of group two are also lacking in ankryin repeats and a TRP domain. They have been shown, however, to have endoplasmic reticulum (ER) retention sequences towards on the C-terminal end illustrating possible interactions with the ER.
+
+
+== Function ==
+TRP channels modulate ion entry driving forces and Ca2+ and Mg2+ transport machinery in the plasma membrane, where most of them are located.  TRPs have important interactions with other proteins and often form signaling complexes, the exact pathways of which are unknown. TRP channels were initially discovered in the trp mutant strain of the fruit fly Drosophila which displayed transient elevation of potential in response to light stimuli and were so named transient receptor potential channels. TRPML channels function as intracellular calcium release channels and thus serve an important role in organelle regulation. Importantly, many of these channels mediate a variety of sensations like the sensations of pain, temperature, different kinds of tastes, pressure, and vision. In the body, some TRP channels are thought to behave like microscopic thermometers and are used in animals to sense hot or cold. TRPs act as sensors of osmotic pressure, volume, stretch, and vibration. TRPs have been seen to have complex multidimensional roles in sensory signaling. Many TRPs function as intracellular calcium release channels.
+
+
+=== Pain and temperature sensation ===
+TRP ion channels convert energy into action potentials in somatosensory nociceptors.  Thermo-TRP channels have a C-terminal domain that is responsible for thermosensation and have a specific interchangeable region that allows them to sense temperature stimuli that is tied to ligand regulatory processes.  Although most TRP channels are modulated by changes in temperature, some have a crucial role in temperature sensation. There are at least 6 different Thermo-TRP channels and each plays a different role.  For instance, TRPM8 relates to mechanisms of sensing cold, TRPV1 and TRPM3 contribute to heat and inflammation sensations, and TRPA1 facilitates many signaling pathways like sensory transduction, nociception, inflammation and oxidative stress.
+
+
+=== Taste ===
+TRPM5 is involved in taste signaling of sweet, bitter and umami tastes by modulating the signal pathway in type II taste receptor cells. TRPM5 is activated by the sweet glycosides found in the stevia plant.
+Several other TRP channels play a significant role in chemosensation through sensory nerve endings in the mouth that are independent from taste buds. TRPA1 responds to mustard oil (allyl isothiocyanate), wasabi, and cinnamon, TRPA1 and TRPV1 responds to garlic (allicin), TRPV1 responds to chilli pepper (capsaicin), TRPM8 is activated by menthol, camphor, peppermint, and cooling agents; TRPV2 is activated by molecules (THC, CBD and CBN) found in marijuana.
+
+
+== TRP-like channels in insect vision ==
+
+The trp-mutant fruit flies, which lack a functional copy of trp gene, are characterized by a transient response to light, unlike wild-type flies that demonstrate a sustained photoreceptor cell activity in response to light.
+A distantly related isoform of TRP channel, TRP-like channel (TRPL), was later identified in Drosophila photoreceptors, where it is expressed at approximately 10- to 20-fold lower levels than TRP protein. A mutant fly, trpl, was subsequently isolated. Apart from structural differences, the TRP and TRPL channels differ in cation permeability and pharmacological properties.
+TRP/TRPL channels are solely responsible for depolarization of insect photoreceptor plasma membrane in response to light. When these channels open, they allow sodium and calcium to enter the cell down the concentration gradient, which depolarizes the membrane. Variations in light intensity affect the total number of open TRP/TRPL channels, and, therefore, the degree of membrane depolarization. These graded voltage responses propagate to photoreceptor synapses with second-order retinal neurons and further to the brain.
+It is important to note that the mechanism of insect photoreception is dramatically different from that in mammals. Excitation of rhodopsin in mammalian photoreceptors leads to the hyperpolarization of the receptor membrane but not to depolarization as in the insect eye. In Drosophila and, it is presumed, other insects, a phospholipase C (PLC)-mediated signaling cascade links photoexcitation of rhodopsin to the opening of the TRP/TRPL channels.  Although numerous activators of these channels such as phosphatidylinositol-4,5-bisphosphate (PIP2) and polyunsaturated fatty acids (PUFAs) were known for years, a key factor mediating chemical coupling between PLC and TRP/TRPL channels remained a mystery until recently. It was found that breakdown of a lipid product of PLC cascade, diacylglycerol (DAG), by the enzyme diacylglycerol lipase, generates PUFAs that can activate TRP channels, thus initiating membrane depolarization in response to light. This mechanism of TRP channel activation may be well-preserved among other cell types where these channels perform various functions.
+
+
+== Clinical significance ==
+Mutations in TRPs have been linked to neurodegenerative disorders, skeletal dysplasia, kidney disorders, and may play an important role in cancer. TRPs may make important therapeutic targets.  There is significant clinical significance to TRPV1, TRPV2, TRPV3 and TRPM8’s role as thermoreceptors, and TRPV4 and TRPA1’s role as mechanoreceptors; reduction of chronic pain may be possible by targeting ion channels involved in thermal, chemical, and mechanical sensation to reduce their sensitivity to stimuli.  For instance the use of TRPV1 agonists would potentially inhibit nociception at TRPV1, particularly in pancreatic tissue where TRPV1 is highly expressed. The TRPV1 agonist capsaicin, found in chili peppers, has been indicated to relieve neuropathic pain.   TRPV1 agonists inhibit nociception at TRPV1
+
+
+=== Role in cancer ===
+Altered expression of TRP proteins often leads to tumorigenesis, as reported for TRPV1, TRPV6, TRPC1, TRPC6, TRPM4, TRPM5, and TRPM8. TRPV1 and TRPV2 have been implicated in breast cancer. TRPV1 expression in aggregates found at endoplasmic reticulum or Golgi apparatus and/or surrounding these structures in breast cancer patients confer worse survival. TRPV2 is a potential biomarker and therapeutic target in triple negative breast cancer. TRPM family of ion channels are particularly associated with prostate cancer where TRPM2 (and its long noncoding RNA TRPM2-AS), TRPM4, and TRPM8 are overexpressed in prostate cancer associated with more aggressive outcomes. TRPM3 has been shown to promote growth and autophagy in clear cell renal cell carcinoma, TRPM4 is overexpressed in diffuse large B-cell lymphoma associated with poorer survival, while TRPM5 has oncogenic properties in melanoma.
+
+
+=== Role in inflammatory responses ===
+In addition to TLR4 mediated pathways, certain members of the family of the transient receptor potential ion channels recognize LPS. LPS-mediated activation of TRPA1 was shown in mice and Drosophila melanogaster flies. At higher concentrations, LPS activates other members of the sensory TRP channel family as well, such as TRPV1, TRPM3 and to some extent TRPM8. LPS is recognized by TRPV4 on epithelial cells. TRPV4 activation by LPS was necessary and sufficient to induce nitric oxide production with a bactericidal effect.
+
+
+== History of Drosophila TRP channels ==
+The original TRP-mutant in Drosophila was first described by Cosens and Manning in 1969 as "a mutant strain of D. melanogaster which, though behaving phototactically positive in a T-maze under low ambient light, is visually impaired and behaves as though blind". It also showed an abnormal electroretinogram response of photoreceptors to light which was transient rather than sustained as in the "wild type". It was investigated subsequently by Baruch Minke, a post-doc in the group of William Pak, and named TRP according to its behavior in the ERG. The identity of the mutated protein was unknown until it was cloned by Craig Montell, a post-doctoral researcher in Gerald Rubin's research group, in 1989, who noted its predicted structural relationship to channels known at the time and Roger Hardie and Baruch Minke who provided evidence in 1992 that it is an ion channel that opens in response to light stimulation. The TRPL channel was cloned and characterized in 1992 by the research group of Leonard Kelly. In 2013, Montell and his research group found that the TRPL (TRP-like) cation channel was a direct target for tastants in gustatory receptor neurons and could be reversibly down-regulated.
+
+
+== See also ==
+Endocannabinoid system
+Transient receptor potential channel-interacting protein database (2010)
+
+
+== References ==
+
+
+== External links ==
+Transient+Receptor+Potential+Channels at the U.S. National Library of Medicine Medical Subject Headings (MeSH)

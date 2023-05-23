@@ -1,0 +1,27 @@
+The Kawasaki GPZ1100 is a motorcycle that was manufactured by Kawasaki  from 1981 to 1985. All four models featured fuel injection and 1,089 cc engines. All were short lived and were an attempt to fill a market segment that was rapidly changing.
+
+
+== 1981 B1 and 1982 B2 ==
+
+The 1981 GPz1100 was the first 1,100 cc motorcycle released by Kawasaki. It was officially marketed as the GPz1100 B1. Its frame design was a typical cradle design and the engine was based on the new z1000J motor, fitted with roller 
+bearings, but the engine capacity was increased to 1,089 cc. Cycle World stated "...the big Kawi went well, with standing quarters in just over 11 seconds at 119mph, fastest in its class at the time."
+Rather than featuring carburetors, the B1 was fitted with electronic fuel injection (EFI) a Bosch-derived Nissan fuel injection as used on the earlier 1980 Z1000G/H models.
+Suspension and braking was similar to earlier models; the front forks featured 38 mm tubes, the frame design, based on the 1981 J model, was made from larger diameter steel in the section between the steering head to rear of the tank. To reduce weight, the tube walls were thinner. It weighed 255 kg (562 lb) with a full tank of fuel, and the power output was claimed to be 108 bhp (81 kW).The B2 featured a cockpit fairing, the use of LCD warning lights and improved engine coating using a black chrome finish instead of the previous black paint. Kawasaki was serious about having the best Superbike, and the B2 was changed in several significant ways over its predecessor. The engine output was increased by increasing the valve lift from 8.3 mm to 8.7 mm, and valve duration was increased from 280 degrees to 288 degrees to boost upper-end horsepower. The early BOSCH-type open-loop analog fuel injection was scrapped, and a new closed-loop digital fuel injection (DFI) was used in its place. The new system did not use an airflap to measure airflow, but a digital microprocessor, a series of sensors, and a throttle position sensor to meter the fuel much more accurately, eliminate throttle lag, and decrease emissions.
+The suspension calibration was all-new for 1982, to make the big GPz an even better handler both on the track and on the street. The fork had slightly stiffer springs, and compression and rebound damping were increased approximately 10%. In the rear, the Kayaba shocks used the same springs, but with greater pre-load, and the compression damping was effectively doubled. And each of the rebound adjustments offered 30% more damping than its '81 counterpart. Wider, Dunlop K300 tires replaced the Bridgestone tires used on the B1 to improve handling and steering response.
+
+
+== 1983 ZX1100-A1 ==
+In 1983 a new GPz1100 design was released that featured Unitrack single suspension, anti-dive units on the forks and a major styling overhaul often called the "swish" look. Known as the ZX1100A1 model, the 1983 model featured a larger fairing (with a lower fairing section as an option to give a full race fairing), different instrumentation and a warning panel mounted on the redesigned petrol tank. This model contained many features that were to appear on the GPz900R model leading to the suspicion that it was used to test the acceptability of newer technology such as Unitrack and Anti-Dive forks and the newer styling. The 1983 model featured the new Alpha-N DFI design with modifications, such as an IAT (intake air temp) inclusion of a warning light that flashed service codes when the DFI system was having a problem, a rev-limiter, and a 'limp' mode that would allow the engine to keep running if one of the sensors failed.
+The engine design changed in the 1983 model to use underbucket shims similar to the z650 and the camshaft duration was increased from 288 degrees to 300 degrees, and the valve lift increased from 8.7mm to 9.5mm. To flow more air, the head was revised extensively from the earlier model, featuring new ports, a 'bathtub' combustion chamber borrowed from their own S2 racer, and a 1mm larger intake valve recessed into the head slightly for valve clearance. The power output was now claimed to be 120 bhp (89 kW) at 8,750 rpm. CYCLE magazine  recorded 104 rear-wheel horsepower on their dynamometer, and Kawasaki was hoping to have a solid 10-second quarter-mile machine. Motorcycle Classics reported "Cycle took the revised GPz1100 to the strip and restored its crown as the fastest 1100 in a straight line, with a standing quarter that broke into the 10s."
+
+
+== 1984 ZX1100-A2 ==
+In 1984 the last GPz1100 was released, competition from sales of the GPz900R released in 1984 had surpassed the  GPz1100, so the 1100 was discontinued. The 1984 model deviated little from the 1983 model but featured a new paint scheme called "Galaxy Silver"; the original Firecracker Red scheme was still available. Revisions were minor and include a revised exhaust system and the addition of panels under the instrument cluster. Sales were now in direct competition to the smaller, lighter, water-cooled GPz900R model, which in 1984 would win first and second place in the 1300cc Production race at the Isle of Man TT.
+
+
+== Later models ==
+
+In 1995, Kawasaki re-released the GPz brand, basing the motor on the ZZR-1100 water-cooled engines. There is no similarity between the later models (officially designated as ZX1100E) and any earlier models. This carbureted model was available from 1995 through 1997 in red or black and some came with rare factory ABS and/or saddlebags options.
+
+
+== References ==

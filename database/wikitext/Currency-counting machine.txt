@@ -1,0 +1,48 @@
+A currency-counting machine is a machine that counts money—either stacks of banknotes or loose collections of coins. Counters may be purely mechanical or use electronic components. The machines typically provide a total count of all money, or count off specific batch sizes for wrapping and storage.
+Currency counters are commonly used in vending machines to determine what amount of money has been deposited by customers.
+In some modern automated teller machines, currency counters allow for cash deposits without envelopes, since they can identify which notes have been inserted instead of just how many. The user is given the chance to review the automatic counter's idea of the quantity and kinds of the inserted banknotes before the deposit is complete.
+
+
+== Banknote-only counters ==
+Basic banknote counters provide a total count of the notes in the supply hopper. More advanced counters can identify different denominations to provide a total currency value of mixed banknotes, including those that are upside down. Some banknote counters can also detect counterfeit notes either magnetically and/or using blacklight. Blacklight (UV) based detectors exploit the fact that in many countries, real banknotes have fluorescent symbols on them that only show under a black light. Also, the paper used for printing money does not contain any of the brightening agents which make commercially available papers fluoresce under black light. Both features make counterfeit notes both easier to detect and more difficult to successfully produce.
+There are mainly two types of design used by counters to load and count the notes: back and top loading styles. 
+On a back-loading machine, notes are fed into the hopper from the back of the machine. This feeding design makes the machine more cost-efficient, but the notes need to be stacked neatly to avoid jamming, and the maximum size of the stack is reduced.
+On a top-loading machine, notes are fed into the hopper from the front of the machine. This feeding design makes the machine more costly, but feeding notes is easier, and it is possible to feed notes continuously.
+A stack of notes are placed in a compartment of the machine, and then one note at a time is mechanically pulled through the machine.  By counting the number of times a beam of light is interrupted, the machine can count the notes.  By comparing an image of each denomination to pattern recognition criteria, the machine can ascertain denominations and identify counterfeits.
+
+
+== Banknote and coin counters ==
+Counting scales that are able to count batches of notes or of coins without having to process them individually, were introduced in Great Britain in 1980 and are now widely used by banks, retailers and food service outlets in many parts of the world. They are faster and more versatile than the traditional notes-only & coins-only equipment, but cannot detect counterfeits.
+
+
+== Coin sorter ==
+A coin sorter is a device which sorts a random collection of coins into separate bins or tubes for various denominations. Coin sorters are typically specific to the currency of certain countries due to different currencies often issuing similarly sized coins of different value. While some sorters make no attempt at counting, most sorters are armed with a screen displaying the number or the value of the coins that passed through the machine.
+
+
+== Coin counter ==
+The phrase coin counter may refer to a device which both sorts and counts coins at the same time, or only counts presorted coins that are all the same size.
+A typical counter of presorted coins uses a bowl with flat spinning disc at the bottom to distribute coins around the bowl perimeter. An opening in the edge of the bowl is only wide enough to accept one coin at a time. Coins either pass through a light-beam counter, or are pushed through a spring-loaded cam that only accepts one coin at a time. Good standard for coin counter's counting speed is 300 coins per minute.  
+
+
+== First counting machines ==
+De La Rue were marketing their first bank note counting machine in 1957. 
+Kokuei were manufacturing a coin counter in Japan in 1952.
+These companies continued to manufacture a wide variety of cash handling equipment. In 1971, Kokuei company name was changed to Glory. In 2008, De La Rue Cash Systems was renamed Talaris. In 2013, Glory acquired Talaris. There are now a number of manufacturers of coin and bank note counters and sorters as well as other devices to make cash handling easier.
+
+
+== See also ==
+Banknote processing for counting and sorting large volume of banknotes
+Coinstar
+
+
+== References ==
+
+"Counts and Wraps Coins Quickly and Easily", Popular Science, February 1919, page 68 (via Google Books)
+
+
+=== Patents ===
+US 7672499  Method and Apparatus for Currency Discrimination and Counting by Raterman, et al., Cummins-Allison Corp. (2 March 2010)
+
+
+== External links ==
+CoinCounterDatabase wiki — United States

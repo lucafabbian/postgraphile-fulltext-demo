@@ -1,0 +1,18 @@
+Korabl-Sputnik 2 (Russian: Корабль-Спутник 2, lit. 'Ship-Satellite 2'), also known as Sputnik 5 in the West, was a Soviet artificial satellite, and the third test flight of the Vostok spacecraft. It was the first spaceflight to send animals into orbit and return them safely back to Earth, including two Soviet space dogs, Belka and Strelka. Launched on 19 August 1960, it paved the way for the first human orbital flight, Vostok 1, which was launched less than eight months later.
+
+
+== Background ==
+Korabl-Sputnik 2 was the second attempt to launch a Vostok capsule with dogs on board. The first try on 28 July, carrying a pair named Bars (Snow Leopard aka Chaika (Seagull)) and Lisichka (Foxie), had been unsuccessful after the Blok G strap-on suffered a fire and breakdown in one of the combustion chambers, followed by its breaking off of the booster 19 seconds after launch. Around 30 seconds, the launch vehicle disintegrated, the core and strap-ons flying in random directions and crashing into the steppe. Flight controllers sent a command to jettison the payload shroud and separate the descent module, but due to the low altitude, the parachutes only deployed partially, and the dogs were killed on impact with the ground. The Blok G engine failure was traced to high frequency pressure oscillations in the RD-107 engine. This had been a problem on earlier R-7 launches but was corrected in the latest revision of the RD-107. The booster used on this launch was however carrying the older model of the engines. The accident also encouraged the development of an ejector seat for the cosmonaut to escape from the capsule in the event of a launch failure, since the parachutes in the descent module would not be able to open properly until around 40 seconds into launch. This occurred one day before the US program suffered a serious setback with the loss of a Mercury capsule.
+
+
+== Launch ==
+The launch of Korabl-Sputnik 2 occurred on 19 August 1960, using a Vostok-L carrier rocket following a two day delay to replace a faulty LOX valve. Official sources reported the launch time to have been 08:44:06 UTC; however, Sergei Voevodin gave it as 08:38:24. A radio station in Bonn, West Germany, was among the first to pick up signals from the spacecraft, which were confirmed on the third orbit by a Swedish radio station.
+The spacecraft carried two dogs (Belka and Strelka), forty mice, two rats and a variety of plants, as well as a television camera, which took images of the dogs. The spacecraft returned to Earth at 06:00:00 UTC on 20 August, the day after its launch. Telemetry revealed that one dog had suffered seizures and vomited during the fourth orbit, and it was decided to limit the first crewed flight to three orbits. All of the animals were recovered safely, and a year later Strelka had a litter of puppies, one of which, Pushinka, was sent to First Lady of the US Jacqueline Kennedy as a goodwill present from the Soviet Union. President Kennedy's advisers initially opposed taking the dog for fear that the Soviets might have planted microphones in its body to listen in on national defense meetings.The bodies of Strelka and Belka were both preserved via taxidermy after their deaths and placed on display in the Moscow Museum of Space and Aeronautics.
+
+
+== See also ==
+Soviet space dogs
+Animals in space
+
+
+== References ==

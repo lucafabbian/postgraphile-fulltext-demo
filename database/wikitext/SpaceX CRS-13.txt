@@ -1,0 +1,33 @@
+SpaceX CRS-13, also known as SpX-13, was a Commercial Resupply Service mission to the International Space Station launched on 15 December 2017. The mission was contracted by NASA and is flown by SpaceX. It was the second mission to successfully reuse a Dragon capsule, previously flown on CRS-6. The first stage of the Falcon 9 Full Thrust rocket was the previously flown, "flight-proven" core from CRS-11. The first stage returned to land at Cape Canaveral's Landing Zone 1 after separation of the first and second stage.
+
+
+== Mission overview ==
+
+In early 2015, NASA awarded a contract extension to SpaceX for three CRS additional missions (CRS-13 to CRS-15). In June 2016, a NASA Inspector General report had this mission manifested for September 2017. The flight was then delayed from 13 September, 1 November, 4 December, 12 December, and 13 December 2017. SpaceX pushed off the launch to 15 December due to the detection of particulates in the second stage fuel system, taking the time to completely flush out the fuel and liquid oxygen tanks on the first and second stages as a precautionary measure.The CRS-13 mission launched aboard a Falcon 9 Full Thrust rocket on 15 December 2017 at 15:36:09 UTC from the Cape Canaveral Air Force Station Space Launch Complex 40. The Dragon spacecraft rendezvoused with the International Space Station on 17 December 2017; the vehicle was captured by the Canadarm2 at 10:57 UTC and was berthed to the Harmony module's nadir docking port at 13:26 UTC. Dragon spent just under a month at the ISS: it was unberthed on 12 January 2018 at 10:47 UTC and was released from Canadarm2 on 13 January 2018 at 09:58 UTC. The spacecraft deorbited a few hours later, splashing down in the Pacific Ocean at 15:37 UTC carrying 1,850 kg (4,078 lb) of equipment and science experiments.
+
+
+== Payload ==
+NASA has contracted for the CRS-13 mission from SpaceX and therefore determines the primary payload, date/time of launch, and orbital parameters for the Dragon space capsule. CRS-13 carried a total of 2,205 kg (4,861 lb) of material into orbit. This includes 1,560 kg (3,439 lb) of pressurised cargo with packaging bound for the International Space Station, and 645 kg (1,422 lb) of unpressurised cargo composed of two external station experiments: the Total and Spectral Solar Irradiance Sensor (TSIS) and the Space Debris Sensor (SDS).The following is a breakdown of cargo bound for the ISS:
+Science investigations: 711 kg (1,567 lb)
+Crew supplies: 490 kg (1,080 lb)
+Vehicle hardware: 189 kg (417 lb)
+Spacewalk equipment: 165 kg (364 lb)
+Computer resources: 5 kg (11 lb)
+External payloads: 645 kg (1,422 lb)
+Total and Spectral Solar Irradiance Sensor (TSIS)
+Space Debris Sensor (SDS)
+
+
+== See also ==
+Uncrewed spaceflights to the International Space Station
+List of Falcon 9 and Falcon Heavy launches
+2017 in spaceflight
+
+
+== References ==
+
+
+== External links ==
+ Media related to SpaceX CRS-13 at Wikimedia Commons
+Dragon website at SpaceX.com
+Commercial Resupply Services at NASA.gov

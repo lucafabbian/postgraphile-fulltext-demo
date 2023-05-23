@@ -1,0 +1,11 @@
+Translation initiation factor eIF-2B subunit alpha is a protein that in humans is encoded by the EIF2B1 gene.
+
+
+== Interactions ==
+EIF2B1 has been shown to interact with EIF2B5.
+
+
+== References ==
+
+
+== Further reading ==

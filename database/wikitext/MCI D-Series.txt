@@ -1,0 +1,33 @@
+The MCI D-Series is a model of motorcoach bus produced by Motor Coach Industries (MCI). The bus is primarily used by private companies operating scheduled service or commuter buses, government agencies for the transport of prisoners, and in more recent years, public transit agencies who use them on express routes. It is sold alongside the MCI J-Series bus, primarily used by tour and charter operators. 
+The D-Series was introduced in February 1992 as MCI's first 45-foot (14 m) motorcoach, enabled by a December 1991 law change that allowed the additional length. The coach replaced the B- and C-Series models, which were equipped with obsolete two-stroke engines.
+
+
+== Development ==
+Several changes in the industry in the late 1980s and early 1990s led to the development of the D-Series coach. First, was the growing calls to allow 45-foot (14 m) coaches (at the time prohibited by US law), second was that MCI's existing models were designed to use two-stroke engines and the company was looking to offer the new Detroit Diesel Series 60 four-stroke engines, and third was 1988 Canadian government request to develop a wheelchair accessible intercity bus.MCI developed two prototypes to test the various proposed changes. In 1989, the company stretched an existing 102-C3 model to 45 feet (14 m) and in May 1990, in partnership with the Canadian government, MCI built a wheelchair accessible bus with a wheelchair lift and an accessible bathroom.On December 18, 1991, the Intermodal Surface Transportation Efficiency Act was signed into law, allowing an increase of coach length to 45-feet. The earlier prototypes left MCI ready for the change. Less than three months later, at February 1992 UBOA Bus Expo, MCI introduced the 102-DL3. The model number represented its 102 in (2,600 mm) width, D for its model, L for long (45 feet) and 3 for three axles. MCI also offered the wheelchair lift and accessible lavatory as an option. Production of the coach started in late 1992. The bus was quickly adopted by private companies operating scheduled service (like Greyhound Lines) or commuter buses. 
+A 40-foot (12 m) version of the D-Series, the 102-D3 was introduced in January 1994, replacing the B- and C-Series models in the MCI product line.At about the same time that the 102-D3 was introduced, MCI also started offering an ISTV (Inmate Security Transportation Vehicle) a prisoner transport vehicle version of the coach. ISTV models are designed to transport up to 69 inmates and are available with containment cells and a rear officer position. The ISTV only comes in a 40-foot version which better fits existing sally ports at jail and prison facilities.In 1998, MCI introduced the E-Series, a more upscale model for tour and charter operators, which was later replaced by the current J-Series.Over time, the D-Series also became popular with public transit agencies who use them on express routes that travel long-distances on highways. Responding to transit agency requests, MCI started offering optional destination signs and two-piece sliding entry doors better suited to curbside loading compared to the one-piece swing out door. The motorcoach allows operators to have more seated passengers, which is preferred when operating at higher speeds for longer distances. The downside compared to a traditional low-floor transit bus is that motorcoaches only have one door and a high-floor that requires the use of a wheelchair lift, slowing boarding/alighting.
+To address these problems, in 2017, MCI debuted a new version of the D-Series with a low-floor area in the middle of the coach. This area allows passengers using wheelchairs to board much faster than using a ramp, and provides a second door to allow passengers to board and alight at the same time. The trade-off was that the luggage space under the coach was largely eliminated, but few public transit operators used that space in normal operation. MCI named the coach the D45 CRT LE for commuter rapid transit, low entry. Because of the extensive changes necessary to the coach, MCI used the development of the D45 CRT LE as an opportunity to develop a second generation of the D-Series coach with new styling and updated systems and components. Those updates began appearing on high-floor coach models in 2021.
+
+
+== Variants ==
+
+
+=== First Generation (Legacy) ===
+The 102-D3 and  102-DL3, entered production in 1994 and 1992 respectively. The model number denoted the width (102 inches (2.6 m), exclusive of mirrors), "D" model, the "L" in the model name designates longer length (45 feet (14 m), nominally), and 3-axle configuration. The models have large, fender skirts and a rear-mounted radiator fan side-by-side with the intercooler fan. It has an air intake covered by a large grille, a two-piece engine door, small headlight/taillights, and a black roof cap. The models are also available with optional stainless steel front and/or sides as well as an optional rubber front bumper.
+The 102-D3 and 102-DL3 were renamed D4000 and D4500 in 2001. In 2005, MCI started offering a facelifted model of the D-Series called the D4005 and D4505 to private-sector operators. The rear end cap design was updated in 2007 to accommodate new engines that met stricter EPA emissions regulations.
+Commuter coach models were offered with a large destination sign above the front windows and bi-fold doors. A prison transport coach version of the 40ft model was also offered, and continues to be offered as the D4000 ISTV.
+
+
+=== Second Generation (Next Generation) ===
+The D45 CRT, D45 CRT LE and, D4520 coaches make up the next generation of D-Series coaches, which have a taller body based on the J-Series coach with cosmetic updates. The commuter coach models ditch MCI's traditional alphanumerical naming system and are instead named using a modified alphanumerical naming system. For example" "D" generation or basic model, "45" for the length, "CRT" for "commuter rapid transit" and "LE" for modes with the Low Entry door. The touring coach model, the D4520, retains MCI's traditional alphanumerical naming system, with "20", denoting the third generation D-Series.
+
+
+== See also ==
+MCI J-Series
+ Buses portal
+
+
+== References ==
+
+
+== External links ==
+ Media related to MCI D-Series at Wikimedia Commons

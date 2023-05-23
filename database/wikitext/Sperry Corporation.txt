@@ -1,0 +1,89 @@
+Sperry Corporation was a major American equipment and electronics company whose existence spanned more than seven decades of the 20th century. Sperry ceased to exist in 1986 following a prolonged hostile takeover bid engineered by Burroughs Corporation, which merged the combined operation under the new name Unisys. Some of Sperry's former divisions became part of Honeywell, Lockheed Martin, Raytheon Technologies, and Northrop Grumman.
+The company is best known as the developer of the artificial horizon and a wide variety of other gyroscope-based aviation instruments like autopilots, bombsights, analog ballistics computers and gyro gunsights. In the post-WWII era the company branched out into electronics, both aviation-related, and later, computers.
+
+
+== History ==
+
+
+=== Early history ===
+The company was founded in 1910 by Elmer Ambrose Sperry, as the Sperry Gyroscope Company, to manufacture navigation equipment—chiefly his own inventions the marine gyrostabilizer and the gyrocompass—at 40 Flatbush Avenue Extension in Downtown Brooklyn. During World War I the company diversified into aircraft components including bomb sights and fire control systems. In their early decades, Sperry Gyroscope and related companies were concentrated on Long Island, New York, especially in Nassau County. Over the years, it diversified to other locations.
+In 1918, Lawrence Sperry split from his father to compete over aero-instruments with the Lawrence Sperry Aircraft Company, including the new automatic pilot. After the death of Lawrence on December 13, 1923, the two firms were brought together in 1924. Then in 1929 it was acquired by North American Aviation. The company again became independent in 1933 as the Sperry Corporation. The new corporation was a holding company for a number of smaller entities such as the original Sperry Gyroscope, Ford Instrument Company, Intercontinental Aviation, Inc., and others.  The company made advanced aircraft navigation equipment for the market, including the Sperry Gyroscope and the Sperry Radio Direction Finder. It also moved into the hydraulics industry when it acquired Vickers, Inc. in 1937.Sperry supported the work of a group of Stanford University inventors, led by Russell and Sigurd Varian, who had invented the klystron, and incorporated this technology and related inventions into their products.The company prospered during World War II as military demand skyrocketed, ranking 19th among US corporations in the value of wartime production contracts. It specialized in high technology devices such as analog computer–controlled bomb sights, airborne radar systems, and automated take-off and landing systems. Sperry also was the creator of the Ball Turret Gun mounted under the Boeing B-17 Flying Fortress and the Consolidated B-24 Liberator, as commemorated by the film Memphis Belle and the poem The Death of the Ball Turret Gunner. Postwar, the company expanded its interests in electronics and computing, producing the company's first digital computer, SPEEDAC, in 1953.
+During the 1950s, a large part of Sperry Gyroscope moved to Phoenix, Arizona and soon became the Sperry Flight Systems Company. This was to preserve parts of this defense company in the event of a nuclear war. The Gyroscope division remained headquartered in New York—in its massive Lake Success, Long Island, plant (which also served as the temporary United Nations headquarters from 1946 to 1952)—into the 1980s.
+
+
+=== Sperry Rand ===
+
+In 1955, Sperry acquired Remington Rand and renamed itself Sperry Rand. Acquiring then- Eckert–Mauchly Computer Corporation and Engineering Research Associates along with Remington Rand, the company developed the successful UNIVAC computer series and signed a valuable cross-licensing deal with IBM. The company remained a major military contractor. From 1967 to 1973 the corporation was involved in an acrimonious antitrust lawsuit with Honeywell, Inc. (see Honeywell v. Sperry Rand).
+In 1961, Sperry Rand was ranked 34th on the Fortune 500 list of largest companies in the United States.In 1978, Sperry Rand decided to concentrate on its computing interests, and sold a number of divisions including Remington Rand Systems, Remington Rand Machines, Ford Instrument Company and Sperry Vickers. The company dropped "Rand" from its title and reverted to Sperry Corporation.  At about the same time as the Rand acquisition, Sperry Gyroscope decided to open a facility that would almost exclusively produce its marine instruments. After considerable searching and evaluation, a plant was built in Charlottesville, Virginia, and in 1956, Sperry Piedmont Division began producing marine navigation products.  It was later renamed Sperry Marine.
+In the 1970s, Sperry Corporation was a traditional conglomerate headquartered in the Sperry Rand Building at 1290 Avenue of Americas in Manhattan, selling typewriters (Sperry Remington); office equipment, electronic digital computers for business and the military (Sperry Univac); construction and farm equipment (Sperry New Holland); avionics, such as gyroscopes, radars, air route traffic control equipment (Sperry Vickers/Sperry Flight Systems); and consumer products such as electric razors (Sperry Remington). In addition, Sperry Systems Management (headquartered in the original Sperry Gyroscope building in Lake Success) performed work on a number of US government defense contracts. Sperry also managed the operation from 1961 to 1975 of the large Louisiana Army Ammunition Plant near Minden.  In January 1972, Sperry took over the RCA line of electronic digital computers (architectural cousins to the IBM System/360). In 1983, Sperry sold Vickers to Libbey Owens Ford (later to be renamed TRINOVA Corporation and subsequently Aeroquip-Vickers). At the same time, it acquired the Aircraft Radio Corporation from Cessna.
+
+
+=== Burroughs takeover ===
+On September 16, 1986, after the success of a second hostile takeover bid engineered by Burroughs Corporation CEO and former U.S. Secretary of the Treasury, Michael Blumenthal, Sperry Corporation merged with Burroughs Corporation. The newly merged company was renamed Unisys Corporation—a portmanteau of "united", "information", and "systems". The takeover came about even after Sperry used a "poison pill" in the form of a major share price hike to dissuade the hostile bid, the result of which caused Burroughs to borrow much more funding than was anticipated to complete the bid.
+Certain internal divisions of Sperry were sold off after the merger, such as Sperry New Holland (1986, to Ford Motor Company, who in 1991 sold the Ford-New Holland line to Fiat) and Sperry Marine (to Tenneco, in 1987, and is currently part of Northrop Grumman). Also sold—to Honeywell—was Sperry Aerospace Group, while Sperry Defense Products Group was sold to Loral; those two units whose functions were originally at the heart of the venerable Sperry Gyroscope division. This group is now part of Lockheed Martin.
+
+
+=== British Sperry ===
+Sperry in Britain started with a factory in Pimlico, London, in 1913, manufacturing gyroscopic compasses for the
+Royal Navy. It became the Sperry Gyroscope Co Ltd in 1915. In 1923, Lawrence Sperry was killed in an air crash near Rye, Sussex. The company subsequently expanded to the Golden Mile, Brentford in 1931, Stonehouse, Gloucestershire in 1938, and Bracknell in 1957. By 1963, these sites employed some 3,500 people. The Brentford site closed in 1967, with the expansion of Bracknell. Stonehouse closed around 1969. By 1969, the Sperry Gyroscope division of Sperry Rand Corporation employed around 2,500.The site of the Bracknell factory and development center (sold to British Aerospace in 1982) is commemorated by a 4.5-meter aluminum sculpture by Philip Bentham, Sperry's New Symbolic Gyroscope (1967).In 1989, the Bracknell site was downsized and work was moved to the Sperry manufacturing site in Plymouth by then under the British Aerospace brand. State of the art, high technology MEMS gyroscopes (together with other avionics equipment) are still made on the site today, although the company is now owned by United Technologies Corporation and is part of UTC Aerospace Systems.
+
+
+=== Sperry since 1997 ===
+The name Sperry lives on in the company Sperry Marine, headquartered in New Malden, England. This company, formed in 1997, from three well-known brand names in the marine industry—Sperry Marine, Decca, and C. Plath—is now part of Northrop Grumman Corporation.  It is a worldwide supplier of navigation, communication, information and automation systems for commercial marine and naval markets.
+
+
+== Products ==
+
+
+=== Aircraft ===
+
+
+=== Missiles and rockets ===
+Sperry MGM-29 Sergeant
+
+
+== In popular culture ==
+The 1986 comedy Jumpin' Jack Flash features many Sperry computers in the bank where the protagonist (played by Whoopi Goldberg) works. Jim Belushi plays the role of a Sperry "repairman".
+
+
+== See also ==
+Hendrik Wade Bode
+Director (military)
+Gun data computer
+Fire-control system
+Kerrison Predictor
+MAPPER
+Rangekeeper
+Sperry Drilling Services
+
+
+== References ==
+
+
+=== Notes ===
+
+
+=== Bibliography ===
+
+
+== Further reading ==
+A History Of Sperry Rand Corporation. Sperry Rand Corporation. December 1967. Retrieved December 5, 2021.
+Memorandum for the Files (PDF), June 4, 1942
+Mindell, David A. (April 1995). "Anti-Aircraft Fire Control and the Development of Integrated Systems at Sperry, 1925-1940" (PDF). IEEE Control Systems Magazine: 108–113. Retrieved December 6, 2021.
+Mindell, David A. (2002). Between Human and Machine: Feedback, Control, and Computing Before Cybernetics. Baltimore, Maryland: Johns Hopkins University Press. ISBN 0-8018-6895-5.
+Sanders, Gold V. (July 1945). "The Little Top That Aims a Gun". Popular Science. Vol. 147, no. 1. pp. 86–93. Retrieved December 5, 2021.
+Stout, Wesley W. (1945). A War Job "Thought Impossible". Detroit, Michigan: Chrysler Corporation. Archived from the original on August 1, 2020. Retrieved December 5, 2021.
+
+
+== External links ==
+
+USStexasbb35.com, Mark 51 Gun director
+dreadnoughtproject.org, Director Firing Handbook index from HMS Dreadnought project
+Gunnery Pocket book maritime.org
+Sperry Gyroscope Company Ltd in Stonehouse Glos UK
+Sperry Corporation, UNIVAC Division Photograph Collection at Hagley Museum and Library
+Sperry Gyroscope Company Division records at Hagley Museum and Library
+Sperry Rand Corporation, Engineering Research Associates (ERA) Division records at Hagley Museum and Library
+Sperry Rand Corporation. Remington Rand Division records: Advertising and Sales Promotion Department at Hagley Museum and Library
+Sperry Rand Corporation, Univac Division records at Hagley Museum and Library
+Sperry-UNIVAC records at Hagley Museum and Library

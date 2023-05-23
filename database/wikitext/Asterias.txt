@@ -1,0 +1,33 @@
+Asterias is a genus of the Asteriidae family of sea stars. It includes several of the best-known species of sea stars, including the (Atlantic) common starfish, Asterias rubens, and the northern Pacific seastar, Asterias amurensis. The genus contains a total of eight species in all. All species have five arms and are native to shallow oceanic areas (the littoral zone) of cold to temperate parts of the Holarctic. These starfish have planktonic larvae. Asterias amurensis is an invasive species in Australia and can in some years become a pest in the Japanese mariculture industry.
+
+
+== History ==
+The genus Asterias was first described by Carl Linnaeus in the 10th edition of Systema Naturae in 1758 when he published A. rubens. It was for a time the only species, but by the early 1800s a few dozen taxa had been described in this genus.
+In 1825 Thomas Say listed six species native to the coasts of the United States (which at the time consisted of the east coast from Maine to Florida, which the US had just formally acquired from Spain a few years earlier). None of these species are accepted or recognised as Asterias today.Johannes Peter Müller and Franz Hermann Troschel worked on starfish systematics in 1840, renaming the genus Asteracanthion and splitting a number of new genera from it. 
+William Stimpson rejected Müller and Troschel's Asteracanthion in a paper presented on 4 December 1861, and named 16 new species, none of which are retained or included in Asterias at present. In 1875 Edmond Perrier formally reduced Asteracanthion to a synonym. Francis Jeffrey Bell listed 78 species in the genus in 1881, arranging them in some 16 unranked groupings (see artificial taxonomy).A few years later, in 1889, Percy Sladen counted 48 or 49 species in the genus. He split the genus into at least six subgenera, of which subgenus Asterias, section β of the Pentactinid (5-armed) section contained at least four species, three of which are still accepted in the genus today.In the early 1900s Addison Emery Verrill, working on the east coast of the US, added a number of new species to the genus, none of which are still in Asterias, and split the genus into numerous new genera and created new genera, moving almost all of the species now recognised as belonging to Asterias to his new genus of Allasterias. He accepted six species for the Pacific coasts of North America, none of which remain in Asterias at present. Soon after, and in the following two decades, Walter Kenrick Fisher, working in California, synonymised or removed all of Verrill's species of Asterias, and synonymised Verrill's new genera of Allasterias and Parasterias with Asterias, leaving the genus with four species, all of which are still recognised today. Ryori Hayashi synonymised one further Japanese species in 1940,  leaving the genus with three species known since the previous century, all of which are still recognised today.Alexander Michailovitsch Djakonov added two new species from Far East Russia in 1950 and reinstated the three species which were synonymised by Fisher and Hayashi, bringing the genus to eight species, although it took until the 2000s for some zoologists from the United States to accept his new species.
+
+
+== Description ==
+
+Asterias, like most starfish genera in the order Forcipulatida, are recognisable externally by their pedicellariae, many thousands of tiny jaw-like structures on the skin which can snap shut to nip at prey or predators. Asterias has two types present -the major, also called straight, pedicellaria, which lie scattered across their skin, and the smaller minor, also called crossed, pedicellaria, which are found in tufts or wreaths around the large dorsal spines -these pedicellariae have tiny, rubbery stalks known as pedicels. Papulae are also present. All species normally have five arms. Internally, the exoskeleton also presents some diagnostic characters, such as the dorsal plates bearing only a single spine in their centre.Sladen distinguishes it from the genus Uniophora by the presence of spines on its abactinal plates, instead of large, spherical tubercles; and from Anasterias by the well-developed, reticulate, abactinal skeleton.
+
+
+== Species ==
+The World Register of Marine Species includes the following species: Distributions from Djakonov (1950).
+Asterias amurensis Lütken, 1871 — northern Pacific seastar: northern Pacific in northern China, South Korea, North Korea, Japan, Far East Russia, Alaska and Canada (British Columbia)
+Asterias argonauta Djakonov, 1950 — Primorsky Krai (Peter the Great Gulf), South Korea
+Asterias forbesi (Desor, 1848) — northwest Atlantic, from Labrador south to the Caribbean Sea and Gulf of Mexico
+Asterias microdiscus Djakonov, 1950 — Avacha Bay on the southeastern coast of the Kamchatka Peninsula, Karaginsky Island
+Asterias rathbuni (Verrill, 1909) — western Alaska to Far East Russia (Kamchatka peninsula, Sea of Okhotsk and Bering Sea)
+Asterias rollestoni Bell, 1881 — around Japan, in the Sea of Japan, and in the Yellow Sea along the coasts of China.
+Asterias rubens Linnaeus, 1758 — common starfish: northern Atlantic in Europe from the  White Sea of Russia to the Americas.
+Asterias versicolor Sladen, 1889 — around southern Japan, Taiwan, Hong Kong and the South China Sea.
+		
+		
+
+
+== References ==
+
+
+== External links ==
+British Marine Life Study Society page on Asterias rubens Data related to Asterias at Wikispecies

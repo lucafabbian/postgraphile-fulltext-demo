@@ -1,0 +1,20 @@
+A routing diagram or route diagram in the field of management engineering is a type of diagram, that shows a route through an accessible physical space. Routing diagrams are used in plant layout study, and manufacturing plant design.  
+
+
+== Overview ==
+A routing diagrams shows a route through a physical space. They are often considered a type of flow diagram, but they differ from flowcharts, that a routing is pictured in a physical layout. There is a similarity with design of Electrical equipment, where routing diagrams also in show "the physical layout of the facility and equipment and how the circuit how the circuit to the various equipment is run."A picture with a routing in geographical space is often called a route map. While the road map and transit map (such as the railway map, metro map, bus map, etc.) show all the roads or lines, the route map regularly shows one rad for a particular occasion. Likewise a ground plan or site map show all the space, buildings and/or rooms, the routing map shows one specific route on site.    
+Routing diagrams are used in plant layout study. The routing diagram can consist of a floor plan with a trace attached, or a 3d cross section of a building with a trace. The routing diagram transforms into a flow diagram when the physical dimensions are taken out of the equation.
+
+
+== References ==
+
+
+== Further reading ==
+Willard C. Brinton, "Flow Charts," in Graphic presentation. New York city, Brinton associates, 1939; This is mainly about flow diagrams.
+Charles Day, "The Routing Diagram as a Basis for laying Out Industrial Plants." Engineering Magazine, September, 1910. p. 809-821; Republished in: Industrial Plants, 1911. Chapter VII.
+D. C. Eberhart. "222.41 c. Diagrammatic routing," in: The Code of Federal Regulations of the United States of America; Title 14. U.S. Government Printing Office, 1964. p. 48
+Karl G. Karsten, "Route-Charts," in: Charts and graphs; an introduction to graphic methods in the control and analysis of statistics, 1923. p. 21-38
+
+
+== External links ==
+ Media related to Routing diagrams at Wikimedia Commons

@@ -1,0 +1,36 @@
+In mathematics, the Vitali–Carathéodory theorem is a result in real analysis that shows that, under the conditions stated below, integrable functions can be approximated in L1 from above and below by lower- and upper-semicontinuous functions, respectively. It is named after Giuseppe Vitali and Constantin Carathéodory.
+
+
+== Statement of the theorem ==
+Let X be a locally compact Hausdorff space equipped with a Borel measure, µ, that is finite on every compact set, outer regular, and tight when restricted to any Borel set that is open or of finite mass. If f is an element of L1(µ) then, for every ε > 0, there are functions u and v on X such that u ≤ f ≤ v, u is upper-semicontinuous and bounded above, v is lower-semicontinuous and bounded below, and
+
+  
+    
+      
+        
+          ∫
+          
+            X
+          
+        
+        (
+        v
+        −
+        u
+        )
+        
+        
+          d
+        
+        μ
+        <
+        ε
+        .
+      
+    
+    {\displaystyle \int _{X}(v-u)\,\mathrm {d} \mu <\varepsilon .}
+  
+
+
+== References ==
+Rudin, Walter (1986). Real and Complex Analysis (third ed.). McGraw-Hill. pp. 56–57. ISBN 978-0-07-054234-1.

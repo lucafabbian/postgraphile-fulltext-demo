@@ -1,0 +1,277 @@
+This list of mammals of Belgium shows the IUCN Red List status of mammal species occurring in Belgium. One is endangered, eight are vulnerable, and three are near threatened.
+The following tags are used to highlight each species' conservation status as assessed on the respective IUCN Red List published by the International Union for Conservation of Nature:
+
+Some species were assessed using an earlier set of criteria. Species assessed using this system have the following instead of near threatened and least concern categories:
+
+
+== Order: Rodentia (rodents) ==
+
+Rodents make up the largest order of mammals, with over 40% of mammalian species. They have two incisors in the upper and lower jaw which grow continually and must be kept short by gnawing.
+
+Suborder: Sciurognathi
+Family: Castoridae (beavers)
+Genus: Castor
+Eurasian beaver, C. fiber LC
+Family: Sciuridae (squirrels)
+Subfamily: Sciurinae
+Tribe: Sciurini
+Genus: Sciurus
+Red squirrel, S. vulgaris LC
+Family: Gliridae (dormice)
+Subfamily: Leithiinae
+Genus: Eliomys
+Garden dormouse, E. quercinus NT
+Genus: Muscardinus
+Hazel dormouse, M. avellanarius NT
+Subfamily: Glirinae
+Genus: Glis
+European edible dormouse, Glis glis LC
+Family: Cricetidae
+Subfamily: Cricetinae
+Genus: Cricetus
+European hamster, C. cricetus CR
+Subfamily: Arvicolinae
+Genus: Arvicola
+European water vole, A. amphibius LC
+Genus: Clethrionomys
+Bank vole, Clethrionomys glareolus LC
+Genus: Microtus
+Field vole, Microtus agrestis LC
+Common vole, Microtus arvalis LC
+European pine vole, Microtus subterraneus LC
+Family: Muridae (mice, rats, voles, gerbils, hamsters, etc.)
+Subfamily: Murinae
+Genus: Apodemus
+Yellow-necked mouse, Apodemus flavicollis LC
+Wood mouse, Apodemus sylvaticus LC
+Genus: Micromys
+Eurasian harvest mouse, Micromys minutus LC
+Genus: Rattus
+Brown rat, Rattus norvegicus
+Family: Myocastoridae
+Genus: Myocastor
+Coypu, Myocastor coypus introduced
+
+
+== Order: Lagomorpha (lagomorphs) ==
+
+The lagomorphs comprise two families, Leporidae (hares and rabbits), and Ochotonidae (pikas). Though they can resemble rodents, and were classified as a superfamily in that order until the early twentieth century, they have since been considered a separate order. They differ from rodents in a number of physical characteristics, such as having four incisors in the upper jaw rather than two.
+
+Family: Leporidae (rabbits, hares)
+Genus: Lepus
+European hare, L. europaeus LC
+Genus: Oryctolagus
+European rabbit, O. cuniculus EN introduced
+
+
+== Order: Erinaceomorpha (hedgehogs and gymnures) ==
+
+The order Erinaceomorpha contains a single family, Erinaceidae, which comprise the hedgehogs and gymnures. The hedgehogs are easily recognised by their spines while gymnures look more like large rats.
+
+Family: Erinaceidae (hedgehogs)
+Subfamily: Erinaceinae
+Genus: Erinaceus
+West European hedgehog, E. europaeus LC
+
+
+== Order: Soricomorpha (shrews, moles, and solenodons) ==
+
+The Soricomorpha are insectivorous mammals. The shrews and solenodons resemble mice while the moles are stout-bodied burrowers.
+
+Family: Soricidae (shrews)
+Subfamily: Crocidurinae
+Genus: Crocidura
+Bicolored shrew, Crocidura leucodon
+Greater white-toothed shrew, Crocidura russula LC
+Subfamily: Soricinae
+Tribe: Nectogalini
+Genus: Neomys
+Southern water shrew, Neomys anomalus
+Eurasian water shrew, Neomys fodiens
+Tribe: Soricini
+Genus: Sorex
+Crowned shrew, Sorex coronatus
+Eurasian pygmy shrew, Sorex minutus
+Family: Talpidae (moles)
+Subfamily: Talpinae
+Tribe: Talpini
+Genus: Talpa
+European mole, Talpa europaea
+
+
+== Order: Chiroptera (bats) ==
+
+The bats' most distinguishing feature is that their forelimbs are developed as wings, making them the only mammals capable of flight. Bat species account for about 20% of all mammals.
+
+Family: Vespertilionidae
+Subfamily: Myotinae
+Genus: Myotis
+Bechstein's bat, M. bechsteini NT
+Brandt's bat, M. brandti LC
+Pond bat, M. dasycneme NT
+Daubenton's bat, M. daubentonii  LC
+Geoffroy's bat, M. emarginatus LC
+Greater mouse-eared bat, M. myotis LC
+Whiskered bat, M. mystacinus LC
+Natterer's bat, M. nattereri LC
+Subfamily: Vespertilioninae
+Genus: Barbastella
+Western barbastelle, B. barbastellus NT
+Genus: Eptesicus
+Northern bat, Eptesicus nilssoni
+Serotine bat, Eptesicus serotinus
+Genus: Nyctalus
+Common noctule, N. noctula LC
+Lesser noctule, N. leisleri LC
+Genus: Pipistrellus
+Nathusius' pipistrelle, P. nathusii LC
+Common pipistrelle, P. pipistrellus LC
+Genus: Plecotus
+Brown long-eared bat, P. auritus LC
+Grey long-eared bat, P. austriacus
+Family: Rhinolophidae
+Subfamily: Rhinolophinae
+Genus: Rhinolophus
+Greater horseshoe bat, R. ferrumequinum LC extirpated
+Lesser horseshoe bat, R. hipposideros LC
+
+
+== Order: Cetacea (whales) ==
+
+The order Cetacea includes whales, dolphins and porpoises. They are the mammals most fully adapted to aquatic life with a spindle-shaped nearly hairless body, protected by a thick layer of blubber, and forelimbs and tail modified to provide propulsion underwater.
+
+Suborder: Mysticeti
+Family: Balaenidae (right whales)
+Genus: Balaena
+Bowhead whale, Balaena mysticetus LC vagrant
+Genus: Eubalaena
+North Atlantic right whale, Eubalaena glacialis EN almost extinct in eastern North Atlantic
+Family: Megapterinae (humpback whales)
+Genus: Megaptera
+Humpback whale, Megaptera novaeangliae LC
+Family: Balaenopteridae
+Subfamily: Balaenopterinae (rorquals)
+Genus: Balaenoptera
+Fin whale, Balaenoptera physalus EN
+Minke whale, Balaenoptera acutorostrata LR/nt
+Suborder: Odontoceti
+Superfamily: Platanistoidea
+Family: Physeteridae
+Genus: Physeter (sperm whales)
+Sperm whale, Physeter macrocephalus VU
+Family: Kogiidae
+Genus: Kogia (pygmy sperm whales)
+Pygmy sperm whale, Kogia breviceps LR/lc
+Family: Monodontidae
+Genus: Delphinapterus (beluga and narwhals)
+Beluga, Delphinapterus leucas VU
+Family: Phocoenidae
+Genus: Phocoena (harbor porpoises)
+Harbour porpoise, Phocoena phocoena VU
+Family: Ziphidae
+Subfamily: Hyperoodontinae
+Genus: Mesoplodon (beaked whales)
+Sowerby's beaked whale, Mesoplodon bidens DD
+Family: Delphinidae (marine dolphins)
+Genus: Lagenorhynchus
+White-beaked dolphin, Lagenorhynchus albirostris LR/lc
+Genus: Leucopleurus
+Atlantic white-sided dolphin, Leucopleurus acutus LR/lc
+Genus: Stenella
+Striped dolphin, Stenella coeruleoalba LR/cd
+Genus: Tursiops
+Common bottlenose dolphin, Tursiops truncatus
+Genus: Delphinus
+Short-beaked common dolphin, Delphinus delphis LR/lc
+Long-beaked common dolphin, Delphinus capensis
+Genus: Steno
+Rough-toothed dolphin, Steno bredanensis
+Genus: Grampus
+Risso's dolphin, Grampus griseus DD
+Genus: Globicephala
+Pilot whale, Globicephala melas LR/lc
+Genus: Orcinus
+Killer whale, Orcinus orca
+Genus: Pseudorca
+False killer whale, Pseudorca crassidens
+
+
+== Order: Carnivora (carnivorans) ==
+
+There are over 260 species of carnivorans, the majority of which feed primarily on meat. They have a characteristic skull shape and dentition.
+
+Suborder: Feliformia
+Family: Felidae (cats)
+Subfamily: Felinae
+Genus: Felis
+European wildcat, F. silvestris LC
+Family: Viverridae
+Subfamily: Viverrinae
+Genus: Genetta
+Common genet, G. genetta LC introduced, presence uncertain
+Suborder: Caniformia
+Family: Canidae (dogs, foxes)
+Genus:Canis
+Gray wolf, C. lupus LC
+Genus: Vulpes
+Red fox, V. vulpes LC
+Family: Ursidae (bears)
+Genus: Ursus
+Brown bear, U. arctos LC presence uncertain
+Family: Mustelidae (mustelids)
+Genus: Lutra
+European otter, L. lutra NT
+Genus: Martes
+Beech marten, M. foina LC
+European pine marten, M. martes LC
+Genus: Meles
+European badger, M. meles LC
+Genus: Mustela
+Stoat, M. erminea LC
+Least weasel, M. nivalis LC
+European polecat, M. putorius LC
+Genus: Neogale
+American mink, N. vison LC presence uncertain, introduced
+Family: Phocidae (earless seals)
+Genus: Phoca
+Common seal, P. vitulina LC
+Genus: Halichoerus
+Grey seal, H. grypus
+
+
+== Order: Artiodactyla (even-toed ungulates) ==
+
+The even-toed ungulates are ungulates whose weight is borne about equally by the third and fourth toes, rather than mostly or entirely by the third as in perissodactyls. There are about 220 artiodactyl species, including many that are of great economic importance to humans.
+
+Family: Cervidae (deer)
+Subfamily: Capreolinae
+Genus: Capreolus
+Roe deer, C. capreolus LC
+Subfamily: Cervinae
+Genus: Cervus
+Red deer, C. elaphus LC
+Genus: Dama
+European fallow deer, D. dama LC introduced
+Family: Suidae (pigs)
+Subfamily: Suinae
+Genus: Sus
+Wild boar, S. scrofa LC
+
+
+== Locally extinct ==
+European bison, Bison bonasus
+
+
+== References ==
+
+
+== External links ==
+"Animal Diversity Web". University of Michigan Museum of Zoology. 1995–2006. Retrieved 22 May 2007.
+
+
+== See also ==
+List of chordate orders
+Lists of mammals by region
+List of prehistoric mammals
+Mammal classification
+List of mammals described in the 2000s

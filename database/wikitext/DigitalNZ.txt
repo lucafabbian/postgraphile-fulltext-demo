@@ -1,0 +1,42 @@
+DigitalNZ is a service run by the National Library of New Zealand and funded by the New Zealand Government hosting New Zealand-related digital media. The service is searchable and shareable, and reuse is allowed where possible. As of 2019 there were more than 30 million digital items from more than 200 organisations, fully searchable and free to access. Partner organisations include libraries, museums, galleries, government departments, the media and community groups. Content includes photographs, videos, artworks, news reports and audio recordings. It aims to be the "simplest public website through which people can access reliable New Zealand material". Metadata is structured and made available via an API which is free to use.
+
+
+== History ==
+DigitalNZ was officially launched on 3 December 2008. Prior to its official launch, DigitalNZ worked on and launched the Coming Home search experience and the Coming Home Memory Maker campaign. Both of those experiences went live on 11 November 2008 as part of the celebrations of the 90th anniversary of the World War One Armistice.
+
+
+== Services ==
+DigitalNZ is hosted and managed by the National Library of New Zealand and funded by the New Zealand Government. It is aimed at making New Zealand digital content easier to find, share and use. The partner organisations include cultural institutions, government departments, publicly funded organisations, educational and research organisations as well as the private sector and community groups. The searchable digital content in DigitalNZ includes photographs, artworks, newspapers, maps, and videos.
+
+
+=== Finding ===
+DigitalNZ aims to make discoverable New Zealand digital content. Much of the content available via DigitalNZ's federated search function is part of the deep web. Deep web content is not indexed by standard search engines and so does not appear in standard search engine results. The project continues to recruit content-contributing partners and harvests content metadata via auto-updating XML sitemaps, RSS feeds, or OAI-PMH compliant feeds. Contributor's content must have a connection and relevance to New Zealand and also have metadata (machine readable content descriptions).
+
+
+=== Sharing ===
+The project is making more digital content available as its partners build on their contributions. DigitalNZ also continues to recruit new partner organisations. It supports digitisation efforts via its Make it Digital site, where it provides guides to assist digitisation good practice and a platform to nominate, discuss and vote on possible digitisation projects. It aims to encourage organisations who are undertaking digitisation work, or who are funding digitisation, to test digitisation against community wishes. DigitalNZ has also provided seed funding to a number of ideas nominated on this platform.
+DigitalNZ also provides API access to computer programmers so the programmers can use the metadata to create their own applications.
+
+
+=== Using ===
+The project also encourages the reuse and remixing of both the metadata and content (rights permitting). It encourages contributors to open their content to reuse and remix by providing educational guides on rights management and supporting creative commons licenses. As an aggregator of metadata rather than hosting the content itself, DigitalNZ relies on the contributors to check the copyright status of contributions and commit to openness and reuse.Digital NZ has run two "Mix & Mash" competitions, in association with Creative Commons Aotearoa NZ, aimed at promoting and providing examples of community reuse and remixing of digital content.
+
+
+=== Make it Digital ===
+"Make it Digital" provides good practice guides for creating digital content and identifies elements of good practice based on an understanding of the digital content life cycle.
+
+
+== Supplejack ==
+The DigitalNZ website is powered by Supplejack, an open-source data aggregation platform. Supplejack aggregates metadata for New Zealand digital content so that this content can be searched and shared through the website. As well as giving other organisations access to this content through the Supplejack API, DigitalNZ also provides the Supplejack platform to other organisations under a GNU General Public License, so they can combine, share and search their own data collections.
+Supplejack grew out of New Zealand Government's 2007 Digital Content Strategy. It became an active production service in 2013.In 2016, Supplejack won DigitalNZ a New Zealand Open Source Award.Along with DigitalNZ and the National Library, Supplejack has been adopted by GLAM sector organisations including the National Library of Singapore, the Ngā Taonga audiovisual archive, Pacific virtual museum website digitalpasifik.org,  a Canadian collaboration between Ontario’s OurDigitalWorld and the British Columbia Library Association’s Provincial Digital Library and the CEISMIC Canterbury Earthquakes Digital Archive programme.Supplejack gets its name from the native New Zealand vine Ripogonum scandens, which creates networks of tendrils that can grow at up to 5 cm a day.
+
+
+== See also ==
+Trove, the Australian equivalent
+
+
+== References ==
+
+
+== External links ==
+Official website

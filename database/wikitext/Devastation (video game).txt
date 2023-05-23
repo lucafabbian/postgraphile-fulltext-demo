@@ -1,0 +1,42 @@
+Devastation is a first-person shooter video game by American developer Digitalo Studios, released in 2003.
+The game takes place in an impoverished, dystopian near-future Earth, pitting an underground group of rebels against an oppressive, all-powerful mega-corporation. It is an action-oriented first person shooter based on the Unreal Engine 2.0, that focuses heavily on team-based gameplay in both single-player and multiplayer.
+
+
+== Storyline ==
+The year is 2075. Instead of a bright and peaceful future, human civilization is in a state of polluted, dilapidated ruin akin to post-World War II Europe. A corrupt mega-corporation, Grathius Inc., controls the world by force, using pacification squads to kill any who oppose them.
+The game's protagonist is Flynn Haskell, the leader of a small band of terrorists/resistance-fighters determined to rid the world of Grathius and their evil schemes. Later the player meets up with a female scientist Eve whom Flynn regards as the best helper he could get. Flynn, while exploring once, is captured and put into jail but successfully escapes with another resistance member named Duffy who also helps him in his next destination Urbia, as she is familiar with their resistance leader Tara.
+The game's main plot revolves around a new technology developed by Grathius, nano-machinery based cloning, that allows the corporation to clone its fallen troops and gives them an unstoppable immortal army. As the game progresses, the player travels from San Francisco to Taiwan to Japan, recruiting new characters into the resistance and capturing Grathius cloning devices for their own personal use.
+
+
+== Gameplay ==
+Devastation features standard first-person shooter gameplay, comparable to that of Unreal 2, as the game is based on Unreal 2's game engine. Notably, the game can be played in either "arcade" or "tactical" mode. Arcade mode features fast-paced action similar to that of many first person shooters, while tactical mode features slower gameplay more akin to tactical shooters such as Counter-Strike.
+The single-player game focuses heavily on team-based gameplay. The player can have a squad of up to several NPCs following them at any given time. Each NPC can be issued one of 4 orders: attack, defend, follow, or stop. NPCs ordered to attack can independently make their way from the beginning to the end of the level without any guidance from the player, although they will stop moving and wait for the player to catch up if they get too far ahead of the player. In the game's initial levels, the game ends if any NPC squadmate is killed, but squadmate health regenerates fairly quickly to prevent this aspect of gameplay from being too frustrating.
+The first 1/3 of the game features linear levels, with the player's goal being to make it from the start of the level to the end. About 1/3 of the way into the game, the player acquires a cloning machine that allows them and their squad members to respawn from death an infinite number of times. At this point, the only way to "lose" the game is to allow the enemy to capture and destroy the player's cloning machine. All levels from this point on are based on a capture the flag style of gameplay, with the rebel and Grathius teams starting on opposite sides of a non-linear level, each one tasked with capturing the other's cloning device.
+Devastation also features 28 different weapons, divided into 8 categories: melee, pistols, sub-machine guns, assault rifles, sniper rifles, squad support weapons, and miscellaneous weapons.
+
+
+=== Multiplayer ===
+StreetwarA deathmatch game type, the aim of which is to kill as many enemies as possible in the time limit or reach the kill limit before anyone else.
+
+Capture The FlagThe Resistance and Conformists teams go head-to-head to take each other's flag and return them, more than one flag per team can be added to a map.
+
+TerritoriesThe objective in the Territories mode is to retrieve security codes from a machine. These codes will allow the hacking of enemy laser fences, making it possible to destroy the enemy spawn point, effectively defeating the enemy team.
+
+
+== Development ==
+Work began soon after the cancellation of an Unreal Tournament add-on pack that the development team had previously been building. Deciding to continue to use the Unreal Engine, work began on a what would become Devastation in 2000. As development progressed the engine received numerous upgrades, by its release using a modified version of the engine used in Unreal Tournament 2003. Additions included changes to the engines skeletal system, work on a new particle and special effects system called OFX, and the introduction of the MathEngine's Karma Physics.Artistically the game is inspired by authors like William Gibson, Ray Bradbury, and George Orwell, as well as film directors such as Terry Gilliam, Jim Jarmusch, Tom Tykwer, Darren Aronofsky, Alex Proyas, David Fincher, and Christopher Nolan. The game also takes inspiration from real locations and environments, with lead designer Barry L. Gibbs commenting that "I feel that I can be, and have often been, influenced by simply walking out my front door, or just by driving down the street. When I see something that inspires me, I pull over and snap a photo." Work on the game was completed by the spring of 2003, and it was released in North America on March 25, 2003.
+Around the time of the game's release in Europe during April 2003, European publisher NovaLogic hosted a graffiti competition in a cross-promotion with the film 28 Days Later. The connection was mainly due to the similar theme of a devastated world. The prizes consisted of signed screenplays and posters along with DVDs.Soon after the games release Ryan C. Gordon was contracted to port both the games dedicated server and game client to Linux, with the first beta for the Linux client being released on May 1, 2003. Due to the closure of Digitalo Studios, work on the port ceased in the summer of 2003. Linux Installers for Linux Gamers later took the beta code and created a full game installer, along with a list of the port's three known bugs.
+
+
+== Reception ==
+
+Devastation received "mixed" reviews according to the review aggregation website Metacritic. While the game's graphics, detailed urban environments, sound effects, and wide arsenal of weaponry were praised, it was criticized for having poor artificial intelligence, derivative storyline and game aspects, mediocre voice acting, and a flaky physics system. The game's Linux port also received fairly mixed reviews, earning a four out of five star rating from The Linux Game Tome, while at the same time receiving some noticeably negative user comments.
+
+
+== References ==
+
+
+== External links ==
+Devastation official website at Internet Archive
+Digitalo at Internet Archive
+Devastation at MobyGames

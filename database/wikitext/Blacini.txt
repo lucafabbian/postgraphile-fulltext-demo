@@ -1,0 +1,33 @@
+Blacini is a tribe of braconid Parasitoid wasps. Formerly the subfamily Blacinae, this group was demoted to a tribe and placed within the Brachistinae based on molecular evidence in 2011.
+
+
+== Description and distribution ==
+Members of this tribe are tiny and generally black or brown in color. They have non-cyclostome mouthparts and a carina, or ridge, along the back of the head.
+These wasps have a worldwide distribution. The genus Blacus is by far the most common and has a cosmopolitan range, with about 40 described species in the New World. The other genera are more restricted, and mostly found in South and Central America.
+
+
+== Biology ==
+Little is known about the biology of species within Blacini, but Blacus species are known to be parasitoids of beetle larvae. Two species of the genus Dyscoletes Halyday are parasitoids of Boreus larvae. Males of some Blacus species are known to form mating swarms.
+
+
+== Species ==
+These genera are members of the tribe Blacini:
+Aspicolpus Wesmael, 1838 c g
+Aspigonus Wesmael, 1835 c g
+Blacometeorus Tobias, 1976 c g
+Blacus Nees von Esenbeck, 1818 c g b
+Diospilus Haliday, 1833 c g b
+Eubazus Nees von Esenbeck, 1812 c g b
+Foersteria Szépligeti, 1896 i c g
+Schizoprymnus Förster, 1862 c g b
+Taphaeus Wesmael, 1835 c g
+Triaspis Haliday, 1838 c g b
+Vadumasonium Kammerer, 2006 c gData sources: i = ITIS, c = Catalogue of Life, g = GBIF, b = Bugguide.net
+
+
+== References ==
+
+
+== External links ==
+BugGuide.net. Tribe Blacini
+DNA barcodes at BOLD systems

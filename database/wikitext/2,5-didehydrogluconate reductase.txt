@@ -1,0 +1,23 @@
+In enzymology, a 2,5-didehydrogluconate reductase (EC 1.1.1.274) is an enzyme that catalyzes the chemical reaction
+
+2-dehydro-D-gluconate + NADP+ 
+  
+    
+      
+        ⇌
+      
+    
+    {\displaystyle \rightleftharpoons }
+   2,5-didehydro-D-gluconate + NADPH + H+Thus, the two substrates of this enzyme are 2-dehydro-D-gluconate and NADP+, whereas its 3 products are 2,5-didehydro-D-gluconate, NADPH, and H+.
+This enzyme belongs to the family of oxidoreductases, specifically those acting on the CH-OH group of donor with NAD+ or NADP+ as acceptor. The systematic name of this enzyme class is 2-dehydro-D-gluconate:NADP+ 2-oxidoreductase. Other names in common use include 2,5-diketo-D-gluconate reductase, and YqhE reductase.
+
+
+== Structural studies ==
+As of late 2007, only one structure has been solved for this class of enzymes, with the PDB accession code 1VP5.
+
+
+== References ==
+
+Yum DY, Lee BY, Pan JG (1999). "Identification of the yqhE and yafB genes encoding two 2, 5-diketo-D-gluconate reductases in Escherichia coli". Appl. Environ. Microbiol. 65 (8): 3341–6. doi:10.1128/AEM.65.8.3341-3346.1999. PMC 91502. PMID 10427017.
+Yum DY, Lee BY, Hahm DH, Pan JG (1998). "The yiaE gene, located at 80.1 minutes on the Escherichia coli chromosome, encodes a 2-ketoaldonate reductase". J. Bacteriol. 180 (22): 5984–8. doi:10.1128/JB.180.22.5984-5988.1998. PMC 107674. PMID 9811658.
+Habrych M, Rodriguez S, Stewart JD (2002). "Purification and identification of an Escherichia coli beta-keto ester reductase as 2,5-diketo-D-gluconate reductase YqhE". Biotechnol. Prog. 18 (2): 257–61. doi:10.1021/bp0101841. PMID 11934293. S2CID 23141855.

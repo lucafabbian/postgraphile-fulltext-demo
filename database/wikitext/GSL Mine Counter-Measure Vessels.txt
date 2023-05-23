@@ -1,0 +1,42 @@
+GSL Mine Counter-Measure Vessels are series of twelve naval ship that were jointly proposed to be built by Goa Shipyard Limited and a yet to be decided TOT partner for the Indian Navy.
+
+
+== Background ==
+In May 2004, the Indian Ministry of Defence (MOD) approved a Mine Counter-Measures Vessel (MCMV) programme. The plan was to procure up to 24 MCMVs to replace the 12 existing Soviet-made Pondicherry/Karwar-class ocean minesweepers that had been in service for the last 25 to 30 years. An order was placed with Goa Shipyard Limited (GSL) for eight Mine Counter-Measures Vessels (MCMVs).
+The hulls were to be made from "lightweight reinforced composites rather than steel to lower their acoustic and magnetic signatures and to better resist underwater explosions." Hence a request for proposal (RFP) for construction and/or technology assistance was asked by Goa Shipyard Limited from builders Intermarine of Italy, Kangnam Corp and IZAR of Spain. Kangnam and Intermarine were shortlisted for meeting technical requirements. Thereafter Kangnam bidded a lower price and contracted the deal worth $670 million with Indian Ministry of Defence in 2011. The first two MCMVs were to be delivered by 2016, followed by user trials and acceptance, while the remaining six were to be built by Goa Shipyard Limited [GSL].
+In 2014, the Ministry of Defence canceled a 2008 global tender in which Kangnam Corporation had emerged as the winner because of the South Korean company's alleged use of defense agents in pursuing the deal, which overseas defense companies are not allowed to do under Indian law
+
+
+== Mine-hunting gear ==
+As of 2011 RFPs for mine-hunting gear had been sent to Thales of the Netherlands, Atlas Elektronik of Germany, Fábrica de Artillería Bazán FABA of Spain and ECA SA of France. Indian public sector firm Bharat Electronics Ltd (BEL) was expected to supply the fire control radar for the vessel. BEL entered a joint venture with OTO Melara of Italy to supply 30 mm guns.
+
+
+== 2015 EOI and tender ==
+Subsequently, Goa Shipyard Limited was awarded a $5 billion noncompetitive contract in 2014. In September 2015, it  floated a global expression of interest (EOI) from companies willing to transfer the technology to build the vessels. In February 2016, Kangnam Corporation responded and was the sole respondent to the EOI, leading to a single vendor situation but was accepted by the Ministry of Defence. Kangnam Corporation will transfer technology and help in the production of the MCMVs and will be paid about $1 billion in the form of a technology transfer fee. Indian Navy has a total requirement of 24 MCMV's and there will be an additional order of 12 MCMV's to top the current order of 12 MCMVs.The construction of the first vessel was expected to begin in April 2018 with deliveries to be completed between April 2021 and April 2026.In January 2018, the deal was cancelled by the Indian government.  Issues with cost and transfer of technology had marred the deal.
+
+
+== Specifications ==
+Displacement: 885 tons
+Length: 63 m
+Beam: 10.2 m
+Draft: 2.7 m
+Propulsion: 2 × diesels, 2 shafts, 3,728 kW (5,000 hp)
+Maximum speed: 16 knots
+Range: 4,000 nmi (7,400 km) at 10 knots; 3,000 nmi (5,600 km) at 12 knots
+Complement: 10 officers, 67 enlisted
+Sensors and processing systems: BEL Sonar and BEL Radar
+Electronic warfare: BEL minesweeper equipment
+Armament: 4 × 30 mm (2×2) guns
+4 × 30 mm (2×2) AA
+4 × 25 mm (2×2) AA
+
+
+== See also ==
+Lerici-class minehunter
+
+
+== References ==
+
+
+== External links ==
+"Indian Navy to Get South Korean Minesweepers in its Fleet". Defencenow.com. 18 April 2011. Archived from the original on 4 April 2012. Retrieved 16 May 2012.

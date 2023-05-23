@@ -1,0 +1,19 @@
+CPU shielding is a practice where on a multiprocessor system or on a CPU with multiple cores, real-time tasks can run on one CPU or core while non-real-time tasks run on another.
+The operating system must be able to set a CPU affinity for both processes and interrupts.
+
+
+== Kernel space ==
+In Linux in order to shield CPUs from individual interrupts being serviced on them you have to make sure that the following kernel configuration parameter is set:
+
+CONFIG_IRQBALANCE
+
+
+== See also ==
+Multi-core
+Multiprocessing
+Processor affinity
+Real-time computing
+
+
+== External links ==
+Shielded CPUs: Real-Time Performance in Standard Linux

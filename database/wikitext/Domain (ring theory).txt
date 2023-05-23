@@ -1,0 +1,160 @@
+In algebra, a domain is a nonzero ring in which ab = 0 implies a = 0 or b = 0. (Sometimes such a ring is said to "have the zero-product property".) Equivalently, a domain is a ring in which 0 is the only left zero divisor (or equivalently, the only right zero divisor).   A commutative domain is called an integral domain.  Mathematical literature contains multiple variants of the definition of "domain".
+
+
+== Examples and non-examples ==
+The ring 
+  
+    
+      
+        
+          Z
+        
+        
+          /
+        
+        6
+        
+          Z
+        
+      
+    
+    {\displaystyle \mathbb {Z} /6\mathbb {Z} }
+   is not a domain, because the images of 2 and 3 in this ring are nonzero elements with product 0.  More generally, for a positive integer 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+  , the ring 
+  
+    
+      
+        
+          Z
+        
+        
+          /
+        
+        n
+        
+          Z
+        
+      
+    
+    {\displaystyle \mathbb {Z} /n\mathbb {Z} }
+   is a domain if and only if 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+   is prime.
+A finite domain is automatically a finite field, by Wedderburn's little theorem.
+The quaternions form a noncommutative domain. More generally, any division algebra is a domain, since all its nonzero elements are invertible.
+The set of all integral quaternions is a noncommutative ring which is a subring of quaternions, hence a noncommutative domain.
+A matrix ring Mn(R) for n ≥ 2 is never a domain: if R is nonzero, such a matrix ring has nonzero zero divisors and even nilpotent elements other than 0. For example, the square of the matrix unit E12 is 0.
+The tensor algebra of a vector space, or equivalently, the algebra of polynomials in noncommuting variables over a field, 
+  
+    
+      
+        
+          K
+        
+        ⟨
+        
+          x
+          
+            1
+          
+        
+        ,
+        …
+        ,
+        
+          x
+          
+            n
+          
+        
+        ⟩
+        ,
+      
+    
+    {\displaystyle \mathbb {K} \langle x_{1},\ldots ,x_{n}\rangle ,}
+   is a domain. This may be proved using an ordering on the noncommutative monomials.
+If R is a domain and S is an Ore extension of R then S is a domain.
+The Weyl algebra is a noncommutative domain.
+The universal enveloping algebra of any Lie algebra over a field is a domain. The proof uses the standard filtration on the universal enveloping algebra and the Poincaré–Birkhoff–Witt theorem.
+
+
+== Group rings and the zero divisor problem ==
+Suppose that G is a group and K is a field. Is the group ring R = K[G] a domain?  The identity
+
+  
+    
+      
+        (
+        1
+        −
+        g
+        )
+        (
+        1
+        +
+        g
+        +
+        ⋯
+        +
+        
+          g
+          
+            n
+            −
+            1
+          
+        
+        )
+        =
+        1
+        −
+        
+          g
+          
+            n
+          
+        
+        ,
+      
+    
+    {\displaystyle (1-g)(1+g+\cdots +g^{n-1})=1-g^{n},}
+  shows that an element g of finite order n > 1 induces a zero divisor 1 − g in R. The zero divisor problem asks whether this is the only obstruction; in other words,
+
+Given a field K and a torsion-free group G, is it true that K[G] contains no zero divisors?No counterexamples are known, but the problem remains open in general (as of 2017).
+For many special classes of groups, the answer is affirmative. Farkas and Snider proved in 1976 that if G is a torsion-free polycyclic-by-finite group and char K = 0 then the group ring K[G] is a domain. Later (1980) Cliff removed the restriction on the characteristic of the field. In 1988, Kropholler, Linnell and Moody generalized these results to the case of torsion-free solvable and solvable-by-finite groups. Earlier (1965) work of Michel Lazard, whose importance was not appreciated by the specialists in the field for about 20 years, had dealt with the case where K is the ring of p-adic integers and G is the pth congruence subgroup of GL(n, Z).
+
+
+== Spectrum of an integral domain ==
+Zero divisors have a topological interpretation, at least in the case of commutative rings: a ring R is an integral domain if and only if it is reduced and its spectrum Spec R is an irreducible topological space. The first property is often considered to encode some infinitesimal information, whereas the second one is more geometric.
+An example: the ring k[x, y]/(xy), where k is a field, is not a domain, since the images of x and y in this ring are zero divisors. Geometrically, this corresponds to the fact that the spectrum of this ring, which is the union of the lines x = 0 and y = 0, is not irreducible. Indeed, these two lines are its irreducible components.
+
+
+== See also ==
+Zero divisor
+Zero-product property
+Divisor (ring theory)
+Integral domain
+
+
+== Notes ==
+
+
+== References ==
+Lam, Tsit-Yuen (2001). A First Course in Noncommutative Rings (2nd ed.). Berlin, New York: Springer-Verlag. ISBN 978-0-387-95325-0. MR 1838439.
+Charles Lanski (2005). Concepts in abstract algebra. AMS Bookstore. ISBN 0-534-42323-X.
+César Polcino Milies; Sudarshan K. Sehgal (2002). An introduction to group rings. Springer. ISBN 1-4020-0238-6.
+Nathan Jacobson (2009). Basic Algebra I. Dover. ISBN 978-0-486-47189-1.
+Louis Halle Rowen (1994). Algebra: groups, rings, and fields. A K Peters. ISBN 1-56881-028-8.

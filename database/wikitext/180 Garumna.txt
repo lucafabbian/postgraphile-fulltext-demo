@@ -1,0 +1,10 @@
+Garumna (minor planet designation: 180 Garumna) is a main belt asteroid that was discovered by the French astronomer Henri Joseph Perrotin on January 29, 1878. Its name comes from the ancient Latin name for the Garonne River in France. In the Tholen classification system, it is categorized as a stony S-type asteroid, while the Bus asteroid taxonomy system lists it with the Sr sub-type.The rotation period of this asteroid is very nearly equal to that of the rotation of the Earth. This means that only a small portion of the light curve can be observed from any one location, requiring measurements from multiple sites in order to build a complete curve. In 2012, this mission was accomplished, giving a period of 23.866 ± 0.001 hours with a brightness variation of 0.42 ± 0.02 in magnitude. Allowing for a margin of error and changes in phase angle, this finding agrees with previous measurements made in 2008 and 2011.
+
+
+== References ==
+
+
+== External links ==
+180 Garumna at AstDyS-2, Asteroids—Dynamic Site
+Ephemeris · Observation prediction · Orbital info · Proper elements · Observational info
+180 Garumna at the JPL Small-Body Database

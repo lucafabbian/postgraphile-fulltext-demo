@@ -1,0 +1,19 @@
+Perfluoro-1,3-dimethylcyclohexane is a fluorocarbon liquid—a perfluorinated derivative of the hydrocarbon 1,3-dimethylcyclohexane. It is chemically and biologically inert.
+
+
+== Manufacture ==
+Perfluoro-1,3-dimethylcyclohexane can be manufactured by the Fowler process, which involves moderating the action of elemental fluorine with cobalt fluoride in the gas phase from meta-xylene. This is preferred as the starting material over 1,3-dimethylcyclohexane as less fluorine is required.
+
+
+== Properties ==
+Perfluoro-1,3-dimethylcyclohexane is chemically inert and thermally stable (to over 400 °C). 
+It is a clear, colorless liquid, with a relatively high density, low viscosity and low surface tension that will rapidly evaporate. It is a relatively good solvent for gases, but a poor solvent for solids and liquids.In common with other cyclic perfluorocarbons, perfluoro-1,3-dimethylcyclohexane can be detected at extremely low concentrations, making it ideal as a tracer.
+
+
+== Applications ==
+Heat transfer agent
+Dielectric fluid
+Perfluorocarbon tracer
+
+
+== References ==

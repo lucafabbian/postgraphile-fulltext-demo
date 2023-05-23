@@ -1,0 +1,29 @@
+The IBM ThinkPad 500 is a subnotebook from the ThinkPad series released by IBM in 1993.
+
+
+== History ==
+The ThinkPad 500 was announced on 16 June 1993. It was the first subnotebook by IBM. The next subnotebook by IBM was the IBM ThinkPad 701 series
+It was announced at the same time as the IBM ThinkPad 350. The New York Times noted that IBM challenged companies like Zeos, Dell, Zenith Data Systems and Hewlett-Packard who developed computers in the same class as the 500.
+
+
+== Specifications ==
+It contained a 50 MHz 486SLC2 and a 85 or 170 MB HDD.
+It includes an external floppy drive.
+
+
+== Reception ==
+InfoWorld regarded the ThinkPad 500 as a bit too small for comfort.PC World awarded the ThinkPad 500 the "Best Buy - #1 Value Mobile PC" in September 1994.
+
+
+== Successor ==
+In March 1994 the ThinkPad 510 was announced, which contains the 486 DLC by IBM and a 7.7" display.
+
+
+== References ==
+
+
+== External links ==
+Hardware Maintenance Manual
+Laptop.pics
+Thinkwiki.de - 500
+Thinkwiki.org - 500

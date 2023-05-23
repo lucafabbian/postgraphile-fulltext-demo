@@ -1,0 +1,128 @@
+Caliper(s) or calliper(s) are an instrument used to measure the dimensions of an object, generally by placing two movable points of the instrument across the object or span to be measured.Many types of calipers permit reading out a measurement on a ruled scale, a dial, or an electronic digital display.  A common association is to calipers using a sliding vernier scale.
+Some calipers can be as simple as a compass with inward or outward-facing points, but with no scale (measurement indication).  The tips of the caliper are adjusted to fit across the points to be measured, and then kept at that span while moved to separate measuring device, such as a ruler.
+Calipers are used in many fields  such as mechanical engineering, metalworking, forestry, woodworking, science and medicine.
+
+
+== Terminology ==
+Caliper is the American spelling, while calliper (double "L") is the British spelling.
+A single tool might be referred to as a caliper or as calipers — a plural only (plurale tantum) form, like scissors or glasses.
+Colloquially, the phrase "pair of verniers" or just "vernier" might refer to a vernier caliper.  In loose colloquial usage, these phrases may also refer to other kinds of calipers, although they involve no vernier scale.  In machine-shop usage, the term "caliper" is often used in contradistinction to micrometer, even though outside micrometers are technically a form of caliper. In this usage, caliper implies only the form factor of the instrument.
+
+
+== History ==
+
+The earliest caliper has been found in the Greek Giglio wreck near the Italian coast. The ship's find dates to the 6th century BC. The wooden piece already featured a fixed and a movable jaw. Although rare finds, calipers remained in use by the Greeks and Romans.A bronze caliper, dating from 9 AD, was used for minute measurements during the Chinese Xin dynasty. The caliper had an inscription stating that it was "made on the gui-you day, the first day of the first month of the first year of Shijianguo ." The calipers included a "slot and pin" and "graduated in inches and tenths of an inch."The modern vernier caliper was invented by Pierre Vernier, as an improvement of the nonius of Pedro Nunes.
+
+
+== Types ==
+
+
+=== Inside calliper ===
+
+Inside callipers are used to measure the internal size of an object.
+
+The upper caliper in the image (on the right) requires manual adjustment prior to fitting. Fine setting of this caliper type is performed by tapping the caliper legs lightly on a handy surface until they will almost pass over the object. A light push against the resistance of the central pivot screw then spreads the legs to the correct dimension and provides the required, consistent feel that ensures a repeatable measurement.
+The lower caliper in the image has an adjusting screw that permits it to be carefully adjusted without removal of the tool from the workpiece.
+
+
+=== Outside caliper ===
+
+Outside callipers are used to measure the external size of an object.
+The same observations and technique apply to this type of caliper, as for the inside caliper. With some understanding of their limitations and usage, these instruments can provide a high degree of accuracy and repeatability. They are especially useful when measuring over very large distances; consider if the calipers are used to measure a large diameter pipe. A vernier caliper does not have the depth capacity to straddle this large diameter and at the same time reach the outermost points of the pipe's diameter. They are made from high carbon steel.
+
+
+=== Divider caliper ===
+
+In the metalworking field, a divider caliper, popularly called a compass, is used to mark out locations. The points are sharpened so that they act as scribers; one leg can then be placed in the dimple created by a center or prick punch and the other leg pivoted so that it scribes a line on the workpiece's surface, thus forming an arc or circle.
+A divider caliper is also used to measure a distance between two points on a map. The two caliper ends are brought to the two points whose distance is being measured. The caliper's opening is then either measured on a separate ruler and then converted to the actual distance, or measured directly on a scale drawn on the map. On a nautical chart the distance is often measured on the latitude scale appearing on the sides of the map: one minute of arc along any great circle, e.g. any longitude meridian, is approximately one nautical mile or 1852 meters.
+Dividers are also used in the medical profession. An ECG (also EKG) caliper transfers distance on an electrocardiogram; in conjunction with the appropriate scale, the heart rate can be determined. A pocket caliper version was invented by cardiologist Robert A. Mackin.
+
+
+=== Oddleg caliper ===
+
+Oddleg calipers, Hermaphrodite calipers, or Oddleg Jennys, as pictured on the left, are generally used to scribe a line at a set distance from the edge of a workpiece. The bent leg is used to run along the workpiece edge while the scriber makes its mark at a predetermined distance, this ensures a line parallel to the edge.
+In the diagram at left, the uppermost caliper has a slight shoulder in the bent leg allowing it to sit on the edge more securely. The lower caliper lacks this feature but has a renewable scriber that can be adjusted for wear, as well as being replaced when excessively worn.
+
+
+=== Vernier caliper ===
+
+The labelled parts are
+
+The callipers in the diagram show a primary reading on the metric scale of about 2.475 cm (2.4 cm read from the main scale plus about 0.075 cm from the vernier scale).
+Calipers often have a "zero point error": meaning that the callipers do not read 0.000 cm when the jaws are closed. The zero point error must always be subtracted from the primary reading. Let us assume these callipers have a zero-point error of 0.013 cm. This would give us a length reading of 2.462 cm.
+For any measurement, reporting the error on the measurement is also important. Ignoring the possibility of interpolation by eye, both the primary reading and the zero point reading are bounded by plus/minus half the length corresponding to the width of the smallest interval on the vernier scale (0.0025 cm). These are "absolute" errors and absolute errors add, so the length reading is then bounded by
+plus/minus the length corresponding to the full width of the smallest interval on the vernier scale (0.005 cm). Assuming no systematics affect the measurement (the instrument works perfectly), a complete measurement would then read 2.462 cm ± 0.005 cm.
+The vernier, dial, and digital callipers directly read the distance measured with high accuracy and precision. They are functionally identical, with different ways of reading the result. These callipers comprise a calibrated scale with a fixed jaw, and another jaw, with a pointer, that slides along the scale. The distance between the jaws is then read in different ways for the three types.
+The simplest method is to read the position of the pointer directly on the scale. When the pointer is between two markings, the user can mentally interpolate to improve the precision of the reading. This would be a simply calibrated calliper, but the addition of a vernier scale allows more accurate interpolation and is the universal practice; this is the vernier calliper.
+Vernier, dial, and digital callipers can measure internal dimensions (using the uppermost jaws in the picture at right), external dimensions using the pictured lower jaws, and in many cases depth by the use of a probe that is attached to the movable head and slides along the centre of the body. This probe is slender and can get into deep grooves that may prove difficult for other measuring tools.
+The vernier scales may include metric measurements on the lower part of the scale and inch measurements on the upper, or vice versa, in countries that use inches. Vernier calipers commonly used in industry provide a precision to 0.01 mm (10 micrometres), or one thousandth of an inch. They are available in sizes that can measure up to 1828 mm (72 in).
+
+
+=== Dial caliper ===
+
+Instead of using a vernier mechanism, which requires some practice to use, the dial caliper reads the final fraction of a millimeter or inch on a simple dial.
+In this instrument, a small, precise rack and pinion drives a pointer on a circular dial, allowing direct reading without the need to read a vernier scale. Typically, the pointer rotates once every inch, tenth of an inch, or 1 millimeter. This measurement must be added to the coarse whole inches or centimeters read from the slide. The dial is usually arranged to be rotatable beneath the pointer, allowing for "differential" measurements (the measuring of the difference in size between two objects, or the setting of the dial using a master object and subsequently being able to read directly the plus-or-minus variance in the size of subsequent objects relative to the master object).
+The slide of a dial caliper can usually be locked at a setting using a small lever or screw; this allows simple go/no-go checks of part sizes.
+
+
+=== Digital caliper ===
+
+A popular refinement replaces the analog dial with an electronic display that shows the reading as a numeric value. Rather than a rack and pinion, these calipers use a linear encoder. Most digital calipers can be switched between centimeters or millimeters, and inches. All provide for zeroing the display at any point along the slide, allowing the same sort of differential measurements as with the dial caliper. Digital calipers may contain a "reading hold" feature, allowing the reading of dimensions after use in awkward locations where the display cannot be seen.
+Ordinary 6-inch (150 mm) digital calipers are made of stainless steel, have a rated accuracy of 0.001 in (0.02 mm) and a resolution of 0.0005 in (0.01 mm).
+The same technology is used to make longer 8-inch and 12-inch calipers; the accuracy for longer measurements declines to 0.001 in (0.03 mm) for 100–200 mm and 0.0015 in (0.04 mm) for 200–300 mm.Increasingly, digital calipers offer a serial data output to allow them to be interfaced with a dedicated recorder or a personal computer. The digital interface significantly decreases the time to make and record a series of measurements, and it also improves the reliability of the records. A suitable device to convert the serial data output to common computer interfaces such as RS-232, Universal Serial Bus, or wireless can be built or purchased.  With such a converter, measurements can be directly entered into a spreadsheet, a statistical process control program, or similar software.
+The serial digital output varies among manufacturers.  Common options are
+
+Mitutoyo's Digimatic interface. This is the dominant name brand interface. Format is 52 bits arranged as 13 nibbles.
+Sylvac interface. This is the common protocol for inexpensive, non-name brand, calipers.  Format is 24 bit 90 kHz synchronous.
+Starrett
+Brown & Sharpe
+Federal
+Tesa
+Aldi. Format is 7 BCD digits.
+Mahr (Digimatic, RS232C, Wireless FM Radio, Infrared and USB)Like dial calipers, the slide of a digital caliper can usually be locked using a lever or thumb-screw.
+Some digital calipers contain a capacitive linear encoder. A pattern of bars is etched directly on the printed circuit board in the slider. Under the scale of the caliper another printed circuit board also contains an etched pattern of lines. The combination of these printed circuit boards forms two variable capacitors. The two capacitances are out of phase. As the slider moves the capacitance changes in a linear fashion and in a repeating pattern. The circuitry built into the slider counts the bars as the slider moves and does a linear interpolation based on the magnitudes of the capacitors to find the precise position of the slider. Other digital calipers contain an inductive linear encoder, which allows robust performance in the presence of contamination such as coolants. Magnetic linear encoders are used in yet other digital calipers.
+
+
+=== Micrometer screw caliper ===
+
+A caliper using a calibrated screw for measurement, rather than a slide, is called an external micrometer caliper gauge, a micrometer caliper  or, more often, simply a  micrometer. (Sometimes the term caliper, referring to any other type in this article, is held in contradistinction to micrometer.)
+
+
+== Comparison ==
+Each of the above types of calipers has its relative merits and faults.
+Vernier calipers are rugged and have long-lasting accuracy, are coolant proof, are not affected by magnetic fields, and are largely shockproof. They may have both centimeter and inch scales. However, vernier calipers require good eyesight or a magnifying glass to read and can be difficult to read from a distance or from awkward angles. It is relatively easy to misread the last digit. In production environments, reading vernier calipers all day long is error-prone and is annoying to the workers.
+Dial calipers are comparatively easy to read, especially when seeking the exact center by rocking and observing the needle movement. They can be set to 0 at any point for comparisons. They are usually fairly susceptible to shock damage. They are also very prone to getting dirt in the gears, which can cause accuracy problems.
+Digital calipers switch easily between centimeter and inch systems. They can be set to zero easily at any point with a full count in either direction and can take measurements even if the display is completely hidden, either by using a "hold" key, or by zeroing the display and closing the jaws, showing the correct measurement, but negative. They can be mechanically and electronically fragile. Most also require batteries and do not resist coolant well. They are also only moderately shockproof and can be vulnerable to dirt.
+Calipers may read to a resolution of 0.01 mm or 0.0005 in, but accuracy may not be better than about ±0.02 mm or 0.001 in for 150 mm (6 in) calipers, and worse for longer ones.
+
+
+== Use ==
+
+A caliper must be properly applied against the part in order to take the desired measurement. For example, when measuring the thickness of a plate a vernier caliper must be held at right angles to the piece. Some practice may be needed to measure round or irregular objects correctly.
+Accuracy of measurement when using a caliper is highly dependent on the skill of the operator. Regardless of type, a caliper's jaws must be forced into contact with the part being measured. As both part and caliper are always to some extent elastic, the amount of force used affects the indication. A consistent, firm touch is correct. Too much force results in an under indication as part and tool distort; too little force gives insufficient contact and an over indication. This is a greater problem with a caliper incorporating a wheel, which lends mechanical advantage. This is especially the case with digital calipers, calipers out of adjustment, or calipers with a poor quality beam.
+Simple calipers are uncalibrated; the measurement taken must be compared against a scale. Whether the scale is part of the caliper or not, all analog calipers—verniers and dials—require good eyesight in order to achieve the highest precision. Digital calipers have an advantage in this area.
+Calibrated calipers may be mishandled, leading to loss of zero. When a calipers' jaws are fully closed, it should, of course, indicate zero. If it does not, it must be recalibrated or repaired. A vernier caliper does not easily lose its calibration but a sharp impact or accidental damage to the measuring surface in the caliper jaw can be significant enough to displace zero. Digital calipers have zero set buttons, for quick recalibration.
+Vernier, dial and digital calipers can be used with accessories that extend their usefulness. Examples are a base that extends their usefulness as a depth gauge and a jaw attachment that allows measuring the center distance between holes. Since the 1970s a clever modification of the moveable jaw on the back side of any caliper allows for step or depth measurements in addition to external caliper measurements, in similar fashion to a universal micrometer (e.g., Starrett Mul-T-Anvil or Mitutoyo Uni-Mike).
+
+
+== Zero error ==
+
+The method to use a vernier scale or caliper with zero error is to use the formula "actual reading = main scale + vernier scale − (zero error)". Zero error may arise due to knocks that affect the calibration at 0.00 mm when the jaws are perfectly closed or just touching each other. Positive zero error refers to the fact that when the jaws of the vernier caliper are just closed, the reading is a positive reading away from the actual reading of 0.00 mm. If the reading is 0.10 mm, the zero error is referred to as +0.10 mm. Negative zero error refers to the fact that when the jaws of the vernier caliper are just closed, the reading is a negative reading away from the actual reading of 0.00 mm. If the reading is −0.08 mm, the zero error is referred to as −0.08 mm.
+
+
+== See also ==
+Cruising rod
+Dial indicator
+Lens clock
+Pace stick
+
+
+== Notes ==
+
+
+== References ==
+
+
+== External links ==
+
+RS-232 Interface Design Details For Digital Caliper

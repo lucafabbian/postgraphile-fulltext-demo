@@ -1,0 +1,74 @@
+Secure Reliable Transport (SRT) is an open source video transport protocol that utilises the UDP transport protocol.
+
+
+== Overview ==
+SRT provides connection and control, reliable transmission similar to TCP; however, it does so at the application layer, using UDP protocol as an underlying transport layer. It supports packet recovery while maintaining low latency (default: 120 ms). SRT also supports encryption using AES.
+The protocol was derived from the UDT project, which was designed for fast file transmission. It provided the reliability mechanism by utilising similar methods for connection, sequence numbers, acknowledgements and re-transmission of lost packets. It utilises selective and immediate (NAK-based) re-transmission.
+SRT added several features on top of that in order to support live streaming mode:
+
+Controlled latency, with source time transmission (timestamp-based packet delivery)
+Relaxed sender speed control
+Conditional "too late" packet dropping (prevents head-of-line blocking caused by a lost packet that wasn't recovered on time)
+Eager packet re-transmission (periodic NAK-report)
+
+
+== Packet header ==
+SRT packets are created at the application layer and handed to the transport layer for delivery. Each unit of SRT media or control data created by an application begins with the SRT packet header.
+
+
+=== Data packet ===
+The fields in the header are as follows:
+
+Packet Sequence Number (31 bits)
+PP (2 bits):  Packet Position Flag
+O (1 bit):  Order Flag
+KK (2 bits):  Key-based Encryption Flag
+R (1 bit):  Retransmitted Packet Flag
+Message Number (26 bits)
+Data (variable length)
+
+
+=== Control packet ===
+The fields in the header are as follows:
+
+Control Type (15 bits):  Control Packet Type
+Subtype (16 bits)
+Type-specific Information (32 bits)
+Control Information Field (variable length)
+
+
+== History ==
+Secure Reliable Transport is an open source video transport protocol developed originally by Haivision. According to SRT Alliance, an organisation that promotes the technology, it optimises streaming performance. This helps minimise effects of jitter and bandwidth changes, while error-correction mechanisms help minimise packet loss. SRT supports end-to-end encryption with AES. When performing retransmissions, SRT only attempts to retransmit packets for a limited amount of time based on the latency as configured by the application.According to Marc Cymontkowski, the architect of SRT, in addition to sending MPEG transport streams over the public internet, it is also being used for IoT connectivity, metadata exchange, as a communication protocol, as well as for uncompressed data delivery.The reference implementation of the protocol was originally published under the Lesser General Public License version 2.1, but was relicensed under the Mozilla Public License on 22 March 2018.SRT is supported in the free software multimedia frameworks GStreamer, FFmpeg, OBS Studio and in VLC free software media player.The UDP-based Data Transfer Protocol (UDT) project has been a base for the SRT project.
+The SRT C API is largely based in design on the UDT APISRT was designed for low-latency live video transmission.Haivision released the SRT protocol and reference implementation as open source at the 2017 NAB Show.In March 2020, an individual Internet-Draft, draft-sharabayko-mops-srt, was submitted for consideration to the Media OPerationS (MOPS) working group of the Internet Engineering Task Force.
+
+
+== SRT Alliance ==
+SRT Alliance is an organisation whose members develop, use and promote the Secure Reliable Transport protocol and software based on it. The founding members of the alliance are Haivision and Wowza Streaming Engine.
+
+
+== Implementations ==
+There's currently one available implementation, which is the open-source SRT library.
+The C language API is mainly based on the previous UDT API, with further changes as new features are added. The API is very similar to the one of TCP.
+SRT offers actually three working modes, of which the first two were derived from UDT:
+
+File-stream mode: like TCP
+File-message mode: similar to SCTP protocol – sending blocks of data with clearly defined boundaries
+Live mode: the data should be sent in small packets (usually up to 1316 bytes, if the transmitted stream is MPEG-TS) with already appropriate time intervals between them. The same single packets with the same time intervals between them are then delivered at the receiver side.The SRT library also offers these features:
+
+Encryption using a pre-shared key. Encryption support was originally provided by OpenSSL, now also alternatively, Nettle (GNU TLS) or mbedTLS can be used.
+SRT Access Control (aka "StreamID") can be used by applications to identify resources and use user-password access method while using the same service port number for multiple purposes.
+The optional Forward Error Correction mechanism.Further and more detailed documentation can be found in the Source code documentation.
+
+
+== See also ==
+Reliable Internet Stream Transport, intended to fill a gap in the market for professional protocols as opposed to the 'prosumer' SRT.
+
+
+== Notes ==
+
+
+== References ==
+
+
+== External links ==
+Official website

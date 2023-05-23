@@ -1,0 +1,26 @@
+New York City Transit Authority v. Beazer, 440 U.S. 568 (1979), was a case decided by the United States Supreme Court in which the constitutionality of an employer's refusal to hire methadone users was upheld.
+
+
+== Background ==
+The New York City Transit Authority (NYCTA) adopted a rule prohibiting the employment of anyone who used narcotic drugs.  This rule was applied to persons using methadone, a drug used to treat heroin addiction.  Two former NYCTA employees who had been fired while receiving methadone treatment and two applicants who were denied employment because of their use and past use of methadone sued the TA in federal district court.
+The court for the Southern District of New York ruled in favor of the plaintiffs and found the policy unconstitutional.  While the district court enjoined the NYCTA from denying employment solely on the basis of past or current participation in a methadone maintenance program, it did authorize the transit authority to exclude methadone users from certain safety-related positions, as well as to condition employment on satisfactory performance in a methadone program for at least one year.  This decision was affirmed by the Court of Appeals for the Second Circuit.
+
+
+== Issues presented ==
+The Court was confronted with the question of whether a government could choose not to employ, as an entire class, users of narcotic drugs.
+
+
+== Decision ==
+The Court, in an opinion delivered by Justice Stevens, reversed the decision of the lower courts and found that the NYC Transit Authority had a rational basis for its classification of narcotics users and the extension of this rule to cover methadone users.
+
+
+=== Dissent ===
+Justices Brennan and White wrote separate dissents.  Justice Brennan dissented on the grounds that the Title VII claim had been proven.  Justice White, joined by Justice Marshall, argued that the classification of persons successfully participating in a methadone program as dispositively different from the general population was without justification.  They believed that this classification violated the equal protection clause as irrational and invidious.
+
+
+== See also ==
+List of United States Supreme Court cases by the Burger Court
+
+
+== External links ==
+Text of New York City Transit Authority v. Beazer, 440 U.S. 568 (1979) is available from: Findlaw  Justia

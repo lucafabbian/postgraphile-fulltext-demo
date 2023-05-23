@@ -1,0 +1,8 @@
+This is the calendar for any Old Style leap year starting on Tuesday, 25 March. The Old Style calendar ended the following March, on 24 March. Examples: Julian year 1572, 1656 or 1704 (see bottom tables).
+A leap year is a year with 366 days, as compared to a common year, which has 365.
+
+Previous year (common)   Next year (common)
+Previous year (leap)     Next year (leap)
+
+
+== References ==

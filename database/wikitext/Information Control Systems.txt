@@ -1,0 +1,34 @@
+Information Control Systems (founded in 1962) was a computer programming and data processing company serving clients in the Midwestern United States.
+
+
+== Overview ==
+Founded in the mid 1960s, by a graduate student from the University of Michigan at a time when the first general purpose transistorized logic modules and low-cost general-purpose computers produced by Digital Equipment Corporation  were available on the market, ICS provided industrial automation hardware and software design services to industries in the Detroit, Michigan area .
+Initially focused on software services only, as these low cost-computers began to become available from many companies such as Hewlett-Packard, Varian, Computer Automation, Microdata, Data General and others, ICS began a transition from a software company into a “system” house with both software and hardware staffs.
+By the late 1960s, ICS’s management recognized the significance of IBM’s magnetic tape/Selectric typewriter (MT/ST) automated typing system, introduced in 1964 and gaining attention in office typing pools as a productivity improvement tool for documentation creation and editing.  Even though the MT/ST was limited in its capabilities, it was a large step forward towards creating “clean” documents without erasure, or whiteout correction fluid/tape.
+Having gained design experience with hardware automation and control systems, as well as real-time process control programming, ICS believed that the MT/ST could be improved on in many ways using the PDP-8 general purpose computer coupled with the unique (pseudo "disk like") DECtape drive offered by Digital Equipment Corp.  In late 1967 the company decided that it made better business sense to become more of a "product" based than contract services company, and begin design efforts to create one of the first stand-alone computer controlled Word Processing systems.
+
+Combining the PDP-8 computer with the DECtape's small 4-inch (10 cm) reel of tape that held over 350,000 characters (versus the 25,000 characters on an MT/ST tape) and allowing random access (albeit slower) like a floppy disk, the DECtape units allowed much more flexible storage access, and thus the potential for a much more capable word processor design than the MT/ST which used a slow sprocket hole driven tape (much like a film strip) to record a single character at a time and could only read/write a maximum of 20 characters per second, and had limited search capabilities.
+The high speed, random addressable, general purpose DECtape computer drive, coupled with a general purpose mini-computer appeared to offer a significant opportunity for an extremely capable word processing system.  This design approach also offered an economic advantage as additional terminals could be added (up to 7 additional) to the initial single station system, resulting in a very capable system with approximately the same price per station (~$10,000) as a collection of MT/ST units but with far more capability.
+Like the MT/ST, the ASTROTYPE system utilized the IBM Selectric typewriter.  IBM offered a “terminal” version of the Selectric for use as a computer console I/O device and the IBM 2741 Terminal, that offered significant advantages over the Teletype and Flexowriter terminals in general use at that time.  These  modified Selectrics featured electronically interfaced typing mechanisms and keyboards and thus provided a typing station with IBM quality that was easily connected to a computer.
+
+In October, 1968, at the Business Equipment Manufacturers Association trade show at McCormick Place in Chicago, the company announced its first propriety product, a typing automation product called Astrotype.
+Astrotype used Digital Equipment Corporation PDP-8 mini computers and modified IBM Selectric typewriters to run text editing software developed by Information Control Systems.  Before the Astrotype product, software-based typing automation was available only as a service from time sharing companies using large mainframe computers.  Astrotype allowed organizations of any size to make use of computer based text editing in house.  First shipments of the Astrotype product began in April, 1969. Prices ranged from $36,000 for a single typing station model, to $59,000 for a model with four typing stations.
+In June, 1971, again at McCormick Place, the company announced a variation of the Astrotype product at the National Printing Equipment show.  The new product, called Astrocomp, was directed at the printing and publishing industry. Its primary function was the original typing and subsequent editing of text intended to be set into type, either on a Linotype machine or on photocomposition equipment from manufacturers such as AM/Varityper, Merganthaler, and the Compugraphic Corporation.  The Astrocomp product produced punched paper tape or magnetic tape that contained both the text and codes needed to drive these devices.
+
+
+== Customers ==
+RR Donnelley
+First National Bank (Chicago)
+Time/Life Books
+Chi Systems
+Ohio Bell Telephone
+Weaver Composition
+Foxboro Co.
+Curtiss-Wright
+Stone & Webster Engineering
+Western Electric
+Montgomery Ward
+Otis Elevator Company (NYC)
+
+
+== References ==

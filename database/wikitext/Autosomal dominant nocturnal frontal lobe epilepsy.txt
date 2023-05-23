@@ -1,0 +1,47 @@
+Autosomal dominant nocturnal frontal lobe epilepsy is an epileptic disorder that causes frequent violent seizures during sleep. These seizures often involve complex motor movements, such as hand clenching, arm raising/lowering, and knee bending. Vocalizations such as shouting, moaning, or crying are also common. ADNFLE is often misdiagnosed as nightmares. Attacks often occur in clusters and typically first manifest in childhood. There are four known loci for ADNFLE, three with known causative genes. These genes, CHRNA4, CHRNB2, and CHRNA2, encode various nicotinic acetylcholine receptor α and β subunits.
+
+
+== Signs and symptoms ==
+ADNFLE is a partial epilepsy disorder characterized by brief violent seizures during sleep. Seizures are complex, consisting of arm and leg movements, fist clenching, and vocalizations such as yelling and moaning. These seizures often occur in clusters and can first manifest in childhood. Diagnosis is often initially incorrectly made as nightmares, night terrors, parasomnias and various psychiatric disorders.
+
+
+== Causes ==
+While not well understood, it is believed that malfunction in thalamocortical loops plays a vital role in ADNFLE. The reasons for this belief are threefold. Firstly, thalamocortical loops are important in sleep and the frontal cortex is the origin of ADNFLE seizures. Secondly, both the thalamus and cortex receive cholinergic inputs and acetylcholine receptor subunits comprise the three known causative genes for ADNFLE. Thirdly, K-complex are almost invariably present at the start of seizures.
+It is thought that epilepsy is caused because these receptor subunits are expressed presynaptically by neurons that release the inhibitory transmitter GABA. Therefore, the mutation in the α4 subunit could lead to reduced GABA release, causing hyperexcitability.
+
+
+== Pathophysiology ==
+
+
+=== CHRNA4 ===
+The first mutation associated with ADNFLE is a serine to phenylalanine transition at position 248 (S248F), located in the second transmembrane spanning region of the gene encoding a nicotinic acetylcholine receptor α4 subunit. Using the numbering based on the human CHRNA4 protein, this mutation is called S280F. Receptors containing this mutant subunit are functional, but desensitize at a much faster pace compared to wild-type only receptors. These mutant containing receptors also recover from desensitization at a much slower rate than wild-type only receptors. These mutant receptors also have a decreased single channel conductance than wild-type and have a lower affinity for acetylcholine.  Also importantly, this mutation along with the others in CHRNA4 produce receptors less sensitive to calcium.The second discovered ADNFLE mutation was also in CHRNA4. This mutation, L259_I260insL, is caused by the insertion of three nucleotides (GCT) between a stretch of leucine amino acids and an isoleucine. As with the S248F mutation, the L259_I260insL mutation is located in the second transmembrane spanning region. Electrophysiological experiments have shown that this mutant is tenfold more sensitive to acetylcholine than wild-type. Calcium permeability, however is notably decreased in mutant compared to wild-type containing receptors. Furthermore, this mutant shows slowed desensitization compared to both wild-type and S248F mutant receptors.Also located in the second transmembrane spanning region, the S252L mutation has also been associated with ADNFLE. This mutant displays increased affinity for acetylcholine faster desensitization compared to wild-type receptors.The most recently discovered mutation in CHRNA4 associated with ADNFLE is T265M, again located in the second transmembrane spanning segment. This mutation has been little studied and all that is known is that it produces receptors with increased sensitivity to acetylcholine and has a low penetrance.
+
+
+=== 15q24 ===
+Some families have been shown to not have mutations in CHRNA4 and, furthermore, to show no linkage around it. Instead some of these families show strong linkage on chromosome 15 (15q24) near CHRNA3, CHRNA5, and CHRNB4. Causative genes in this area are still unknown.
+
+
+=== CHRNB2 ===
+Three mutations have been found in the gene CHRNB2, which encodes an acetylcholine receptor β2 subunit. Two of these mutations, V287L and V287M, occur at the same amino acid, again in the second transmembrane spanning region. The V287L mutation results in receptors that desensitize at a much slower rate compared to wild-type. The V287M mutant displays a higher affinity for acetylcholine when compared to wild-type receptors. As with the mutations in CHRNA4, these mutants lead to receptors less sensitive to calcium.The other known mutation in CHRNB2 is I312M, located in the third membrane-spanning region. Receptors containing these mutant subunits display much larger currents and a higher sensitivity to acetylcholine than wild-type receptors.
+
+
+=== CHRNA2 ===
+Recently, the I279N mutation has been discovered in the first transmembrane spanning segment of CHRNA2, which encodes a nicotinic acetylcholine receptor α2 subunit similar to the nAChR α4 encoded by CHRNA4. This mutant shows a higher sensitivity to acetylcholine and unchanged desensitization compared to wild-type.
+
+
+== Diagnosis ==
+Diagnosis is typically made upon patient history, although EEG recordings can be confirmatory if they occur during attacks.
+
+
+== Management ==
+Anti-epileptic drugs are normally used to combat ADNFLE. These drugs are discussed in the main epilepsy article.
+
+
+== Footnotes ==
+
+
+== Further reading ==
+GeneReviews/NCBI/NIH/UW entry on Autosomal Dominant Nocturnal Frontal Lobe Epilepsy
+
+
+== External links ==

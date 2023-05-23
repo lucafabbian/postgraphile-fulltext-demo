@@ -1,0 +1,24 @@
+Reflectometry is a general term for the use of the reflection of waves or pulses at surfaces and interfaces to detect or characterize objects, sometimes to detect anomalies as in fault detection and medical diagnosis.There are many different forms of reflectometry. They can be classified in several ways: by the used radiation (electromagnetic, ultrasound, particle beams), by the geometry of wave propagation (unguided versus wave guides or cables), by the involved length scales (wavelength and penetration depth in relation to size of the investigated object), by the method of measurement (continuous versus pulsed, polarization resolved, ...), and by the application domain.
+
+
+== Radiation sources ==
+Electromagnetic radiation of widely varying wavelength is used in many different forms of reflectometry:
+Radar: Reflections of radiofrequency pulses are used to detect the presence and to measure the location and speed of objects such as aircraft, missiles, ships, vehicles.
+Lidar: Reflections of light pulses are used typically to penetrate ground cover by vegetation in aerial archaeological surveys.
+Characterization of semiconductor and dielectric thin films: Analysis of reflectance data utilizing the Forouhi Bloomer dispersion equations can determine the thickness, refractive index, and extinction coefficient of thin films utilized in the semiconductor industry.
+X-ray reflectometry: is a surface-sensitive analytical technique used in chemistry, physics, and materials science to characterize surfaces, thin films and multilayers.
+Propagation of electric pulses and  reflection at discontinuities in cables is used in time domain reflectometry (TDR) to detect and localize defects in electric wiring.
+Skin reflectance: In anthropology, reflectometry devices are often used to gauge human skin color through the measurement of skin reflectance. These devices are typically pointed at the upper arm or forehead, with the emitted waves then interpreted at various percentages. Lower frequencies represent lower skin reflectance and thus darker pigmentation, whereas higher frequencies represent greater skin reflectance and therefore lighter pigmentation.
+Acoustic reflectometry: the reflection of sound waves is used. One application is the use of a tympanometer (a specialised acoustic reflectometer) to diagnose medical conditions of the ear.Ultrasonic reflectometry: A transducer generates acoustic waves at ultrasonic frequency which propagate until they reaches the interface between the propagation medium and the sample. The wave is partially reflected at the interface and partially transmitted into the sample. The waves reflected at the interface travel back to the transducer, then the acoustic impedance of the sample is determined by measuring the amplitude of the wave reflected from the propagation medium/sample interface. From the reflected wave, it is possible to determine some properties of the sample that is desired to characterize. Applications include medical ultrasonography and nondestructive testing.
+Neutron reflectometry: is a neutron diffraction technique for measuring the structure of thin films, similar to the often complementary techniques of X-ray reflectivity and ellipsometry. The technique provides valuable information over a wide variety of scientific and technological applications including chemical aggregation, polymer and surfactant adsorption, structure of thin film magnetic systems, biological membranes.
+
+
+== Different reflectometry techniques ==
+Many techniques are based on the principle of reflectometry and are distinguished by the type of waves used and the analysis of the reflected signal. Among all these techniques, we can classify the main but not limited to:
+
+In time-domain reflectometry (TDR), fast pulses are emitted, and the magnitude, duration and shape of the reflected pulses is analyzed.
+Frequency-domain reflectometry (FDR): this technique is based on the transmission of a set of stepped-frequency sine waves from the sample. As with TDR, these waves propagate to the sample and are reflected at the interface back to the source. There are several types of FDR; they are commonly used in radar applications and for characterization of cables/wires. The changes in frequency between the incident signal and the reflected signal are analyzed.
+Ellipsometry is the polarization-resolved measurement of light reflections from thin films.
+
+
+== References ==

@@ -1,0 +1,43 @@
+A random laser (RL) is a laser in which optical feedback is provided by scattering particles. As in conventional lasers, a gain medium is required for optical amplification. However, in contrast to Fabry–Pérot cavities and distributed feedback lasers, neither reflective surfaces nor distributed periodic structures are used in RLs, as light is confined in an active region by diffusive elements that either may or may not be spatially distributed inside the gain medium. 
+The main principle behind a random laser is to increase the light path with disordered media; this can be done by diffusive disordered media or by using strong localization in a disordered media, with laser active background. 
+Random lasing has been reported from a large variety of materials, e.g. colloidal solutions of dye and scattering particles, semiconductor powders, Semiconductor polycrystalline thin films,  optical fibers  and polymers. Due to the output emission with low spatial coherence and laser-like energy conversion efficiency, RLs are attractive devices for energy efficient illumination applications. The concept of random lasing can also be time-reversed, resulting in a random anti-laser, which is a disordered medium that can perfectly absorb incoming coherent radiation.
+
+
+== Principles of operation ==
+
+The principle of operation of RLs has been extensively debated and different theoretical approaches have been reported (see references in ). The main elements of a RL, as in conventional lasers, are amplification and feedback, where amplification is provided by the pumped gain medium and feedback by scattering particles.
+Distributed feedback is the most commonly used architecture, in which scattering particles are embedded and randomly distributed into the gain medium. In contrast to distributed feedback, in spatially localized feedback RLs, gain and feedback are spatially separated with gain medium confined by the scattering media, which act as feedback elements and output couplers.In both architectures, resonances and lasing modes exist if closed loops with an integer number of wavelengths occur. A scattering particle adds a random (unpredictable) phase contribution to the incident wave. The scattered wave propagates and is scattered again, adding more random phase contributions. If all the phase contributions in a closed loop sum to an integer multiple of 2π at a certain frequency, a frequency mode is allowed to exist at that frequency.
+
+
+== Emission regimes ==
+Since first reports, two different spectral signatures have been observed from RLs. The non-resonant emission (also referred as incoherent or amplitude-only emission) characterized by a single peaked spectrum with a FWHM of few nanometers, and the resonant emission (also referred as coherent emission), characterized by multiple narrow peaks with sub-nanometer linewidths, randomly distributed in frequency.
+The previous nomenclature is due to the interpretation of the phenomena, as the sharp resonances with sub-nanometer linewidths observed in resonant regime suggested some kind of contribution from optical phase while the non-resonant regime is understood as amplification of scattered light with no fixed phase relation between amplified photons.
+In general, the two regimes of operation are attributed to the scattering properties of the diffusive element in distributed feedback RLs: a weakly (highly) scattering medium, having a transport mean free path much greater than (comparable to) the emission wavelength produce a non-resonant (resonant) random lasing emission.
+Recently it has been demonstrated that the regime of operation depends not only on the material in use but also on the pump size and shape. This suggested that the non-resonant regime is actually consisting of a large number of narrow modes which overlap in space and frequency and are strongly coupled together, collapsing into a single peaked spectrum with narrowed FWHM compared to the gain curve and amplified spontaneous emission. In resonant regime, fewer modes are excited, they do not compete each other for gain and do not couple together.
+
+
+== Anderson localization ==
+Anderson localization is a well-known phenomenon that occurs when electrons become trapped in a disordered metallic structure, and this metal goes through a phase transition from conductor to insulator. These electrons are said to be Anderson-localized. The conditions for this localization are that there is a high enough density of scatterers in the metal (other electrons, spins, etc.) to cause free electrons to follow a single looped path.
+The analogy between photons and electrons has encouraged the vision that photons diffusing through a scattering medium could be also considered Anderson-localized. According to this, if the Ioffe-Regel criterion, describing the ratio of photon wave-vector k to mean free path (of a photon not colliding with anything) l, is met: kl < 1, then there is a probability that photons will become trapped in much the same way as electrons are observed to be trapped under Anderson localization. In this way, while the photon is trapped, the scatters may act as an optical cavity. The gain medium in which the scatterers lie will allow stimulated emission to occur. As in an ordinary laser, if the gain is greater than the losses incurred, the lasing threshold will be broken and lasing can occur.
+Photons traveling in this loop will also interfere with each other. The well defined cavity length (1–10 μm) will ensure that the interference is constructive and will allow certain modes to oscillate. The competition for gain permits one mode to oscillate once the lasing threshold has been reached.
+
+
+== Random-laser theory ==
+Theory, however, shows that for multiple scattering in amplifying random media Anderson localization of light does not occur at all, even though the calculation of interferences are essential to prove that fact. In contrary, so called weak localizations processes can be proven, but it is vividly discussed, whether those mechanisms play the key role in the mode statistics or not.Recent studies show that these weak localization processes are not the governing phenomena for the onset of random lasing. Random lasing occurs for kl > 1. This is in agreement with experimental findings. Even though travelling of light on exactly "closed loops" would explain the occurrence of confined lasing spots intuitively, the question is still open whether, e.g. the stimulated emission processes are correlated with those processes.The theory of "preformed cavities" is, however, not confirmed.
+Typical amounts of gain medium required to exceed the lasing threshold depend heavily on the scatterer density.
+
+
+== Applications ==
+This field is relatively young and as such does not have many realized applications. However, random lasers based on ZnO are promising candidates for electrically pumped UV lasers, biosensors and optical information processing. This is due to the low production cost and that the optimal temperature for substrate production has been observed to be around 500 °C for powders. This is in contrast to producing an ordinary laser crystal at temperatures exceeding 700 °C.
+The use of random lasers for the study of laser action in substances that could not be produced in the form of homogeneous large crystals have also been pointed out as a potential application. Furthermore, in frequency ranges where high-reflectivity mirrors are not available (e.g., gamma-rays, x-rays), the feedback provided by an appropriate scattering medium can be used as an alternative to laser action. Many of these applications proposed prior to 2005 have already been reviewed by Noginov. In 2015, Luan and co-workers highlighted some of them, with an emphasis on the ones recently demonstrated, including photonic barcode, optomicrofluidics, optical batteries, cancer diagnostic, speckle-free bioimaging, on-chip random spectrometer, time-resolved microscopy/spectroscopy, sensing, friend-foe identification, etc. Furthermore, random laser is naturally endowed with two key superiorities, namely, laser-level intensity and broad-angular emissions, which are mutually exclusive in thermal light sources, light-emitting-diodes (LEDs), and typical lasers. It is believed that random laser is a promising and advance lighting source for laser illumination, and speckle-free imaging.
+
+
+== See also ==
+List of laser articles
+
+
+== References ==
+
+
+== External links ==
+Journal of Optics. Special issue: nano and random lasers. February 2010 [1]

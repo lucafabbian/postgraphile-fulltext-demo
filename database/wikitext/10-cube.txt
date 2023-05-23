@@ -1,0 +1,36 @@
+In geometry, a 10-cube is a ten-dimensional hypercube. It has 1024 vertices, 5120 edges, 11520 square faces, 15360 cubic cells, 13440 tesseract 4-faces, 8064 5-cube 5-faces, 3360 6-cube 6-faces, 960 7-cube 7-faces, 180 8-cube 8-faces, and 20 9-cube 9-faces.
+It can be named by its Schläfli symbol {4,38}, being composed of 3 9-cubes around each 8-face. It is sometimes called a dekeract, a portmanteau of tesseract (the 4-cube) and deka- for ten (dimensions) in Greek, It can also be called an icosaronnon or icosa-10-tope as a 10 dimensional polytope, constructed from 20 regular facets.
+It is a part of an infinite family of polytopes, called hypercubes. The dual of a dekeract can be called a 10-orthoplex or decacross, and is a part of the infinite family of cross-polytopes.
+
+
+== Cartesian coordinates ==
+Cartesian coordinates for the vertices of a dekeract centered at the origin and edge length 2 are
+
+(±1,±1,±1,±1,±1,±1,±1,±1,±1,±1)while the interior of the same consists of all points (x0, x1, x2, x3, x4, x5, x6, x7, x8, x9) with −1 < xi < 1.
+
+
+== Other images ==
+
+
+== Derived polytopes ==
+Applying an alternation operation, deleting alternating vertices of the dekeract, creates another uniform polytope, called a 10-demicube, (part of an infinite family called demihypercubes), which has 20 demienneractic and 512 enneazettonic facets.
+
+
+== References ==
+H.S.M. Coxeter:
+Coxeter, Regular Polytopes, (3rd edition, 1973), Dover edition, ISBN 0-486-61480-8, p.296, Table I (iii): Regular Polytopes, three regular polytopes in n-dimensions (n≥5)
+H.S.M. Coxeter, Regular Polytopes, 3rd Edition, Dover New York, 1973, p. 296, Table I (iii): Regular Polytopes, three regular polytopes in n-dimensions (n≥5)
+Kaleidoscopes: Selected Writings of H.S.M. Coxeter, edited by F. Arthur Sherk, Peter McMullen, Anthony C. Thompson, Asia Ivic Weiss, Wiley-Interscience Publication, 1995, ISBN 978-0-471-01003-6 [1]
+(Paper 22) H.S.M. Coxeter, Regular and Semi Regular Polytopes I, [Math. Zeit. 46 (1940) 380–407, MR 2,10]
+(Paper 23) H.S.M. Coxeter, Regular and Semi-Regular Polytopes II, [Math. Zeit. 188 (1985) 559-591]
+(Paper 24) H.S.M. Coxeter, Regular and Semi-Regular Polytopes III, [Math. Zeit. 200 (1988) 3-45]
+Norman Johnson Uniform Polytopes, Manuscript (1991)
+N.W. Johnson: The Theory of Uniform Polytopes and Honeycombs, Ph.D. (1966)
+Klitzing, Richard. "10D uniform polytopes (polyxenna) o3o3o3o3o3o3o3o3o4x - deker".
+
+
+== External links ==
+Weisstein, Eric W. "Hypercube". MathWorld.
+Olshevsky, George. "Measure polytope". Glossary for Hyperspace. Archived from the original on 4 February 2007.
+Multi-dimensional Glossary: hypercube Garrett Jones
+OEIS sequence A135289 (Hypercubes:10-cube)

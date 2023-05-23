@@ -1,0 +1,61 @@
+Underwater logging is the process of logging trees from underwater forests. When artificial reservoirs and dams are built, large areas of forest are often inundated; although the trees die, the wood is often preserved. The trees can then be felled using special underwater machinery and floated up to the surface. One such machine is the sawfish harvester. There is an ongoing debate to determine whether or not underwater logging is a sustainable practice and if it is more environmentally sustainable than traditional logging.
+Underwater logging has been introduced in select locations around the world, including Ghana's Lake Volta, the largest reservoir by surface area in the world.
+A related form of logging consists of salvaging logs which loggers have abandoned after they became waterlogged and sank.  This activity can be quite profitable, since the prime "targets" are decades-old trees of a size and species difficult or impossible to find in their natural habitat.
+
+
+== History ==
+In the 1950s, the United States recognized that, during colonial times, loggers used to float felled trees over the Great Lakes and Maine rivers for transportation to mills. Logs that weigh over 62.4 pounds per cubic foot, however, would sink, and the loggers did not take the time to recover them. These logs are not completely lost, though, as underwater logs are safe from wood-decaying fungi that require wood, moisture, air, and temperatures estimated around 75 to 90 degrees. Underwater logs are also safe from stains. Cumulatively, many logs were lost over time, and the now defunct business, International Undersea Services, began log salvage operations on the Penobscot River in Maine in 1955. John Cayford and Ronald Scott researched in their book, Underwater Logging, where new prospects for underwater logging operations could take place in the United States. This came to be known as salvage logging. These processes have become more popular as relevant strategies and technologies progress, making underwater logging a viable means to recover lost resources.
+The underwater logging industry as a whole has diversified as technologies have allowed for new processes to arise and develop. Salvage logging, for example, recovers full-sized logs that were lost during past logging expeditions. Underwater logging itself, on the other hand, has developed to the point where new technology has allowed for the capability to cut down drowned trees that have been lost due to rising water levels. It is estimated that, "Buried in the water of reservoirs around the world are thought to be about 300 million submerged trees worth as much as $50 billion", making underwater logging as a whole an industry with the potential for high profits.
+
+
+== Logging methods ==
+
+
+=== Remote controlled vehicle ===
+One method of unearthing these sunken trees is by sending a remote controlled vehicle, like a sawfish harvester, underwater to fell the trees, keeping the operator of the vehicle dry. This vehicle is controlled by a cable that sends electricity and control inputs to the vessel which sends back a video feed for the operator. The operator sends inputs from a control panel on a barge. When a tree is found the Sawfish attaches and inflates a flotation device to it so that after the tree is cut it immediately rises to the surface for extraction from the water.
+
+
+=== Attaching buoys ===
+Attaching buoys is one of the main processes by which underwater logs are salvaged from the bottom of lakes and rivers. First, a scuba-diver must locate the sunken logs in the water, searching from about three feet from the bottom of the lake or river. After that, a buoy is placed around the log about three feet from its back. From there, a boat uses a gaff hook to catch the buoys and pulls the log close enough to the boat where the crew is able to tie the logs close to the side of the boat. This process repeats itself until the boat is filled to its capacity, after which the expedition is completed and crew must return to base before harvesting any additional logs.
+
+
+=== Floating logs ===
+
+In the case of floating logs that have not been drowned but may have been separated from initial logging routes and stuck on the banks of rivers and lakes, a new process is utilized. Here, truck inner tubes are completely deflated so that a diver can slip them over the logs. After this occurs and once the tubes are securely in place, a hookah compressor and a low pressure hose re-inflates them so that they form a tight grip around the floating logs. This process gives the logs more buoyancy and gives loggers easier access points to harvest them. As many tubes that are needed are used to float the logs.
+
+
+== Environmental impacts ==
+
+
+=== Marine pollution ===
+
+Ships are polluting both in the marine environment and in the atmosphere, and although it is difficult to estimate the magnitude of the problem, there is no uncertainty that increased usage of such ships will increase pollution. As the underwater logging industry becomes more popular and profitable, this increased usage will occur. The process of underwater logging itself will also have a negative impact on the environment, as the logs themselves add weight to the ships, forcing said ships to work harder and use more time and energy to transport their cargo. In terms of transportation, cargo ships transport the logs across the water. They use an immense amount of ballast water, which can have negative effects on the environment. When the ships reach the mills they empty the water, “Ballast water discharge typically contains a variety of biological materials, including plants, animals, viruses, and bacteria”. Dumping the ballast can change the aquatic ecosystems and even make the water undrinkable.
+
+
+=== Accidents ===
+Accidents related to this industry usually result in the release of oil and other resources, as these spills are difficult to maintain due to the fluidity of lakes and rivers. What this means is that the potential for collateral damage is large, both for marine and human life, because toxic resources such as oil can contaminate surrounding ecosystems. It is necessary, therefore, to exercise caution when partaking in processes, such as underwater logging, that require the use of potentially harmful resources.
+
+
+=== Deforestation ===
+Because the underwater logging process is essentially retrieving drowned logs and sunken trees that were already lost in previous logging expeditions, the logs are considered “rediscovered wood.”  Because underwater logging is retrieving “rediscovered wood,” this has a positive impact on the forestry industry, as it reduces the need to log in land forests. In addition, when logging on land logging companies have to create new roads to get to higher quality wood. Road building is eliminated with underwater logging because the transportation paths across the rivers already exist.
+
+
+=== Potential erosion of lakes and rivers ===
+
+As some of these logs have been lost for upwards of a few decades, the local environment has inevitably grown and developed around said logs. Removing these logs, which provide structural support to a variety of these ecosystems, could result in erosion of the lakes and rivers that would change the structure and potentially degrade these bodies of water.
+
+
+=== Marine life ===
+Some of the logs that are retrieved have been underwater for upwards of a few decades, meaning local marine life will have formed their habitats around these drowned logs. These logs provide substantial structural support for these ecosystems, and removing them would inevitably destroy said natural habitats. Boats and crew members of underwater logging fleets can stir up and degrade the local ecosystems.
+
+
+== Sustainability ==
+Nature & Faune magazine  describes the process of underwater logging's sustainability impact. The hydroelectric dam in Ghana built in Akosombo submerges forests of timber logs. The Clark Sustainable Resource Developments uses SHARC ROV technology to keep the roots of the trees intact not to disturb the lake bottom or disturb pollutants. After, they put canopies and buttresses to create artificial fish reefs and educated locals about fishing practices. Lastly, they can cut up to 25 meters (82 ft) below the lakes surface, which creates a depth sufficient to support routes for transportation lake vessels. This process was awarded for being sustainable by avoiding deforestation and making artificial reefs to maintain the current aquatic ecosystem. 
+
+
+== References ==
+
+
+== External links ==
+Wired.com Underwater logging article
+"Fortune In Drowned Logs", September 1934, Popular Science article on early salvage of sunken logs

@@ -1,0 +1,197 @@
+171 (one hundred [and] seventy-one) is the natural number following 170 and preceding 172.
+
+
+== In mathematics ==
+171 is a triangular number and a Jacobsthal number.There are 171 transitive relations on three labeled elements, and 171 combinatorially distinct ways of subdividing a cuboid by flat cuts into a mesh of tetrahedra, without adding extra vertices.The diagonals of a regular decagon meet at 171 points, including both crossings and the vertices of the decagon.There are 171 faces and edges in the 57-cell, an abstract 4-polytope with hemi-dodecahedral cells that is its own dual polytope.Within moonshine theory of sporadic groups, the friendly giant 
+  
+    
+      
+        
+          M
+        
+      
+    
+    {\displaystyle \mathbb {M} }
+   is defined as having cyclic groups ⟨ 
+  
+    
+      
+        m
+      
+    
+    {\displaystyle m}
+   ⟩ that are linked with the function,
+
+  
+    
+      
+        
+          f
+          
+            m
+          
+        
+        (
+        τ
+        )
+        =
+        
+          q
+          
+            −
+            1
+          
+        
+        +
+        
+          a
+          
+            1
+          
+        
+        q
+        +
+        
+          a
+          
+            2
+          
+        
+        
+          q
+          
+            2
+          
+        
+        +
+        .
+        .
+        .
+        ,
+        
+           
+        
+        
+          a
+          
+            k
+          
+        
+      
+    
+    {\displaystyle f_{m}(\tau )=q^{-1}+a_{1}q+a_{2}q^{2}+...,{\text{ }}a_{k}}
+   ∈ 
+  
+    
+      
+        
+          Z
+        
+        ,
+        
+           
+        
+        q
+        =
+        
+          e
+          
+            2
+            π
+            i
+            τ
+          
+        
+        ,
+        
+           
+        
+        τ
+        >
+        0
+        ;
+      
+    
+    {\displaystyle \mathbb {Z} ,{\text{ }}q=e^{2\pi i\tau },{\text{ }}\tau >0;}
+   where 
+  
+    
+      
+        q
+      
+    
+    {\displaystyle q}
+   is the character of 
+  
+    
+      
+        
+          M
+        
+      
+    
+    {\displaystyle \mathbb {M} }
+   at 
+  
+    
+      
+        m
+      
+    
+    {\displaystyle m}
+  .This generates 171 moonshine groups within 
+  
+    
+      
+        
+          M
+        
+      
+    
+    {\displaystyle \mathbb {M} }
+   associated with 
+  
+    
+      
+        
+          f
+          
+            m
+          
+        
+      
+    
+    {\displaystyle f_{m}}
+   that are principal moduli for different genus zero congruence groups commensurable with the projective linear group 
+  
+    
+      
+        
+          P
+          S
+          
+            L
+            
+              2
+            
+          
+        
+        ⁡
+        (
+        
+          Z
+        
+        )
+      
+    
+    {\displaystyle \operatorname {PSL_{2}} (\mathbb {Z} )}
+  .
+
+
+== See also ==
+The year AD 171 or 171 BC
+List of highways numbered 171
+All pages with titles containing 171
+
+
+== References ==

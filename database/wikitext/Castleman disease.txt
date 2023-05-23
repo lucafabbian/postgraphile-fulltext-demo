@@ -1,0 +1,60 @@
+Castleman disease (CD) describes a group of rare lymphoproliferative disorders that involve enlarged lymph nodes, and a broad range of inflammatory symptoms and laboratory abnormalities. Whether Castleman disease should be considered an autoimmune disease, cancer, or infectious disease is currently unknown.
+Castleman disease includes at least three distinct subtypes: unicentric Castleman disease (UCD), human herpesvirus 8 associated multicentric Castleman disease (HHV-8-associated MCD), and idiopathic multicentric Castleman disease (iMCD). These are differentiated by the number and location of affected lymph nodes and the presence of human herpesvirus 8, a known causative agent in a portion of cases. Correctly classifying the Castleman disease subtype is important, as the three subtypes vary significantly in symptoms, clinical findings, disease mechanism, treatment approach, and prognosis. All forms involve overproduction of cytokines and other inflammatory proteins by the body's immune system as well as characteristic abnormal lymph node features that can be observed under the microscope. In the United States, approximately 4,300 to 5,200 new cases are diagnosed each year.Castleman disease is named after Benjamin Castleman, who first described the disease in 1956. The Castleman Disease Collaborative Network is the largest organization dedicated to accelerating research and treatment for Castleman disease as well as improving patient care.
+
+
+== Classification ==
+Castleman disease (CD) can involve one or more enlarged lymph nodes  in a single region of the body (unicentric CD, UCD) or it can involve multiple enlarged lymph node regions (multi centric CD, MCD). Doctors classify the disease into different categories based on the number of enlarged lymph node regions and the underlying cause. There are four established subtypes of Castleman disease:
+
+
+=== Unicentric Castleman disease ===
+
+Unicentric Castleman disease (UCD) involves a single enlarged lymph node or multiple enlarged lymph nodes within a single region of the body that display microscopic features consistent with Castleman disease. It is also sometimes called localized Castleman disease.The exact cause of UCD is unknown, but appears to be due to a genetic change that occurs in the lymph node tissue, most similar to a benign tumor. In most cases of UCD, individuals exhibit no symptoms (asymptomatic). UCD symptoms tend to be mild and occur secondary to compression of surrounding structures by rapidly enlarging lymph nodes. Less commonly, some UCD patients can experience systemic inflammatory symptoms such as fever, fatigue, excessive sweating, weight loss, and skin rash as well as laboratory abnormalities such as low hemoglobin and elevated C-reactive protein. These symptoms are typically seen in MCD.
+Surgery is considered by experts to be the first-line treatment option for all cases of UCD. Sometimes, removing the enlarged lymph node(s) is not possible. If surgical excision is not possible, treatment is recommended for symptomatic patients. If symptoms are due to compression, then rituximab is recommended. If symptoms are due to an inflammatory syndrome, then anti-interleukin-6 (IL-6) therapy is recommended. If these treatments are not effective, then radiation may be needed.
+
+
+=== Multicentric Castleman disease (MCD) ===
+In this form, patients have multiple regions of enlarged lymph nodes with characteristic microscopic features, flu-like symptoms, and organ dysfunction due to excessive cytokines or inflammatory proteins. MCD is further classified into three categories based on underlying cause: POEMS-associated MCD, HHV-8-associated MCD, and idiopathic MCD (iMCD).
+
+
+=== POEMS-associated MCD ===
+A cancerous cell population found in patients with POEMS syndrome (polyneuropathy, organomegaly, endocrinopathy, monoclonal plasma cell disorder, and skin changes) can cause MCD in a fraction of patients by producing cytokines that initiate a cytokine storm. In patients who have both POEMS-associated MCD, treatment should be directed at the POEMS syndrome.
+
+
+=== HHV-8-associated multicentric Castleman disease (HHV-8-MCD) ===
+
+HHV-8-associated MCD patients have multiple regions of enlarged lymph nodes and episodic inflammatory symptoms due to uncontrolled infection with HHV-8. HHV-8-associated MCD is most commonly diagnosed in HIV infected or otherwise immunocompromised individuals that are not able to control HHV-8 infection. Thus, HHV-8-associated MCD patients may experience additional symptoms related to their HIV infection or other conditions. First-line treatment of HHV-8-associated MCD is rituximab, a drug used to eliminate a type of immune cell called the B lymphocyte. It is highly effective for HHV-8-associated MCD, but occasionally antivirals and/or cytotoxic chemotherapies are needed.
+
+
+=== Idiopathic multicentric Castleman disease (iMCD) ===
+
+Idiopathic multicentric Castleman disease (iMCD), which is the most common form of MCD, occurs for an unknown cause. There is no evidence of POEMS syndrome, HHV-8, or any other cancer or infectious disease. Though all forms of MCD involve excessive production of cytokines and a cytokine storm, iMCD has important differences in symptoms, disease course, and treatment from POEMS-associated MCD and HHV-8-associated MCD. First line treatment for iMCD is anti-IL-6 therapy with siltuximab (or tocilizumab, if siltuximab is not available). Siltuximab is the only FDA-approved treatment for iMCD and patients who respond to siltuximab tend to have long-term responses. In critically ill patients, chemotherapy and corticosteroids are recommended if the patient is demonstrating disease progression while on siltuximab. Approximately half of iMCD patients do not improve with anti-IL-6 therapy. In patients where siltuximab is not effective, other treatments such as rituximab and sirolimus can be used.iMCD can be further sub-classified into three clinical subgroups:
+iMCD with TAFRO Syndrome (iMCD-TAFRO): characterized by acute episodes of Thrombocytopenia, Anasarca, Fever, Renal dysfunction or mylefibrosis, and Organomegaly.iMCD with idiopathic plasmacytic lymphadenopathy (iMCD-IPL): characterized by thrombocytosis, hypergammaglobulinemia, and a more chronic disease course.iMCD, not otherwise specified (iMCD-NOS): is diagnosed in iMCD patients who do not have iMCD-TAFRO or iMCD-IPL.
+
+
+== Pathology ==
+Castleman disease is defined by a range of characteristic features seen on microscopic analysis (histology) of tissue from enlarged lymph nodes. Variations in the lymph node tissues of patients with CD have led to 4 histological classifications:
+
+Plasmacytic: increased number of follicles with large hyperplastic germinal centers and sheetlike plasmacytosis (increased number plasma cells). Germinal centers may also show regressed features
+Hyaline vascular: regressed germinal centers, follicular dendritic cell prominence or dysplasia, hypervascularity in interfollicular regions, sclerotic vessels, prominent mantle zones with an "onion-skin" appearance.
+Hypervascular: similar to hyaline vascular features, but seen in iMCD rather than UCD. Includes regressed germinal centers, follicular dendritic cell prominence, hypervascularity in interfollicular regions, and prominent mantle zones with an "onion-skin" appearance.
+Mixed: presence of a combination of hyaline vascular/hypervascular and plasmacytic features in the same lymph node.UCD most commonly demonstrates hyaline vascular features, but plasmacytic features or a mix of features may also be seen. iMCD more commonly demonstrates plasmacytic features, but hypervascular features or a mix of features are also seen. All cases of HHV-8-associated MCD are thought to demonstrate plasmablastic features—similar to plasmacytic features, but with plasmablasts present. The clinical utility of subtyping Castleman disease by histologic features is uncertain, as histologic subtypes do not consistently predict disease severity or treatment response. Guidelines recommend against using histologic subtype to guide treatment decisions. Staining with latency-associated nuclear antigen (LANA-1), a marker for HHV-8 infection, should be measured in all forms of Castleman disease but is positive only in HHV-8-associated MCD.Diseases other than Castleman disease can present with similar histologic findings in lymph node tissue, including:
+Infectious causes: Epstein-Barr virus, human immunodeficiency virus, tuberculosis
+Autoimmune diseases: Systemic lupus erythematosus, rheumatoid arthritis
+Lymphoproliferative disorders: lymphoma, autoimmune lymphoproliferative syndrome
+
+
+== History ==
+Unicentric Castleman disease was first described in a case series by Benjamin Castleman in 1956. By 1984, a number of case reports had been published describing a multicentric variant of the disease and with some reports describing an association with Kaposi's sarcoma. In 1995, the association between HHV-8 and Castleman disease was described in patients with HIV. Formal diagnostic criteria and definition of the disease was established in 2016, which will allow for better understanding and the ability to appropriately track and research CD. In 2017, international consensus diagnostic criteria for idiopathic multicentric Castleman disease (iMCD) were established for the first time. In 2018, the first treatment guidelines for iMCD were established. In 2020 the first evidence based diagnostic criteria and treatment guidelines were established for unicentric Castleman disease.
+World Castleman Disease Day was established in 2018 and is held every year on July 23. This date was chosen for Benjamin Castleman's initial case series describing Castleman disease, which was published in July 1956, and the diagnostic criteria for idiopathic multicentric Castleman disease, which were published in the journal Blood on March 23, 2017.
+
+
+== Castleman Disease Collaborative Network ==
+
+The Castleman Disease Collaborative Network (CDCN) was founded in 2012 and is the largest organization focused on Castleman disease. It is a global initiative dedicated to research and treatment for Castleman disease (CD) and to improve survival for all patients with CD. The CDCN works to achieve this by facilitating collaboration among the global research community, mobilizing resources, strategically investing in high-impact research, and supporting patients and their loved ones.
+
+
+== References ==
+
+
+== Further reading ==
+Fajgenbaum, David (2019). Chasing My Cure: A Doctor's Race to Turn Hope into Action; a Memoir. New York: Ballantine Books. ISBN 9781524799618. OCLC 1144129598. Book by the founder of the Castleman Disease Collaborative Network.

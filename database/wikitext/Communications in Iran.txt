@@ -1,0 +1,264 @@
+Iran's telecommunications industry is almost entirely state-owned, dominated by the Telecommunication Company of Iran (TCI). Fixed-line penetration in 2004 was relatively well-developed by regional standards, standing at 22 lines per 100 people, higher than Egypt with 14 and Saudi Arabia with 15, although behind the UAE with 27. Iran had more than 1 mobile phone per inhabitant by 2012.Iran has a population of 80 million with some 56% of Iranians under the age of 25. In 2008, there were more than 52,000 rural offices, providing Telecom services to the villages across the country. The number of fixed telephone lines is above 24 million, with penetration factor of 33.66%. In 2012, there were 43 million internet users in Iran, making the country first in the Middle East in terms of number. As of 2020, 70 million Iranians are using high-speed mobile internet.Iran is among the first five countries which have had a growth rate of over 20 percent and the highest level of development in telecommunication. Iran has been awarded the UNESCO special certificate for providing telecommunication services to rural areas. By the end of 2009, Iran's telecom market was the fourth-largest market in the region at $9.2 billion and is expected to grow to $12.9 billion by 2014 at a CAGR of 6.9 percent.According to the Electronic Journal on Information Systems in Developing Countries (EJISDC), the information and communications technology (ICT) sector had a 1.1–1.3% share of GDP in 2002. About 150,000 people are employed in the ICT sector, including around 20,000 in the software industry. There were 1,200 registered information technology (IT) companies in 2002, 200 of which were involved in software development. Software exports stood around $50 million in 2008. Between 2009 and 2020 the Telecommunications market more than doubled.
+
+
+== Overview ==
+
+The government runs the broadcast media, which includes three national radio stations and two national television networks, as well as dozens of local radio and television stations. In 2000 there were 252 radios, 158 television sets, 219 telephone lines, and 110 personal computers for every 1,000 residents. Computers for home use became more affordable in the mid-1990s, and since then demand for access to the Internet has increased rapidly. In 1998, the Ministry of Posts and Telecommunications (renamed the Ministry of Information & Communication Technology) began selling Internet accounts to the general public. In 2006, the Iranian telecom industry's revenues were estimated at $1.2 billion. By the end of 2009, Iran's telecom market was the fourth-largest market in the region at $9.2 billion and is expected to grow to $12.9 billion by 2014 at a CAGR of 6.9 percent.The Fourth Five Year Economic Development Plan has proposed the following key benchmarks for 2010: 36 million fixed lines; 50% penetration rate for mobile phones; establishment of reliable rural ICT connections and 30 million internet users. Given the recent developments of the industry, the objectives are very likely to be achieved.According to one report, Iran has seen above average growth, specially in mobile subscriber numbers. Mobile data services are available but account for a small proportion of total data consumption in 2014. Some telecom parameters of 2012 & 2014 are as below:
+
+More than 23 million Iranians have access to the Internet and over 45 million own mobile phones (2009/10). Tech-savvy citizens use text messages to communicate with friends and browse the Internet — which the government controls in terms of access and speed — for a multiplicity of purposes. Blogging is also immensely popular.
+
+
+== Press ==
+
+The press in Iran is privately and government owned and reflects a diversity of political and social views. A special court has authority to monitor the print media and may suspend publication or revoke the licenses of papers or journals that a jury finds guilty of publishing anti-religious material, slander, or information detrimental to the national interest. Since the late 1990s the court has shut down many pro-reform newspapers and other periodicals. Most Iranian newspapers are published in Persian, but newspapers in English and other languages also exist. The most widely circulated periodicals are based in Tehrān. Popular daily and weekly newspapers include Ettelaat, Kayhan, Resalat, Iran Daily and the Tehran Times (Iran Daily and Tehran Times are both English-language papers).
+
+
+== Satellite ==
+
+Since the 1970s, there have been a number of proposals for a state-owned communications satellite, called Zohreh (en:Venus) from 1993 onwards. The planned satellite would have similar capabilities to a commercially produced Western satellite, while such capabilities are already provided through leases owned by the Iranian telecommunications sector. An agreement was signed between Iran and Russia in 2005 to develop the satellite with a planned launch date of 2007, but the launch has been postponed until at least 2009, set to follow actual construction of the satellite.
+
+
+== Telephone ==
+The telephone system is inadequate but being modernized and expanded with the goal of not only improving the efficiency and increasing the volume of the urban service but also bringing telephone service to several thousand villages that are not connected now.
+
+
+=== Domestic ===
+As a result of heavy investing in the telephone system since 1994, thousands of mobile cellular subscribers are being served; moreover, the technical level of the system has been raised by the installation of thousands of digital switches.
+Iran's telecommunication network enjoys the highest growth rate in the Middle East. One of the indicators that clearly illustrates this growth rate is the increase in the number of installed main lines. In 1978 there were only about 850,000 fixed lines installed in Iran. This number rose to about 1,767,000 by 1986 and to about 2,380,000 by 1989. One of the objectives of the first five-year development plan (1989–1994) for the telecommunication sector was to add one million new fixed lines to the network. However, due to the establishment and expansion of many low-capacity and high-capacity exchanges, the actual growth rate that was achieved was considerably higher. In fact more than 3.1 million new main lines were installed during the period of the first five-year plan. Four million new lines were expected to be added by the end of the second five-year plan (1994–1999), which would increase the number of installed main lines to about 9,510,000 fixed lines. Iran's telecom market, which generated an estimated $9.1 billion in 2010 (of which 2/3 from "voice" mobile-phone and 1/10 from "data" mobile-phone services), has been growing significantly, especially its mobile-phone business. As of 2010, Iran had about 66 million mobile-phone subscribers covering about 70% of the population. In contrast, about 36% of Iranians had fixed-line phones.
+
+
+==== Landlines ====
+24.8 million (2008), with a penetration rate of 34%.
+30.6 million (2017) 
+
+
+==== Mobile phone ====
+
+Mobile: 123.7 million (Jan 2019); 80.85 million (end of 2012 est.); 68 million (Sep. 2011); 35 million (early 2008) and 4.3 million in 2004. The bulk of mobile subscriptions in Iran are made up of prepaid users. As of 2014, 75% of the cell phones in the market were smuggled into the country. Since 2018, mobile registry scheme in Iran has been deployed to combat smuggling of mobile phones.Penetration rate: 91.2% as of September 2011; 130% as of February 2012.
+Smartphone owners: 12 million (2014 est.), 30 million (2015) 47 million (2016), mostly Samsung and Huawei models.
+Short Text Messages: Iranians send 80 million SMS per day (Nov. 2008).
+
+
+===== Operators =====
+Major mobile operators as of 2008: Mobile Telecommunication Company of Iran (MCI Hamrahe Aval) with 70% market share, MTN Irancell (28%), and Emirates Telecommunications Corp (Etisalat) who won a license for 300 million euros in December 2008. Etisalat has been replaced by an Iranian consortium and operates under the name RighTel. The two national operators, Mobile Telecommunication Company of Iran and MTN Irancell both offer GPRS-based data services. Recently a new LTE mobile broadband service provider called ApTel has started its work in Iran.
+As of 2011, major foreign supplier to Iran's mobile-phone networks are: Huawei of China along, Telefon AB L.M. and  Nokia Siemens Networks, a joint venture between Nokia Corp. and Siemens AG. As of 2016, France's Orange S.A. and U.K.'s Vodafone (through HiWEB.ir) are also developing mobile IT in Iran.
+
+
+===== 3G network =====
+Abu Dhabi-based Etisalat and Tamin Telecom, the telecommunications investment arm of Iran's social security and pensions department, will gain exclusive rights for two years to offer second- and third-generation services (3G) in Iran (2008). Assuming a minimum network investment of $4 billion, Etisalat can gain about 20 percent to 25% market share over five years of its operations (by 2013). In 2009 it was announced that Etisalat, however, failed to secure the right to be Iran's exclusive 3G operator for two years. Later, Tamin Telecom announced that, IDRO and Imam Khomeini Decree Center have replaced Etisalat because of contractual disagreements. In 2011, Tamin Telecom revealed plans to cover 60 percent of the population with its 2G network and 40 percent with its 3G network by 2014.
+
+
+===== 4G network =====
+As of 2020, 4G LTE population coverage in Iran has reached around 90%. The government is preparing regulations for 5G deployment and aims to launch services in the next couple of years.
+
+
+=== International ===
+As of 2010, international connection services are provided exclusively by Infrastructure Company of Iran, a fully owned subsidiary of TCI. Submarine fiber-optic cable to UAE with access to Fiber-Optic Link Around the Globe (FLAG); Trans Asia Europe (TAE) fiber-optic line runs from Azerbaijan through the northern portion of Iran to Turkmenistan with expansion to Georgia and Azerbaijan; HF radio and microwave radio relay to Turkey, Azerbaijan, Pakistan, Afghanistan, Turkmenistan, Syria, Kuwait, Tajikistan, and Uzbekistan; satellite earth stations – 13 (9 Intelsat and 4 Inmarsat) (2007)
+Apart from Iran-Kuwait submarine communications cable network, Iran is launching an optical fiber channel and a submarine communications cable in the Persian Gulf. The next program is to connect the country with global optical fiber networks from northern and northwestern borders.
+
+
+== Radio and Television ==
+
+Radio broadcast stations: AM 72, FM 5, shortwave 5 (1998)
+Number of radios: 22 million (2005)
+Television broadcast stations: 29 (plus 450 repeaters) (1997)
+Number of television sets: 15 million (2007 est.)
+Although formally illegal, the use of satellite television receivers in urban areas is widespread. Over 30 percent of Iranians watch satellite channels.Since 2015, Iran is domestically manufacturing DVB-T 6,000W digital transmitters.
+
+
+== Internet ==
+
+In 1993 Iran became the second country in the Middle East to be connected to the Internet, and since then the government has made significant efforts to improve the nation's ICT infrastructure. Iran's national Internet connectivity infrastructure is based on two major networks: the public switched telephone network (PSTN) and the public data network. The PSTN provides a connection for end-users to Internet service providers (ISPs) over mostly digital lines and supports modem-based connections. The Data Communication Company of Iran (DCI), a subsidiary of TCI, operates the public data network. Iran's external Internet links use the basic Internet protocol of TCP/IP (transmission control protocol/Internet protocol) via satellite exclusively. For data lines, copper, fiber, satellite and microwave are the available media, and popular services are high-speed Internet via digital subscriber lines (DSL), high-bandwidth lease lines and satellite. About 33 Iranian cities are connected directly by the Trans-Asia-Europe cable network, or "silk road", connecting China to Europe. According to the Statistical Center of Iran, 13.5 million households (i.e. 55.5% of all Iranians) have access to the internet (2016). Of this number, 7 million households have access to fixed high-speed internet connection, and 10.7 million households have access to wireless high-speed internet. In 2016 64.8% of urban households and 36.1% of rural households had access to computers at their home. As of 2020, mobile broadband coverage had exceeded 91 percent in Iran.Since 2005 the Iranian government has been developing its "National Information Network" to tighten its control over content as well as increasing speed. The project, which is separate from the World Wide Web, will be completed by 2017. This network will be separated from the rest of the internet, specifically for domestic use. Creating such a network, similar to one used by North Korea would prevent unwanted information from outside of Iran getting into the closed system, such as with an intranet network. Myanmar and Cuba also use similar systems. Iran has announced that all government ministries and state bodies will be available through the secure "national information network" (NIN).The current internet services will not be replaced by the National Information Network or "Clean Internet" as it is called. In order to protect the privacy of Iranian internet users, a number of non-governmental organizations are currently developing domestic search engines that people can use through the NIN.Iranian officials have accused U.S.-based technology companies such as Google, Twitter and Microsoft of working in tandem with U.S. authorities to spy on Iranian online trends, search behavior, social networking sites and e-mail. These companies have denied those allegations despite NSA leaks. As of 2013, 90% of all of Internet traffic is being routed to hosts outside the country. Iran said it set a "world record" of 46% in online participation using NIN during the national census in 2016.Much has been reported on the ways in which NIN aids the government with censorship and controls on the internet. Whilst to date, the existence of the NIN has not resulted in long-term disconnection from the global Internet, in the short-term it has been used by the authorities for this purpose. This was illustrated during the widespread deliberate disruptions to both mobile and networked Internet connections in the midst of nationwide protests in late 2017 and into early 2018.  Research by the Campaign for Human Rights in Iran (CHRI) identified that the authorities had ordered IXPs to intentionally interrupt international traffic while maintaining national connections hosted on the NIN.Strengthening and driving local users towards local platforms is central to the NIN strategy. This has included efforts to undermine net neutrality, by requiring domestic ISPs to zero-rate domestic platforms, in effect subsidising users’ use of local Internet platforms. These domestic platforms are subject to the close oversight, influence and enforcement powers of the authorities. Pushing users to use these services strengthens the government's surveillance and monitoring capabilities and raises concerns for the protection of the right to privacy. These platforms are required to apply Iranian law, including content-based restrictions on content outlined in the Islamic Penal Code, the Press Laws and the Computer Crimes Law. Over-reliance on domestic platforms is therefore likely to have a detrimental effect on the diversity and pluralism of content available on these platforms.
+80 percent of modem imports are smuggled to Iran.
+
+
+=== Infrastructure ===
+
+Iran has developed (or is in the process of developing) IT/technology parks, infrastructures for local emails, instant messaging (such as "TD Messenger" produced by Tehran Data), domestic search engines (such as Yooz, Parsijoo or "Gorgor.ir"), auction website (e.g. "Esam.ir"), e-commerce (e.g. Digikala), e-government, distance education (e.g. Payame Noor University), social medias (e.g. Cloob or Aparat), a domestic version of the Linux Operating System called "Sharif Linux", bespoke or open source software for web browsing, word processing, spreadsheet and database; accounting and various business/financial and industrial software (e.g. NOSA), security software (e.g. Padvish Antivirus or APA at Shiraz University), and video games.Iran is also manufacturing key computer, internet and IT components, including a local data center, microprocessors (design only), PCBs, supercomputers, routers (experimental basis), computer monitors, printers, mobile phones, fiber optics and lasers.As of 2020 there were 7 Internet exchange points built in some Iranian cities. 72 private data centers were connected to them.
+
+
+=== Cyber-security ===
+
+Iran is among 5 countries with cyber warfare capabilities according to the Defense Tech institute (US military and security institute).
+
+
+=== Internet service provider|ISPs ===
+The leading Data Communication Company of Iran (DCI) which belongs to Telecommunication Company of Iran (now privatized) and the Iranian Research Organization for Science and Technology (IROST) are two bodies that act as ISPs. As of 2008, the largest privately owned ISP was Parsnet, which serves only Tehran. The leading ISP with a provincial focus is Isfahan-based Irangate.net. The Neda Rayaneh Institute was the first private ISP in Iran.Domain names with the ".ir" suffix are assigned by the Institute for Studies in Theoretical Physics and Mathematics (IPM). DCI maintains the network infrastructure, providing Internet access via the IRANPAK X.25 packet-switching network, which covers most major cities. DCI is the only ISP with a permit for supplying government agencies. DCI supplies both dial-up and leased lines to its users.By the regulations of Iran, these ISPs should rely on the Telecommunication Company of Iran (TCI) for their bandwidth. Previously serviced by TCI's Public Switch Telephone Network, the ISPs have been provided with modern data line capacity through a national IP-based network. With the completion of this new network, Internet services in Iran is expected to improve dramatically.
+
+
+==== Speed and costs ====
+Iranian internet has an average speed of 2 Mbit/s, about one-tenth of the global average (2014). Hong Kong, the world leader, boasts an average of 72 Mbit/s; the United States ranks 31st, at about 21 Mbit/s. A 2 Mbit/s subscription costs $5 a month, daily traffic is charged at 60¢/GB but traffic is free at night at up to 5GB per night. Upload speeds are typically 40% of the download speed.People must pay four times price for download and upload using internet than national internet network.According speedtest.net in 2019, the average landline Internet speed in Iran is 12.84Mbit/s and the country is ranked 104 among 130 audited countries. The global average speed of landline Internet services is 49.26Mbit/s. Mobile Internet services is significantly better in Iran compared to landline services, with an average speed of  27.71Mbit/s — 4Mbit/s higher than the global average. Iran is ranked 51.
+
+
+==== Broadband Internet access ====
+
+As of 2012, 11 private access providers (PAPs) and TCI compete for market share, offering ADSL2+, WiMAX, and other fixed wireless broadband services. Meanwhile, fixed broadband internet connections quadrupled between 2011 and 2015 to 8.3m lines. Iran's IP-based 'national data network' is being developed by Information Technology Company (ITC), which is also a TCI subsidiary.  This network covers 210 Iranian cities and has 60,000 high-speed ports to meet the needs of its end users such as business and ISPs (2009). Some actions are being taken to build and optimize infrastructure for provision of broadband services in the next five years and the Regulatory has decided to grant the license of offering WiMAX services to some private companies based on auction and then the license for the 3rd mobile operator.
+Companies that are under the PAP license:
+Shatel
+Afranet
+Asiatech
+Pars Online
+Pishgaman Kavir
+Fan Ava
+Asre Novin
+Datak Telecom
+Asre Telecom
+Kara Amin Ertebat
+Laser
+Neda Gostar Saba (SabaNet)
+Irsa Communications NetworkLandline ISP ranking in customer satisfaction (score out of 20, 2018 survey):
+Shatel:17.55 	
+AsiaTech:15.67 	
+Datak:15.53 	
+HiWeb:15.17 	
+Pars Online:14.64 	
+Saba Net:14.31 	
+Pishgaman:13.3 	
+HelmaGostar:12.94 	
+TCI:10.91
+
+
+=== Statistics ===
+In 2015, Internet-based economy was 0.8% of GDP in Iran while it is 13% in the UK.
+Internet Service Providers (ISPs):  12 certified for high-speed connections – Iran had 1,223 Internet Service Providers (ISPs) in 2009, all private sector operated.
+Country code (Top-level domain): IR
+Internet users (including internet cafe users): 23 million (2007); 43 million (2012). Internet penetration is 53% across the population and 77% in Tehran, according to government data. About 11 million Iranians have mobile Internet access (2014). Iran's National Internet Development Centre says internet penetration stood at 73% in 2015, making Iran one of the biggest internet users in the Middle East.
+250,000 users have access to high-speed Internet service in Iran (October 2006) While having the most internet users in the Middle East, in terms of broadband users Iran is only 14th in Middle East (2012). In 2013, some 867,000 people are using high-speed internet, and about 6 million people are using internet via optical fiber network.
+The number of GPRS users amounts to 27.5 million, accounting for 36 percent of total internet users in Iran.
+Iran ranks 32nd in the world in terms of the number websites. Until 2009, 200,000 sites have been launched in Iran. 118,000 sites are using the domain ".ir".
+As of 2016, most visited search engines in Iran are Google (1st), Parsijoo (2nd), Bing (3rd), Yooz (4th).
+As of 2019, top three visited websites in Iran are Google (1st), Instagram.com (2nd), digikala (3rd) Alternate 2019-rankings are: 1. Google, 2. Aparat (YouTube equivalent), 3. Digikala (e-commerce like Amazon), 4. Namnak (news), 5. Varzesh3 (sports), 6. Instagram, 7. Wikipedia, 8. Shaparak (e-payment services), 9.Telewebion (webcast service for IRIB), 10. Divar (consumer-to-consumer sales).
+Some 1,218 of Iranian cities have access to Internet and 1,460 telecommunication centers are operational there (2008)
+Iran's optical fiber network extends over 120,000 kilometers and has optical fiber connections with all neighboring states (2008). As of 2008, more than 36000 kilometers optical fiber in the backbone network and 45000 kilometers in cities have been installed.
+There are an estimated 1,500 Internet cafes operating in the capital, Tehran (2008). Prepaid Internet-access cards are widely available throughout the country.
+As of 2008, more than 100 companies sell International VoIP cards and the government has announced to issue 4–5 VoIP licenses through holding bids for national use.
+As of 2020, nearly 30,000 villages had connections to the mobile telephone network.
+
+
+=== Usage ===
+
+Full Internet service is available in all major cities and it is very rapidly increasing. Many small towns and even some villages now have full Internet access. The government aims to provide 10% of government and commercial services via the Internet by end-2008 and to equip every school with computers and Internet connections by the same date. The Internet has become an expanding means to accessing information and self-expression among the younger population. Iran is also the world's fourth largest country of bloggers with approx. 60,000 Persian blogs although Internet censorship in Iran is amongst the most restrictive and sophisticated in the world. As of 2014, 67.4 percent of Iranian young people (between the ages of 15 and 29) use the internet. 69.3% of Iranian young people reported using anti-internet filtering software to be able to surf through blocked websites. Three-fifths of Iranians use Facebook. Iranians spend an average of nine hours on social media websites every day. according of the government of Iran, the first stage of smart filtering for the internet has been successful and the second stage has been launched in 2015. As of 2016, 40 percent of content used by Iranian Internet citizens are produced in the country.
+
+
+==== Electronic commerce ====
+
+Iran's electronic commerce was 10,000 billion rials ($1 billion) in March 2009 and growing 60% annually. Online-sales reached $300,000 per day in 2014 with more than 20,000 active online stores with electronics being the most popular sale product. In 2007, Tetra-Tech IT Company announced that using Visa and Mastercard is now possible for online sales and in Iranian e-card terminals at shopping malls, hotels, restaurants, and travel agencies for Iranians and foreign tourists. Saman Bank was the first bank to introduce online banking services in Iran. Since, it has been at the forefront of expansion and enhancement of electronic banking. In 2010, a state-linked technology group (the Rouyesh Technical Centre) established the country's first online supermarket.In 2015, the dollar value of e-commerce reached $17.4 billion. With the new national information network, Internet speed has increased drastically. Iran's penetration rate of the internet stands at 82.12% (2016), with 19 million people using the internet on their mobile phones. As of 2016, 600 cities in Iran had access to 3G networks and 200 cities had access to 4G Internet. The rate of mobile phone penetration in Iran stands at 94.46%.Iran is presently implementing a barcode system across the country in order to facilitate e-commerce and tax collection. The executive state organizations, which are the largest buyers of goods in the country, cannot buy and use goods that do not have the "Irancode".In 2004 the Majlis adopted the Electronic Commerce Law:
+Articles 62–66 of this law specify that Iran's existing intellectual-property laws apply to all electronic transactions.
+Articles 33–49 of the Electronic Commerce Law of 2004 seek to ensure consumer protection in electronic transactions. This legislation ensures the right of consumers to complete disclosure of information by suppliers before, during and after electronic transactions. Also specified are the terms under which contracts for electronic commerce may be broken.
+Article 37 gives consumers seven days to withdraw from any contract without penalty.
+Article 42 stipulates that the protections laid down in this law do not apply to financial services, immovable property, automatic vending machines, transactions over public payphones and auctions.The Fifth Five-Year Development Plan (2010–15) has set the target of conducting electronically:
+80 percent of governmental transactions,
+20 percent of domestic trade
+30 percent of foreign trade.
+
+
+== Software development ==
+
+According to the Electronic Journal on Information Systems in Developing Countries (EJISDC), the information and communications technology (ICT) sector had a 1.1–1.3% share of GDP in 2002. About 150,000 people are employed in the ICT sector, including around 20,000 in the software industry. There were 1,200 registered information technology (IT) companies in 2002, 200 of which were involved in software development. Software exports stood around $50 million in 2008 and $400 million in 2014.Iran imports a large part of its software. According to the EJISDC, around 95% of the output of the domestic industry is bespoke development (including translation/adaptation from foreign source) —as opposed to product work—meaning export possibilities are low.
+Domestic firms involved in software production include Sena Soft, Dadeh-Pardazi, Iran Argham, Kafa System Information Network, Iran System and Puya. IDRO's subsidiaries "Magfa" (Information Technology Development Center) and Iran Info-Tech Development Co. are also leading players in this sector. The largest private computer software producer in Iran is Hamkaran Systems with 7000 customers.Iran's National Foundation for Computer Games unveiled the country's first online video game in 2010, capable of supporting up to 5,000 users at the same time.Although there are no established clusters in Tehran, a major facility, the Tehran Software and Information Technology Park, is planned. International Development Ireland was selected as the consultant for the project in mid-2004. There are also plans for a technology park in the free-trade zone on Kish Island in the Persian Gulf, which already contains the necessary technological infrastructure.The government's drive to automate manual processes is expected to account for about 70% of demand for software development, but there are also some 15,000 private-sector factories that have software needs. Foreign investment in the sector is minimal, although some links are being developed with the Indian software industry. Poor intellectual property protection in Iran has also hindered the development of Iranian software companies causing a lack of foreign direct investment in this sector.
+
+
+=== Popular apps ===
+As of 2019, main categories are tools with 12,024 apps published in this group, followed by health and sports (4,368), travel and transportation (2,578), social media (2,227) and shopping (2,072). The most popular Android apps as measured by Cafe Bazaar downloads are:Financial services:
+
+Asan Pardakht with 9 million downloads.Shopping: 
+
+Divar has some 17 million people downloaded.
+Sheypoor has been downloaded over 5 million times.
+Digikala had 3 million hits.Transportation:
+
+Snapp (taxi riding app) has been downloaded 7 million times.
+Tap30 with 2 million downloads.Social Media Platforms, Messengers:
+
+Instagram with 23 million downloads.
+Telegram (fork) with 13 million users.
+
+
+== Technology start-ups ==
+
+Iran is an innovative country with a population of approximately 80 million and 120% mobile penetration. Yet the technology "start-up economy" represents less than 1% of Iran's GDP. Since 2012, Iran's startup ecosystem has flourished. According to The Wall Street Journal, sanctions are also helping spur entrepreneurship in Iran by protecting them from outside competition. Iran has three seed accelerators already (e.g. Avatech and DMOND), a few VCs (e.g. Sarava Pars and Shenasa) and 170 incubators (e.g. MAPS). eCommerce is growing at a rapid speed. The advent of higher Internet speed marks the beginning of a new era for entrepreneurs. Iran Entrepreneurship Association (IEA) is the flagship NGO in the "entrepreneurship revolution" in Iran. TechRasa Archived 2021-10-27 at the Wayback Machine is the leading online media devoted to the coverage of technology startups. As of 2015, there are almost 180 technology startups companies in Iran, many of them backed by state-run universities (this number does not include 3,000 (non-IT) knowledge based companies also active in Iran). As of 2016, fifty fintech firms are operating in Iran.Parsijoo and Yooz are 2 domestic search engines with 600,000 and 100,000 hits per day and 120,000 and 60,000 searches per day respectively. Adro is a leading Adtech/Ad exchange start-up (In 2016, publishers had 365 billion impressions through Iranian Ad networks). Cafe Bazaar, with 20 million visits weekly and a market share of 85%, has 25,000 downloadable Iranian and international apps for gaming, social media, messaging and other uses. Iranians developed 70 thousand mobile apps in less than 2 years (2016).Cloob, the Iranian version of Facebook, has 2.5 million users. Soroush is the messaging application replacing Telegram. Aparat (Owned by Saba Idea Technology Co), with a staff of 65, is an Iranian video-sharing platform similar to YouTube, has a following of 5 millions a day and has 22,000 minutes of video uploaded daily. Takhfifan (with 100 employees) and Netbarg are two group buying portals. eSam and Saddarsad are similar to eBay. Digikala, an e-commerce platform like Amazon.com with a daily average income of $400,000, ships more than 4,000 orders each day. With a staff of 900 and about 850,000 visitors every day, Digikala was estimated to be worth $150 million in 2014 ($500 million according to the company in 2015, over $1 billion in 2018). As of 2015, 85–90% of Iran's e-commerce takes place on Digikala (which has its own courier system throughout Iran). Albasko is another well-known e-commerce platform. Fidibo is the Iranian equivalent of Kindle. With 40,000 orders per month, Maman-Paz is a food delivery service that connects hungry workers with housewives selling home-cooked meals. Its restaurant-based counterpart is ZoodFood. ShopFa, with 2000 active online stores in 2012, is the local version of Shopify.  ZarinPal (owned by SamanSystems), with 2 million transactions processed in 2012, is the Iranian alternative to PayPal. As of 2015, Taskulu, a task management platform, had over 8000 users from 120 different countries. Hamijoo is a crowdfunding platform. AnjamMidam is an online marketplace for freelance services modeled after Fiverr. Navaak is modeled after Spotify, the online music streaming company. AloPeyk is a delivery service company. Pak Charkh is a bike-sharing app like Germany's Nextbike.Since 2015, many foreign companies are beginning to explore ways to start technology companies in Iran (such as Germany's Rocket Internet) or allow their services to become available in the country (such as United States' Google). For example, Iran Internet Group, a joint venture between South African telecom company MTN and Rocket Internet has been launching Iranian versions of eBay (Mozando), Amazon (Bamilo), and Uber (Snapp/previously known as Taxi Yaab). Snapp has over 600,000 drivers across Iran and has a valuation potential of $1 billion ($1.4–1.7 billion according to the company in 2018). It carries over 1 million passengers-a-day. Many returning Iranian citizens abroad are also participating in this trend (Iranian Americans in particular).
+
+
+== Consumer electronics ==
+
+The Middle East consumer electronics and technology sector amounts to a $37 billion high (2008), according to a study by the Dubai-based subsidiary of GfK-MEMRB Marketing Services.
+The study also predicts that the market will continue riding the wave of growth to hit $39–$40 billion in 2009. Mobile and smartphones make up 41 percent of the entire digital consumer market with sales of $10 billion expected in 2008. It's followed by desktop and notebook computers at $5 billion and LCD televisions at $4 billion. The study also reveals the market structure by channel where, in Iran and the UAE, independent retailers still lead with 60-percent share in volume for product categories such as digital cameras, LCD televisions and mobile phones. However, large retailers like Plug-Ins, Emax and Sharaf DG are also making their presence felt by capturing the remaining 40 percent. The digital consumer technology sector is expected to see retail sales in excess of $24 billion by the end of 2008.Iran’s domestic consumer electronic market, defined as including computing devices, mobile handsets and video audio and gaming products, was estimated at $7.3 billion in 2008 ($8.2 billion in 2010), with 47% market share for computer hardware, 28% Audio/Video and 25% mobile phone (with growing demand for PDAs, smartphones and 3G handsets). Business Monitor International (BMI) forecasts that Iran’s demands for domestic consumer electronic devices will reach $10 billion by 2013 and $16 billion by 2016.Held once a year, ELECOMP is the greatest commercial event in Iran’s market of electronics and computer products and services.
+
+
+=== Computers ===
+
+Iran is manufacturing some computer components under license from international companies, predominantly in the area of monitors. Eight Iranian companies are manufacturing monitors under licence of LG, Samsung, Hyundai, Benq, Tatung and CTX. Motherboard, keyboard, mouse, computer case, power supply, CPU, hard drive and printers are other components that are now manufactured locally. Personal computer (PC) ownership in Iran stood at 7.3m in 2005, or 10.5 PCs per 100 people.Among the leading domestic telecoms equipment manufacturers is the Iran Telephone Manufacturing Company (ITMC), which has licensing agreements with Siemens and Alcatel-Lucent of France. ITMC is owned by TCI (45%), Industry Bank (35%) and Siemens (20%).
+Other manufacturers include Iran Communications Industries Incorporated and Parstel—which produces under licence from Daewoo Corporation, a South Korean firm. IDRO's Iran Info-Tech Development Co. is producing computers under the brand name "SAHAND". Overall, ICT hardware sales were estimated to total US$700m a year in 2008.
+
+
+== Ministry of Information and Communication Technology ==
+
+The main functions of the Ministry of Information and Communication Technology are laying out and implementing policies pertaining to post and communications in Iran. The Ministry is also in charge of issuing import licenses for certain communication equipment and parts thereof. This ministry was originally named "Ministry of Post, Telegraph & Telephone".
+
+
+=== Privatization ===
+
+Based on Note C of the general policies of the constitution's Article 44, the Ministry of Communications and Information Technology announced that it will float the shares of affiliated companies such as Telecommunications Company in the stock market.Under the general policies of Article 44, telecom companies are categorized in four groups as follows:
+
+Group One: Among the 30 provincial telecom networks, the fixed telecom networks pertain to those of Tehran, Isfahan, Fars, Hamedan, Ahvaz, Khorasan Razavi, Khuzestan and East Azarbaijan. The first group concerns fixed line telecom networks, including those in the public sector with 30 subsidiary telecom networks in provinces. The non-governmental sector includes companies such as Iraphone, Novin, Zahi Kish, Kouh-e Nour, Montazeran Adlgostar and Pouya Ertebat with each having hundreds of thousands of subscribers.
+Group Two: The second group concerns mobile telephone networks. In the public sector, they include the Telecommunication Company of Iran (TCI). In the non-governmental sector, they include telecommunications companies such as Omran Kish, Isfahan, Rafsanjan Complex and Irancell. Privatization Organization has forecast that shares of Telecommunication Company of Iran (TCI) will be floated in the stock market by late September 2007.
+Group Three: There is only one public network in the data network sector, namely Data and Telecommunications Company of Iran which is considered a basic telecom network in terms of mobile networks and Shomal IT Company. In the non-governmental sector, there are over 100 companies with a shared data network.
+Group Four: The subsidiary telecom network named Subsidiary Telecommunications Company is another basic telecom network. They are completely owned by the state and not targeted for privatization.TCI's Infrastructure Telecom Company will be detached from it and it would continue its activities as a part of the ICT Ministry. 33 companies in the telecom sector are to be privatized by September 2007. This happened simultaneously with the launch of MTN Irancell, a private second carrier with foreign ownership. The privatization and introduction of a second operator has created a significantly more competitive environment which has led to significant cost reductions for mobile owners and service benefits.
+
+
+==== 2009 – IPO ====
+In 2009, 51% of the shares of TCI was sold to Mobin Trust Consortium, a consortium which some media claimed it was affiliated with the Islamic Revolutionary Guard Corps, for the sum of $7.8 billion.
+
+
+==== Other ICP/ISP IPOs ====
+In late 2011, Iranian ICP/ISP Afranet (Symbol in Tehran Stock Exchange: AFRZ1) went public. As of 2012, there is no other ICP/ISP companies listed in Tehran Stock Exchange.
+
+
+== See also ==
+Supreme Council of ICT of Iran
+Takfa – Iran's countrywide plan for ICT, also called "NICTA" in some countries.
+Telecommunication Company of Iran
+Iran Electronics Industries (IEI)
+Shetab Banking System – Iran's electronic banking system
+Pardis Technology Park – Iran's planned "Silicon Valley"
+International rankings of Iran in ICT
+List of Iranian companies
+Media of Iran
+Economy of Iran
+Transportation in Iran
+Stuxnet
+
+
+== References ==
+
+
+== Further reading ==
+"Entrepreneurship Ecosystem in Iran" (PDF). Iran Entrepreneurship Association. Winter 2014. Archived from the original on September 13, 2015. {{cite journal}}: Cite journal requires |journal= (help)CS1 maint: unfit URL (link)
+Cyber Warfare Market in Iran to 2021: Market Brief Strategic Defence Intelligence (2012)
+Business Monitor International: Iran Telecommunications Report (2008); Business Monitor International: Iran Telecommunications Report (2012)
+Business Monitor International: Iran Consumer Electronics Report 2011 Archived 2016-03-05 at the Wayback Machine (50-page report)
+Onda Analytics Limited: Iran Mobile Investment Overview and Market Forecast 2010–2014  (10-page report)
+Synergyst: Telecom Sector in Iran – Trends and Opportunities from 2009 Through to 2013 (40-page report)
+Iran: Strong Telecom Growth Expected, Despite Political Uncertainties – Pyramid Research 30-page report provides a profile of the country's converged telecommunications, media and technology sectors based on proprietary data from Pyramid's research in the Iranian market (2010).
+World Bank – Information, Communication Telecommunication (ICT) in Iran (2009)
+Atieh Bahar: Brief Study – Telecom in Iran (2008)
+Teyf Sharif Consulting: Iran Telecommunications Market Intelligence Archived 2011-09-28 at the Wayback Machine 61-page report give an in-depth review of Iran's telecom sector (2008)
+E-commerce development in Iran, by Alireza Abbasi (2007)
+e-Business in Iran, Economist Intelligence Unit (2006) and (2010 report)
+National Report on E-commerce in Iran Iranian Ministry of Commerce (2004)
+Building Iran's Software Industry Archived 2016-03-04 at the Wayback Machine – University of Manchester (2003)
+Internet and Telecom in Iran – A Comprehensive Survey (1999)
+
+
+== External links ==
+Ministry of Information & Communication Technology of Iran
+Information and communications technology (ICT) to Iran at the Wayback Machine (archived July 27, 2008) – Australian Trade
+Information Technology Company – affiliated with the Ministry of Communication & Information Technology (ICT) of Iran
+Telephone Area Codes of Cities In Iran
+GSM Coverage in Iran
+Information Technology in Iran (1997)
+Internet Traffic Report – Iran Routers
+CIA FactBook (Iran Communications statistics)
+Iran and Space Communications – Globalsecurity.org
+Overview of e-commerce in Iran – Economist Intelligence Unit (2006)
+definition of consumer behavior/ – Economist behavior (2010)

@@ -1,0 +1,34 @@
+The Hinz BLT-ARA is a German homebuilt aircraft that was designed and produced by L and B Hinz of Filderstadt. When it was available the aircraft was supplied as in the form of plans and a 300-page builder's manual for amateur construction.
+
+
+== Design and development ==
+The BLT-ARA is a development of the earlier Hinz BL1-KEA which was first flown in 1989.The BLT-ARA features a cantilever low-wing, a two-seats-in-side-by-side configuration enclosed cockpit under a bubble canopy, T-tail, retractable conventional landing gear and a single engine in tractor configuration.The aircraft is made from fibreglass, using a moldless construction technique. Its 10.1 m (33.1 ft) span wing has a wing area of 12.0 m2 (129 sq ft). The wings and tailplane are detachable, similar to a glider's to allow ground transport or storage in a trailer. The cabin width is 101 cm (40 in). The acceptable power range is 90 to 110 hp (67 to 82 kW) and the standard engine used is the 95 hp (71 kW) Limbach L2400 powerplant.The BLT-ARA has a typical empty weight of 454 kg (1,001 lb) and a gross weight of 726 kg (1,601 lb), giving a useful load of 272 kg (600 lb). With full fuel of 100 litres (22 imp gal; 26 US gal) the payload for the pilot, passenger and baggage is 201 kg (443 lb).The manufacturer estimated the construction time from the supplied plans as 3000 hours.
+
+
+== Operational history ==
+By 1998 the company reported that 13 sets of plans had been sold.
+
+
+== Specifications (BLT-ARA) ==
+Data from AeroCrafterGeneral characteristics
+Crew: one
+Capacity: one passenger
+Length: 6.71 m (22 ft 0 in)
+Wingspan: 10.06 m (33 ft 0 in)
+Wing area: 12.0 m2 (129 sq ft)
+Empty weight: 454 kg (1,000 lb)
+Gross weight: 726 kg (1,600 lb)
+Fuel capacity: 100 litres (22 imp gal; 26 US gal)
+Powerplant: 1 × Limbach L2400 four cylinder, air-cooled, four stroke aircraft engine, 71 kW (95 hp)
+Propellers: 2-bladed compositePerformance
+
+Maximum speed: 270 km/h (168 mph, 146 kn)
+Cruise speed: 254 km/h (158 mph, 137 kn)
+Stall speed: 85 km/h (53 mph, 46 kn)
+Range: 1,600 km (1,000 mi, 870 nmi)
+Service ceiling: 5,500 m (18,000 ft)
+Rate of climb: 4.1 m/s (800 ft/min)
+Wing loading: 61 kg/m2 (12.4 lb/sq ft)
+
+
+== References ==

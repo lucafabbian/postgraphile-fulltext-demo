@@ -1,0 +1,107 @@
+The Pillai sequence is the sequence of integers that have a record number of terms in their greedy representations as sums of prime numbers (and one).
+It is named after Subbayya Sivasankaranarayana Pillai, who first defined it in 1930.It would follow from Goldbach's conjecture that every integer greater than one can be represented as a sum of at most three prime numbers. However, finding such a representation could involve solving instances of the subset sum problem, which is computationally difficult. Instead, Pillai considered the following simpler greedy algorithm for finding a representation of 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+   as a sum of primes: choose the first prime in the sum to be the largest prime 
+  
+    
+      
+        p
+      
+    
+    {\displaystyle p}
+   that is at most 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+  , and then recursively construct the remaining sum recursively for 
+  
+    
+      
+        n
+        −
+        p
+      
+    
+    {\displaystyle n-p}
+  .
+If this process reaches zero, it halts. And if it reaches one instead of zero,
+it must include one in the sum (even though it is not prime), and then halt.
+For instance, this algorithm represents 122 as 113 + 7 + 2, even though the shorter representations 61 + 61 or 109 + 13 are also possible.
+The 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+  th number in the Pillai sequence is the smallest number whose greedy representation as a sum of primes (and one) requires 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+   terms. These numbers are
+
+0, 1, 4, 27, 1354, 401429925999155061, ... (sequence A066352 in the OEIS)Each number 
+  
+    
+      
+        a
+        (
+        n
+        )
+      
+    
+    {\displaystyle a(n)}
+   in the sequence is the sum of the previous number 
+  
+    
+      
+        a
+        (
+        n
+        −
+        1
+        )
+      
+    
+    {\displaystyle a(n-1)}
+   with a prime number 
+  
+    
+      
+        p
+      
+    
+    {\displaystyle p}
+  , the smallest prime whose following prime gap is larger than 
+  
+    
+      
+        a
+        (
+        n
+        −
+        1
+        )
+      
+    
+    {\displaystyle a(n-1)}
+  . For instance, the number 27 in the sequence is 4 + 23, where the first prime gap larger than 4 is the one between 23 and 29.
+Because the prime numbers become less dense as they become larger (as quantified by the prime number theorem), there is always a prime gap larger than any term in the Pillai sequence, so the sequence continues to an infinite number of terms. However, the terms in the sequence grow very rapidly. It has been estimated that expressing the next term in the sequence would require "hundreds of millions of digits".
+
+
+== References ==

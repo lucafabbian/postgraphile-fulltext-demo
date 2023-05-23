@@ -1,0 +1,46 @@
+Sparse is a computer software tool designed to find possible coding faults in the Linux kernel. Unlike other such tools, this static analysis tool was initially designed to only flag constructs that were likely to be of interest to kernel developers, such as the mixing of pointers to user and kernel address spaces.
+Sparse checks for known problems and allows the developer to include annotations in the code that convey information about data types, such as the address space that pointers point to and the locks that a function acquires or releases.
+Linus Torvalds started writing Sparse in 2003. Josh Triplett was its maintainer from 2006, a role taken over by Christopher Li in 2009
+and by Luc Van Oostenryck in November 2018.
+Sparse is released under the MIT License.
+
+
+== Annotations ==
+Some of the checks performed by Sparse require annotating the source code using the __attribute__ GCC extension, or the Sparse-specific __context__ specifier. Sparse defines the following list of attributes:
+
+address_space(num)
+bitwise
+force
+context(expression,in_context,out_context)When an API is defined with a macro, the specifier __attribute__((context(...))) can be replaced by __context__(...).
+
+
+=== Linux kernel definitions ===
+The Linux kernel defines the following short forms as pre-processor macros in files linux/compiler.h and linux/types.h (when building without the __CHECKER__ flag, all these annotations are removed from the code):
+
+
+=== Examples ===
+The types __le32 and __be32 represent 32-bit integer types with different endianness. However, the C language does not allow to specify that variables of these types should not be mixed. The bitwise attribute is used to mark these types as restricted, so Sparse will give a warning if variables of these types or other integer variables are mixed:
+
+To mark valid conversions between restricted types, a casting with the force attribute is used to avoid Sparse giving a warning.
+
+
+== See also ==
+List of tools for static code analysis
+
+
+== References ==
+
+
+== Further reading ==
+Neil Brown (2016-06-08). "Sparse: a look under the hood". LWN.net. Retrieved 2021-11-26.
+Jonathan Corbet (2004-06-01). "Finding kernel problems automatically". LWN.net. Retrieved 2021-11-26.
+Doc Searls (2003-11-24). "Linus & the Lunatics, Part I". Linux Journal. Retrieved 2021-11-26.
+Subrata Modak; Balbir Singh; Yamato Masatake (2009). Putting LTP to test—Validating both the Linux kernel and Test-cases (PDF). Ottawa Linux Symposium 2009. pp. 209–220. Retrieved 2021-11-26.
+Daniel De Graaf (2010). Detection of Static Flaws in Changesets (PDF) (M.Sc. thesis). Ames, Iowa: Iowa State University. OCLC 665146513. Retrieved 2010-11-07.
+
+
+== External links ==
+Official documentation
+Using sparse for typechecking, Linux Kernel Documentation
+sparse(1): Semantic Parser for C – Linux User Manual – User Commands
+cgcc(1): Compiler wrapper to run Sparse after compiling – Linux User Manual – User Commands

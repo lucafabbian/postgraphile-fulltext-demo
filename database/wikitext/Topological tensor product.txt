@@ -1,0 +1,1379 @@
+In mathematics, there are usually many different ways to construct a topological tensor product of two topological vector spaces. For Hilbert spaces or nuclear spaces there is a simple well-behaved theory of tensor products (see Tensor product of Hilbert spaces), but for general Banach spaces or locally convex topological vector spaces the theory is notoriously subtle.
+
+
+== Motivation ==
+One of the original motivations for topological tensor products 
+  
+    
+      
+        
+          
+            
+              ⊗
+              ^
+            
+          
+        
+      
+    
+    {\displaystyle {\hat {\otimes }}}
+   is the fact that tensor products of the spaces of smooth functions on 
+  
+    
+      
+        
+          
+            R
+          
+          
+            n
+          
+        
+      
+    
+    {\displaystyle \mathbb {R} ^{n}}
+   do not behave as expected. There is an injection
+
+  
+    
+      
+        
+          C
+          
+            ∞
+          
+        
+        (
+        
+          
+            R
+          
+          
+            n
+          
+        
+        )
+        ⊗
+        
+          C
+          
+            ∞
+          
+        
+        (
+        
+          
+            R
+          
+          
+            m
+          
+        
+        )
+        ↪
+        
+          C
+          
+            ∞
+          
+        
+        (
+        
+          
+            R
+          
+          
+            n
+            +
+            m
+          
+        
+        )
+      
+    
+    {\displaystyle C^{\infty }(\mathbb {R} ^{n})\otimes C^{\infty }(\mathbb {R} ^{m})\hookrightarrow C^{\infty }(\mathbb {R} ^{n+m})}
+  but this is not an isomorphism. For example, the function 
+  
+    
+      
+        f
+        (
+        x
+        ,
+        y
+        )
+        =
+        
+          e
+          
+            x
+            y
+          
+        
+      
+    
+    {\displaystyle f(x,y)=e^{xy}}
+   cannot be expressed as a finite linear combination of smooth functions in 
+  
+    
+      
+        
+          C
+          
+            ∞
+          
+        
+        (
+        
+          
+            R
+          
+          
+            x
+          
+        
+        )
+        ⊗
+        
+          C
+          
+            ∞
+          
+        
+        (
+        
+          
+            R
+          
+          
+            y
+          
+        
+        )
+        .
+      
+    
+    {\displaystyle C^{\infty }(\mathbb {R} _{x})\otimes C^{\infty }(\mathbb {R} _{y}).}
+   We only get an isomorphism after constructing the topological tensor product; i.e.,
+
+  
+    
+      
+        
+          C
+          
+            ∞
+          
+        
+        (
+        
+          
+            R
+          
+          
+            n
+          
+        
+        )
+        
+          
+            
+              ⊗
+              ^
+            
+          
+        
+        ⁡
+        
+          C
+          
+            ∞
+          
+        
+        (
+        
+          
+            R
+          
+          
+            m
+          
+        
+        )
+        ≅
+        
+          C
+          
+            ∞
+          
+        
+        (
+        
+          
+            R
+          
+          
+            n
+            +
+            m
+          
+        
+        )
+      
+    
+    {\displaystyle C^{\infty }(\mathbb {R} ^{n})\mathop {\hat {\otimes }} C^{\infty }(\mathbb {R} ^{m})\cong C^{\infty }(\mathbb {R} ^{n+m})}
+  This article first details the construction in the Banach space case. 
+  
+    
+      
+        
+          C
+          
+            ∞
+          
+        
+        (
+        
+          
+            R
+          
+          
+            n
+          
+        
+        )
+      
+    
+    {\displaystyle C^{\infty }(\mathbb {R} ^{n})}
+   is not a Banach space and further cases are discussed at the end.
+
+
+== Tensor products of Hilbert spaces ==
+
+The algebraic tensor product of two Hilbert spaces A and B has a natural positive definite sesquilinear form (scalar product) induced by the sesquilinear forms of A and B. So in particular it has a natural positive definite quadratic form, and the corresponding completion is a Hilbert space A ⊗ B, called the (Hilbert space) tensor product of A and B.
+If the vectors ai and bj run through orthonormal bases of A and B, then the vectors ai⊗bj form an orthonormal basis of A ⊗ B.
+
+
+== Cross norms and tensor products of Banach spaces ==
+We shall use the notation from (Ryan 2002) in this section. The obvious way to define the tensor product of two Banach spaces 
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+   and 
+  
+    
+      
+        B
+      
+    
+    {\displaystyle B}
+   is to copy the method for Hilbert spaces: define a norm on the algebraic tensor product, then take the completion in this norm. The problem is that there is more than one natural way to define a norm on the tensor product.
+If 
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+   and 
+  
+    
+      
+        B
+      
+    
+    {\displaystyle B}
+   are Banach spaces the algebraic tensor product of 
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+   and 
+  
+    
+      
+        B
+      
+    
+    {\displaystyle B}
+   means the tensor product of 
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+   and 
+  
+    
+      
+        B
+      
+    
+    {\displaystyle B}
+   as vector spaces and is denoted by 
+  
+    
+      
+        A
+        ⊗
+        B
+        .
+      
+    
+    {\displaystyle A\otimes B.}
+   The algebraic tensor product 
+  
+    
+      
+        A
+        ⊗
+        B
+      
+    
+    {\displaystyle A\otimes B}
+   consists of all finite sums
+
+where 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+   is a natural number depending on 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+   and 
+  
+    
+      
+        
+          a
+          
+            i
+          
+        
+        ∈
+        A
+      
+    
+    {\displaystyle a_{i}\in A}
+   and 
+  
+    
+      
+        
+          b
+          
+            i
+          
+        
+        ∈
+        B
+      
+    
+    {\displaystyle b_{i}\in B}
+   for
+
+  
+    
+      
+        i
+        =
+        1
+        ,
+        …
+        ,
+        n
+        .
+      
+    
+    {\displaystyle i=1,\ldots ,n.}
+  
+When 
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+   and 
+  
+    
+      
+        B
+      
+    
+    {\displaystyle B}
+   are Banach spaces, a crossnorm (or cross norm) 
+  
+    
+      
+        p
+      
+    
+    {\displaystyle p}
+   on the algebraic tensor product 
+  
+    
+      
+        A
+        ⊗
+        B
+      
+    
+    {\displaystyle A\otimes B}
+   is a norm satisfying the conditions
+
+Here 
+  
+    
+      
+        
+          a
+          
+            ′
+          
+        
+      
+    
+    {\displaystyle a^{\prime }}
+   and 
+  
+    
+      
+        
+          b
+          
+            ′
+          
+        
+      
+    
+    {\displaystyle b^{\prime }}
+   are elements of the topological dual spaces of 
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+   and 
+  
+    
+      
+        B
+        ,
+      
+    
+    {\displaystyle B,}
+   respectively, and 
+  
+    
+      
+        
+          p
+          
+            ′
+          
+        
+      
+    
+    {\displaystyle p^{\prime }}
+   is the dual norm of 
+  
+    
+      
+        p
+        .
+      
+    
+    {\displaystyle p.}
+   The term reasonable crossnorm is also used for the definition above.
+There is a cross norm 
+  
+    
+      
+        π
+      
+    
+    {\displaystyle \pi }
+   called the projective cross norm, given by
+
+where 
+  
+    
+      
+        x
+        ∈
+        A
+        ⊗
+        B
+        .
+      
+    
+    {\displaystyle x\in A\otimes B.}
+  
+It turns out that the projective cross norm agrees with the largest cross norm ((Ryan 2002), proposition 2.1).
+There is a cross norm 
+  
+    
+      
+        ε
+      
+    
+    {\displaystyle \varepsilon }
+   called the injective cross norm, given by
+
+where 
+  
+    
+      
+        x
+        ∈
+        A
+        ⊗
+        B
+        .
+      
+    
+    {\displaystyle x\in A\otimes B.}
+   Here 
+  
+    
+      
+        
+          A
+          
+            ′
+          
+        
+      
+    
+    {\displaystyle A^{\prime }}
+   and 
+  
+    
+      
+        
+          B
+          
+            ′
+          
+        
+      
+    
+    {\displaystyle B^{\prime }}
+   denote the topological duals of 
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+   and 
+  
+    
+      
+        B
+        ,
+      
+    
+    {\displaystyle B,}
+   respectively.
+Note hereby that the injective cross norm is only in some reasonable sense the "smallest".
+The completions of the algebraic tensor product in these two norms are called the projective and injective tensor products, and are denoted by 
+  
+    
+      
+        A
+        
+          
+            
+              
+                ⊗
+                ^
+              
+            
+          
+          
+            π
+          
+        
+        ⁡
+        B
+      
+    
+    {\displaystyle A\operatorname {\hat {\otimes }} _{\pi }B}
+   and 
+  
+    
+      
+        A
+        
+          
+            
+              
+                ⊗
+                ^
+              
+            
+          
+          
+            ε
+          
+        
+        ⁡
+        B
+        .
+      
+    
+    {\displaystyle A\operatorname {\hat {\otimes }} _{\varepsilon }B.}
+  
+When 
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+   and 
+  
+    
+      
+        B
+      
+    
+    {\displaystyle B}
+   are Hilbert spaces, the norm used for their Hilbert space tensor product is not equal to either of these norms in general. Some authors denote it by 
+  
+    
+      
+        σ
+        ,
+      
+    
+    {\displaystyle \sigma ,}
+   so the Hilbert space tensor product in the section above would be 
+  
+    
+      
+        A
+        
+          
+            
+              
+                ⊗
+                ^
+              
+            
+          
+          
+            σ
+          
+        
+        ⁡
+        B
+        .
+      
+    
+    {\displaystyle A\operatorname {\hat {\otimes }} _{\sigma }B.}
+  
+A uniform crossnorm 
+  
+    
+      
+        α
+      
+    
+    {\displaystyle \alpha }
+   is an assignment to each pair 
+  
+    
+      
+        (
+        X
+        ,
+        Y
+        )
+      
+    
+    {\displaystyle (X,Y)}
+   of Banach spaces of a reasonable crossnorm on 
+  
+    
+      
+        X
+        ⊗
+        Y
+      
+    
+    {\displaystyle X\otimes Y}
+   so that if 
+  
+    
+      
+        X
+        ,
+        W
+        ,
+        Y
+        ,
+        Z
+      
+    
+    {\displaystyle X,W,Y,Z}
+   are arbitrary Banach spaces then for all (continuous linear) operators 
+  
+    
+      
+        S
+        :
+        X
+        →
+        W
+      
+    
+    {\displaystyle S:X\to W}
+   and 
+  
+    
+      
+        T
+        :
+        Y
+        →
+        Z
+      
+    
+    {\displaystyle T:Y\to Z}
+   the operator 
+  
+    
+      
+        S
+        ⊗
+        T
+        :
+        X
+        
+          ⊗
+          
+            α
+          
+        
+        Y
+        →
+        W
+        
+          ⊗
+          
+            α
+          
+        
+        Z
+      
+    
+    {\displaystyle S\otimes T:X\otimes _{\alpha }Y\to W\otimes _{\alpha }Z}
+   is continuous and 
+  
+    
+      
+        ‖
+        S
+        ⊗
+        T
+        ‖
+        ≤
+        ‖
+        S
+        ‖
+        ‖
+        T
+        ‖
+        .
+      
+    
+    {\displaystyle \|S\otimes T\|\leq \|S\|\|T\|.}
+   If 
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+   and 
+  
+    
+      
+        B
+      
+    
+    {\displaystyle B}
+   are two Banach spaces and 
+  
+    
+      
+        α
+      
+    
+    {\displaystyle \alpha }
+   is a uniform cross norm then 
+  
+    
+      
+        α
+      
+    
+    {\displaystyle \alpha }
+   defines a reasonable cross norm on the algebraic tensor product 
+  
+    
+      
+        A
+        ⊗
+        B
+        .
+      
+    
+    {\displaystyle A\otimes B.}
+   The normed linear space obtained by equipping 
+  
+    
+      
+        A
+        ⊗
+        B
+      
+    
+    {\displaystyle A\otimes B}
+   with that norm is denoted by 
+  
+    
+      
+        A
+        
+          ⊗
+          
+            α
+          
+        
+        B
+        .
+      
+    
+    {\displaystyle A\otimes _{\alpha }B.}
+   The completion of 
+  
+    
+      
+        A
+        
+          ⊗
+          
+            α
+          
+        
+        B
+        ,
+      
+    
+    {\displaystyle A\otimes _{\alpha }B,}
+   which is a Banach space, is denoted by 
+  
+    
+      
+        A
+        
+          
+            
+              
+                ⊗
+                ^
+              
+            
+          
+          
+            α
+          
+        
+        ⁡
+        B
+        .
+      
+    
+    {\displaystyle A\operatorname {\hat {\otimes }} _{\alpha }B.}
+   The value of the norm given by 
+  
+    
+      
+        α
+      
+    
+    {\displaystyle \alpha }
+   on 
+  
+    
+      
+        A
+        ⊗
+        B
+      
+    
+    {\displaystyle A\otimes B}
+   and on the completed tensor product 
+  
+    
+      
+        A
+        
+          
+            
+              
+                ⊗
+                ^
+              
+            
+          
+          
+            α
+          
+        
+        ⁡
+        B
+      
+    
+    {\displaystyle A\operatorname {\hat {\otimes }} _{\alpha }B}
+   for an element 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+   in 
+  
+    
+      
+        A
+        
+          
+            
+              
+                ⊗
+                ^
+              
+            
+          
+          
+            α
+          
+        
+        ⁡
+        B
+      
+    
+    {\displaystyle A\operatorname {\hat {\otimes }} _{\alpha }B}
+   (or 
+  
+    
+      
+        A
+        
+          ⊗
+          
+            α
+          
+        
+        B
+      
+    
+    {\displaystyle A\otimes _{\alpha }B}
+  ) is denoted by 
+  
+    
+      
+        
+          α
+          
+            A
+            ,
+            B
+          
+        
+        (
+        x
+        )
+        
+           or 
+        
+        α
+        (
+        x
+        )
+        .
+      
+    
+    {\displaystyle \alpha _{A,B}(x){\text{ or }}\alpha (x).}
+  
+A uniform crossnorm 
+  
+    
+      
+        α
+      
+    
+    {\displaystyle \alpha }
+   is said to be finitely generated if, for every pair 
+  
+    
+      
+        (
+        X
+        ,
+        Y
+        )
+      
+    
+    {\displaystyle (X,Y)}
+   of Banach spaces and every 
+  
+    
+      
+        u
+        ∈
+        X
+        ⊗
+        Y
+        ,
+      
+    
+    {\displaystyle u\in X\otimes Y,}
+  
+
+A uniform crossnorm 
+  
+    
+      
+        α
+      
+    
+    {\displaystyle \alpha }
+   is cofinitely generated if, for every pair 
+  
+    
+      
+        (
+        X
+        ,
+        Y
+        )
+      
+    
+    {\displaystyle (X,Y)}
+   of Banach spaces and every 
+  
+    
+      
+        u
+        ∈
+        X
+        ⊗
+        Y
+        ,
+      
+    
+    {\displaystyle u\in X\otimes Y,}
+  
+
+A tensor norm is defined to be a finitely generated uniform crossnorm. The projective cross norm 
+  
+    
+      
+        π
+      
+    
+    {\displaystyle \pi }
+   and the injective cross norm 
+  
+    
+      
+        ε
+      
+    
+    {\displaystyle \varepsilon }
+   defined above are tensor norms and they are called the projective tensor norm and the injective tensor norm, respectively.
+If 
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+   and 
+  
+    
+      
+        B
+      
+    
+    {\displaystyle B}
+   are arbitrary Banach spaces and 
+  
+    
+      
+        α
+      
+    
+    {\displaystyle \alpha }
+   is an arbitrary uniform cross norm then
+
+
+== Tensor products of locally convex topological vector spaces ==
+
+The topologies of locally convex topological vector spaces 
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+   and 
+  
+    
+      
+        B
+      
+    
+    {\displaystyle B}
+   are given by families of seminorms. For each choice of seminorm on 
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+   and on 
+  
+    
+      
+        B
+      
+    
+    {\displaystyle B}
+   we can define the corresponding family of cross norms on the algebraic tensor product 
+  
+    
+      
+        A
+        ⊗
+        B
+        ,
+      
+    
+    {\displaystyle A\otimes B,}
+   and by choosing one cross norm from each family we get some cross norms on 
+  
+    
+      
+        A
+        ⊗
+        B
+        ,
+      
+    
+    {\displaystyle A\otimes B,}
+   defining a topology. There are in general an enormous number of ways to do this. The two most important ways are to take all the projective cross norms, or all the injective cross norms. The completions of the resulting topologies on 
+  
+    
+      
+        A
+        ⊗
+        B
+      
+    
+    {\displaystyle A\otimes B}
+   are called the projective and injective tensor products, and denoted by 
+  
+    
+      
+        A
+        
+          ⊗
+          
+            γ
+          
+        
+        B
+      
+    
+    {\displaystyle A\otimes _{\gamma }B}
+   and 
+  
+    
+      
+        A
+        
+          ⊗
+          
+            λ
+          
+        
+        B
+        .
+      
+    
+    {\displaystyle A\otimes _{\lambda }B.}
+   There is a natural map from 
+  
+    
+      
+        A
+        
+          ⊗
+          
+            γ
+          
+        
+        B
+      
+    
+    {\displaystyle A\otimes _{\gamma }B}
+   to 
+  
+    
+      
+        A
+        
+          ⊗
+          
+            λ
+          
+        
+        B
+        .
+      
+    
+    {\displaystyle A\otimes _{\lambda }B.}
+  
+If 
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+   or 
+  
+    
+      
+        B
+      
+    
+    {\displaystyle B}
+   is a nuclear space then the natural map from 
+  
+    
+      
+        A
+        
+          ⊗
+          
+            γ
+          
+        
+        B
+      
+    
+    {\displaystyle A\otimes _{\gamma }B}
+   to 
+  
+    
+      
+        A
+        
+          ⊗
+          
+            λ
+          
+        
+        B
+      
+    
+    {\displaystyle A\otimes _{\lambda }B}
+   is an isomorphism. Roughly speaking, this means that if 
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+   or 
+  
+    
+      
+        B
+      
+    
+    {\displaystyle B}
+   is nuclear, then there is only one sensible tensor product of 
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+   and 
+  
+    
+      
+        B
+      
+    
+    {\displaystyle B}
+  .
+This property characterizes nuclear spaces.
+
+
+== See also ==
+Fréchet space – A locally convex topological vector space that is also a complete metric space
+Fredholm kernel – type of a kernel on a Banach spacePages displaying wikidata descriptions as a fallback
+Inductive tensor product – binary operation on topological vector spacesPages displaying wikidata descriptions as a fallback
+Injective tensor product
+Projective tensor product – tensor product defined on two topological vector spacesPages displaying wikidata descriptions as a fallback
+Projective topology – Coarsest topology making certain functions continuousPages displaying short descriptions of redirect targets
+Tensor product of Hilbert spaces – Tensor product space endowed with a special inner product
+
+
+== References ==
+
+Ryan, R.A. (2002), Introduction to Tensor Products of Banach Spaces, New York: Springer.
+Grothendieck, A. (1955), "Produits tensoriels topologiques et espaces nucléaires", Memoirs of the American Mathematical Society, 16.

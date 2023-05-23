@@ -1,0 +1,18 @@
+Decylcitrate synthase (EC 2.3.3.2) is an enzyme that catalyzes the chemical reaction in enzymology.
+
+lauroyl-CoA + H2O + oxaloacetate 
+  
+    
+      
+        ⇌
+      
+    
+    {\displaystyle \rightleftharpoons }
+   (2S,3S)-2-hydroxytridecane-1,2,3-tricarboxylate + CoAThe 3 substrates of this enzyme are lauroyl-CoA, H2O, and oxaloacetate, whereas its two products are (2S,3S)-2-hydroxytridecane-1,2,3-tricarboxylate and CoA.
+This enzyme belongs to the family of transferases, specifically those acyltransferases that convert acyl groups into alkyl groups on transfer.  The systematic name of this enzyme class is dodecanoyl-CoA:oxaloacetate C-dodecanoyltransferase (thioester-hydrolysing, 1-carboxyundecyl-forming). Other names in common use include 2-decylcitrate synthase, (2S,3S)-2-hydroxytridecane-1,2,3-tricarboxylate oxaloacetate-lyase, and (CoA-acylating).
+
+
+== References ==
+
+Mahlen A, Gatenbeck S (1968). "A metabolic variation in Penicillium spiculisporum Lehman. II Purification and some properties of the enzyme synthesizing (--)-decylcitric acid". Acta Chem. Scand. 22 (8): 2617–2623. doi:10.3891/acta.chem.scand.22-2617. PMID 5719165.
+Mahlen A (1971). "Properties of 2-decylcitrate synthase from Penicillium spiculisporum Lehman". Eur. J. Biochem. 22 (1): 104–114. doi:10.1111/j.1432-1033.1971.tb01520.x. PMID 5099208.

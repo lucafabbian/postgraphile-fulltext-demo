@@ -1,0 +1,52 @@
+The Saunders Severn was a three-engined biplane flying boat intended for maritime patrol duties.  It performed well but was fragile and unreliable.  Only one was built.
+
+
+== Design and development ==
+The Saunders A.7 Severn was the last flying boat designed by S.E. Saunders Ltd before the takeover by A.V. Roe and John Lord late in 1928 that produced the Saunders-Roe, or "Saro", company.  Its first flight was two years after this change of ownership and it has been alternatively referred to as the Saunders/Saro Severn, the Saunders-Roe A7 and the Saro A7.  It was designed to Air Ministry specification R.4/27 for a maritime patrol aircraft.
+It was the second Saunders aircraft to use their patented "corrugated" structure for the hull, first trialled on the Saunders A.14, in which longitudinal external corrugations in the skin replaced internal riveted stringers. Full trials of the A.14, revealing both the strengths and weaknesses of this technique were not made until after the Severn had flown.  Like the A.14 the Severn's construction largely avoided doubly curved hull plating, so the planing bottom was strictly V-shaped and the upper hull rather slab sided.  The hull was a two-step design with tumble-home sides above the chines.  There was a gunner's position in the nose and a side-by-side open cockpit for the pilots ahead of the engines and wing.  Behind the cockpit and within a windowed part of the hull were crew positions and accommodation, from which a dorsal gunner's position just aft of the wings could be accessed.  There was an isolated rear gunner's position at the extreme rear of the upswept rear fuselage, above the braced tailplane and between the two braced fins.  Twin balanced elevators projected beyond the tailplane and the fins carried balanced rudders.  Early flight trials showed the Severn to be heavy on rudder control, so separate servo-rudders were soon fixed on struts behind the main rudder surfaces.  It was also heavy on elevators, which were increased in area.The Severn was a three-engined sesquiplane, the lower wing having a span of only 58% of the upper one and about 52% of the chord.  This small lower wing was mounted just below the hull decking.  Both wings were made of fabric-covered duralumin.  The upper wing, which carried the ailerons, was joined at its centreline to the upper edges of the fuselage by a tandem pair of inverted V-struts, the forward one supporting the central engine, which was faired into the underside of the wing.  Single vertical struts held the outer engines in similar positions, with single inward-leaning struts at the rear.   There were outboard outwardly-splayed interplane struts with the braced stabilising single-stepped floats mounted below.  The three 490-hp (365 kW) Bristol Jupiter XI radial engines each had their nine uncowled cylinders forward of the wing leading edge, driving two-bladed propellers.
+
+
+== Operational history ==
+The Severn first flew in July 1930 and began a test programme with the Marine Aircraft Experimental Establishment (MAEE) at Felixstowe in August. This soon led to a reduction in tailplane area to reduce the Severn's excessive longitudinal stability.  That apart, the Severn's handling in the air and on water were found good, as was its performance.  It was let down by a long series of faults due to a combination of weight-saving design and a lack of attention to detail, which would have caused unacceptable serviceability problems in Service. Some of the faults were serious, like the failure of the central engine mounting and multiple cracks that appeared in the hull; others, like the breaking of brackets and the loss of wing inspection flaps were less serious but numerous.To explore the balance between good air and water performance and behaviour versus the expanding fault list, MAEE decided the Severn should go on a proving flight to the Near East.  This took the Severn and an accompanying Supermarine Southampton 6,530 miles via Port Sudan and included trials on Lake Timsah.  The conclusions were as before: the Severn performed well in the air and on the water, was seaworthy during a storm and returned without corrosion, but suffered from many problems both small and large. The second category included broken ribs and a servo-rudder kingpost and the conclusion was that this was not a practical aircraft for Service use, so no orders followed.  Nonetheless, the sole Severn served for about five months with No. 209 Squadron RAF after the end of the MAEE trials before it was lost in the English Channel.Saro learned from the experience and their next aircraft, the Saro London was considerably more robust.
+
+
+== Specifications ==
+Data from London 1988, p. 85General characteristics
+Crew: five
+Length: 64 ft 6 in (19.66 m)
+Wingspan: 88 ft 0 in (26.82 m)
+Height: 19 ft 3 in (5.87 m)
+Wing area: 1,557 sq ft (144.7 m2)
+Empty weight: 14,800 lb (6,713 kg)
+Gross weight: 22,000 lb (9,979 kg)
+Powerplant: 3 × Bristol Jupiter XIFP 9-cylinder air-cooled radial piston engines, 485 hp (362 kW)  each
+Propellers: 2-bladed fixed pitch wooden propellersPerformance
+
+Maximum speed: 126 mph (203 km/h, 109 kn)
+Cruise speed: 96 mph (154 km/h, 83 kn)
+Endurance: 6 hours
+Service ceiling: 8,930 ft (2,720 m)
+Rate of climb: 590 ft/min (3.0 m/s)Armament
+Guns: 3× 0.303 in (7.70 mm) Lewis guns
+Bombs: Four 550 lb (250 kg) bombs or eight 230 lb (100 kg) bombs
+
+
+== See also ==
+
+Related development
+
+Supermarine Southampton
+Saunders A.14
+Saro London
+
+Related lists
+
+List of aircraft of the Royal Air Force
+
+
+== References ==
+
+Notes
+Bibliography"Saunders-Roe A7", Flight (9 January 1931): 25–26
+"Saro A7", Flight (25 September 1931): 965
+London, Peter (1988), Saunders and Saro Aircraft since 1917, London: Putnam Publishing, ISBN 0-85177-814-3

@@ -1,0 +1,15 @@
+Number Theory: An Approach Through History from Hammurapi to Legendre is a book on the history of number theory, written by André Weil and published in 1984.The book reviews over three millennia of research on numbers but the key focus is on mathematicians from the 17th century to the 19th, in particular, on the works of the mathematicians Fermat, Euler, Lagrange, and Legendre paved the way for modern number theory. It does not discuss many of the developments in the field after the work of Gauss in Disquisitiones Arithmeticae. However, it does indicate some of the developments in fields which directly arise from these works, in particular, the theory of elliptic curves.
+
+
+== See also ==
+List of important publications in mathematics
+
+
+== References ==
+
+
+=== Footnotes ===
+
+
+=== Bibliography ===
+Number Theory, An Approach Through History from Hammurapi to Legendre by André Weil, Birkhäuser (December 2006) ISBN 978-0-8176-4565-6

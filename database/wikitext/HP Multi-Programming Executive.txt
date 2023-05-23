@@ -1,0 +1,27 @@
+MPE (Multi-Programming Executive) is a discontinued business-oriented mainframe computer real-time operating system made by Hewlett-Packard.  While initially a mini-mainframe, the final high-end systems supported 12 CPUs and over 2000 simultaneous users.
+
+
+== Description ==
+It runs on the HP 3000 family of computers, which originally used HP custom 16-bit stack architecture CISC CPUs and were later migrated to PA-RISC where the operating system was called MPE XL.
+In 1983, the original version of MPE was written in a language called SPL (System Programming Language). MPE XL was written primarily in Pascal, with some assembly language and some of the old SPL code.
+In 1992, the OS name was changed to MPE/iX to indicate Unix interoperability with the addition of POSIX compatibility. The discontinuance of the product line was announced in late 2001, with support from HP terminating at the end of 2010. A number of 3rd party companies still support both the hardware and software.
+In 2002 HP released the last version  MPE/iX 7.5.
+
+
+=== Commands ===
+Among others, MPE/iX supports the following list of common commands and programs.
+
+
+== See also ==
+HP 3000
+
+
+== References ==
+
+
+== External links ==
+Allegro Consultants, Inc. Free HP 3000 Software, MPE Software Support
+Beechglen Development Inc. MPE Software Support
+HP MPE/iX homepage
+HP MPE/iX Command reference
+openMPE Archived 2018-08-23 at the Wayback Machine Advocates of continued MPE and IMAGE source code access beyond 2010

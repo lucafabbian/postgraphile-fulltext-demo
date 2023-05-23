@@ -1,0 +1,69 @@
+The Portevin–Le Chatelier (PLC) effect describes a serrated stress–strain curve or jerky flow, which some materials exhibit as they undergo plastic deformation, specifically inhomogeneous deformation. This effect has been long associated with dynamic strain aging or the competition between diffusing solutes pinning dislocations and dislocations breaking free of this stoppage.The onset of the PLC effect occurs when the strain rate sensitivity becomes negative and inhomogeneous deformation starts. This effect also can appear on the specimen's surface and in bands of plastic deformation. This process starts at a so-called critical strain, which is the minimum strain needed for the onset of the serrations in the stress–strain curve. The critical strain is both temperature and strain rate dependent. The existence of a critical strain is attributed to better solute diffusivity due to the deformation created vacancies and increased mobile dislocation density. Both of these contribute to the instability in substitutional alloys, while interstitial alloys are only affected by the increase in mobile dislocation densities.
+
+
+== History ==
+While the effect is named after Albert Portevin and François Le Chatelier,  they were not the first to discover it. Félix Savart made the discovery when he observed non-homogeneous deformation during a tensile test of copper strips. He documented the physical serrations in his samples that are currently known as Portevin–Le Chatelier bands. A student of Savart, Antoine Masson, repeated the experiment while controlling for loading rate. Masson observed that under a constant loading rate, the samples would experience sudden large changes in elongation (as large as a few millimeters).
+
+
+== Underlying physics ==
+Much of the underlying physics of the Portevin-Le Chatelier effect lies in a specific case of solute drag creep. Adding solute atoms to a pure crystal introduces a size misfit into the system. This size misfit leads to restriction of dislocation motion.  At low temperature, these solute atoms are immobile within the lattice, but at high temperatures, the solute atoms become mobile and interact in a more complex manner with the dislocations. When solute atoms are mobile and the dislocation velocity is not too high, the solute atoms and dislocation can move together where the solute atom decreases the motion of the dislocation.The Portevin-Le Chatelier effect occurs in the specific case where solute drag creep is occurring and there is an applied stress, with a material dependent range, on the sample. The applied stress causes the velocity of the dislocations to increase, allowing the dislocation to move away from the solute. This process is commonly referred to as “breakaway”. Once the dislocation has moved away from the solute, the stress on it decreases which causes its velocity to decrease. This allows the solute atoms to “catch up” with the dislocation. As soon as the solute atom catches up, the stress on the dislocation significantly increases, causing the process to repeat.  
+The cyclic changes described above produce serrations in the plastic region of the stress strain diagram of a tensile test that is undergoing the Portevin-Le Chatelier effect. The variation in stress also causes non-homogeneous deformation to occur throughout the sample which can be visible to the naked eye through observation of a rough finish.
+
+
+== Conditions that affect the PLC effect ==
+
+
+=== Temperature ===
+Temperature affects both the speed of band propagation through the material and the critical strain. The speed of band propagation is proportional to the temperature (lower temp lower speeds, higher temp higher speeds). Often the critical strain will first decrease due to temperature.
+The temperature effect on the PLC regime is caused by the increased ability of the solutes to diffuse to the dislocations with increasing temperature.   Although the mechanism of diffusion is not entirely understood, it is believed that solute atoms diffuse by either volume (high temperature), by diffusion in stacking fault ribbons between partial dislocations (intermediate temperature) or pipe diffusion (low temperature).
+
+
+=== Strain rate ===
+While temperature is related to the rate of diffusion, strain rate determines the time the dislocations take to overcome these obstacles, and has a dramatic effect on the conditions of the PLC effect.  So generally, the critical stress will decrease with imposed strain rate. Also the higher the stress rate, the lower the band speed.
+
+
+=== Precipitates ===
+Precipitates, often found in Al alloys (especially of the Mg variety), complicate the PLC effect. Often these precipitates will cause the so-called inverse behavior, which changes the effect of both strain rate and temperature on the solid The presence of precipitates is shown to have an influence on the appearance and disappearance of serrations in the stress strain curve.
+
+
+=== Grain size ===
+The structure of the material, as well, has an effect on the appearance and parameters that describe the PLC effect. For example, the magnitude of the stress drops is larger with a smaller grain size. The critical strain often increases with larger grains, which is linked to the dependence of the dislocation density to grain size. Serration amplitude is greater in Al-Mg alloys for a finer grain size. There is a correlation between increasing the critical strain and the onset of serration with increasing grain size. But some findings indicate that the grain size has practically no effect on the band velocity or the band width.
+
+
+=== Material finish ===
+Polishing the material affects the beginning of the PLC effect and the band velocities. Apparently a rougher surface provides more nucleation points for high stress, which help initiate deformation bands. These bands also propagate twice as fast in the polished specimen.
+
+
+=== Non effects ===
+The number of vacancies does not directly affect the PLC start point. It was found that if a material is pre-strained to a value ½ of that required to initiate jerky flow, and then rested at the test temperature or annealed to remove vacancies (but low enough that the dislocation structure is not affected), then the total critical strain is only slightly decreased as well as the types of serrations that do occur.
+
+
+== Serrations descriptors ==
+While properties like strain rate sensitivity and critical strain mark the beginning of the PLC effect, people have developed a system to describe the serrations themselves. These types are often dependent on strain rate, temperature, and grain size. While usually the bands are labeled A, B, and C some sources have added a D and E type Bands. Because the type A, B, and C type bands are most found in literature they will be the only ones covered here. 
+
+
+=== Type A bands ===
+Type A bands are often seen at high strain rate and low temperatures. They are a random development of bands that form over the entire specimen. They are usually described as continuously propagating with small stress drops.
+
+
+=== Type B bands ===
+Type B bands are sometimes described as “hopping” bands and they appear at a medium  to high strain rates. They are often seen as each band forming ahead of the previous one in a spatially correlated way.  The serrations are more irregular with smaller amplitudes than type C.
+
+
+=== Type C bands ===
+C bands are often seen at low applied strain rate or high temperatures. These are identified with random nucleated static bands with large characteristic stress drops the serration.
+
+
+=== Other notes on band types ===
+The different types of bands are believed to represent different states of dislocation in the bands, and band types can change in a materials stress strain curve. Currently there are no models that can capture the change in band types Portevin-Le Chatelier (PLC) effect is a proof of non-uniform deformation of CuNi25 commercial alloys at intermediate temperature. In CuNi25 alloy it manifests itself as irregularities in the form of serrations on the stress–strain curve. It proves instability of force during tension and heterogeneity of microstructure and presence of many heterogeneous factors, affecting its mechanical properties.
+
+
+== Problems caused by the PLC effect ==
+Because the PLC effect is related to a strengthening mechanism, the strength of steel may increase; however, the plasticity and ductility of a material afflicted by the PLC effect decrease drastically. The PLC effect is known to induce blue brittleness in steel; additionally, the loss of ductility may cause rough surfaces to develop during deformation (Al-Mg alloys are especially susceptible to this), rendering them useless for autobody or casting applications.
+
+
+== References ==
+
+
+== See also ==
+Lüders band

@@ -1,0 +1,14 @@
+VB Watch is a Visual Basic programming utility. VB Watch consists of three tools for Visual Basic 6.0: Profiler, Protector and Debugger.
+
+
+== Profiler ==
+VB Watch Profiler measures the speed of a running Visual Basic program. It displays the time spent in each procedure and/or a line of code. This information can be used in code optimization to detect bottleneck procedures and lines. The Profiler can also be used to measure code coverage during software testing.
+
+
+== Debugger ==
+VB Watch Debugger monitors what happens inside a running Visual Basic program or library. It displays the call stack, execution trace, global variables and the number of live objects. 
+The Debugger also allows one to add breakpoints in executable files.
+
+
+== External links ==
+VB Watch home page

@@ -1,0 +1,61 @@
+Marie desJardins is an American computer scientist, known for her research on artificial intelligence and computer science education. She is also active in broadening participation in computing.
+
+
+== Biography ==
+DesJardins grew up in Columbia, Maryland. She received an A. B. in Engineering and Computer Science from Harvard University in 1985. 
+She received a Ph.D in Computer Science from University of Berkeley in 1992.
+In 1991 she joined SRI International, working in the Artificial
+Intelligence Center. In 2001 she joined the Department of Computer Science
+and Electrical Engineering 
+at the University of Maryland, Baltimore County as an Assistant Professor. While there she was
+promoted to Associate Professor in 2007 and to Professor in 2011. 
+In 2015, she was appointed Associate Dean for Academic Affairs in UMBC
+College of Engineering and Information Technology.  She left UMBC  in 2018 to become the Founding Dean of the College of
+Organizational, Computational, and Information Sciences  at
+Simmons University in Boston.
+
+
+== Career ==
+DesJardins has explored the effect of the network topology on the efficiency of
+team formation in multi-agent systems, showing that scale-free networks are
+often the most effective topologies for facilitating team formation and
+leading to the development of learning methods for agents to adapt their
+behavioral strategies.She has shown  the first approach to trust modeling that explicitly
+separates the effect of competence (that is, the degree to which an agent is
+able to carry out its commitments) and integrity (that is, the degree to which
+an agent is actually committed to complete its part of a joint action) on
+decision making. This framework was later extended  to incorporate reputation
+(indirect observations provided by third-party agents, with applications to
+online rating systems and supply chain formation.In many domains, when a set of items is presented as a collection, interactions between the items may increase (due to complementarity) or decrease (due to redundancy or incompatibility) the quality of the set as a whole. Although this “portfolio effect” had occasionally been mentioned in the literature, this work was the first to address this problem a general way, by modeling the tradeoff between the “depth” of the set (i.e., which characteristics of the individual items are seen as more or less desirable) and its “diversity” (i.e., how broadly or narrowly distributed the objects in the set are over their possible range).
+This work presented a heuristic method for taking advantage of taxonomies, or
+hierarchies of values, in Bayesian network learning by searching for the most
+effective level of abstraction within the taxonomy, discovering which
+distinctions are relevant for the input data, and ignoring the others.
+This process reduces the number of parameters that must be estimated, and
+simplifies the representation, while preserving the meaningful distinctions in
+the domain.This paper, presenting comprehensive advice to help graduate students navigate
+the process of earning an M.S. or Ph.D. and develop strong mentoring
+relationships, has been circulated widely to graduate students around the
+world and has been translated into multiple languages. It has also been published in IAPPP Communications (Winter 1995,
+no. 58) and excerpted in SHPE (the official magazine of the Society of
+Hispanic Professional Engineers), Winter 2000, and in IEEE Potentials (August/
+September 1996).
+
+
+== Awards ==
+In 2018, she became an AAAI Fellow and an AAAS Fellow in 2022.Her other notable awards include:
+
+Association for Computing Machinery Distinguished Member, 2011.
+A. Richard Newton Educator ABIE Award, Anita Borg Institute, 2017.
+American Council on Education Fellow, 2014-2015Distinguished Alumni Award in Computer Science, UC Berkeley, 2018
+UMBC Presidential Teaching Professor, 2014–2017
+American Crossword Puzzle Tournament: B Division champion and winner of Fifties age division, 2018
+CRA-E (Computing Research Association Education Committee) Undergraduate Research Faculty Mentoring Award, 2016.
+NCWIT (National Center for Women in Information Technology) Undergraduate Research Mentoring Award, 2014.
+
+
+== References ==
+
+
+== External links ==
+University of Maryland, Baltimore County: Marie desJardins, Department of Computer Science and Electrical Engineering

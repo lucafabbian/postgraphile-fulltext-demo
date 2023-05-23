@@ -1,0 +1,17 @@
+Coding Technologies AB was a Swedish technology company that pioneered the use of spectral band replication in Advanced Audio Coding. It is a major provider of audio compression technologies for digital broadcasting.
+
+
+== Background ==
+The company was founded in Stockholm, Sweden, in 1997 by Lars Liljeryd. A German subsidiary was formed in 2000 as Coding Technologies GmbH (later renamed Dolby Germany GmbH) with support from the research organization Fraunhofer IIS. The company also had offices in the United States and China.
+Coding Technologies was acquired by Dolby Laboratories in 2007 for $250 million in cash. Since then it was renamed to Dolby International AB.
+
+
+== Technologies ==
+Coding Technologies’ MPEG-2 AAC-derived codec, called aacPlus, was published in 2001 and submitted to the MPEG for standardization. The codec would become the MPEG-4 High-Efficiency AAC (HE-AAC) profile in 2003. XM Satellite Radio used aacPlus for its streams. aacPlus with Parametric stereo, called enhanced aacPlus, would become MPEG-4 HE-AACv2. The technology was adopted by Qualcomm in 2004, allowing it to be integrated into wireless handsets.Lars Liljeryd, Kristofer Kjörling, and Martin Dietz received the IEEE Masaru Ibuka Consumer Electronics Award in 2013 for their work at Coding Technologies, developing and marketing SBR-based audio coding.
+
+
+== External links ==
+Coding Technologies website (expired)
+
+
+== References ==

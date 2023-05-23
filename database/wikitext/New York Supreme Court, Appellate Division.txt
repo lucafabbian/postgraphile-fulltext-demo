@@ -1,0 +1,91 @@
+The Appellate Divisions of the Supreme Court of the State of New York are the intermediate appellate courts in New York State. 
+There are four Appellate Divisions, one in each of the state's four Judicial Departments (e.g., the full title of the "Fourth Department" is "Supreme Court of the State of New York, Appellate Division, Fourth Judicial Department").
+
+
+== Jurisdiction ==
+
+Each Appellate Division primarily hears appeals from the superior courts (Supreme Court, surrogate's courts, family courts, county courts, and Court of Claims) in civil cases, the Supreme Court in criminal cases, and the county courts in felony criminal cases in the Third and Fourth Judicial Departments. In addition, in civil cases it may hear appeals from the appellate terms of the Supreme Court when these courts have heard appeals from one of the lower trial courts.
+New York's rules of civil procedure allow for interlocutory appeals of right from nearly every order and decision of the trial court, meaning that most may be appealed to the appropriate appellate department while the case is still pending in the trial court.
+An Appellate Division may make decisions of law and fact with respect to its power to hear first appeals from state trial courts, including the Supreme Court and County Courts. These trial level courts exercise specific jurisdiction as conferred by law. In contrast, both the New York Court of Appeals and the Appellate Division when it sits as a final appeals court with respect to appeals arising from decisions of the Appellate Terms in the First and Second Departments, generally may only decide questions of law. The Appellate Division may adjudicate facts subject to specific constraints in the course of initial review of agency decisions under New York's CPLR Article 78, which provides for limited court review or agency and corporate decisions.
+Decisions of the Appellate Division department panels are binding on the lower courts in that department, and also on lower courts in other departments unless there is contrary authority from the Appellate Division of that department. If two different departments have made different rulings on the same issue, then the lower courts in each departmental area must follow the ruling made by the higher court for their particular department. This can sometimes result in the same law being applied differently in different departments. When this occurs, the highest court in the state, the Court of Appeals, can remedy the situation by hearing the case and issuing a single ruling, which is then binding on every court in the state. Every opinion, memorandum, and motion of the Appellate Division sent to the New York State Reporter of the New York State Law Reporting Bureau is required to be published in the Appellate Division Reports. Opinions of the appellate terms are published selectively in the Miscellaneous Reports.
+
+
+== Organization ==
+
+
+=== Departments ===
+The First Department (seated in Manhattan) covers The Bronx (Bronx County) and Manhattan (New York County). Justice Rolando Acosta has been the department's Presiding Justice since May 22, 2017.
+The Second Department (seated in Brooklyn) covers Queens (Queens County), Brooklyn (Kings County), Staten Island (Richmond County), Long Island (Nassau and Suffolk counties) and Dutchess, Orange, Putnam, Rockland and Westchester counties. This department is the largest by population. Justice Hector LaSalle has been the Presiding Justice since May 25, 2021.
+The Third Department (seated in Albany) includes an area extending from the territory of the Second Department north to New York's borders with Vermont and Quebec, and includes the cities of Albany, Troy, Schenectady, Saratoga Springs, and Binghamton. This territory extends nearly as far west as Syracuse. Hon. Elizabeth A. Garry has been the Presiding Justice since January 1, 2018.
+The Fourth Department (seated in Rochester) covers the remainder of the state (west of the Third Department's territory), and includes the cities of Buffalo, Rochester, and Syracuse. Hon. Gerald J. Whalen has been the Presiding Justice since January 7, 2016.
+
+
+=== Programs and agencies ===
+
+
+==== Attorneys and Counselors at Law ====
+In addition to hearing appeals in matters of law and equity, the Appellate Divisions regulate the admission of lawyers to the Bar and their conduct and discipline.
+Each department has a Character and Fitness Committee, whose members interview applicants in person for admission to the bar.
+Each department has Attorney Grievance Committees that investigates complaints of attorney misconduct and may issue reprimands or recommend censure, suspension, or disbarment to the Appellate Division.
+
+
+==== Protection of minors and the incapacitated ====
+At English common law, the Lord Chancellor, as the king's delegate to exercise the Crown's special jurisdiction, had responsibility for the custody and protection of infants and the mentally incapacitated. Revisions to the constitution in 1847 abolished the New York Court of Chancery and transferred the remainder of the king's prerogative to the New York Supreme Court.
+The Appellate Division regulates the panels of attorneys that represent children in family law proceedings in the appellate, Supreme, Family and Criminal Courts, and each department has an Office for Attorneys for Children (Originally named Law Guardian).
+Each department also has a Mental Hygiene Legal Service (MHLS) program. Since its creation by statute in 1964 as the Mental Health Information Service, the MHLS has served as the watchdog of the rights of the institutionalized mentally disabled in New York and has been recognized by the courts as essential to the state's statutory "protective shield of checks and balances" governing the admission, transfer and retention of psychiatric patients.
+Court Examiners are designated by each department to ascertain whether guardians appointed pursuant to the Mental Hygiene Law have complied with the order of appointment and have performed the duties specified.
+
+
+== Procedure ==
+Each case is decided by a panel of five, or in some instances four, justices of the Court. There is no procedure for the Court to sit en banc.
+Some basic rules governing appeals are found in Articles 55 and 57 of the New York Civil Practice Law and Rules, but they are not detailed enough to fully provide for a comprehensive system of appellate procedure. Prior to September 2018, and unlike other states that have statewide rules of appellate procedure, there was no set of appellate procedure rules shared by all four departments beyond the rudimentary set in the CPLR. Instead, each Appellate Division filled in the CPLR's gaps by promulgating its own individual set of rules governing more specific details of practice before that court. The result was considerable diversity in appellate procedure between the four Appellate Divisions, which extended to matters as basic as the form and formatting of appellate briefs, the deadline to perfect an appeal after filing of the notice of appeal, appellate motions, and oral argument.During the 2010s, this problem was studied at length by the New York State Bar Association, and the NYSBA's recommendations for reform came to the attention of Chief Judge Janet DiFiore. In June 2018, the Presiding Justices of the Appellate Divisions promulgated statewide Practice Rules of the Appellate Division, which became effective in September 2018 and are codified outside of the CPLR in 22 N.Y.C.R.R. Part 1250. The four Departments retain the ability to supplement (and even supersede) the uniform rules by promulgating rules of their own.
+
+
+=== Appeals from an Appellate Division ===
+Decisions by an Appellate Division may be appealed to the state's highest court, the New York Court of Appeals. In some cases, an appeal lies of right, but in most cases, permission (or "leave") to appeal must be obtained, either from the Appellate Division itself or from the Court of Appeals. In civil cases, the Appellate Division panel or Court of Appeals votes on petitions for leave to appeal; in most criminal cases, however, the petition for leave to appeal is referred to a single Justice or Judge, whose decision whether to grant or deny leave is final.
+
+
+=== Case management ===
+To keep caseloads under control, most Appellate Division opinions are extremely concise. Often, an Appellate Division panel will dispose of an entire case in only two paragraphs, with the second paragraph stating: "We have considered plaintiff's (or defendant's) remaining contentions and find them unavailing." In contrast, courts in most other states traditionally devote a few more paragraphs to disposing of the other "remaining contentions."
+
+
+== Appointment of justices ==
+
+Justices of the Appellate Divisions are chosen by the Governor from among those elected to the State Supreme Court. A justice does not have to have been elected from one of the judicial districts within a department to be appointed to the Appellate Division for that department, although the Presiding Justice and a majority of the total number of justices are to reside within the department. They serve at least five years, or until the completion of their 14-year elected terms, or reaching the constitutional age limit of 70, beyond which the governor may choose to reappoint them for up to three two-year terms.
+The State Constitution provides that the First and Second Department are each to comprise seven justices, and the Third and Fourth departments five justices. In addition to these "constitutional" justices, the presiding justice of each department may ask the Governor to designate "additional justices" where needed based on the court's workload. At present, for example, the First Department comprises 20 justices in total when there are no vacancies. The qualifications for additional Justices are the same as for other justices.
+
+
+== Administration of the courts ==
+Attorneys are admitted to the New York bar by one of the Appellate Division departments rather than by New York's highest court, the Court of Appeals, though once admitted to any of the Appellate Division departments, such attorney is admitted to practice and appear before all non-federal courts in the state, including the Court of Appeals. Applicants must be interviewed in person by a member of the court's "Character and Fitness Committee" after passing the New York State Bar Exam (since July 2016, the Uniform Bar Examination) and Multistate Professional Responsibility Examination administered by the New York State Board of Law Examiners. Applicants are admitted in the department in which they reside; applicants residing outside New York are admitted through the Third Department in Albany.
+Judges are regulated by the Rules Governing Judicial Conduct promulgated by the Chief Administrator, the Code of Judicial Conduct adopted by the New York State Bar Association, and the relevant rules of the respective Appellate Division departments. Attorneys are regulated by various state laws, the Rules of Professional Conduct (based on the ABA Model Rules of Professional Conduct), and rules adopted by each department of the Appellate Division. Each department of the Appellate Division has a committee that investigates complaints of attorney misconduct and may issue reprimands or recommend censure, suspension, or disbarment to the Appellate Division.
+
+
+== History ==
+The Appellate Divisions were created by the New York State Constitution of 1894 to succeed the General Term of the Supreme Court, effective January 1, 1896.
+
+
+== See also ==
+Judiciary of New York
+Judicial Conference of the State of New York
+Appellate Division Courthouse of New York State
+New York State Courts Electronic Filing System
+
+
+== References ==
+
+
+== Further reading ==
+
+
+== External links ==
+Appellate Divisions of the Supreme Court
+First Judicial Department
+Second Judicial Department
+Third Judicial Department
+Fourth Judicial Department
+Lower appellate courts
+First Judicial Department Appellate Term
+Second Judicial Department Appellate Term
+Supreme Court in the New York Codes, Rules and Regulations
+New York Slip Opinion Service from the New York State Law Reporting Bureau
+New York Official Reports Service from West

@@ -1,0 +1,60 @@
+The Mercury space suit (or Navy Mark IV) was a full-body, high-altitude pressure suit originally developed by the B.F. Goodrich Company and the U.S. Navy for pilots of high-altitude fighter aircraft.  It is best known for its role as the spacesuit worn by the astronauts of the Project Mercury spaceflights.
+The MK IV Full Pressure Suit ensemble was also used extensively by the US Navy from about 1959 through the early 1970s in aircraft such as the F-4 Phantom, A-3/A-5/RA-5C Vigilante, and F-8 Crusader.
+
+
+== Pre-Mercury development ==
+The suit was designed by Russell Colley (who designed and built the high-altitude pressure suit worn by aviator Wiley Post) as a means of providing an Earth-like atmosphere in the unpressurized high-altitude fighter jets developed by the U.S. Air Force and U.S. Navy after the Korean War. The Mark IV suit was first introduced in the late 1950s. Prior to the development of the Mark IV suit, the Navy developed different types of the Mark-series full-pressure suits, but all the suits before the Mark IV had problems with both mobility and weight.
+The Mark IV suit solved the mobility problems with the use of elastic cord which arrested the "ballooning" of the suit, and at 22 pounds (10.0 kg), was the lightest pressure suit developed for military use.  The most severe test of the suit occurred during the record-setting balloon flight of Malcolm Ross and Victor Prather in the Strato-Lab V unpressurized gondola to 113,740 feet (34,670 m) on May 4, 1961. With the advent of pressurized cockpits, and the David Clark Company's contract with the U.S. Air Force and the National Advisory Committee for Aeronautics (later NASA) for a full pressure suit for the X-15 rocket plane, the suit fell out of use.
+
+
+== Project Mercury ==
+
+When NASA began the Mercury Project in 1958, one of the first needs was a "space suit": a pressure suit to protect the astronaut in the event of a sudden depressurization of the cabin in the vacuum of space.  NASA tested both the Navy Mark IV suit and the X-15 high-altitude suit, and chose the Mark IV because it was less bulky than the David Clark suit, and could be easily modified for the new space role.
+The Mercury suit incorporated several changes from the Navy  Mark IV:
+
+Replacement of the "open loop" breathing system with a "closed loop" system, eliminating the rubber diaphragm around the wearer's face.  Oxygen entered the suit through a hose connected at the wearer's waist, circulated through the suit to provide cooling, and exited through a hose on the right side of the helmet, or through the face opening depending on whether the faceplate was closed or open. A small pressure bottle connected by a small hose to a connector next to the astronaut's left jaw was used to pressurize a pneumatic seal when the faceplate was closed.
+Replacement of the dark gray nylon outer shell with one made of aluminum-coated nylon, for thermal control purposes
+Replacement of the black leather safety boots with ones made first from white coated leather, later aluminumized nylon-coated  leather, again for thermal control.
+Introduction of straps and zippers to provide a snug fit, along with refinements in the shoulder, elbow, and knee retaining cords
+Special gloves with four curved fingers for grasping the controls, with the middle finger made straight for pushing buttons and flipping toggle switches. (In the book We Seven, the astronauts pointed out that the special design of the gloves allowed them to avoid the use of a "swizzle stick" for the buttons and switches.)
+A "biomed" flap on the right thigh for the connection of biomedical sensors to the spacecraft's telemetry systems.Each astronaut had three pressure suits: one for training, one for flight, and one for a backup.  All three suits cost US$20,000 total and unlike the military Mark IV suits, had to be individually tailored to each astronaut.
+No Mercury pressure suit ever failed during launch. No crewed Mercury capsule ever lost pressure during a mission, so the suits never needed to be inflated after launch. The only suit-related incident was an uncapped ventilation inlet valve which almost led to the drowning of astronaut Gus Grissom: at the end of the MR-4 mission the hatch cover blew off while in the Atlantic Ocean and the capsule began to fill with water, forcing Grissom to make an emergency exit without securing his suit for the recovery operations. The most frequent suit complaints of the astronauts were discomfort due to poor temperature control, and inability to turn the head within the pressurized suit.
+
+
+== Specifications ==
+
+Name:: Mercury Spacesuit
+Derived from: Navy Mark IV
+Manufacturer: B.F. Goodrich Company
+Missions: MR-3 to MA-9
+Function: Intra-vehicular activity (IVA)
+Pressure type:  Full
+Operating pressure: 3.7 pounds per square inch (26 kPa)
+Suit Weight: 22 lb (10 kg)
+Primary life support: Vehicle provided
+Backup life support: Vehicle provided
+
+
+== Later modifications ==
+After the MR-3 flight in May 1961, the Mercury pressure suit underwent several changes to incorporate improvements, mainly for comfort and mobility.  These changes included:
+
+Incorporation of wrist bearings and ring locks on the sleeves starting with Grissom's MR-4 suit.  Alan Shepard's MR-3 suit had gloves that were zippered onto the suit itself, preventing the astronaut from easily rotating his wrists to control the spacecraft's controllers.
+Incorporation of a urine collection device (UCD) starting with the MR-4 suit. Shepard, going through long countdown delays, had had to urinate into the heavy cotton underwear in his suit; the engineers had felt a UCD was not needed because the flight itself was to last only 15 minutes.
+Incorporation of a convex mirror, dubbed the "Hero Medal," on the chest of the astronauts so that the same onboard camera used to record the astronaut could also cover the instrument panel, eliminating the weight of a separate camera which had been used for this purpose on MR-3.  This was eliminated beginning with MA-8.
+After the near drowning of astronaut Gus Grissom during recovery operations after the MR-4 a small inflatable life vest was worn on the astronaut's chest.In preparation for the final Mercury mission, flown by Gordon Cooper, the suit underwent the most modifications, most notably the replacement of the leather boots with ones incorporated directly into the suit.  Other changes were made in the shoulder construction, along with the pressure helmet.  A new mechanical seal for the faceplate eliminated the need for the small pressure bottle and hose, and incorporated new microphones and an oral thermometer; the latter eliminated the rectal thermometer used on prior flights. Cooper wore neither the convex mirror or the life vest.  Shepard, who was Cooper's backup, had an identical flight and backup suit for the mission, and was to wear the modified suit for the cancelled MA-10 flight.  MA-9 was the last flight of the Mercury pressure suit.
+
+
+== Later use ==
+After Mercury, the pressure suit was used for the early development phases for the Gemini program, but because of the success of the X-15 high altitude pressure suit, the bigger room on the Gemini spacecraft, and the need to develop a suit for Extra-vehicular activity (EVA) outside the spacecraft, the Mercury suit was phased out of NASA service and was replaced with the basic G3C version of the X-15 suit.  Since then, NASA has used either the David Clark Company, ILC Dover, Hamilton Sundstrand, or Oceaneering International for all pressure and spacesuit needs.  B.F. Goodrich would only be used after Mercury for the production of the landing gear tires for the Space Shuttle, but this has since been done by Michelin.
+
+
+== References ==
+
+
+== External links ==
+
+Project Mercury wiki article on the Mercury pressure suit
+Stratolab, an Evolutionary Stratospheric Balloon Project article by Gregory Kennedy
+Astronautix Mercury Spacesuit Page
+Smithsonian's USN Mark IV suit
+Mark IV Model 3 Type I

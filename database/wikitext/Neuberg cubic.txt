@@ -1,0 +1,375 @@
+In Euclidean geometry, the Neuberg cubic is a special cubic plane curve associated with a reference triangle with several remarkable properties. It is named after Joseph Jean Baptiste Neuberg (30 October 1840 – 22 March 1926), a Luxembourger mathematician, who first introduced the curve in a paper published in 1884. The curve appears as the first item, with identification number K001, in Bernard Gilbert's Catalogue of Triangle Cubics which is a compilation of extensive information about more than 1200 triangle cubics.
+
+
+== Definitions ==
+
+The Neuberg cubic can be defined as a locus in many different ways. One way is to define it as a locus of a point P in the plane of the reference triangle △ABC such that, if the reflections of P in the sidelines of triangle △ABC are Pa, Pb, Pc, then the lines APa, BPb, CPc are concurrent. However, it needs to be proved that the locus so defined is indeed a cubic curve. A second way is to define it as the locus of point P such that if Oa, Ob, Oc are the circumcenters of triangles △BPC, △CPA, △APB, then the lines AOa, BOb, Oc are concurrent. Yet another way is to define it as the locus of P satisfying the following property known as the quadrangles involutifs (this was the way in which Neuberg introduced the curve):
+
+  
+    
+      
+        
+          
+            |
+            
+              
+                
+                  1
+                
+                
+                  B
+                  
+                    C
+                    
+                      2
+                    
+                  
+                  +
+                  A
+                  
+                    P
+                    
+                      2
+                    
+                  
+                
+                
+                  B
+                  
+                    C
+                    
+                      2
+                    
+                  
+                  ×
+                  A
+                  
+                    P
+                    
+                      2
+                    
+                  
+                
+              
+              
+                
+                  1
+                
+                
+                  C
+                  
+                    A
+                    
+                      2
+                    
+                  
+                  +
+                  B
+                  
+                    P
+                    
+                      2
+                    
+                  
+                
+                
+                  C
+                  
+                    A
+                    
+                      2
+                    
+                  
+                  ×
+                  B
+                  
+                    P
+                    
+                      2
+                    
+                  
+                
+              
+              
+                
+                  1
+                
+                
+                  A
+                  
+                    B
+                    
+                      2
+                    
+                  
+                  +
+                  C
+                  
+                    P
+                    
+                      2
+                    
+                  
+                
+                
+                  A
+                  
+                    B
+                    
+                      2
+                    
+                  
+                  ×
+                  C
+                  
+                    P
+                    
+                      2
+                    
+                  
+                
+              
+            
+            |
+          
+        
+        =
+        0
+      
+    
+    {\displaystyle {\begin{vmatrix}1&BC^{2}+AP^{2}&BC^{2}\times AP^{2}\\1&CA^{2}+BP^{2}&CA^{2}\times BP^{2}\\1&AB^{2}+CP^{2}&AB^{2}\times CP^{2}\end{vmatrix}}=0}
+  
+
+
+== Equation ==
+Let a, b, c be the side lengths of the reference triangle △ABC. Then the equation of the Neuberg cubic of △ABC in barycentric coordinates x : y : z is
+
+  
+    
+      
+        
+          ∑
+          
+            cyclic
+          
+        
+        [
+        
+          a
+          
+            2
+          
+        
+        (
+        
+          b
+          
+            2
+          
+        
+        +
+        
+          c
+          
+            2
+          
+        
+        )
+        −
+        (
+        
+          b
+          
+            2
+          
+        
+        −
+        
+          c
+          
+            2
+          
+        
+        
+          )
+          
+            2
+          
+        
+        −
+        2
+        
+          a
+          
+            4
+          
+        
+        ]
+        x
+        (
+        
+          c
+          
+            2
+          
+        
+        
+          y
+          
+            2
+          
+        
+        −
+        
+          b
+          
+            2
+          
+        
+        
+          z
+          
+            2
+          
+        
+        )
+        =
+        0
+      
+    
+    {\displaystyle \sum _{\text{cyclic}}[a^{2}(b^{2}+c^{2})-(b^{2}-c^{2})^{2}-2a^{4}]x(c^{2}y^{2}-b^{2}z^{2})=0}
+  
+
+
+== Other terminology: 21-point curve, 37-point curve ==
+
+In the older literature the Neuberg curve commonly referred to as the 21-point curve. The terminology refers to the property of the curve discovered by Neuberg himself that it passes through certain special 21 points associated with the reference triangle. Assuming that the reference triangle is △ABC, the 21 points are as listed below.
+The vertices A, B, C
+The reflections Aa, Bb, Cc of the vertices A, B, C in the opposite sidelines
+The orthocentre H
+The circumcenter O
+The three points Da, Db, Dc where Da is the reflection of A in the line joining Qbc and Qcb where Qbc is the intersection of the perpendicular bisector of AC with AB and Qcb is the intersection of the perpendicular bisector of AB with AC; Db and Dc are defined similarly
+The six vertices A', B', C', A", B", C" of the equilateral triangles constructed on the sides of triangle △ABC
+The two isogonic centers (the points X(13) and X(14) in the Encyclopedia of Triangle Centers)
+The two isodynamic points (the points X(15) and X(16) in the Encyclopedia of Triangle Centers)The attached figure shows the Neuberg cubic of triangle △ABC with all the above mentioned 21 special points on it.
+In a paper published in 1925, B. H. Brown reported his discovery of 16 additional special points on the Neuberg cubic making the total number of then known special points on the cubic 37. Because of this, the Neuberg cubic is also sometimes referred to as the 37-point cubic. Currently, a huge number of special points are known to lie on the Neuberg cubic. Gilbert's Catalogue has a special page dedicated to a listing of such special points which are also triangle centers.
+
+
+== Some properties of the Neuberg cubic ==
+
+
+=== Neuberg cubic as a circular cubic ===
+The equation in trilinear coordinates of the line at infinity in the plane of the reference triangle is
+
+  
+    
+      
+        a
+        x
+        +
+        b
+        y
+        +
+        c
+        z
+        =
+        0
+      
+    
+    {\displaystyle ax+by+cz=0}
+  There are two special points on this line called the circular points at infinity. Every circle in the plane of the triangle passes through these two points and every conic which passes through these points is a circle. The trilinear coordinates of these points are
+
+  
+    
+      
+        
+          
+            
+              
+              
+                cos
+                ⁡
+                B
+                +
+                i
+                sin
+                ⁡
+                B
+                :
+                cos
+                ⁡
+                A
+                −
+                i
+                sin
+                ⁡
+                A
+                :
+                −
+                1
+              
+            
+            
+              
+              
+                cos
+                ⁡
+                B
+                −
+                i
+                sin
+                ⁡
+                B
+                :
+                cos
+                ⁡
+                A
+                +
+                i
+                sin
+                ⁡
+                A
+                :
+                −
+                1
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}&\cos B+i\sin B:\cos A-i\sin A:-1\\&\cos B-i\sin B:\cos A+i\sin A:-1\end{aligned}}}
+  where 
+  
+    
+      
+        i
+        =
+        
+          
+            −
+            1
+          
+        
+      
+    
+    {\displaystyle i={\sqrt {-1}}}
+  . Any cubic curve which passes through the two circular points at infinity is called a circular cubic. The Neuberg cubic is a circular cubic.
+
+
+=== Neuberg cubic as a  pivotal isogonal cubic ===
+The isogonal conjugate of a point P with respect to a triangle △ABC is the point of concurrence of the reflections of the lines PA, PB, PC about the angle bisectors of A, B, C respectively. The isogonal conjugate of P is sometimes denoted by P*. The isogonal conjugate of P* is P. A self-isogonal cubic is a triangle cubic that is invariant under isogonal conjugation. A pivotal isogonal cubic is a cubic in which points P lying on the cubic and their isogonal conjugates are collinear with a fixed point Q known as the pivot point of the cubic. The Neuberg cubic is a pivotal isogonal cubic having its pivot at the intersection of the Euler line with the line at infinity. In Kimberling's Encyclopedia of Triangle Centers, this point is denoted by X(30).
+
+
+=== Neuberg cubic as a  pivotol orthocubic ===
+Let P be a point in the plane of triangle △ABC. The perpendicular lines at P to AP, BP, CP intersect BC, CA, AB respectively at Pa, Pb, Pc and these points lie on a line LP. Let the trilinear pole of LP be P⊥. An isopivotal cubic is a triangle cubic having the property that there is a fixed point P such that, for any point M on the cubic, the points P, M, M⊥ are collinear. The fixed point P is called the orthopivot of the cubic. The Neuberg cubic is an orthopivotal cubic with orthopivot at the triangle's circumcenter.
+
+
+== Additional reading ==
+Zvonko Čerin (1998). "Locus properties of the Neuberg cubic". Journal of Geometry. 63 (1–2): 39–56. doi:10.1007/BF01221237. S2CID 116778499. Retrieved 30 November 2021.
+T. W. Moore and J. H. Neelley (May 1925). "The Circular Cubic on Twenty-One Points of a Triangle". The American Mathematical Monthly. 32 (5): 241–246. doi:10.1080/00029890.1925.11986451. JSTOR 2299192. Retrieved 2 December 2021.
+Abdikadir Altintas, On Some Properties Of Neuberg Cubic
+Bernard Gilbert. "Neuberg Cubics" (PDF). Cubics in the Triangle Plane. Retrieved 2 December 2021.
+
+
+== References ==

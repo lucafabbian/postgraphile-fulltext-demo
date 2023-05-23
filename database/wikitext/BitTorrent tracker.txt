@@ -1,0 +1,66 @@
+A BitTorrent tracker is a special type of server that assists in the communication between peers using the BitTorrent protocol.
+In peer-to-peer file sharing, a software client on an end-user PC requests a file, and portions of the requested file residing on peer machines are sent to the client, and then reassembled into a full copy of the requested file. The "tracker" server keeps track of where file copies reside on peer machines, which ones are available at time of the client request, and helps coordinate efficient transmission and reassembly of the copied file. Clients that have already begun downloading a file communicate with the tracker periodically to negotiate faster file transfer with new peers, and provide network performance statistics; however, after the initial peer-to-peer file download is started, peer-to-peer communication can continue without the connection to a tracker.
+Modern BitTorrent clients may implement a distributed hash table and the peer exchange protocol to discover peers without trackers; however, trackers are still often included with torrents to improve the speed of peer discovery.
+
+
+== Public vs private trackers ==
+
+
+=== Public trackers ===
+Public or open trackers can be used by anyone by adding the tracker address to an existing torrent, or they can be used by any newly created torrent, like OpenBitTorrent. The Pirate Bay operated one of the most popular public trackers until disabling it in 2009 due to legal trouble, and thereafter offered only magnet links.
+
+
+=== Private trackers ===
+A private tracker is a BitTorrent tracker that restricts use by requiring users to register with the site. The method for controlling registration used among many private trackers is an invitation system, in which active and contributing members are given the ability to grant a new user permission to register at the site, or a new user goes through an interview process.
+
+
+== Legal issues ==
+
+
+== Legal uses ==
+
+There are several circumstances under which it is legal to distribute copyrighted material or parts thereof.
+
+Free distribution. Copyright holders may choose to allow free distribution of their works. Dedicated copyright licenses—usable by anyone who wants to upload their own material—are available for that purpose. Such licenses are often used in situations with large numbers of copyright holders, like in online communities. For example, the Creative Commons license family for free cultural works in text, audio, video or image format; or software licenses for Free Software / Open-source software like the BSD License and others. Wikipedia itself can be distributed via BitTorrent for the same reason.
+Public domain. Works that are in the public domain and therefore not (or no longer) subject to copyright law can also be legally distributed. For instance, Project Gutenberg regularly collects and publishes classical cultural works after their copyright has expired (which depends on the country in which the work was previously published).
+Fair use. Some countries also have fair use provisions in copyright law, which allow people the right to access and use certain classes of copyrighted material without breach of the law.There are also experiments that legally sell content that is distributed over BitTorrent using a "secure" tracker system.
+
+
+== Improving torrent reliability ==
+Trackers are the primary reason for a damaged BitTorrent "swarm". (Other reasons are mostly related to damaged or hacked clients uploading corrupt data.) The reliability of trackers has been improved through two main innovations in the BitTorrent protocol.
+
+
+=== Multi-tracker torrents ===
+Multi-tracker torrents contain multiple trackers in a single torrent file. This provides redundancy in the case that one tracker fails, the other trackers can continue to maintain the swarm for the torrent. One disadvantage to this is that it becomes possible to have multiple unconnected swarms for a single torrent where some users can connect to one specific tracker while being unable to connect to another. This can create a disjoint set which can impede the efficiency of a torrent to transfer the files it describes. Additional extensions such as Peer exchange and DHT mitigate this effect by rapidly merging otherwise disjoint graphs of peers.
+
+
+=== Trackerless torrents ===
+Vuze (formerly Azureus) was the first BitTorrent client to implement such a system through the distributed hash table (DHT) method. An alternative and incompatible DHT system, known as Mainline DHT, was developed simultaneously and later adopted by the BitTorrent (Mainline), μTorrent, Transmission, rTorrent, KTorrent, BitComet, and Deluge clients.
+Current versions of the official BitTorrent client, μTorrent, BitComet, Transmission and BitSpirit all share compatibility with Mainline DHT. Both DHT implementations are based on Kademlia. As of version 3.0.5.0, Vuze also supports Mainline DHT in addition to its own distributed database through use of an optional application plugin MainlineDHT Plugin. This potentially allows the Vuze client to reach a bigger swarm.
+Most BitTorrent clients also use Peer exchange (PeX) to gather peers in addition to trackers and DHT. Peer exchange checks with known peers to see if they know of any other peers. With the 3.0.5.0 release of Vuze, all major BitTorrent clients now have compatible peer exchange.
+
+
+== IPv6 support ==
+One of the options for this HTTP based tracker protocol is the "compact" flag. This flag, as defined in BEP 23, specifies that the tracker can compact the response by encoding IPv4 addresses as a set of 4 bytes (32 bits).
+IPv6 though are 128 bits long, and as such, the "compact" would break IPv6 support. To handle that situation clients and trackers must either avoid using compact announces over IPv6 or implement BEP 07
+
+
+== Software ==
+
+opentracker from Dirk Engling powered one of the biggest BitTorrent trackers, The Pirate Bay tracker.
+qBittorrent is an open source BitTorrent client with a built-in tracker support.
+BitTorious is an open source, commercially supported tracker with integrated web-based management portal.
+
+
+== See also ==
+ArenaBG
+BitTorrent (protocol)
+BitTorrent client
+Comparison of BitTorrent tracker software
+Comparison of BitTorrent sites
+Bram Cohen
+Distributed hash table
+UDP tracker
+
+
+== References ==

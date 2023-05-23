@@ -1,0 +1,22 @@
+RenderX, Inc is a commercial software development company that provides standards-based software products, used for typeset-quality electronic and print output of business content. RenderX develops products that convert XML content into printable formats such as PDF, PostScript and AFP.
+
+
+== History ==
+RenderX started as a company to promote open standards in general and XSL-FO in particular, participating in a contest announced by Sun and Adobe. Later the contest was cancelled but the company decided to proceed anyway.
+
+
+== Contribution to XSL-FO community ==
+The company has devised a DTD for XSL-FO documents and holds three patents of converting XML to PDF. RenderX is one of the 335 members of the World Wide Web Consortium and a contributor to OASIS.
+
+
+== Products ==
+RenderX's main product is a Java-based XSL-FO formatting engine called XEP, which converts XSL-FO documents to printable form (PDF or PostScript). XEP is free for academic and personal use.
+XEP conforms to Extensible Stylesheet Language (XSL), a W3C recommendation. It also supports a subset of the Scalable Vector Graphics (SVG).
+
+
+== References ==
+
+
+== External links ==
+RenderX corporate website
+Use the flexibility of XEP to render and publish XML presentations

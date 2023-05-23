@@ -1,0 +1,69 @@
+The Mirror for Magistrates is a collection of English poems from the Tudor period by various authors which retell the lives and the tragic ends of various historical figures.
+
+
+== Background ==
+This work was conceived as a continuation of the Fall of Princes by the 15th century poet John Lydgate. Lydgate's work was in turn inspired by Giovanni Boccaccio's De Casibus Virorum Illustrium ("Concerning the Falls of Illustrious Men") and the other significant work of exemplary literature in English: The Monk's Tale by Geoffrey Chaucer. The title refers to holding a mirror up to the actions of famous people and reflecting their deeds so that magistrates and other people in important positions can learn from their errors. Most of the poems take the form of ghosts examining themselves and their deeds in front of a mirror. Similar titles were popular in the middle ages and there were numerous other works which presented themselves as a speculum (Latin for "mirror") chief among them the Speculum Maius by Vincent de Beauvais, who lived during the time.
+
+
+== Contributors ==
+William Baldwin and George Ferrers were the first editors of the work and the principal contributors. Between them they are credited with writing fifteen of the nineteen lives which made up the work when it was published in 1559 by Thomas Marsh, although some of the lives are unsigned and are only conjectured to be written by them. Other contributing poets include: Thomas Phaer, Thomas Chaloner and Thomas Churchyard, with one poem supposedly by John Skelton despite his having died thirty years before. There are also some links in prose between the poems, conversations between the poets themselves which mention several other noble lives. Baldwin also sets forth his reasons for beginning the work:
+
+When the printer had purposed with hym selfe to printe Lidgate’s booke of the fall of Princes, and had made privye thereto, many both honourable and worshipfull, he was counsailed by dyvers of them, to procure to have the storye contynewed from where as Bochas [Boccaccio] lefte, unto this presente time, chiefly of such as Fortune had dalyed with here in this ylande…which advice liked him so well, that hee requyred mee to take paynes therein.
+
+
+== Editions ==
+A first edition of the work was compiled as early as 1555 by the publisher John Weyland, but only the title page remains, attached to his edition of Lydgate. Weyland was apparently denied a licence to publish by the Lord Chancellor Stephen Gardiner effectively suppressing the work and putting the publisher out of business. Baldwin in a later printing commented that:
+
+"The wurke was begun & part of it printed iiii years agoe, but hyndred by the Lord Chancellor that then was."Gardiner died the same year but the work was still not immediately published. This was a difficult time in England during the reign of Mary I when most works were suspected of having a political subtext. Poems dealing with the mistakes of the nobility of the preceding age were bound to be controversial, either by insulting the ancestors of the ruling class or, under the pretext of criticism, subtly praising the regime's political enemies.
+The accession of Queen Elizabeth I, which brought with it a change in the country's religion, allowed the publication of the 1559 edition. Despite press restrictions easing under the new queen the subject was still difficult. Baldwin's original plan, inferred from clues in the extant poems, seems to have been to write three volumes of lives: up to the reign of Edward VI, up to the reign of Richard III of England and lastly lives up to the reign of Mary. Although it appears that the work was well received Baldwin did not continue the plan. Whether this was due to ill health—he probably died around 1563—or because the recent lives were more controversial, is uncertain, but it is significant that the next major expansion of the work confined itself mainly to the ancient past.
+Traditionally the impetus and planning for the entire work has been ascribed to Thomas Sackville. As he was only eighteen years old at the time of the first edition this seems unlikely, and he is listed as a contributor only in the third edition of 1563. The reason for Sackville receiving much of the credit for the work is in part that he was the most famous of the writers to work on the Mirror but also because his contributions, Induction and The Complaint of Henry Duke of Buckingham, are often the only ones regarded as having any lasting literary merit. Another reason for the ascription to Sackville is due to the reorganisations the work underwent in later editions, giving accidental prominence to Sackville's sections and confusing later readers.
+
+The edition of 1563 contained only eight extra lives and of these at least one is known to have been written around the time of the earlier poems but left out when they were published. The next edition in 1574 was printed again by Thomas Marsh with the editor and main author being John Higgins. Confusingly the new edition was named The first parte of the Mirour for Magistrates as it dealt with much earlier lives which were placed before the poems of the previous editions. Whilst the poetic style is markedly similar to the other poems, Higgins is seen as a much inferior poet and he greatly changed the focus of the work.
+The critical assessment of the lives of people from recent history which was evident in the compositions of Baldwin's and his contemporary writers, gave way to mostly laudatory accounts of the distant legends of the early Britons. What was once a politically contentious book, examining lives offering warnings to the present on the errors of the past, was now a work displaying national pride in England's history; many of which were taken from the largely mythical Historia Regum Britanniae. This focus on England's supposed glorious past and often defiance of Rome had much to do with the country being alienated from much of the rest of Europe because of its Protestant religion.
+Thomas Blenerhasset, in 1578, took it upon himself to write another collection of lives of ancient Britons but as this was with a different printer it did not include the previous poems. Because this work robbed Higgins of British material for his next edition, the majority of the new lives printed in 1587 were noble Romans. He also include a couple of poems by Francis Dingley: Flodden Field and Lamentation of James IV. By the 1610 edition the once popular Mirror had fallen out of fashion and its reputation was tarnished even more by the poor editing skills of Richard Niccols. He incorporated most of Blenerhasset's work but removed numerous lives and most of the links in prose between the poems. Why some of the lives were removed is unclear but some clearly might have embarrassed the new Scottish ruling class of the new king James I. He also added ten of his own poems including a more patriotic account of Alfred the Great to replace Blenerhasset's poem, which focused on Alfred being destroyed by lust, and England’s Eliza a homage to the late queen.
+Ignoring the omissions of the Niccols edition, the entire work contained almost one hundred lives, covering the period from Albanact in 1085 BC to Elizabeth in 1603 and written over 60 years. Whilst the work was dismissed and largely forgotten after 1610 the lives from the Baldwin era were popular and highly regarded during the Tudor period. Philip Sidney, mentions the work in his Defence of Poesy, saying that it was "meetly furnished of beautiful parts". The influence of the work was evident in many contemporary works such as Albion's England by the poet William Warner and Cromwell by Michael Drayton which was actually included in the 1610 edition. It was also significant for its development of the form of tragedy in English literature, with Higgins' story of Lier and Cordila providing a source for Shakespeare's King Lear.
+
+
+== Modern reception ==
+Most later critics, if they mention the work at all, can not avoid pointing out its many faults. Often only Sackville's contribution is regarded as worthy of preservation. Many of the other poems are told in a dull, didactic tone and Edmund Gosse, writing in 1913, whilst offering guarded praise, said "…the unflinching poetasters grind out in their monotonous rime royal…"
+
+
+== The lives of the various editions ==
+What follows is a list of the lives added in the principal editions of the Mirror for Magistrates:
+
+
+=== 1559 ===
+Robert Tresilian, Roger Mortimer, Thomas, Duke of Gloucester, Thomas Mowbrey, Richard II, Owain Glyndŵr, Henry Percy, Richard, Earl of Cambridge, Thomas, Earl of Salisbury, James I of Scotland, William de la Pole, Jack Cade, Richard, Duke of York, John Clifford, John Tiptoft, Richard, Earl of Warwick, Henry VI, George, Duke of Clarence, Edward IV
+Story in prose of Humphrey, Duke of Gloucester and his wife Eleanor Cobham
+
+
+=== 1563 ===
+Anthony Woodville, William Hastings, Henry, Duke of Buckingham, William Collingbourne, Richard III, Shore’s Wife (Jane Shore), Edmund Beaufort and the Blackesmith (Lord Audley)
+
+
+=== 1574 ===
+Albanactus, Humber, Locrinus, Estrildis, Sabrine daughter of Estrildis, Maddan, Malin son of Maddan, Mempricius, Bladud, Cordila, Morgan, Forrex, Porrex, Kimarus, Morindus, Nennius and in a 1575 copy Irenglas
+
+
+=== 1578 ===
+Guidericus, Carassus, Helena, Vortiger, Uther Pendragon, Cadwallader, Sigebert, Lady Ebbe, Alurede, Egelrede, Edric and Harold
+
+
+=== 1587 ===
+Iago, Pinnar, Stater, Rudacke, Brennus, Emerianus, Chirinnus, Varianus, Julius Caesar, Tiberius, Caligula, Guiderius, Lelius Hamo, Claudius, Nero, Galba, Otho, Vitellius, Londricus, Severus, Fulgentius a Pict, Geta, Caracalla, Nicholas Burdet, James IV, Flodden Field and Cardinal Wolsey
+
+
+=== 1610 ===
+Arthur, Edmund Ironside, Alfred, Godwin, Robert Curthose, Richard I, John, Edward II, Edward V, Richard III and Elizabeth
+
+
+== References ==
+
+Budra, Paul, Mirror for Magistrates and the De Casibus Tradition (2000) University of Toronto Press Inc. ISBN 0-8020-4717-3
+Ward and Trent, eds. et al. 1907-1921. The Cambridge history of English and American literature: An encyclopedia in eighteen volumes.  Retrieved 14 October 2006.
+
+
+== External links ==
+The Mirror for Magistrates parts I & II, poor quality scan of the first volume of an 1815 edition from Google Books
+Induction by Thomas Sackville
+Parts from the modernized and annotated edition by Scott C. Lucas (Cambridge U.P. 2019) at Google Books

@@ -1,0 +1,13 @@
+Microfrontends (singular: microfrontend) is a front-end web development pattern in which a single application may be built from disparate builds. It is analogous to a microservices approach but for client-side single-page applications written in JavaScript. It is a solution to de-composition and routing for multiple front-end applications.Microfrontends (MFE) can be built using the following three approaches:
+
+With module federation
+With Web Components
+With iframesCompanies that use microfrontends are IKEA, Spotify etc.For Webpack this concept is referred to as module federation.
+
+
+== See also ==
+Microservices
+Software modernization
+
+
+== References ==

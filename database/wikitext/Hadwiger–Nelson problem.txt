@@ -1,0 +1,87 @@
+In geometric graph theory, the Hadwiger–Nelson problem, named after Hugo Hadwiger and Edward Nelson, asks for the minimum number of colors required to color the plane such that no two points at distance 1 from each other have the same color. The answer is unknown, but has been narrowed down to one of the numbers 5, 6 or 7. The correct value may depend on the choice of axioms for set theory.
+
+
+== Relation to finite graphs ==
+The question can be phrased in graph theoretic terms as follows. Let G be the unit distance graph of the plane: an infinite graph with all points of the plane as vertices and with an edge between two vertices if and only if the distance between the two points is 1. The Hadwiger–Nelson problem is to find the chromatic number of G. As a consequence, the problem is often called "finding the chromatic number of the plane". By the de Bruijn–Erdős theorem, a result of de Bruijn & Erdős (1951), the problem is equivalent (under the assumption of the axiom of choice) to that of finding the largest possible chromatic number of a finite unit distance graph.
+
+
+== History ==
+According to Jensen & Toft (1995), the problem was first formulated by Nelson in 1950, and first published by Gardner (1960). Hadwiger (1945) had earlier published a related result, showing that any cover of the plane by five congruent closed sets contains a unit distance in one of the sets, and he also mentioned the problem in a later paper (Hadwiger 1961).  Soifer (2008) discusses the problem and its history extensively.
+One application of the problem connects it to the Beckman–Quarles theorem, according to which any mapping of the Euclidean plane (or any higher dimensional space) to itself that preserves unit distances must be an isometry, preserving all distances. Finite colorings of these spaces can be used to construct mappings from them to higher-dimensional spaces that preserve distances but are not isometries. For instance, the Euclidean plane can be mapped to a six-dimensional space by coloring it with seven colors so that no two points at distance one have the same color, and then mapping the points by their colors to the seven vertices of a six-dimensional regular simplex with unit-length edges. This maps any two points at unit distance to distinct colors, and from there to distinct vertices of the simplex, at unit distance apart from each other. However, it maps all other distances to zero or one, so it is not an isometry. If the number of colors needed to color the plane could be reduced from seven to a lower number, the same reduction would apply to the dimension of the target space in this construction.
+
+
+== Lower and upper bounds ==
+The fact that the chromatic number of the plane must be at least four follows from the existence of a seven-vertex unit distance graph with chromatic number four, named the Moser spindle after its discovery in 1961 by the brothers William and Leo Moser. This graph consists of two unit equilateral triangles joined at a common vertex, x. Each of these triangles is joined along another edge to another equilateral triangle; the vertices y and z of these joined triangles are at unit distance from each other. If the plane could be three-colored, the coloring within the triangles would force y and z to both have the same color as x, but then, since y and z are at unit distance from each other, we would not have a proper coloring of the unit distance graph of the plane. Therefore, at least four colors are needed to color this graph and the plane containing it. An alternative lower bound in the form of a ten-vertex four-chromatic unit distance graph, the Golomb graph, was discovered at around the same time by Solomon W. Golomb.The lower bound was raised to five in 2018, when computer scientist and biologist Aubrey de Grey found a 1581-vertex, non-4-colourable unit-distance graph. The proof is computer assisted. Mathematician Gil Kalai and computer scientist Scott Aaronson posted discussion of de Grey's finding, with Aaronson reporting independent verifications of de Grey's result using SAT solvers. Kalai linked additional posts by Jordan Ellenberg and Noam Elkies, with Elkies and (separately) de Grey proposing a Polymath project to find non-4-colorable unit distance graphs with fewer vertices than the one in de Grey's construction. As of 2021, the smallest known unit distance graph with chromatic number 5 has 509 vertices. The page of the Polymath project, Polymath (2018), contains further research, media citations and verification data.
+The upper bound of seven on the chromatic number follows from the existence of a tessellation of the plane by regular hexagons, with diameter slightly less than one, that can be assigned seven colors in a repeating pattern to form a 7-coloring of the plane. According to Soifer (2008), this upper bound was first observed by John R. Isbell.
+
+
+== Variations ==
+The problem can easily be extended to higher dimensions. Finding the chromatic number of 3-space is a particularly interesting problem. As with the version on the plane, the answer is not known, but has been shown to be at least 6 and at most 15.In the n-dimensional case of the problem, an easy upper bound on the number of required colorings found from tiling n-dimensional cubes is 
+  
+    
+      
+        ⌊
+        2
+        +
+        
+          
+            n
+          
+        
+        
+          ⌋
+          
+            n
+          
+        
+      
+    
+    {\displaystyle \lfloor 2+{\sqrt {n}}\rfloor ^{n}}
+  . A lower bound from simplexes is 
+  
+    
+      
+        n
+        +
+        1
+      
+    
+    {\displaystyle n+1}
+  . For 
+  
+    
+      
+        n
+        >
+        1
+      
+    
+    {\displaystyle n>1}
+  , a lower bound of 
+  
+    
+      
+        n
+        +
+        2
+      
+    
+    {\displaystyle n+2}
+   is available using a generalization of the Moser spindle: a pair of the objects (each two simplexes glued together on a facet) which are joined on one side by a point and the other side by a line. An exponential lower bound was proved by Frankl and Wilson in 1981.One can also consider colorings of the plane in which the sets of points of each color are restricted to sets of some particular type. Such restrictions may cause the required number of colors to increase, as they prevent certain colorings from being considered acceptable. For instance, if a coloring of the plane consists of regions bounded by Jordan curves, then at least six colors are required.
+
+
+== See also ==
+Four color theorem
+
+
+== Notes ==
+
+
+== References ==
+
+
+== External links ==
+O'Rourke, Joseph, "Problem 57: Chromatic Number of the Plane", The Open Problems Project
+Mohar, Bojan (2001), The chromatic number of the Unit Distance Graph
+Kalai, Gil (2018), Coloring Problems for Arrangements of Circles (and Pseudocircles)
+Grime, James (February 27, 2019), "A Colorful Unsolved Problem", Numberphile, archived from the original on 2021-12-21

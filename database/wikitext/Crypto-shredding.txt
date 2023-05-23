@@ -1,0 +1,35 @@
+Crypto-shredding is the practice of 'deleting' data by deliberately deleting or overwriting the encryption keys. 
+This requires that the data have been encrypted. Data may be considered to exist in three states: data at rest, data in transit and data in use. General data security principles, such as in the CIA triad of confidentiality, integrity, and availability, require that all three states must be adequately protected.
+Deleting data at rest on storage media such as backup tapes, data stored in the cloud, computers, phones, or multi-function printers can present challenges when confidentiality of information is of concern. When encryption is in place, data disposal is more secure.
+
+
+== Motivations for use ==
+There are various reasons for using crypto-shredding, including when the data is contained in defective or out-of date systems, there is no further use for the data, the circumstances are such that there are no [longer] legal rights to use or retain the data, and other similar motivations. Legal obligations may also come from regulations such as the right to be forgotten, the General Data Protection Regulation, and others. Data security is largely influenced by confidentiality and privacy concerns.
+
+
+== Use ==
+In some cases all data storage is encrypted, such as encrypting entire harddisks, computer files, or databases. Alternatively only specific data may be encrypted, such as passport numbers, social security numbers, bank account numbers, person names, or record in a databases. Additionally, data in one system may be encrypted with separate keys when that same data is contained in multiple systems.
+When specific pieces of data are encrypted (possibly with different keys) it allows for more specific data shredding. There is no need to have access to the data (like an encrypted backup tape), only the encryption keys need to be shredded.
+
+
+=== Example ===
+iOS devices and Macintosh computers with an Apple T2 or Apple silicon chip use crypto-shredding when performing the "Erase all content and settings" action by discarding all the keys in 'effaceable storage'. This renders all user data on the device cryptographically inaccessible, in a very short amount of time.
+
+
+== Best practices ==
+Storing encryption keys securely is important for shredding to be effective. For instance, shredding has no effect when a symmetric or asymmetric encryption key has already been compromised. A Trusted Platform Module is meant to address this issue. A hardware security module is considered one of the most secure ways to use and store encryption keys.
+Bring your own encryption refers to a cloud computing security model to help cloud service customers to use their own encryption software and manage their own encryption keys.
+Crypographic 'salting': Hashing can be inadequate for confidentiality, because the hash is always the same when entering the same data. For example: The hash of a specific social security number can be reverse engineered by the help of rainbow tables. Salt addresses this problem.
+
+
+== Security considerations ==
+There are many security issues that should be considered when securing data. Some examples are listed in this section. The security issues listed here are not specific to crypto-shredding, and in general these may apply to all types of data encryption. In addition to crypto-shredding, data erasure, degaussing and physically shredding the physical device (disk) can mitigate the risk further.
+
+Encryption strength can weaken over time as computing speed becomes more efficient and more time is available to discover exploits in secure systems.
+Brute-force attack: If data is not adequately encrypted it may be possible to decrypt it through brute-force methods. Newer technology such as quantum computing increases the potential to allow brute-force attacks to become more efficient in the future. However, quantum computing is less effective against specific encryption methods such as symmetric encryption than others that are more vulnerable to brute-force attacks such as public-key encryption. Even when data is secured via use of symmetric encryption, there are methods such as Grover's algorithm that make these kinds of attacks more effective, though this can be mitigated by other enhancements, such as using larger key values.
+Data in use: Data that is "in use" has specific vulnerabilities. For example, when (plaintext) encryption keys are temporarily stored in RAM, it may be vulnerable to cold boot attacks, hardware advanced persistent threats, rootkits/bootkits, computer hardware supply chain attacks, and physical threats from users who have access.
+Data remanence is the ability of computer memory to retain previously stored information beyond its intended lifetime, which also increases its vulnerability to unintended access. For example: When data on a harddisk is encrypted after it has been stored, it is possible that unencrypted data may remain on the harddisk. Encrypting data does not necessarily ensure the data will be overwritten at the same location as the unencrypted data. In addition, any bad sectors on a harddisk cannot be encrypted after data has been written to those locations. Encrypting data at the time it is written is always more secure than encrypting it after it has been stored without encryption.
+Hibernation presents additional threats when an encryption key is used. Once an encryption key is loaded into RAM and the machine is placed into hibernation, all memory, including the encryption key, may be stored on the harddisk, which is outside of the encryption key's safe storage location.
+
+
+== References ==

@@ -1,0 +1,36 @@
+Universal Scene Description (USD) is a framework for interchange of 3D computer graphics data. The framework focuses on collaboration, non-destructive editing, and enabling multiple views and opinions about graphics data. USD is used in many industries including visual effects, architecture, design, robotics and CAD. It is developed by Pixar and was first published as open source software in 2016, under a modified Apache license.
+
+
+== File formats ==
+File formats used by the specification include:
+.usd, which can be either ASCII or binary-encoded
+.usda, ASCII encoded
+.usdc, binary encoded
+.usdz, a package file which is a zero-compression, unencrypted zip archive, which may contain usd, usda, usdc, png, jpeg, m4a, mp3, and wav files.
+
+
+== Support ==
+3ds Max version 2022, with latest update as Public Beta, plus version 2023. Includes Import from USD and Export to USD.
+Autodesk Inventor – supports USD as of version 2023.
+Maya – supports USD as of version 2022.
+Autodesk Fusion 360 supports USD export since April 2022.
+Apple’s SceneKit supports .usdz files for 3D model interchange.
+Nvidia has announced support for USD in Omniverse, a graphics collaboration platform.
+Houdini includes an implementation of USD, for purposes of format interchange and scene editing.
+Blender includes support for USD export. Import support from version 3.0.
+Cinema 4D from Maxon includes support for USD for import and export.
+mesh2mesh (macOS) converts USD to and from other formats.
+Davinci Resolve includes support for importing USD.
+Vectorworks 2023 Service Pack 3 onwards includes USD export and import
+
+
+== See also ==
+Metaverse
+glTF (Graphics Language Transmission Format)
+
+
+== References ==
+
+
+== External links ==
+Introduction to Universal Scene Description by Pixar

@@ -1,0 +1,455 @@
+In mathematical logic, the ancestral relation (often shortened to ancestral) of a binary relation R is its transitive closure, however defined in a different way, see below. 
+Ancestral relations make their first appearance in Frege's Begriffsschrift. Frege later employed them in his Grundgesetze as part of his definition of the finite cardinals. Hence the ancestral was a key part of his search for a logicist foundation of arithmetic.
+
+
+== Definition ==
+The numbered propositions below are taken from his Begriffsschrift and recast in contemporary notation.
+A property P is called R-hereditary if, whenever x is P and xRy holds, then y is also P:
+
+  
+    
+      
+        (
+        P
+        x
+        ∧
+        x
+        R
+        y
+        )
+        →
+        P
+        y
+      
+    
+    {\displaystyle (Px\land xRy)\rightarrow Py}
+  An individual b is said to be an R-ancestor of a, written aR*b, if b has every R-hereditary property that all objects x such that aRx have: 
+
+  
+    
+      
+        
+          76
+          :
+        
+         
+        ⊢
+        a
+        
+          R
+          
+            ∗
+          
+        
+        b
+        ↔
+        ∀
+        F
+        [
+        ∀
+        x
+        (
+        a
+        R
+        x
+        →
+        F
+        x
+        )
+        ∧
+        ∀
+        x
+        ∀
+        y
+        (
+        F
+        x
+        ∧
+        x
+        R
+        y
+        →
+        F
+        y
+        )
+        →
+        F
+        b
+        ]
+      
+    
+    {\displaystyle \mathbf {76:} \ \vdash aR^{*}b\leftrightarrow \forall F[\forall x(aRx\to Fx)\land \forall x\forall y(Fx\land xRy\to Fy)\to Fb]}
+  The ancestral is a transitive relation:
+
+  
+    
+      
+        
+          98
+          :
+        
+         
+        ⊢
+        (
+        a
+        
+          R
+          
+            ∗
+          
+        
+        b
+        ∧
+        b
+        
+          R
+          
+            ∗
+          
+        
+        c
+        )
+        →
+        a
+        
+          R
+          
+            ∗
+          
+        
+        c
+      
+    
+    {\displaystyle \mathbf {98:} \ \vdash (aR^{*}b\land bR^{*}c)\rightarrow aR^{*}c}
+  Let the notation I(R) denote that R is functional (Frege calls such relations "many-one"):
+
+  
+    
+      
+        
+          115
+          :
+        
+         
+        ⊢
+        I
+        (
+        R
+        )
+        ↔
+        ∀
+        x
+        ∀
+        y
+        ∀
+        z
+        [
+        (
+        x
+        R
+        y
+        ∧
+        x
+        R
+        z
+        )
+        →
+        y
+        =
+        z
+        ]
+      
+    
+    {\displaystyle \mathbf {115:} \ \vdash I(R)\leftrightarrow \forall x\forall y\forall z[(xRy\land xRz)\rightarrow y=z]}
+  If R is functional, then the ancestral of R is what nowadays is called connected:
+
+  
+    
+      
+        
+          133
+          :
+        
+         
+        ⊢
+        (
+        I
+        (
+        R
+        )
+        ∧
+        a
+        
+          R
+          
+            ∗
+          
+        
+        b
+        ∧
+        a
+        
+          R
+          
+            ∗
+          
+        
+        c
+        )
+        →
+        (
+        b
+        
+          R
+          
+            ∗
+          
+        
+        c
+        ∨
+        b
+        =
+        c
+        ∨
+        c
+        
+          R
+          
+            ∗
+          
+        
+        b
+        )
+      
+    
+    {\displaystyle \mathbf {133:} \ \vdash (I(R)\land aR^{*}b\land aR^{*}c)\rightarrow (bR^{*}c\lor b=c\lor cR^{*}b)}
+  
+
+
+== Relationship to transitive closure ==
+The Ancestral relation 
+  
+    
+      
+        
+          R
+          
+            ∗
+          
+        
+      
+    
+    {\displaystyle R^{*}}
+   is equal to the transitive closure 
+  
+    
+      
+        
+          R
+          
+            +
+          
+        
+      
+    
+    {\displaystyle R^{+}}
+   of 
+  
+    
+      
+        R
+      
+    
+    {\displaystyle R}
+  . Indeed, 
+  
+    
+      
+        
+          R
+          
+            ∗
+          
+        
+      
+    
+    {\displaystyle R^{*}}
+   is transitive (see 98 above), 
+  
+    
+      
+        
+          R
+          
+            ∗
+          
+        
+      
+    
+    {\displaystyle R^{*}}
+   contains 
+  
+    
+      
+        R
+      
+    
+    {\displaystyle R}
+   (indeed, if aRb then, of course, b has every R-hereditary property that all objects x such that aRx have, because b is one of them), and finally, 
+  
+    
+      
+        
+          R
+          
+            ∗
+          
+        
+      
+    
+    {\displaystyle R^{*}}
+   is contained in 
+  
+    
+      
+        
+          R
+          
+            +
+          
+        
+      
+    
+    {\displaystyle R^{+}}
+   (indeed, assume 
+  
+    
+      
+        a
+        
+          R
+          
+            ∗
+          
+        
+        b
+      
+    
+    {\displaystyle aR^{*}b}
+  ; take the property 
+  
+    
+      
+        F
+        x
+      
+    
+    {\displaystyle Fx}
+   to be 
+  
+    
+      
+        a
+        
+          R
+          
+            +
+          
+        
+        x
+      
+    
+    {\displaystyle aR^{+}x}
+  ; then the two premises, 
+  
+    
+      
+        ∀
+        x
+        (
+        a
+        R
+        x
+        →
+        F
+        x
+        )
+      
+    
+    {\displaystyle \forall x(aRx\to Fx)}
+   and 
+  
+    
+      
+        ∀
+        x
+        ∀
+        y
+        (
+        F
+        x
+        ∧
+        x
+        R
+        y
+        →
+        F
+        y
+        )
+      
+    
+    {\displaystyle \forall x\forall y(Fx\land xRy\to Fy)}
+  , are obviously satisfied; therefore, 
+  
+    
+      
+        F
+        b
+      
+    
+    {\displaystyle Fb}
+  , which means 
+  
+    
+      
+        a
+        
+          R
+          
+            +
+          
+        
+        b
+      
+    
+    {\displaystyle aR^{+}b}
+  , by our choice of 
+  
+    
+      
+        F
+      
+    
+    {\displaystyle F}
+  ). See also Boolos's book below, page 8.
+
+
+== Discussion ==
+Principia Mathematica made repeated use of the ancestral, as does Quine's (1951) Mathematical Logic.
+However, it is worth noting that the ancestral relation cannot be defined in first-order logic. It is controversial whether second-order logic with standard semantics is really "logic" at all. Quine famously claimed that it was really 'set theory in sheep's clothing.' In his books setting out formal systems related to PM and capable of modelling significant portions of Mathematics, namely - and in order of publication - 'A System of Logistic', 'Mathematical Logic' and 'Set Theory and its Logic', Quine's ultimate view as to the proper cleavage between logical and extralogical systems appears to be that once axioms that allow incompleteness phenomena to arise are added to a system, the system is no longer purely logical.
+
+
+== See also ==
+Begriffsschrift
+Gottlob Frege
+Transitive closure
+
+
+== References ==
+George Boolos, 1998. Logic, Logic, and Logic. Harvard Univ. Press.
+Ivor Grattan-Guinness, 2000. In Search of Mathematical Roots. Princeton Univ. Press.
+Willard Van Orman Quine, 1951 (1940). Mathematical Logic. Harvard Univ. Press. ISBN 0-674-55451-5.
+
+
+== External links ==
+Stanford Encyclopedia of Philosophy: "Frege's Logic, Theorem, and Foundations for Arithmetic" -- by Edward N. Zalta. Section 4.2.

@@ -1,0 +1,5 @@
+Martin's sulfurane is the organosulfur compound with the formula Ph2S[OC(CF3)2Ph]2 (Ph = C6H5). It is a white solid that easily undergoes sublimation. The compound is an example of a hypervalent sulfur compound called a sulfurane. As such, the sulfur adopts a see-saw structure, with a lone pair of electrons as the equatorial fifth coordinate of a trigonal bipyramid, like that of sulfur tetrafluoride (SF4).  The compound is a reagent in organic synthesis. One application is for the dehydration of a secondary alcohol to give an alkene:
+RCH(OH)CH2R'  +  Ph2S[OC(CF3)2Ph]2  →  RCH=CHR'  +  Ph2SO  +  2 HOC(CF3)2Ph
+
+
+== References ==

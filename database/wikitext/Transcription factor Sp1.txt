@@ -1,0 +1,35 @@
+Transcription factor Sp1, also known as specificity protein 1* is a protein that in humans is encoded by the SP1 gene.
+
+
+== Function ==
+The protein encoded by this gene is a zinc finger transcription factor that binds to GC-rich motifs of many promoters. The encoded protein is involved in many cellular processes, including cell differentiation, cell growth, apoptosis, immune responses, response to DNA damage, and chromatin remodeling. post-translational modifications such as phosphorylation, acetylation, O-GlcNAcylation, and proteolytic processing significantly affect the activity of this protein, which can be an activator or a repressor.In the SV40 virus, Sp1 binds to the GC boxes in the regulatory sequence of the genome.
+
+
+== Structure ==
+SP1  belongs to the Sp/KLF family of transcription factors. The protein is 785 amino acids long, with a molecular weight of 81 kDa. The SP1 transcription factor contains two glutamine-rich activation domains at its N-terminus that are believed to be necessary for promoter trans-activation. SP1 most notably contains three zinc finger protein motifs at its C-terminus, by which it binds directly to DNA and allows for interaction of the protein with other transcriptional regulators. Its zinc fingers are of the Cys2/His2 type and bind the consensus sequence 5'-(G/T)GGGCGG(G/A)(G/A)(C/T)-3' (GC box element).
+Some 12,000 SP-1 binding sites are found in the human genome.
+
+
+== Applications ==
+Sp1 has been used as a control protein to compare with when studying the increase or decrease of the aryl hydrocarbon receptor and/or the estrogen receptor, since it binds to both and generally remains at a relatively constant level.Recently, a putative promoter region in FTMT, and positive regulators {SP1, cAMP response element-binding protein (CREB), and Ying Yang 1 (YY1)] and negative regulators [GATA2, forkhead box protein A1 (FoxA1), and CCAAT enhancer-binding protein b (C/EBPb)] of FTMT transcription have been identified (Guaraldo et al, 2016).The effect of DFP on the DNA-binding activity of these regulators to the FTMT promoter was examined using chromatin immunoprecipitation (ChIP) assay. Among the regulators, only SP1 displayed significantly increased DNA- binding activity following DFP treatment in a dose-dependent manner. SP1 knockdown by siRNA abolished the DFP-induced increase in the mRNA levels of FTMT, indicating SP1-mediated regulation of FTMT expression in the presence of DFP. Treatment with Deferiprone increased the expression of cytoplasmic and nuclear SP1 with predominant localization in the nucleus.
+
+
+== Inhibitors ==
+Plicamycin, an antineoplastic antibiotic produced by Streptomyces plicatus, and Withaferin A, a steroidal lactone from Withania somnifera plant are known to inhibit Sp1 transcription factor.miR-375-5p microRNA significantly decreased expression of SP1 and YAP1 in colorectal cancer cells. SP1 and YAP1 mRNAs are direct targets of miR-375-5p.
+
+
+== Interactions ==
+Transcription factor Sp1 has been shown to interact with:
+
+
+== References ==
+
+
+== Further reading ==
+
+
+== External links ==
+Sp1+Transcription+Factor at the U.S. National Library of Medicine Medical Subject Headings (MeSH)
+FactorBook SP1
+
+This article incorporates text from the United States National Library of Medicine, which is in the public domain.

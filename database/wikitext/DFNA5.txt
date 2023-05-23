@@ -1,0 +1,15 @@
+Non-syndromic hearing impairment protein 5 is a protein that in humans is encoded by the DFNA5 gene.
+
+
+== Function ==
+Hearing impairment is a heterogeneous condition with over 40 loci described. The protein encoded by this gene is expressed in fetal cochlea, however, its function is not known. Nonsyndromic hearing impairment is associated with a mutation in this gene.The observation that DFNA5 is epigenetically inactivated in a large number of cancers of frequent types (gastric, colorectal, and breast) is another important finding and is in line with its apoptosis-inducing properties. Indeed, if apoptosis is an intrinsic feature of DFNA5, shutting the gene down in tumor cells makes them more susceptible to uncontrolled cellular growth. Moreover, the fact that DFNA5 is regulated by P53 strongly suggests that DFNA5 is a tumor suppressor gene.
+
+
+== References ==
+
+
+== Further reading ==
+
+
+== External links ==
+GeneReviews/NCBI/NIH/UW entry on Deafness and Hereditary Hearing Loss Overview

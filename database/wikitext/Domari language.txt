@@ -1,0 +1,104 @@
+Domari is an endangered Indo-Aryan language, spoken by Dom people scattered across the Middle East and North Africa. The language is reported to be spoken as far north as Azerbaijan and as far south as central Sudan, in Turkey, Iran, Iraq, Palestine, Israel, Jordan, Egypt, Sudan, Libya, Tunisia, Algeria, Morocco, Syria and Lebanon. Based on the systematicity of sound changes, it is known with a fair degree of certainty that the names Domari and Romani derive from the Indo-Aryan word ḍom. However, the Domari and Romani languages do not derive from the same ancestor idiom. Domari derives from an Indo-Aryan language. The Arabs referred to them as Nawar as they were a nomadic people that originally immigrated to the Middle East from the Indian subcontinent.Domari is also known as "Middle Eastern Romani", "Tsigene", "Luti", or "Mehtar". There is no standard written form. In the Arab world, it is occasionally written using the Arabic script and has many Arabic and Persian loanwords. Descriptive work was done by Yaron Matras, who published a comprehensive grammar of the language along with a historical and dialectological evaluation of secondary sources (Matras 2012).
+Domari is an endangered language, as there is currently pressure to shift away from it in younger generations, according to Yaron Matras. In certain areas such as Jerusalem, only about 20% of these Dom people, known as “Middle Eastern Gypsies”, speak the Domari language in everyday interactions. The language is mainly spoken by the elderly in the Jerusalem community. The younger generation are more influenced by Arabic, therefore most only know basic words and phrases. The modern-day community of Doms in Jerusalem was established by the nomadic people deciding to settle inside the Old City from 1940 until it came under Israeli administration in 1967 (Matras 1999).
+
+
+== Dialects ==
+The best-known variety of Domari is Palestinian Domari, also known as "Syrian Gypsy", the dialect of the Dom community of Jerusalem, which was described by R.A. S. Macalister in the 1910s. Palestinian Domari is an endangered language, with fewer than 200 speakers, the majority of the 1,200 members of the Jerusalem Domari community being native speakers of Palestinian Arabic.
+Other dialects include:
+
+Nawari in Syria, Jordan, Lebanon, Israel, Palestine and Egypt.
+Kurbati in Syria
+Helebi in Egypt, Libya, Tunisia, Algeria and Morocco
+Halab/Ghajar in Sudan.
+Karachi (Garachi) in northern Turkey, northern Iran and the Caucasus
+Marashi in Turkey
+Barake in SyriaSome dialects may be highly divergent and not mutually intelligible. Published sources often lump together dialects of Domari and the various unrelated in-group vocabularies of diverse peripatetic populations in the Middle East. Thus, the Ghorbati and Lyuli were previously thought to speak a dialect of Domari. There is also no obvious connection between Domari and the vocabulary used by the Helebi of Egypt (see discussion in Matras 2012, chapter 1).
+
+
+== Status ==
+In the 1940s, the Dom began to abandon their nomadic culture and began settling and working in the local economy. This led to the next phenomenon; the assimilation of Dom children in the primary school system which marked the first generation to grow up in an academic environment alongside Arab children. Consequently, this 1940 generation do not fluently speak the Domari language. Arabic replaced their native Domari, and became the language of cross-generation communication. In Jerusalem, it is estimated there are about 600-900 members of the Dom population in Jerusalem. Less than 10% can effectively communicate in Jerusalem Domari.
+
+
+== Comparison with Romani ==
+Domari was once thought to be the "sister language" of Romani, the two languages having split after the departure from the Indian subcontinent, but more recent research suggests that the differences between them are significant enough to treat them as two separate languages within the Central (Hindustani) group of languages. The Dom and the Rom are most likely to be descendants of 2 different migration waves out of India, separated by several centuries. According to Matras: There is, in other words, no evidence that Domari and Romani ever constituted a single language, at any period in their development: but there is on the other hand plenty of evidence that they underwent shared developments as a result of sharing the same geo-linguistic environments during successive periods.
+There remain similarities between the two, aside from their shared Central zone Indic origin, indicating a period of shared history as itinerant populations in the Middle East. These include: shared archaisms, which have been lost in the Central Indo-Aryan languages over the millennia since Dom/Rom emigration, a series of innovations connecting them with the Northwestern zone group, indicating their route of migration out of India, and a number of radical syntactical changes, due to superstrate influence of Middle Eastern languages, including Persian, Arabic and Byzantine Greek.
+
+
+== Orthography ==
+Since Domari is a minority Middle-Eastern language for a specific community of speakers, it did not have a standard orthography for many years; therefore many writers have used differing spelling systems (similarly to what happened with Ladino). Most Middle-Easterners used the Arabic script, while scholars made do with a modified Pan-Vlakh Latin-based alphabet.
+
+
+=== Modified Pan-Vlakh orthography ===
+In 2012, Yaron Matras used such a system in his recent publications on this subject where the Pan-Vlakh orthography served as a basis, with several modifications:
+
+Romani j changed to y
+Romani c use limited to the accented form č for /tʃ/, the /dʒ/ counterpart being denoted by dž
+Doubled vowel letters for long vowels (aa ee ii oo uu)
+Diphthongs denoted with vowel pairs (ai au ei eu oi and so on ... )
+Additional letters in use for Semitic-derived words and names (ḍ ḥ ṣ ṭ ẓ ġ q ‘ ’ and so on ... )
+
+
+=== Pan-Domari Alphabet ===
+A new Semitic-flavored Latin-based pan-alphabet has recently been introduced by some scholars for the purpose of codifying written Domari.
+The Pan-Domari Alphabet, which was invented in 2015, is a Semitic-flavored simplification of the previous Matras notation:
+
+Y is used for /j/, and w for /w/—like in English
+X is used for the sound /x/—the well-known guttural {kh} of Greek, Russian, and Middle Eastern languages
+Q stands for /q/, the uvular plosive sound heard in the Semitic languages
+Circumflexes are used to mark long vowels <â ê î ô û> and certain fricative/affricate consonants <ĉ ĝ ĵ ŝ ẑ> (={ch gh j sh zh})
+Underdots under letters represent pharyngeal(-ized) consonants <ḍ ḥ ṣ ṭ ẓ> (IPA /d̪ˤ ħ sˤ t̪ˤ zˤ/)
+Other letters include þ (thorn) and ð (edh) for the interdental fricatives /θ ð/, the characters <ʾ> (ʾalef/hamzaʾ—IPA /ʔ/) and <ʿ> (ʿayn—IPA /ʕ/), and the letter <ə> for the vowel sound shəwaʾ.
+The diphthongs are now denoted by vowel + approximant digraphs <ay aw ey ew oy ... >.The Pan-Domari Alphabet is shown in this table:
+
+NOTES
+§ Spelling alternates are shown for certain of these sounds (i.e.: when typing on an ASCII or typewriter keyboard, or when/where computers cannot show the proper accented Domari letters); these alternates are also used on the KURI's Learn Domari article series.
+1 The letter fe may be sounded either as a labiodental /f/ or a bilabial [ɸ] fricative, depending on the context, or origin of a given word/name.
+2 The letter ĝe usually represents a voiced velar fricative /ɣ/, but may be sounded as a velarolaryngeal [ʁ] in words/names derived from Arabic, Persian, and Urdu.
+3 The letter ne usually represents a voiced dental nasal /n̪/; however, it manifests as a velar [ŋ] before the letters g ĝ k q x, but as a palatal [ɲ] before the letters ĉ ĵ y.
+4 The letter re represents a flapped [ɾ] or a trilled [r] rhotative resonant continuant, depending on the position within a word/name, and whether it appears singly or doubly.
+5 The letter ve shows up mainly in words and names derived from foreign loans, and may represent either a voiced labiodental /v/ or a voiced bilabial [β] fricative.
+6 The letter xe (pronounced as KHEH) usually represents a voiceless velar fricative /x/, but usually is sounded as a velarolaryngeal /χ/ one in scores of loan words/loan names which are derived from Arabic, Persian, and Urdu.
+7 The vowel letter called ŝǝwaʾ (its name derives from the cognate Hebrew vowel point for this very same sound) represents the mean-mid central spread neutral vowel as it exists in the English words about, taken, pencil, lemon, and circus. While its normal manifestation is indeed [ə], it may vary in the direction of either a higher-mid [ʌ] or a fronted lower-mid [ɜ] one, depending on the dialect spoken.
+
+*: The plain (unaccented) letters c and j are only found in foreign loan words and loan names, as shown in the above table.
+
+
+==== Keyboard Layout ====
+A Pan-Domari Alphabet ASDF keyboard layout is to be made available for MS-Windows users, which is based on the United States English layout, albeit with C, J, and some punctuation signs being reassigned to <ALTGR>/<SHIFT<>ALTGR>, to make room for needed Domari characters.
+
+
+== Phonology ==
+
+
+=== Vowels ===
+There are five main vowel sounds, however this inventory shows the variation and quantity of short vowels. Most are interchangeable with a vowel sound next to it, however all of the sounds produced above are identical to the local Palestinian Arabic (Matras 1999).
+
+
+=== Consonants ===
+Most of these consonants are influenced by Palestinian Arabic such as gemination; however, consonants such as [p], [g], [tʃ] and [h] are not found in the local dialect. There is speculation among linguists that these sounds are considered a part of the pre-Arabic component. Alveopalatal affricates such as [tʃ] and [dʒ] are also consonants that differ in sound from Arabic.
+
+
+=== Stress ===
+The biggest difference in expression of language between Arabic and Domari is where the stress is placed. Arabic has phoneme-level stress while Domari is a language of word-level stress. The Domari language emphasizes stress on the final syllable, as well as grammatical markers for gender and number. Most nouns, besides proper nouns, adopted from Arabic sound distinct because of the unique stresses in Domari (Matras 1999). Domari is thought to have borrowed a lot of words and grammatical structure from Arabic; however, this is not entirely true. Complex verbs and most core prepositions did not transfer into the realms of grammar of the Domari language. The syntactic typology remains independent of Arabic influence. It also important to note that the numerals used by the Doms were inherited from Kurdish. Even though Domari was influenced by local Arabic, the language also felt the impacts of Kurdish and certain dialects of Iranian in the grammar of the language.
+
+
+== Numerals ==
+Here is a table of the numerals (1-10, 20, and 100) in Hindi, Romani, Domari, Lomavren, Kurdish and Persian for comparison.
+
+
+== References ==
+
+
+== Further reading ==
+Herin, B. (2012). "The Domari language of Aleppo (Syria)" Linguistic Discovery 10 (2), 1-52.
+Herin, B. (2014). "The Northern Dialects of Domari," Zeitschrift der Deutschen Morgenländischen Gesellschaft 164 (2): 407–450.
+Matras, Y. (1999). "The state of present-day Domari in Jerusalem." Mediterranean Language Review 11, 1–58.
+Matras, Y. (2002). Romani: a linguistic introduction. Cambridge: Cambridge University Press.
+Matras, Y. (2012). A grammar of Domari. Berlin: De Gruyter Mouton (Mouton Grammar Library).
+
+
+== External links ==
+Windfuhr Gernot L. Gypsy ii. Gypsy Dialects in Encyclopædia Iranica, Online Edition. 2002.
+Description of Domari from the Romani Project
+Learning Domari Archived 2007-09-27 at the Wayback Machine - from the Dom Research Centre
+More Information and Official Website of the Dom People

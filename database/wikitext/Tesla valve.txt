@@ -1,0 +1,217 @@
+A Tesla valve, called a valvular conduit by its inventor, is a fixed-geometry passive check valve. It allows a fluid to flow preferentially in one direction, without moving parts. The device is named after Nikola Tesla, who was awarded U.S. Patent 1,329,559 in 1920 for its invention. The patent application describes the invention as follows:
+
+The interior of the conduit is provided with enlargements, recesses, projections, baffles, or buckets which, while offering virtually no resistance to the passage of the fluid in one direction, other than surface friction, constitute an almost impassable barrier to its flow in the opposite direction.
+
+Tesla illustrated this with the drawing, showing one possible construction with a series of eleven flow-control segments, although any other number of such segments could be used as desired to increase or decrease the flow regulation effect.
+With no moving parts, Tesla valves are much more resistant to wear and fatigue, especially in applications with frequent pressure reversal such as a pulsejet.
+
+The Tesla valve is used in microfluidic applications and offers advantages such as scalability, durability, and ease of fabrication in a variety of materials. It is also used in macrofluidic applications.
+
+One computational fluid dynamics simulation of Tesla valves with two and four segments showed that the flow resistance in the blocking (or reverse) direction was about 15 and 40 times greater, respectively, than the unimpeded (or forward) direction. This lends support to Tesla's patent assertion that in the valvular conduit in his diagram, a pressure ratio "approximating 200 can be obtained so that the device acts as a slightly leaking valve".Steady flow experiments, including with the original design, however, show smaller ratios of the two resistances in the range of 2 to 4. It has also been shown that the device works better with pulsatile flows.
+
+
+== Diodicity ==
+The valves are structures that have a higher pressure drop for the flow in one direction (reverse) than the other (forward). This difference in flow resistance causes a net directional flow rate in the forward direction in oscillating flows. The efficiency is often expressed in diodicity 
+  
+    
+      
+        
+          D
+          i
+        
+      
+    
+    {\displaystyle \mathrm {Di} }
+  , being the ratio of directional resistances.
+The flow resistance is defined, analogously to Ohm's law for electrical resistance, as the ratio of applied pressure drop and resulted flow rate:
+
+  
+    
+      
+        R
+        =
+        
+          
+            
+              Δ
+              p
+            
+            Q
+          
+        
+      
+    
+    {\displaystyle R={\frac {\Delta p}{Q}}}
+   where 
+  
+    
+      
+        Δ
+        p
+      
+    
+    {\displaystyle \Delta p}
+   is the applied pressure difference between two ends of the conduit, and 
+  
+    
+      
+        Q
+      
+    
+    {\displaystyle Q}
+   the flow rate.
+The diodicity is then the ratio of the reversed flow resistance to the forward flow resistance:
+
+  
+    
+      
+        
+          D
+          i
+        
+        =
+        
+          
+            
+              R
+              
+                
+                  r
+                
+              
+            
+            
+              R
+              
+                
+                  f
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {Di} ={\frac {R_{\rm {r}}}{R_{\rm {f}}}}}
+  . If 
+  
+    
+      
+        
+          D
+          i
+        
+        >
+        1
+      
+    
+    {\displaystyle \mathrm {Di} >1}
+  , the conduit in question has diodic behavior.
+Thus diodicity is also the ratio of pressure drops for identical flow rates:
+
+  
+    
+      
+        
+          D
+          i
+        
+        =
+        
+          
+            (
+            
+              
+                
+                  Δ
+                  
+                    p
+                    
+                      
+                        r
+                      
+                    
+                  
+                
+                
+                  Δ
+                  
+                    p
+                    
+                      
+                        f
+                      
+                    
+                  
+                
+              
+            
+            )
+          
+          
+            Q
+          
+        
+        ,
+      
+    
+    {\displaystyle \mathrm {Di} =\left({\frac {\Delta p_{\rm {r}}}{\Delta p_{\rm {f}}}}\right)_{Q},}
+  where 
+  
+    
+      
+        Δ
+        
+          p
+          
+            
+              r
+            
+          
+        
+      
+    
+    {\displaystyle \Delta p_{\rm {r}}}
+   is the reverse flow pressure drop, and 
+  
+    
+      
+        Δ
+        
+          p
+          
+            
+              f
+            
+          
+        
+      
+    
+    {\displaystyle \Delta p_{\rm {f}}}
+   the forward flow pressure drop for flow rate 
+  
+    
+      
+        Q
+      
+    
+    {\displaystyle Q}
+  .
+Equivalently, diodicity could also be defined as ratio of dimensionless Hagen number or Darcy friction factor at the same Reynolds number.
+
+
+== See also ==
+Coandă effect
+Check valve
+Diode
+Labyrinth seal
+Static mixer
+Valve
+
+
+== References ==
+
+
+== External links ==
+Tesla Valve Explained With Fire on YouTube
+Tesla Valve | The complete physics on YouTube

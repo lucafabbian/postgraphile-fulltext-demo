@@ -1,0 +1,23 @@
+Worms Revolution is a 2D artillery turn-based tactics video game developed by Team17 and is part of the Worms series. It was released on PlayStation 3, Windows via Steam and Xbox 360 in October 2012. An OS X version was released on June 6, 2013. A PlayStation Vita version including all three previously released downloadable packs and titled Worms Revolution Extreme was released on October 8, 2013. This version of the game was included as part of a promotional bundle alongside the PlayStation TV system. Like previous games in the series, gameplay is 2D and turn-based, but it is rendered with a new 3D engine. There are both single player and multiplayer modes with up to four players online or local hotseat.
+
+
+== Gameplay ==
+
+Gameplay follows on the traditional gameplay of the series, in which teams of worms take turns to use a variety of weapons and items in order to eliminate the opposing teams. The game is now presented in a 2.5D style, with the classic 2D gameplay presented with 3D visuals. New to the game is a stronger emphasis on dynamic physics. Unlike previous games in which water was limited to the bottom of the stage, there are now several areas throughout the level where pools of water can be found. By blowing up the environment, players can set loose this water and wash away opponents. Being covered will cause worms to slowly drown as opposed to instantly dying, though falling off the bottom of the stage will still cause instant death. New weapons, such as the water pistol, also incorporate these water physics. Certain objects are also affected by physics, with certain abilities such as Telekinesis taking advantage of it.
+Another new addition to the series is the inclusion of four different classes; Soldier, Scout, Scientist and Heavy. Soldiers follow the standard template with all-round stats. Scouts are able to move and jump quicker and fall further before taking damage, but have less powerful attacks. Scientists can produce better weapons and equipment and award the other worms on the team a health bonus when their turn comes around. Finally, Heavies are slow moving, but have more powerful attacks and can take more damage. The game features options for single player, multiplayer and online play. There are also various customization options for changing worm appearances, match rules, weapon loadouts and stage appearances.
+
+
+== Development ==
+The gameplay is based on the original 2D Worms games. On March 30, 2012, Team17 announced Worms Revolution with a completely new engine.
+On May 26, 2012, the company announced that Matt Berry and Dean Wilkinson were working on the game. Wilkinson provided the script, and Berry narrated as fictional wildlife documentary maker Don Keystone.
+
+
+== Reception ==
+IGN gave the game a score of 8.5, praising its fun gameplay and massive potential for customization, whilst criticizing some of the physics objects. GamesRadar gave the game a score of 70/100, praising the strategic gameplay, customization options and signature charm, personality, and humor, while criticizing the emphasis on physics and difficulty.
+
+
+== References ==
+
+
+== External links ==
+Official Team17's site

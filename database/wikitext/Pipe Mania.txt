@@ -1,0 +1,74 @@
+Pipe Mania is a puzzle video game developed by The Assembly Line for the Amiga and published in 1989. It was ported to several other platforms by Lucasfilm Games as Pipe Dream; the company distributed the game in the US. The player must connect randomly appearing pieces of pipe on a grid to a given length within a limited time.
+The Windows version of the game was included in the MS Windows Entertainment Pack. In 1990, it was released as an arcade game by Japanese manufacturer Video System Co. Ltd., though with slightly altered gameplay, giving the player the task to connect a source and drain with the random pipe pieces.
+Long after its initial release, the Pipe Mania concept re-emerged as a minigame representing hacking or security system bypassing in larger video games.
+
+
+== Gameplay ==
+
+The game is played on a grid of squares, one of which is marked as an entry point for a flow of green slime, referred to in-game as "flooz" or "goo" depending on the version. A column of five pipe sections is displayed to one side as a dispenser. When the player clicks on an empty square, the bottommost piece is the dispenser is placed there and a new piece drops in from the top. Pieces cannot be rotated or flipped, but must be used in their original orientation. The objective is to form an unbroken pipeline through which the flooz can flow, starting from the entry point and extending for at least a specified minimum number of squares.
+The flooz begins to flow after a set time delay, and continues to do so until it reaches a pipe-end that is either open or blocked by a square/playfield edge. If the pipeline has reached or exceeded the minimum required length, the player advances to the next level; if not, the game ends.
+If the flooz has not yet entered a pipe section, the player can click on it to replace it with the next one in the dispenser. However, doing so carries a score penalty and causes a short delay before the next piece can be laid.
+Later levels introduce added complications, such as:
+
+Higher minimum pipeline lengths and shorter delays before the flooz starts to flow.
+Higher flow speeds.
+Obstacles or pipe sections already on the field, which cannot be replaced.
+An end piece into which the flooz must be routed. Failing to do so ends the game, even if the length requirement has been met.
+Openings at opposite edges of the grid, allowing the flooz to wrap around from one to the other.
+Reservoirs that take a few seconds to fill once the flooz enters them, giving the player extra time to place pipes.
+One-way pipe sections that allow flow only in the indicated direction.The player scores points for every pipe section the flooz crosses, and loses points at the end of each level for any unused sections on the field. Bonus points can be scored for the following:
+
+Using more than the minimum number of pipe sections.
+Routing the flooz to cross itself in a four-way intersection. Doing so five times in a single level awards a large bonus.
+Filling reservoirs.
+Routing the flooz through pre-placed bonus pipes.A bonus round is played after every fourth level, in which the player is presented with a grid of pipe sections that has one empty space. Clicking on a piece adjacent to this space will cause it to slide over; the goal is to build as long a pipeline as possible, scoring points for each section used. A password is given after each bonus round, allowing the player to start a game at the level immediately following it.
+
+
+== Reception ==
+In Japan, Game Machine listed the arcade version of Pipe Mania on their November 1, 1990 issue as being the most-successful table arcade unit of the month.The game was reviewed in 1994 in Dragon #211 by Jay & Dee in the "Eye of the Monitor" column. Jay did not rate the game, but Dee gave the Macintosh version of the game 21⁄2 out of 5 stars, and the Windows version 41⁄2 stars. Macworld named the Macintosh version of Pipe Dream the Best Arcade Game of 1990, putting it into the Macintosh Game Hall of Fame, and called it an "addictive strategy game".The editors of Game Player's PC Strategy Guide gave Pipe Dream their 1989 "Best PC Strategy Game" award. They wrote: "Pipe Dream is destined to become a classic on the order of Tetris or Breakout".
+
+
+== Reviews ==
+Commodore Format (Feb, 1993)
+Computer and Video Games (Feb, 1990)
+Zero (Mar, 1990)
+ACE (Advanced Computer Entertainment) (Jan, 1991)
+ACE (Advanced Computer Entertainment) (Apr, 1990)
+Sinclair User (Feb, 1993)
+ACE (Advanced Computer Entertainment) (Oct, 1990)
+Your Sinclair (Jun, 1990)
+Crash! (Jun, 1990)
+Your Sinclair (Jan, 1991)
+The One (Mar, 1990)
+Zero (Mar, 1991)
+Crash! (Jan, 1991)
+Mean Machines (Jan, 1991)
+The Games Machine (UK) (Jun, 1990)
+Game Power (Brazil) (Oct, 1992)
+TOS-Magazin (May, 1990)
+VideoGame (Jul, 1991)
+Power Play (Feb, 1990)
+Video Games (Oct, 1992)
+ST Format (Apr, 1990)
+ASM (Aktueller Software Markt) (Mar, 1990)
+VideoGame (Dec, 1991)
+
+
+== Legacy ==
+Many clones of Pipe Mania have been produced, under titles such as Wallpipe, Oilcap, Oilcap Pro, MacPipes, Pipe Master, Pipeworks, DragonSnot, PipeNightDreams, and Fun2Link. Many Nokia cell phones come with a free version of the game called Canal Control.A version with 3D graphics was released for the PlayStation in 2000, titled Pipe Dreams 3D in the US and Pipe Mania 3D in the UK. 
+In September 2008, Empire Interactive released a remake of Pipe Mania for Windows, PlayStation 2, Nintendo DS, and PlayStation Portable. It was developed by Razorworks.
+
+
+=== Similar games ===
+Within BioShock, a variation of the game exists as a means of "hacking" vending machines, robots and cameras. Alien Swarm, Saints Row IV and Warframe also use Pipe Dream-like minigames to represent hacking tasks.
+Pipe Dream like hacking is a main mechanic of Half-Life: Alyx, with players solving puzzles in 3d space as a means of hacking doors and electronics in VR.
+A Nintendo eShop-exclusive game on Nintendo 3DS titled Mario and Donkey Kong: Minis on the Move uses a similar gameplay in which the player must places tiles to create a possible road for the "Mini Mario" toy to reach the level's goal.
+The North Korean game Railway Assemblage (Chosongul: 렬차길 맞추기 Hanja: 列車길 맞추기), sponsored by North Korean propaganda regime Uriminzokkiri (Chosongul:우리민족끼리) and released on December 9, 2006, includes a simplified version of Pipe Mania. The game involves joining together sections of railway in order to build a fast railroad track from South Korea to North Korea, before the KTX-shaped train appears on the screen.
+
+
+== References ==
+
+
+== External links ==
+KLOV entry for Pipe Dream
+Pipe Mania at SpectrumComputing.co.uk

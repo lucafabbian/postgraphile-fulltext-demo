@@ -1,0 +1,24 @@
+JPL Horizons On-Line Ephemeris System provides access to key Solar System data and flexible production of highly accurate ephemerides for Solar System objects.
+Osculating elements at a given epoch (such as produced by the JPL Small-Body Database) are always an approximation to an object's orbit (i.e. an unperturbed conic orbit or a "two-body" orbit). The real orbit (or the best approximation to such) considers perturbations by all planets, a few of the larger asteroids, a few other usually small physical forces, and requires numerical integration.
+Jet Propulsion Laboratory (JPL) ephemerides do not use things such as periods, eccentricities, etc. Instead, JPL integrates the equations of motion in Cartesian coordinates (x,y,z), and adjusts the initial conditions in order to fit modern, highly accurate measurements of planetary positions.Since August 2013, Horizons has been using ephemeris DE431. During the week of 12 April 2021, the Horizons ephemeris system was updated to replace the DE430/431 planetary ephemeris, used since 2013, with the new DE440/441 solution. The new DE440/441 general-purpose planetary solution includes seven additional years of ground and space-based astrometric data, data calibrations, and dynamical model improvements, most significantly involving Jupiter, Saturn, Pluto, and the Kuiper Belt. Inclusion of 30 new Kuiper-belt masses, and the Kuiper Belt ring mass, results in a time-varying shift of ~100 km in DE441's barycenter relative to DE431.
+In September 2021 JPL started transitioning from common gateway interface (CGI) to application programming interface (API).
+
+
+== Ejection ==
+Objects (such as C/1980 E1) on an outbound ejection trajectory will show an eccentricity greater than 1, an apoapsis distance of AD= 9.99E+99 and an orbit period of PR= 9.99E+99. For objects orbiting the Sun, this is best computed at an epoch (date) when the object is outside of the planetary region of the Solar System and no longer subject to notable planetary perturbation. Due to the galactic tide and passing stars it is impossible to know if an object with a weak hyperbolic trajectory will truly be ejected or gently nudged back inward. The galactic tide and passing stars can also cause objects inbound from the Oort cloud to have a weakly hyperbolic trajectory.
+
+
+== Overview of usage ==
+There are 3 ways to use the system and all of them can be automated:
+
+Web (partial access)
+Email (full access)
+Telnet (full access)The Horizons system was intended to be easy to use and should have a step-function learning curve.
+
+
+== References ==
+
+
+== External links ==
+JPL Horizons On-Line Ephemeris System (HORIZONS User Manual)
+HORIZONS Batch-Interface CGI / JPL SSD/CNEOS API

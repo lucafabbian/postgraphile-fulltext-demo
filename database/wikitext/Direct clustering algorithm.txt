@@ -1,0 +1,20 @@
+Direct clustering algorithm (DCA) is a methodology for identification of cellular manufacturing structure within an existing manufacturing shop. The DCA was introduced in 1982 by H.M. Chan and D.A. Milner  The algorithm restructures the existing machine / component (product) matrix of a shop by switching the rows and columns in such a way that a resulting matrix shows component families (groups) with corresponding machine groups. See Group technology. The algorithm is executable in manual way but was already suitable for computer use of the time.
+
+
+== Procedure ==
+The cellular manufacturing structure consists of several machine groups (production cells) where corresponding product groups (products with similar technology) are being exclusively manufactured. In aim of identification of possible cellular manufacturing structure within an existing manufacturing shop the DCA methodology roughly provides following procedure:
+
+Setting up a matrix where one dimension represents machines, the other products. All intersections where a product requires a machine is filled with "1", all others are filled with "0".
+The position of the columns and order of the rows is than changed. The algorithm provides the rules for column changing and row changing in aim of concentration of matrix cells containing "1" in several groups.
+The resulting matrix shows groups of products with corresponding machines aligned by the matrix diagonal.
+
+
+== The experience ==
+The DCA methodology would give a perfect result in an ideal case where there are no overlapping machines or products between the groups. The overlapping in most real cases represents further challenge for the methodology users. The "Formation of Machine Cells/ Part Families in Cellular Manufacturing Systems Using an ART-Modified Single Linkage Clustering Approach – A Comparative Study" by M. Murugan and V. Selladurai shows the comparison of DCA to some other methodologies of the same purpose.
+
+
+== References ==
+
+
+== External links ==
+Saving Time With Quick Response Manufacturing (QRM)

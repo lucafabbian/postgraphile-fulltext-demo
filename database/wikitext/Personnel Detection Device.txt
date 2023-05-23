@@ -1,0 +1,9 @@
+The Personnel Detection Device (PDD), produced by Saab, is a type of vest which the soldier wears during exercise. The vest contains detectors that record hits and misses from laser operated weapons. Detectors can also be placed on the soldiers’ helmets. 
+When soldiers participate in military exercises their actions can be recorded. This is done with the help of sensors and various software programs. However, the soldier needs to be connected to this system somehow. This is what the Personnel Detection Device (PDD) does.When the enemy fires at the soldier wearing the PDD, the PDD laser detectors register whether the shot would have been a hit or not. This information is then presented on a computer screen that the supervisor of the exercise can read. This enables a more realistic training for soldiers. This is important and the point of simulated training.The system also enables the exercise to be accompanied by audio effects, for example the sound of a bullet swooshing by. Through the loudspeakers the soldier receives information, e.g. that he or she has been hit, or additional information from the supervisor. The soldier is also told what type of wound the hit inflicted as well as how much time they have to get medical care. Hence, this is a type of simulated military training mentioned in the article military simulation.
+
+
+== References ==
+
+
+== External links ==
+Saabgroup

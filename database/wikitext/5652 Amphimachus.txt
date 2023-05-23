@@ -1,0 +1,34 @@
+5652 Amphimachus  is a Jupiter trojan from the Greek camp, approximately 53 kilometers (33 miles) in diameter. It was discovered on 24 April 1992, by American astronomer couple Carolyn and Eugene Shoemaker at the Palomar Observatory in California. The dark Jovian asteroid belongs to the 80 largest Jupiter trojans and has a rotation period of 8.4 hours. It was named from Greek mythology after Amphimachus, who was slain by Hector .
+
+
+== Orbit and classification ==
+Amphimachus is a dark Jovian asteroid orbiting in the leading Greek camp at Jupiter's L4 Lagrangian point, 60° ahead of the Gas Giant's orbit in a 1:1 resonance (see Trojans in astronomy). It is also a non-family asteroid in the Jovian background population.It orbits the Sun at a distance of 4.8–5.6 AU once every 11 years and 11 months (4,343 days; semi-major axis of 5.21 AU). Its orbit has an eccentricity of 0.08 and an inclination of 2° with respect to the ecliptic. The body's observation arc begins with a precovery at Palomar in April 1955, or 37 years prior to its official discovery observation.
+
+
+== Physical characteristics ==
+Amphimachus is an assumed C-type asteroid. It has a high V–I color index of 1.05.
+
+
+=== Rotation period ===
+In August 2015, two rotational lightcurves of Amphimachus were obtained from photometric observations by the Kepler space observatory. Best-rated lightcurve analysis by Gyula M. Szabó gave a rotation period of 8.374±0.112 hours with a brightness amplitude of 0.22 magnitude (U=2+). The second, concurring observation gave a period of 8.39 hours and an amplitude of 0.20 magnitude (U=2+).
+
+
+=== Diameter and albedo ===
+According to the surveys carried out by the Japanese Akari satellite and the NEOWISE mission of NASA's Wide-field Infrared Survey Explorer, Amphimachus measures between 52.48 and 53.921 kilometers in diameter and its surface has an albedo between 0.061 and 0.077.The Collaborative Asteroid Lightcurve Link assumes an albedo of 0.057 and calculates a diameter of 53.16 kilometers based on an absolute magnitude of 10.1.
+
+
+== Naming ==
+This minor planet was named from Greek mythology after Amphimachus, son of Cteatus (Kteatos) and suitor of Helen of Troy. Amphimachus was a leader of the Elean (Epeian) contingent in the Trojan War. He was accidentally killed by Hector, who had thrown a spear at Teucer. The official naming citation was published by the Minor Planet Center on 12 July 1995 (M.P.C. 25444).
+
+
+== References ==
+
+
+== External links ==
+Asteroid Lightcurve Database (LCDB), query form (info Archived 16 December 2017 at the Wayback Machine)
+Dictionary of Minor Planet Names, Google books
+Discovery Circumstances: Numbered Minor Planets (5001)-(10000) – Minor Planet Center
+Asteroid 5652 Amphimachus at the Small Bodies Data Ferret
+5652 Amphimachus at AstDyS-2, Asteroids—Dynamic Site
+Ephemeris · Observation prediction · Orbital info · Proper elements · Observational info
+5652 Amphimachus at the JPL Small-Body Database

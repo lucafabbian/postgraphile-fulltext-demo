@@ -1,0 +1,34 @@
+Diferulic acids (also known as dehydrodiferulic acids) are organic compounds that have the general chemical formula C20H18O8, they are formed by dimerisation of ferulic acid. Curcumin and curcuminoids, though having a structure resembling diferulic acids', are not formed that way but through a condensation process. Just as ferulic acid is not the proper IUPAC name, the diferulic acids also tend to have trivial names that are more commonly used than the correct IUPAC name. Diferulic acids are found in plant cell walls, particularly those of grasses.
+
+
+== Structures ==
+There are currently nine known structures for diferulic acids.  They are usually named after the positions on each molecule that form the bond between them. Included in the group are 8,5'-DiFA (DC) (or decarboxylated form) and 8,8'-DiFA (THF) (or tetrahydrofuran form), which are not true diferulic acids, but probably have a similar biological function. The 8,5'-DiFA (DC) lost CO2 during its formation, the 8,8'-DiFA (THF) gained H2O during its formation. 8,5'-DiFA (BF) is the benzofuran form.
+Ferulic acid can also form trimers and tetramers, known as triferulic and tetraferulic acids respectively.
+
+
+== Occurrences ==
+They have been found in the cell walls of most plants, but are present at higher levels in the grasses (Poaceae) and also sugar beet and Chinese water chestnut.The 8-O-4'-DiFA tends to predominate in grasses, but 5,5'-DiFA predominates in barley bran. Rye bread contains ferulic acid dehydrodimers.In chufa (tiger nut, Cyperus esculentus) and sugar beet the predominant diferulic acids are 8-O-4'-DiFA and 8,5'-DiFA respectively. 8-5' Non cyclic diferulic acid has been identified to be covalently linked to carbohydrate moieties of the arabinogalactan-protein fraction of gum arabic.
+
+
+== Function ==
+Diferulic acids are thought to have a structural function in plant cell walls, where they form cross-links between polysaccharide chains. They have been extracted attached to a few sugar molecules at both ends, but so far no definitive proof of them linking separate polysaccharide chains has been found. In suspension-cultured maize cells, dimerisation of ferulic acid esterified to polysaccharides occurs mostly in the protoplasm, but may occur in the cell walls when peroxide levels increase due to pathogenesis. In suspension-cultured wheat cells, only the 8,5'-diferulic acid is formed intraprotoplasmically with the other dimers being formed in the cell wall.
+
+
+== Preparation ==
+Most diferulic acids are not commercially available and must be synthesised in lab. Synthetic routes have been published, but it is often simpler to extract them from plant material. They can be extracted from plant cell walls (often maize bran) by concentrated solutions of alkali, the resulting solution is then acidified and phase separated into an organic solvent. The resulting solution is evaporated to give a mixture of ferulic acid moieties that can be separated by column chromatography. Identification is often by high performance liquid chromatography with a UV detector or by LC-MS. Alternatively they can be derivatised to make them volatile and therefore suitable for GC-MS. Curcumin can be hydrolyzed (alkaline) to yield two molecules of ferulic acid. Peroxidases can produce dimers of ferulic acid, in the presence of hydrogen peroxide through radical polymerization.
+
+
+== Uses ==
+Diferulic acids are more effective inhibitors of lipid peroxidation and better scavengers of free radicals than ferulic acid on a molar basis.
+
+
+== History ==
+The first diferulic acid discovered was the 5,5'-diferulic acid, and for a while this was thought to be the only one.
+
+
+== See also ==
+Sinapic acid
+Coumaric acid
+
+
+== References ==

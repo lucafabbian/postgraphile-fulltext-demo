@@ -1,0 +1,43 @@
+The Expressway Monitoring and Advisory System (Chinese: 电子监控与信息系统), also known by its acronym of EMAS, is a computerised system that is used to monitor traffic on Singapore's expressways. EMAS enables Land Transport Authority (LTA) personnel to detect accidents and respond to them more quickly. In addition, it notifies motorists of adverse traffic conditions.
+
+
+== History ==
+The contract for the construction of EMAS was awarded by the LTA to Singapore Technologies Electronics in December 1996. The first phase, implemented only on the Central Expressway, was launched officially on 21 March 1998 by then Minister of State for Communications, John Chen. In addition, tunnels were originally used by General Electric between 1991 and 1999. The system was extended to every expressways after the trial, in 2000:
+10 November 1999: Ayer Rajah Expressway (Keppel Road - Clementi)
+End of 2000: Pan Island Expressway, East Coast Parkway, Clementi-Tuas stretch of the AYE
+Mid-2001: Bukit Timah Expressway, Kranji Expressway, Seletar Expressway, Tampines ExpresswaySeparately, the checkpoints utilized EMAS signboards through General Electric and which is located at -
+
+Turf Club Avenue (towards BKE) [Removed on 1 January 2004]
+Mandai Road (towards BKE) [Removed on 1 January 2004]
+Woodlands Road (near to Kranji MRT) [Removed on 1 January 2004]
+SLE (Woodlands Avenue 2 - BKE) [Handed over to LTA and removed in 2014]
+BKE (Bukit Panjang Road - KJE) [Handed over to LTA and removed in 2014]
+BKE (KJE - Mandai Road) [Handed over to LTA and removed in 2014]
+BKE (Mandai Road - Turf Club Avenue) [Handed over to LTA and removed in 2014]
+BKE (Turf Club Avenue - Woodlands Road) [Handed over to LTA and removed in 2014]
+AYE (Pioneer Road - Benoi Road) [Removed in 2006]
+AYE (Exit 22 - Exit 24) [Removed in 2013]
+PIE (near to KJE) [Removed during the PIE Upgrading]
+PIE (Exit 41) [Removed during the PIE Upgrading]The upgrading of EMAS signages was announced in September 2013. It will be rolled out to Central Expressway (both blue screens and tunnels), East Coast Parkway, and Bukit Timah Expressway/Seletar Expressway that is near to the Woodlands Checkpoint, which was completed in October 2014. The second phase will be rolled out to Ayer Rajah Expressway and Kranji Expressway, which was completed in August 2015. The third phase will be rolled out to the remaining expressways, which was completed in February 2016.
+
+
+== Mechanism ==
+
+EMAS consists of a network of electronic cameras and LED signboards located at strategic points along the expressways. The cameras transmit data to the ITS Centre, located at Clemenceau Avenue. In the Centre, staff monitor the data 24 hours a day, looking out for signs of accidents. When an accident occurs, the appropriate agencies, such as the Traffic Police and SCDF, are notified. Warning messages are then displayed on the signboards to inform motorists of the accident and allow them to make alternative travel plans. When the expressways are free of accidents, the signboards are used to display other informational messages, such as road safety reminders, planned road closures, or road works.
+As part of the upgrading work for the EMAS, smaller signboards were installed on the expressways as well as arterial roads that connect to them. These smaller signboards were intended to display estimated travel time to various destinations which is colour-coded from shorter to longer travelling times, information messages.
+
+
+== Effectiveness and criticism ==
+EMAS has helped LTA to detect road traffic accidents, vehicle breakdowns, and other incidents. By June 2004, LTA had removed conventional SOS telephones from all Singapore expressways (except the CTE tunnels), citing the effectiveness of EMAS and the widespread use of mobile phones as reasons. LTA reassured motorists without mobile phones that they would not be stranded without help in case of a breakdown, as the expressways are patrolled by EMAS recovery teams in two trucks every two hours.However, the system has been panned by its critics who denounce it as a waste of money, with messages being couched in "unintelligible" abbreviations. For example, "Please" is shortened to "PLS" in the first picture of this article.
+
+
+== See also ==
+Variable message sign
+Motorway Incident Detection and Automatic Signalling - a slightly different system in the UK
+
+
+== References ==
+
+
+== External links ==
+A guide to EMAS symbols and abbreviations

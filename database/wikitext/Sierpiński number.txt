@@ -1,0 +1,298 @@
+In number theory, a Sierpiński number is an odd natural number k such that 
+  
+    
+      
+        k
+        ×
+        
+          2
+          
+            n
+          
+        
+        +
+        1
+      
+    
+    {\displaystyle k\times 2^{n}+1}
+   is composite for all natural numbers n. In 1960, Wacław Sierpiński proved that there are infinitely many odd integers k which have this property.
+In other words, when k is a Sierpiński number, all members of the following set are composite:
+
+  
+    
+      
+        
+          {
+          
+            
+            k
+            ⋅
+            
+              2
+              
+                n
+              
+            
+            +
+            1
+            :
+            n
+            ∈
+            
+              N
+            
+            
+          
+          }
+        
+        .
+      
+    
+    {\displaystyle \left\{\,k\cdot 2^{n}+1:n\in \mathbb {N} \,\right\}.}
+  If the form is instead 
+  
+    
+      
+        k
+        ×
+        
+          2
+          
+            n
+          
+        
+        −
+        1
+      
+    
+    {\displaystyle k\times 2^{n}-1}
+  , then k is a Riesel number.
+
+
+== Known Sierpiński numbers ==
+The sequence of currently known Sierpiński numbers begins with:
+
+78557, 271129, 271577, 322523, 327739, 482719, 575041, 603713, 903983, 934909, 965431, 1259779, 1290677, 1518781, 1624097, 1639459, 1777613, 2131043, 2131099, 2191531, 2510177, 2541601, 2576089, 2931767, 2931991, ... (sequence A076336 in the OEIS).The number 78557 was proved to be a Sierpiński number by John Selfridge in 1962, who showed that all numbers of the form 78557⋅2n + 1 have a factor in the covering set {3, 5, 7, 13, 19, 37, 73}. For another known Sierpiński number, 271129, the covering set is {3, 5, 7, 13, 17, 241}. Most currently known Sierpiński numbers possess similar covering sets.However, in 1995 A. S. Izotov showed that some fourth powers could be proved to be Sierpiński numbers without establishing a covering set for all values of n. His proof depends on the aurifeuillean factorization t4⋅24m+2 + 1 = (t2⋅22m+1 + t⋅2m+1 + 1)⋅(t2⋅22m+1 - t⋅2m+1 + 1). This establishes that all n ≡ 2 (mod 4) give rise to a composite, and so it remains to eliminate only n ≡ 0, 1, 3 (mod 4) using a covering set.
+
+
+== Sierpiński problem ==
+
+The Sierpiński problem asks for the value of the smallest Sierpiński number. In private correspondence with Paul Erdős, Selfridge conjectured that 78,557 was the smallest Sierpiński number. No smaller Sierpiński numbers have been discovered, and it is now believed that 78,557 is the smallest number.To show that 78,557 really is the smallest Sierpiński number, one must show that all the odd numbers smaller than 78,557 are not Sierpiński numbers. That is, for every odd k below 78,557, there needs to exist a positive integer n such that k2n + 1 is prime. As of December 2021, there are only five candidates which have not been eliminated as possible Sierpiński numbers:
+k = 21181, 22699, 24737, 55459, and 67607.The distributed volunteer computing project PrimeGrid is attempting to eliminate all the remaining values of k. As of August 2022, no prime has been found for these values of k, with all 
+  
+    
+      
+        n
+        ≤
+        37
+        
+        408
+        
+        811
+      
+    
+    {\displaystyle n\leq 37\,408\,811}
+   having been eliminated.The most recently eliminated candidate was k = 10223, when the prime 
+  
+    
+      
+        10223
+        ×
+        
+          2
+          
+            31172165
+          
+        
+        +
+        1
+      
+    
+    {\displaystyle 10223\times 2^{31172165}+1}
+   was discovered by PrimeGrid in October 2016. This number is 9,383,761 digits long.
+
+
+== Prime Sierpiński problem ==
+
+In 1976, Nathan Mendelsohn determined that the second provable Sierpiński number is the prime k = 271129. The prime Sierpiński problem asks for the value of the smallest prime Sierpiński number, and there is an ongoing "Prime Sierpiński search" which tries to prove that 271129 is the first Sierpiński number which is also a prime. As of November 2018, the nine prime values of k less than 271129 for which a prime of the form k2n + 1 is not known are:
+k = 22699, 67607, 79309, 79817, 152267, 156511, 222113, 225931, and 237019.As of August 2022, no prime has been found for these values of k with 
+  
+    
+      
+        n
+        ≤
+        27
+        
+        315
+        
+        111
+      
+    
+    {\displaystyle n\leq 27\,315\,111}
+  .The first two, being less than 78557, are also unsolved cases of the (non-prime) Sierpiński problem described above. The most recently eliminated candidate was k = 168451, when the prime number 
+  
+    
+      
+        168451
+        ×
+        
+          2
+          
+            19375200
+          
+        
+        +
+        1
+      
+    
+    {\displaystyle 168451\times 2^{19375200}+1}
+   was discovered by PrimeGrid in September 2017. The number is 5,832,522 digits long.
+
+
+== Extended Sierpiński problem ==
+
+Suppose that both preceding Sierpiński problems had finally been solved, showing that 78557 is the smallest Sierpiński number and that 271129 is the smallest prime Sierpiński number. This still leaves unsolved the question of the second Sierpinski number; there could exist a composite Sierpiński number k such that 
+  
+    
+      
+        78557
+        <
+        k
+        <
+        271129
+      
+    
+    {\displaystyle 78557<k<271129}
+  . An ongoing search is trying to prove that 271129 is the second Sierpiński number, by testing all k values between 78557 and 271129, prime or not.
+Solving the extended Sierpiński problem, the most demanding of the three posed problems, requires the elimination of 21 remaining candidates 
+  
+    
+      
+        k
+        <
+        271129
+      
+    
+    {\displaystyle k<271129}
+  , of which nine are prime (see above) and twelve are composite. The latter include k = 21181, 24737, 55459 from the original Sierpiński problem. As of August 2022, the following eight values of k, unique to the extended Sierpiński problem, remain:
+k = 91549, 131179, 163187, 200749, 209611, 227723, 229673, and 238411.As of August 2022, no prime has been found for these values of k with 
+  
+    
+      
+        n
+        ≤
+        22
+        
+        384
+        
+        237
+      
+    
+    {\displaystyle n\leq 22\,384\,237}
+  .In December 2019, 
+  
+    
+      
+        99739
+        ×
+        
+          2
+          
+            14019102
+          
+        
+        +
+        1
+      
+    
+    {\displaystyle 99739\times 2^{14019102}+1}
+   was found to be prime by PrimeGrid, eliminating k = 99739. The number is 4,220,176 digits long.The most recent elimination was in December 2021, when 
+  
+    
+      
+        202705
+        ×
+        
+          2
+          
+            21320516
+          
+        
+        +
+        1
+      
+    
+    {\displaystyle 202705\times 2^{21320516}+1}
+   was found to be prime by PrimeGrid, eliminating k = 202705. The number is 6,418,121 digits long.
+
+
+== Simultaneously Sierpiński and Riesel ==
+A number may be simultaneously Sierpiński and Riesel. These are called Brier numbers. The smallest five known examples are 3316923598096294713661, 10439679896374780276373, 11615103277955704975673, 12607110588854501953787, 17855036657007596110949, ... (A076335).
+
+
+== Dual Sierpinski problem ==
+If we take n to be a negative integer, then the number k2n + 1 becomes 
+  
+    
+      
+        
+          
+            
+              
+                2
+                
+                  
+                    |
+                  
+                  n
+                  
+                    |
+                  
+                
+              
+              +
+              k
+            
+            
+              2
+              
+                
+                  |
+                
+                n
+                
+                  |
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\frac {2^{|n|}+k}{2^{|n|}}}}
+  . When k is odd, this is a fraction in reduced form, with numerator 2|n| + k. A dual Sierpinski number is defined as an odd natural number k such that 2n + k is composite for all natural numbers n. There is a conjecture that the set of these numbers is the same as the set of Sierpinski numbers; for example, 2n + 78557 is composite for all natural numbers n.For odd values of k the least n such that 2n + k is prime are 
+
+1, 1, 1, 2, 1, 1, 2, 1, 1, 2, 1, 3, 2, 1, 1, 4, 2, 1, 2, 1, 1, 2, 1, 5, 2,  ... (sequence A067760 in the OEIS)The odd values of k for which 2n + k is composite for all n < k are
+
+773, 2131, 2491, 4471, 5101, 7013, 8543, 10711, 14717, 17659, 19081, 19249, 20273, 21661, 22193, 26213, 28433, ... (sequence A033919 in the OEIS)
+
+
+== See also ==
+Cullen number
+Proth number
+Riesel number
+Seventeen or Bust
+Woodall number
+
+
+== References ==
+
+
+== Further reading ==
+Guy, Richard K. (2004), Unsolved Problems in Number Theory, New York: Springer-Verlag, p. 120, ISBN 0-387-20860-7
+
+
+== External links ==
+The Sierpinski problem: definition and status
+Weisstein, Eric W. "Sierpinski's composite number theorem". MathWorld.
+Archived at Ghostarchive and the Wayback Machine: Grime, Dr. James. "78557 and Proth Primes" (video). YouTube. Brady Haran. Retrieved 13 November 2017.

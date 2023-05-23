@@ -1,0 +1,28 @@
+Marcel Jules Edouard Golay (French: [gɔlɛ]; May 3, 1902 – April 27, 1989) was a Swiss mathematician, physicist, and information theorist, who applied mathematics to real-world military and industrial problems. He was born in Neuchâtel, Switzerland.
+
+
+== Career ==
+Golay studied electrical engineering at the Eidgenössische Technische Hochschule (Swiss Federal Institute of Technology) in Zürich.  He joined Bell laboratories in New York City in 1924, spending four years there. He received a Ph.D. in physics from the University of Chicago in 1931.Golay then joined the US Army Signal Corps, eventually rising to the post of Chief Scientist. He was based mostly in Fort Monmouth, New Jersey. He developed an IR "radar" based on its Golay Detector, the SCR-268T specifically designed to the detection of vessels (S/S Normandie was detected at its inaugural crossing). The SCR-268 (using Barkausen vacuum tubes) and the SCR-268T were to work together. However the 268T, only used in the Pacific theater was abandoned before the end of the war.Between 1955 and 1963, Golay was a consultant for Philco Corporation of Philadelphia, PA, and the Perkin-Elmer Corporation of Norwalk, Connecticut. In 1963, Golay joined the Perkin-Elmer company full-time as Senior Research Scientist. Golay worked on many problems, including gas chromatography and optical spectroscopy. It was during this period when he patented an Analysis of Images, for two-dimensional parallel data processing, and worked to develop the idea, called Golay Logic for Optical Pattern Recognition along with Kendall Preston, Philip Norgren, David Dacava and Joseph Carvalko, Jr. He remained with Perkin-Elmer for the rest of his life.
+
+
+== Achievements ==
+Discoverer of the famous binary and ternary Golay codes, which are perfect error-correcting codes that generalize the Hamming code. They were used in the Voyager probes, and led to advances in the theory of finite groups.
+Co-author with Abraham Savitzky of the Savitzky–Golay filter.
+Inventor of the Golay cell, a type of infrared detector.
+He introduced complementary sequences. Those are pairs of binary sequences whose autocorrelation functions add up to zero for all non-zero time shifts. Today they are used in various WiFi and 3G standards.
+He introduced the theory of dispersion in open tubular columns (capillary columns) and demonstrated their efficacy at the Second International Symposium on Gas Chromatography at Amsterdam in 1958.
+
+
+== Significant bibliography ==
+Golay, M. (1949). "Notes on Digital Coding" (PDF). Proc. IRE. 37: 657. Archived from the original (PDF) on 2016-10-07.
+Golay, M. (January 1977). "Sieves for low autocorrelation binary sequences". IEEE Transactions on Information Theory. 23 (1): 43–51. doi:10.1109/TIT.1977.1055653.
+Golay, M. J. E. (January 1988). "Preparative capillary chromatography-a proposal". Journal of High Resolution Chromatography. 11 (1): 6–8. doi:10.1002/jhrc.1240110103.
+Golay, M. (April 1961). "Complementary series". IEEE Transactions on Information Theory. 7 (2): 82–87. doi:10.1109/TIT.1961.1057620.
+
+
+== References ==
+
+
+== External links ==
+Bibliography of writings by and about Marcel Golay, including awards. Compiled by his daughter, Nona Golay Bloomer (2007).
+Reprints of papers are in the Archives of the Science History Institute: Finding Aid to Marcel J. E. Golay, 1931-2002 (bulk 1946-1989). Science History Institute. Science History Institute. Click on 'Golay Box List' to go to full list.

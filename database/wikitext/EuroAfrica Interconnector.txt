@@ -1,0 +1,59 @@
+EuroAfrica Interconnector is a HVDC interconnector and submarine power cable between the Greek, Cypriot, and Egypt power grids. The Interconnector is an energy highway bridging Africa and Europe. It will have a capacity to transmit 2,000 megawatts of electricity in either direction. Annual transmission capacity will be rated at 17.5 TWh, much more than the annual production at the Aswan Dam power stations. President of Egypt Abdel Fattah el-Sisi, President of Cyprus Nicos Anastasiades and Prime Minister of Greece Kyriakos Mitsotakis, issued a joint declaration at the conclusion of the 7th Trilateral Summit, held in Cairo on October 8, 2019, in which they expressed their desire to continue strengthening their cooperation in matters of energy. In particular, the joint declaration by the three leaders stated they recognised the importance of establishing an electrical grid between Egypt, Cyprus and Greece, building on the framework agreement between the Egyptian Electricity Holding Company and the Euro Africa Interconnector Company on 22 May 2019.
+
+
+== Technical data ==
+The EuroAfrica Interconnector will link Egypt with the Cypriot and Greek power grids through the island of Crete, with a high-voltage direct current submarine power cable of length around 1,396-kilometre (867 mi). Egypt will be connected with Cyprus with a 498-kilometre (309 mi) long cable. Cyprus will be connected with Crete with a 898-kilometre (558 mi) long cable providing a connection to the pan-European electricity grid. The laying depth of cable will be up to 3,000 metres (9,800 ft) under sea level in some areas between Crete and Cyprus. It will have a capacity to transmit 2,000 megawatts of electricity in either direction. Annual transmission capacity is 17.5 TWh, much more than the annual production of the Aswan Dam.
+The main components are:
+
+3 HVDC converter stations of Voltage Source Converter (VSC) type in bipolar arrangements (in Egypt, Cyprus, and Crete)Converter stations convert direct current (DC) to alternating current (AC) or the reverse. Converter stations are bipolar and could run bidirectionally, enabling the import or export of electricity depending on demand.
+
+subsea and land high-voltage direct current (HVDC) cables that will interconnect the converter stations. Cables will run in pairs with a voltage of 500kV.
+Sea electrodes and medium voltage direct current cables connecting them to converter stations
+Alternating current (AC) switchgear connecting converter stations to the grid at four different locations.In the first stage, the interconnector will have 1000 MW capacity. It is expected to cost €2.5 billion in the first stage.  The constructors estimate that the first interconnection between Burullus gas power plant in Egypt and Kofinou on Cyprus will be finished in 2022. The longest interconnection between Kofinou on Cyprus and Fodele on Crete will be completed in 2023.Energy-sector technical engineering recruitment firm Fircroft included the EuroAfrica Interconnector as the fifth biggest among 10 major transmission and distribution projects in the world for 2019 and beyond.
+
+
+== Support in Egypt, Cyprus and Greece ==
+A cooperation agreement was signed in Cairo on 6 February 2017 between Nasos Ktorides, CEO of the project developer EuroAfrica Interconnector, and the Chairman of the Egyptian Electricity Holding Co. (EEHC) Gaber Desouky, in the presence of Egyptian Minister of Electricity Mohamed Shaker El-Markabi. El-Markabi stressed the strategic importance of the Interconnector for the economic development and energy security of Egypt. President of Egypt Abdel Fattah el-Sisi asked to be informed each week on the progress of the project. With the Interconnector it is expected that the three nations will become energy hubs for the African and European power grids.El-Sisi, on meeting with Ktorides on 22 November 2017 in Nicosia, gave full support and commitment for the Interconnector's construction. El-Sisi, President of Cyprus Nicos Anastasiades, and the Prime Minister of Greece Alexis Tsipras met in Nicosia the day before. They encouraged and welcomed private sector initiatives for energy infrastructure projects, and emphasized the energy security of all three countries. Tsipras on 5 December highlighted the EuroAsia Interconnector and EuroAfrica Interconnector as major projects important for the economic growth and geostrategy of Greece.
+
+It is expected that it will take at least 18 months to complete studies for the project and 3 years will be needed for project implementation.The landing points, exact route of cable and sites of the HVDC converter stations were approved on 26 February 2018 in Cairo during a meeting between Egypt's Minister of Electricity and Renewable Energy Mohamed Shaker El-Markabi and Ktorides. The landing point and converter station in Egypt will be near the new highly efficient 4.8 GW Burullus gas power plant, 100 km west of Damietta.Elia, Belgium’s electricity transmission system operator, has concluded a strategic alliance agreement with EuroAfrica Interconnector management for the development and implementation of the 2,000 MW subsea electricity interconnector.Former Cyprus Foreign Minister (1997—2003, 2013—1 March 2018) and head of the European Parliament Foreign Affairs Working group, Ioannis Kasoulides, joined the EuroAfrica Interconnector on 4 April 2018 as Chairman of the Strategic Council.The first Working Group meeting of the EuroAfrica Interconnector with the Egyptian Electricity Holding Company took place in Cairo on 22–23 April 2018.On 25 June 2018 Chairman of EuroAfrica Strategic Council Kasoulides handed to Egypt's Minister of Electricity Mohamed Shaker El-Markabi a study of the 2,000 MW subsea electricity interconnector. The President of Egypt, Abdel Fattah el-Sisi, upon meeting with Chairman of the EuroAfrica Strategic Council Kasoulides and CEO Ktorides on 27 June 2018 in Cairo, gave full support again for the Interconnector's implementation.
+
+El-Sisi, Anastasiades, and Tsipras met again at the 6th Trilateral Summit in Elounda, Crete on 10 October 2018.
+They again stressed the importance of the EuroAfrica Interconnector.On 22 May 2019 in Cairo, Ktorides and Eng. Sabah Mohamed Mashal, Chairperson of the Egyptian Electricity Transmission Company, signed a framework agreement to implement the cable system's construction. The agreement was signed in the presence of the Egyptian Prime Minister Moustafa Madbouly, the Ministerial Cabinet, and president of the EuroAfrica Interconnector Strategic Board Kasoulides.El-Sisi, Anastasiades, and the new Prime Minister of Greece Kyriakos Mitsotakis issued a joint declaration at the conclusion of the 7th Trilateral Summit, held in Cairo on October 8, 2019, in which they expressed their desire to continue strengthening their cooperation in matters of energy. In this regard, the joint declaration by the three leaders said, “they recognised the importance of establishing an electrical grid between Egypt, Cyprus and Greece, such as the framework agreement between the Egyptian Electricity Holding Company and the Euro Africa Interconnector Company on 22 May 2019.Nobel prize laureate Christopher Pissarides has been appointed chairman of the Economic Council of EuroAfrica Interconnector.
+
+
+== Offshore Eastern Mediterranean hydrocarbon findings ==
+
+Levantine Sea  is bounded by Greece, Turkey, Syria, Lebanon, Israel, and Egypt, with Cyprus in the middle as its largest island. The seafloor of the Eastern Mediterranean Basin is dotted with mud volcanoes which spew gas and occasionally oil into the benthic zone. Geologically it consists of sediment columns up to 12 km thick capped by evaporites. Geological and oceanographers facts lead to speculation that Levantine sea contains big gas and oil deposits trapped in evaporites. Recently in Egypts Exclusive Economic Zone Eni discovered Zohr gas field , largest known gas field in Mediterranean. The Zohr gas field holds around 850 billion cubic metres (30 trillion cubic feet) of gas. It is estimated that in the Levant Basin there are around 3,500 billion cubic metres (120 trillion cubic feet) of undiscovered gas resources.
+Interconnector could help better utilization of recently discovered gas fields by converting gas to electricity and transmitting electricity to distant networks.
+
+
+== Egypt as regional energy hub ==
+
+During 2014. Egypt suffered from heavy electricity blackouts. In 2015. Egypt signed $9 billion contract with Siemens to supply gas and wind power plants of 16.4 GW capacity. Siemens is building three combined-cycle gas power plants: Beni Sauf, New capital and Burullus, each of 4.8 GW capacity. In Egypt Siemens is also building wind farms of capacity of 2 GW. New power plants will boost by 50% Egypt's electricity generation. It is expected that power plants will be delivered during 2018. Under construction is part of 1.8 GW photovoltaic power station Benban Solar Park.In February 2018 an Egyptian company and partners in Israel’s Tamar and Leviathan offshore gas fields announced  $15 billion deal to export 6.5 billion cubic meters per year of Israeli gas to Egypt. The deal paves way and upgrades status of Egypt as a regional energy hub.
+Cyprus and Egypt are planning gas pipeline connecting Cyprus’ Aphrodite gas field to LNG facilities in Egypt.Egypt plans 3.000 MW interconnector to Saudi Arabia. Via that power link it will be connected to other Gulf countries connected to Saudi Arabia, Qatar, Kuwait, Bahrain and others.Memorandum of Understanding for a Strategic Cooperation in Energy between Egypt and the European Union was signed on April 23, 2018. EU supports turning Egypt into an energy hub.
+
+
+== Efficiency and big reduction of CO2 ==
+New Egyptian combined-cycle gas power plants come with Siemens H-class technology turbines with energy conversion efficiency of 60%. Usually gas power plants have energy conversion efficiency of up to 38%, oil power plants up to 42% and coal plants from 32% to 42%. Thermal efficiency of Cyprus power stations is 36,5%, and Greek power stations have efficiency less than 40%.Increased efficiency will significantly lower fuel costs and also CO2  emission. Gas power plants with normal energy conversion efficiency produce electricity with 1.5 to 2 times less CO2  compared to coal or oil power plants. On the other hand Egyptian new high efficient gas power plants for same amount of produced electricity will produce 2 to 3 times less CO2 compared to normal oil or coal power stations in use on Cyprus, Crete and in Greece.
+
+
+== Benefits of Interconnector ==
+Ensures secure energy supply of Cyprus, Greece and Egypt connecting them with European network
+Ends energy isolation of Cyprus and Crete and connect them to European network. Cyprus is last member of EU fully isolated without energy interconnections.
+For new Egypt and Cyprus gas finding enables path towards new markets in form of electricity. Also enables path for electricity produced from renewable energy sources. Development of renewable energy sources on isolated systems like Cyprus and Crete could compromise islands electrical systems due to chaotic production fluctuations. Electricity interconnection will enable high percentage of renewable sources in such isolated systems.
+Contributes to EU target for 10% of electricity interconnection between member states.
+Promotes development of renewable energy sources and significantly contributes to the reduction of CO2
+Offers significant economic and geopolitical benefit to 3 countries. It is expected that socio-economic benefit will be around 10 billion €.
+
+
+== See also ==
+Submarine power cable
+EuroAsia Interconnector
+
+
+== References ==
+
+
+== External links ==
+Official website
+Quantum Corporation and Quantum Energy

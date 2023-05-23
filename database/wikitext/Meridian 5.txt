@@ -1,0 +1,10 @@
+Meridian 5 (Russian: Меридиан-5), also known as Meridian No.15L, was a communications satellite launched by the Russian Federal Space Agency which was lost in a launch failure in December 2011. The fifth Meridian spacecraft to be launched, Meridian 5 was to have been deployed into a Molniya orbit with an apogee of 39,000 kilometres (24,000 mi), a perigee of 900 kilometres (560 mi) and 65 degrees of orbital inclination; from which it would have provided communications for the Russian military. It would have been operated by the newly formed Russian Aerospace Defence Forces.
+Meridian 5 was launched on a Soyuz-2.1b rocket with a Fregat upper stage, from Site 43/4 at the Plesetsk Cosmodrome. The launch took place at 12:08 UTC on 23 December 2011, with the rocket performing nominally during first and second stage flight. At 288 seconds after launch, the Blok I third stage's RD-0124 engine ignited to begin its burn. During third stage flight, an anomaly occurred which prevented the rocket from reaching orbit.
+An official spokesman stated that the launch had been terminated 421 seconds into flight, by means of the rocket's thrust termination system. Telemetry recorded by NPO Lavochkin, however, indicated that the rocket had veered off course 425 seconds after launch, with data suggesting that there had been an explosion. Another report indicated that the engine had lost thrust 427 seconds after launch. It was the first orbital launch to be conducted by the Aerospace Defence Forces, which had been formed at the beginning of the month.Debris from the launch fell over the Novosibirsk Oblast in Siberia, near Ordynsk. One piece of debris fell through the roof of a house in Cosmonaut Street in the village of Vagaitsevo. Despite debris falling in residential areas, no injuries were reported.
+
+
+== See also ==
+Progress M-12M
+
+
+== References ==

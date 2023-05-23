@@ -1,0 +1,34 @@
+1241 Dysona, provisional designation 1932 EB1, is a dark background asteroid from the outer regions of the asteroid belt, approximately 77 kilometers in diameter. It was discovered on 4 March 1932, by English astronomer Harry Edwin Wood at the Union Observatory in Johannesburg, South Africa. The asteroid was named after English astronomer Frank Watson Dyson.
+
+
+== Orbit and classification ==
+Dysona is a non-family asteroid from the main belt's background population. It orbits the Sun in the outer main-belt at a distance of 2.9–3.5 AU once every 5 years and 8 months (2,081 days; semi-major axis of 3.19 AU). Its orbit has an eccentricity of 0.10 and an inclination of 24° with respect to the ecliptic.The asteroid was first observed as A908 DC at Taunton Observatory (803) in February 1908. The body's  observation arc begins with its observations as A920 EB at Heidelberg Observatory in March 1920, or 12 years prior to its official discovery observation at Johannesburg.
+
+
+== Physical characteristics ==
+In the Tholen classification, Dysona's spectral type is ambiguous, closest to a primitive P-type and somewhat similar to a D- and C-type asteroid (PDC).
+
+
+=== Rotation period and pole ===
+In April 2006, a rotational lightcurve of Dysona was obtained by Julian Oey at Leura Observatory (E17) in Australia. Lightcurve analysis gave a rotation period of 8.6080 hours with a brightness variation of 0.24 magnitude (U=3-), superseding photometric observations by Jean-Gabriel Bosch and Laurent Brunetto in October 2010, who measured a period of 8.355 hours and an amplitude of 0.25 magnitude (U=2).In 2016, a modeled lightcurve using data from UAPC, the Palomar Transient Factory survey, and individual observers, gave a concurring period of 8.60738 hours as well an astronomical pole of (125.0°, −68.0°) in ecliptic coordinates (λ, β).
+
+
+=== Diameter and albedo ===
+According to the surveys carried out by the Infrared Astronomical Satellite IRAS, the Japanese Akari satellite and the NEOWISE mission of NASA's Wide-field Infrared Survey Explorer, Dysona measures between 70.757 and 83.05 kilometers in diameter  and its surface has an albedo between 0.04 and 0.0585.The Collaborative Asteroid Lightcurve Link adopts the results obtained by IRAS, that is, an albedo of 0.0425 and a diameter of 83.05 kilometers based on an absolute magnitude of 9.45.
+
+
+== Naming ==
+This minor planet was named after English astronomer Frank Watson Dyson (1868–1939), Astronomer Royal of England, director of the Royal Observatory, Greenwich, awarded the Bruce Medal in 1922, and president of the International Astronomical Union from 1928 to 1932. The official naming citation was mentioned in The Names of the Minor Planets by Paul Herget in 1955 (H 114). The lunar crater Dyson was also named in his honor.
+
+
+== References ==
+
+
+== External links ==
+Asteroid Lightcurve Database (LCDB), query form (info Archived 16 December 2017 at the Wayback Machine)
+Dictionary of Minor Planet Names, Google books
+Asteroids and comets rotation curves, CdR – Observatoire de Genève, Raoul Behrend
+Discovery Circumstances: Numbered Minor Planets (1)-(5000) – Minor Planet Center
+1241 Dysona at AstDyS-2, Asteroids—Dynamic Site
+Ephemeris · Observation prediction · Orbital info · Proper elements · Observational info
+1241 Dysona at the JPL Small-Body Database

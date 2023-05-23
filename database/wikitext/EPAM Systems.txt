@@ -1,0 +1,41 @@
+EPAM Systems, Inc. is an American company that specializes in software engineering services, digital platform engineering, and digital product design, operating out of Newtown, Pennsylvania. EPAM is a founding member of the MACH Alliance.
+
+
+== History ==
+
+
+=== Early years ===
+In 1993, Arkadiy Dobkin and Leo Lozner founded EPAM, a global software engineering services company, in New Jersey, USA and Minsk, Belarus.In 2002, EPAM was ranked publicly for the first time as a fast-growing company by Deloitte & Touche. In the same year, the company became the first Russian player on the London Stock Exchange.In 2012, EPAM was listed on New York Stock Exchange under the moniker EPAM, becoming the first company from Belarus on NYSE.
+
+
+=== Timeline ===
+In 2004, EPAM acquired Fathom Technology, a software development services company based in Budapest, Hungary, expanding its offshore services beyond North America. In 2006, EPAM secured an equity investment from Siguler Guff to fund its competitive growth plans.In 2006, EPAM acquired VDI, a software development services company with delivery centers in Russia, which expanded the company’s presence in the CIS region. That year, EPAM CEO Arkadiy Dobkin was named one of the Top 25 Most Influential Consultants of the Year by Consulting Magazine.In late 2012, EPAM made two acquisitions – Thoughtcorp, which expanded its service offerings in Agile, business intelligence and mobile, and Empathy Lab, which established a digital engagement practice focusing on  customer experience, design and eCommerce.EPAM made two acquisitions in 2018 to expand its service offerings: Continuum (now EPAM Continuum)  and TH_NK to add consulting capabilities and develop its digital and service design practices. Also that year, EPAM launched InfoNgen®, a text analytics and sentiment analysis enterprise software product that uses artificial intelligence.The company also productized TelescopeAI®, an artificial intelligence-based platform for IT operations and workforce management, which won a 2019 Big Innovation Award presented by the Business Intelligence Group.In 2019, EPAM joined the Blockchain in Transport Alliance (BiTA). That year, the company launched EPAM Continuum, its service for business, experience and technology consulting.
+The company also launched EPAM SolutionsHub, a catalogue of its software products, accelerators and open source platforms. As part of its SolutionsHub launch, EPAM also released the Open Source Contributor Index (OSCI), a tool that ranks the top open-source contributors by a commercial organization.In August 2021, EPAM expanded its presence in Latin America through the acquisition of Colombia-based S4N, a software development services firm specializing in the design and development of modern software products and enterprise platforms.In July 2021, EPAM acquired CORE SE, a professional service provider specializing in IT strategy and technology-driven transformations, to further expand its Western European footprint in the DACH region.  
+In May 2021, EPAM acquired Just-BI, a Netherlands-based consultancy specializing in SAP/S4HANA and enterprise data and analytics program management.  
+EPAM acquired Israel-based cybersecurity services provider White-Hat Ltd. in May 2021.In April 2021, EPAM acquired PolSource, a Salesforce Consulting Partner with more than 350 Salesforce specialists across the Americas and Europe.  
+In December 2021, EPAM joined the S&P 500 American market index.In May 2021, EPAM Systems ranked 1,804 on the Forbes Global 2000 list.In 2022, EPAM announced several strategic acquisitions and investments, including a majority stake in U.S. software firm Contino and a minority stake in U.K. AI-driven data analytics firm Noodle.io.
+
+
+== Russian invasion of Ukraine ==
+During the 2022 Russian invasion of Ukraine, tensions between the firm's 14,000 Ukrainian employees and the 18,000 Belarusian and Russian staff sparked dissension when the CEO Arkadiy Dobkin refrained from publicly condemning Russia in a statement on LinkedIn and rejected calls to assist the Ukrainian military. According to Forbes, Dobkin defended his statement, which didn't mention Putin, Russia or his native Belarus, saying the company could not use its infrastructure for cyberattacks and had to protect EPAM employees in Russia and Belarus from political reprisals that are common in those countries. The company paid Ukrainian staff a $1,000 emergency grant and supported Ukrainian relief efforts, including the installation of the Starlink satellite systems in Ukraine. Also, the company launched the EPAM Ukraine Assistance Fund to help Ukrainians and made a US$100 million humanitarian aid commitment. In April 2022, EPAM decided to stop operating in Russia while continuing working in Belarus.
+
+
+== Acquisitions ==
+
+
+== Awards ==
+EPAM was named to Forbes’ 25 Fastest Growing Public Tech Companies list in 2013, 2015, 2016, 2017
+EPAM was named as one of Fortune’s 100 Fastest-Growing Companies in 2019, 2020 and 2021.
+In May 2021, EPAM ranked 1,804 on the Forbes Global 2000 list.
+EPAM joined the S&P 500 in December 2021.
+EPAM was named a Top 10 Travel, Hospitality & Logistics Service Provider in 2018 by HFS Research
+In 2019 EPAM was awarded the BIG Innovation Awards for the development of the TelescopeAI product became the winner of the international competition The Global SDG Awards in the category "Quality Education", 12 employees of the company were recognized as Sitecore Most Valuable Professionals.
+In 2019, KMWorld Magazine named EPAM in the list of 100 significant companies in the field of knowledge management.
+
+
+== References ==
+
+
+== External links ==
+Official website
+Business data for EPAM Systems, Inc.:

@@ -1,0 +1,25 @@
+Meiothermus timidus is a species of yellow-pigmented Deinococcota bacteria. It was first isolated from the hot spring at São Pedro do Sul, in central Portugal, and at the island of Sao Miguel in the Azores. Its type strain is SPS-243T (=LMG 22897T =CIP 108604T). The species was differentiated with the 16S rRNA gene sequence and biochemical characteristics.
+
+
+== Description ==
+M. timidus forms rod-shaped cells of variable length and are 0.5–0.8 μm wide. Long filaments are present. They are Gram-negative bacteria. The cells are non-motile and lack spores. Colonies on Thermus medium are bright yellow-pigmented and 1–2 mm in diameter after 72 h of growth. The optimum growth temperature is 55-60 °C and the optimum growth pH approx. 7.5; growth will not occur at 5.0 or 10.5. The major respiratory quinone is menaquinone-8. It is aerobic and heterotrophic. All strains are oxidase positive and catalase positive.  Nitrate is reduced to nitrite. Degradation of elastin, starch and casein is positive.  Strains SPS-243T, RQ-10 and RQ-12 utilize D-glucose, D-fructose, D-melibiose, D-cellobiose, sucrose, D-trehalose, D-raffinose, D-xylose, L-arabinose, D-sorbitol, D-mannitol, pyruvate, succinate, L-serine, L-asparagine, L-arginine, L-glutamine and L-proline.
+
+
+== Etymology ==
+The specific name of Meiothermus timidus comes from the Latin noun timidus, meaning "timid" or "shy", because only one strain was recovered from the hot spring at São Pedro do Sul after the isolation of so many organisms, over several years, from this site.
+
+
+== References ==
+
+
+== Further reading ==
+Albuquerque, Luciana, et al. "Truepera radiovictrix gen. nov., sp. nov., a new radiation resistant species and the proposal of Trueperaceae fam. nov." FEMS Microbiology Letters 247.2 (2005): 161-169.
+Tindall, Brian J., et al. "Complete genome sequence of Meiothermus ruber type strain (21T)." Standards in genomic sciences 3.1 (2010): 26.
+Ekman, Jaakko, et al. "Detection and quantitation of colored deposit-forming Meiothermus spp. in paper industry processes and end products." Journal of industrial microbiology & biotechnology 34.3 (2007): 203-211.
+Albuquerque, Luciana, et al. "Meiothermus rufus sp. nov., a new slightly thermophilic red-pigmented species and emended description of the genus Meiothermus." Systematic and Applied Microbiology 32.5 (2009): 306-313.
+
+
+== External links ==
+"Meiothermus timidus" at the Encyclopedia of Life 
+LPSN
+Type strain of Meiothermus timidus at BacDive -  the Bacterial Diversity Metadatabase

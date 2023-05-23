@@ -1,0 +1,13 @@
+Multiplexed Optical Data Storage is a system which involves using polarized light to increase the storage capacities of optical storage mediums.
+
+
+== Overview ==
+Multiplexed Optical Data Storage operates on techniques which store more than a single bit of information within each pit of an optical storage medium. It is currently the subject of active research as to which method will best effect this result, with the polarization of light being the leading contender.
+So far, polarization has never been used for optical data storage outside of the laboratory, though one can imagine the commercial potential once the technology is perfected, with at minimum a doubling of the storage capacity (i.e. pit, no pit, left pit, right pit: 4 bits vs 2). Studies at the Imperial College of London have found that it is possible to detect the angle of a pits on an optical disc as a result of the polarization imparted upon the detected laser light. Moreover, this polarization detection has the added benefit of increasing the signal to noise ratio.  It is claimed that 160 GB of data can be stored on a single layer of a disc when using the aforementioned techniques within the parameters of the Blu-ray Disc format. In other words, using a 405 nm read laser and the standard Blu-ray spacing guidelines, with the only change being the use of polarization to increase data storage per pit, such capacities can be attained.
+
+
+== Additional Info ==
+The primary team working on this technology has also developed a high numerical aperture simulation for microscopes, which they apply to optical disc read lenses, since these too have a large numerical aperture. They believe that this model is quite rigorous as few assumptions are made in the calculations.
+
+
+== References ==

@@ -1,0 +1,17 @@
+Berberine reductase (EC 1.5.1.31) is an enzyme that catalyzes the chemical reaction
+
+(R)-canadine + 2 NADP+ 
+  
+    
+      
+        ⇌
+      
+    
+    {\displaystyle \rightleftharpoons }
+   berberine + 2 NADPH + H+Thus, the two substrates of this enzyme are (R)-canadine and nicotinamide adenine dinucleotide phosphate ion, whereas its 3 products are berberine, nicotinamide adenine dinucleotide phosphate, and hydrogen ion.
+This enzyme belongs to the family of oxidoreductases, specifically those acting on the CH-NH group of donors with NAD+ or NADP+ as acceptor.  The systematic name of this enzyme class is (R)-tetrahydroberberine:NADP+ oxidoreductase. This enzyme is also called (R)-canadine synthase.
+
+
+== References ==
+
+Bauer W, Zenk MH (1991). "Formation of (R)-configurated tetrahydroprotoberberine alkaloids in vivo and in vitro". Tetrahedron Lett. 32 (4): 487–490. doi:10.1016/S0040-4039(00)79475-5.

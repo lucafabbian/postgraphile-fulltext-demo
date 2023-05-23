@@ -1,0 +1,15 @@
+Gross domestic product (GDP) is the market value of all final goods and services from a nation in a given year. Countries in North America are sorted by nominal GDP estimates based on 2023 data from the World Economic Outlook by the International Monetary Fund.
+The figures presented here do not take into account differences in the cost of living in different countries, and the results can vary greatly from one year to another based on fluctuations in the exchange rates of the country's currency. Such fluctuations may change a country's ranking from one year to the next, even though they often make little or no difference to the standard of living of its population. Therefore, these figures should be used with caution.
+Some countries/regions may have citizens which are on average wealthy. These countries/regions could appear in this list as having a small GDP. This would be because the country/region listed has a small population, and therefore small total economy; the GDP is calculated as the population times market value of the goods and services produced per person in the country.Comparisons of national wealth are also frequently made on the basis of purchasing power parity (PPP), to adjust for differences in the cost of living in different countries. PPP largely removes the exchange rate problem, but has its own drawbacks; it does not reflect the value of economic output in international trade, and it also requires more estimation than nominal GDP. On the whole, PPP per capita figures are more narrowly spread than nominal GDP per capita figures.
+
+
+== List ==
+
+
+== See also ==
+Economic growth
+Economic reports
+List of North American countries by GDP (PPP)
+
+
+== References ==

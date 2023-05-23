@@ -1,0 +1,16 @@
+Prosenjit K. "Jit" Bose is a Canadian mathematician and computer scientist who works at Carleton University as a professor in the School of Computer Science and associate dean of research and graduate studies for the Faculty of Science. His research concerns graph algorithms and computational geometry, including work on geometric spanners and geographic routing in wireless ad hoc networks.
+Bose did his undergraduate studies in mathematics at the University of Waterloo, graduating in 1990, and earned a master's degree from Waterloo in 1991. He earned his Ph.D. in computer science from McGill University in 1994 under the supervision of Godfried Toussaint. After postdoctoral studies at the University of British Columbia, he became an assistant professor at the Université du Québec à Trois-Rivières in 1995, and moved to Carleton in 1997.
+
+
+== Selected publications ==
+Bose, Prosenjit; Morin, Pat; Stojmenovic, Ivan; Urrutia, Jorge (2001), "Routing with guaranteed delivery in ad hoc wireless networks", Wireless Networks, 7 (6): 609–616, doi:10.1023/A:1012319418150, S2CID 33675977.
+Bose, Prosenjit; Morin, Pat (2004), "Online routing in triangulations", SIAM Journal on Computing, 33 (4): 937–951, CiteSeerX 10.1.1.88.6009, doi:10.1137/S0097539700369387, MR 2065340.
+Bose, Prosenjit; Devroye, Luc; Evans, William; Kirkpatrick, David (2006), "On the spanning ratio of Gabriel graphs and β-skeletons", SIAM Journal on Discrete Mathematics, 20 (2): 412–427, doi:10.1137/S0895480197318088, MR 2257270.
+
+
+== References ==
+
+
+== External links ==
+Home page
+Google scholar profile

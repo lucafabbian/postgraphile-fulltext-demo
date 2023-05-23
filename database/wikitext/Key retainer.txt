@@ -1,0 +1,23 @@
+A  key retainer device (KRD) is a small metal unit that is wall or door mounted, usually designed for the interchangeable core that retains one key (Key A) while the second key (Key B) is used for authorized purposes. When the key in use (Key B) is returned into the key retainer, the key held captive (Key A) is turned and then can be released. Now, the special key, perhaps top master (Key B) is held captive again. The key retainer is a method for providing visual key control.
+
+
+== Applications ==
+These include janitorial or custodial staff, irregular or temporary users, guests and other authorized users that require access to a certain key but to whom that key is not issued directly. The KRD acts as a "mechanical sign-out sheet", physically controlling access to the key and providing accountability for its eventual return.
+
+
+== Operation ==
+One key (High Level/Special) is retained in a core (at 1/4 turn) until another "release" key is inserted in the other core and rotated 90° (1/4 turn).  Then the "retained" key can be removed for use while the "release" key is held (trapped) for visual accountability purposes.  This cycle is repeated in reverse when the normally "retained" key is returned and the "release" key is removed "retrieved" by the authorized user.
+
+
+== Padlocks ==
+The term "key retainer" can also refer to a padlock that does not allow the key to be removed when the shackle is in the open position. This prevents accidentally leaving the padlock unlocked, and it also prevents accidentally locking the key inside a locker, shed, etc.
+
+
+== See also ==
+interchangeable core
+interchangeable core lock cylinder
+
+
+== References ==
+
+"Small Format Interchangeable Cores: Advanced" ©2005 by William M. Lynk; Published by The National Publishing Company, Chicago, Illinois; pp. 212–214.

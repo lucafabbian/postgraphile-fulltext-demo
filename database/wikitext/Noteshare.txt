@@ -1,0 +1,19 @@
+Noteshare is an Apple Inc. (Mac OS X) based utility for sharing notes and other work. It is commonly used by businesses, for education, and to share artwork. Noteshare allows up to 36 users to view a notebook simultaneously.
+
+
+== Features ==
+The program allows for real time change. Viewers can follow along with the current editor automatically, all changes can be seen as they are made. Including the turning of pages.
+Viewers can see who else is viewing the current notebook.
+Multiple notebooks may be viewed at once.
+Using a "pen" system, viewers can grab the pen (if editing is allowed by the notebook owner and if it is not in use) and add or edit notebooks.
+Notebooks can have web browsers embedded in them.
+Users can share notebooks with each other from across the internet, no matter how far the users are away from each other.
+Many Mac applications and software are compatible with the program, and allow the user to "clip" different projects and files directly to your notebook.
+
+
+== Known Bugs or Glitches ==
+It is possible to get the pen, even if  disabled, by going to the share tab and enabling auto-edit. If the pen is open, even if it is disabled, by clicking on a section, or text box, the user will have editing privileges for that section you clicked.
+
+
+== Links ==
+http://www.aquaminds.com - AquaMinds homepage

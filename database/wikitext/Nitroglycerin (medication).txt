@@ -1,0 +1,43 @@
+Nitroglycerin, also known as glyceryl trinitrate (GTN), is a medication used for heart failure, high blood pressure, anal fissures, painful periods, and to treat and prevent chest pain caused by decreased blood flow to the heart (angina) or due to the recreational use of cocaine. This includes chest pain from a heart attack. It is taken by mouth, under the tongue, applied to the skin, or by injection into a vein.Common side effects include headache and low blood pressure. The low blood pressure can be severe. It is unclear if use in pregnancy is safe for the baby. It should not be used together with medications within the PDE5 inhibitor family such as sildenafil due to the risk of low blood pressure. Nitroglycerin is in the nitrate family of medications. While it is not entirely clear how it works, it is believed to function by dilating blood vessels.Nitroglycerin was written about as early as 1846 and came into medical use in 1878. It is on the World Health Organization's List of Essential Medicines.  The drug nitroglycerin (GTN) is a dilute form of the same chemical used as the explosive, nitroglycerin. Dilution makes it non-explosive. In 2020, it was the 165th most commonly prescribed medication in the United States, with more than 3 million prescriptions.
+
+
+== Medical uses ==
+
+Nitroglycerin is used for the treatment of angina, acute myocardial infarction, severe hypertension, and acute coronary artery spasms. It may be administered intravenously, as a sublingual spray, or as a patch applied to the skin.
+
+
+=== Angina ===
+GTN is useful in decreasing angina attacks, perhaps more so than reversing angina once started, by supplementing blood concentrations of NO, also called endothelium-derived relaxing factor, before the structure of NO as the responsible agent was known. This led to the development of transdermal patches of glyceryl trinitrate, providing 24-hour release. However, the effectiveness of glyceryl trinitrate is limited by development of tolerance/tachyphylaxis within 2–3 weeks of sustained use. Continuous administration and absorption (such as provided by daily pills and especially skin patches) accelerate onset of tolerance and limit the usefulness of the agent. Thus, glyceryl trinitrate works best when used only in short-term, pulse dosing. Glyceryl trinitrate is useful for myocardial infarction (heart attack) and pulmonary edema, again working best if used quickly, within a few minutes of symptom onset, as a pulse dose.It may also be given as a sublingual or buccal dose in the form of a tablet placed under the tongue or a spray into the mouth for the treatment of an angina attack.
+
+
+=== Other uses ===
+Tentative evidence indicates efficacy of glyceryl trinitrate in the treatment of various tendinopathies, both in pain management and acceleration of soft tissue repair.GTN is also used in the treatment of anal fissures, though usually at a much lower concentration than that used for angina treatment.GTN has been used to decrease pain associated with dysmenorrhea.GTN was once researched for the prevention and treatment of osteoporosis; however, the researcher Sophie Jamal was found to have falsified the findings, sparking one of the largest scientific misconduct cases in Canada.
+
+
+=== Tolerance ===
+After long-term use for chronic conditions, nitrate tolerance—tolerance to agents such as GTN— may develop in a patient, reducing its effectiveness. Tolerance is defined as the loss of symptomatic and hemodynamic effects of GTN and/or the need for higher doses of the drug to achieve the same effects, and was first described soon after the introduction of GTN in cardiovascular therapy. Studies have shown that nitrate tolerance is associated with vascular abnormalities which have the potential to worsen patients' prognosis. These include endothelial and autonomic dysfunction.The mechanisms of nitrate tolerance have been investigated over the last 30 years, and several hypotheses to explain tolerance have been offered, including: 
+
+plasma volume expansion
+impaired transformation of GTN into NO or related species
+counteraction of GTN vasodilation by neurohormonal activation
+oxidative stressRecent evidence suggests that deleterious GTN-induced production of oxygen free radicals might induce a number of abnormalities, include those described above, so that the oxidative stress hypothesis might represent a unifying principle.
+
+
+== Adverse events ==
+Glyceryl trinitrate can cause severe hypotension, reflex tachycardia, and severe headaches that necessitate analgesic intervention for pain relief, the painful nature of which can have a marked negative effect on patient compliance.
+GTN also can cause severe hypotension, circulatory collapse, and death if used together with vasodilator drugs that are used for erectile dysfunction, such as sildenafil, tadalafil, and vardenafil.GTN transdermal patches should be removed before defibrillation due to the risk of explosion and/or burns, but investigations have concluded that GTN patch explosions during defibrillation were due to voltage breakdown involving the metal mesh in some patches.
+
+
+== Mechanism of action ==
+GTN is a prodrug which must be denitrated, with the nitrite anion or a related species further reduced to produce the active metabolite nitric oxide (NO). Organic nitrates that undergo these two steps within the body are called nitrovasodilators, and the denitration and reduction occur via a variety of mechanisms. The mechanism by which such nitrates produce NO is widely disputed.  Some believe that organic nitrates produce NO by reacting with sulfhydryl groups, while others believe that enzymes such as glutathione S-transferases, cytochrome P450 (CYP), and xanthine oxidoreductase are the primary source of GTN bioactivation. In recent years, a great deal of evidence has been produced that supports the conclusion that GTN's clinically relevant denitration and reduction produce 1,2-glyceryl dinitrate (GDN) and NO, and that this reaction is catalysed by mitochondrial aldehyde dehydrogenase (ALDH2 or mtALDH).
+The NO produced by this process is a potent activator of guanylyl cyclase (GC) by heme-dependent mechanisms; this activation results in formation of cyclic guanosine monophosphate (cGMP) from guanosine triphosphate (GTP). Among other roles, cGMP serves as a substrate for a cGMP-dependent protein kinase that activates myosin light chain phosphatase. Thus, production of NO from exogenous sources such as GTN increases the level of cGMP within the cell, and stimulates dephosphorylation of myosin, which initiates relaxation of smooth muscle cells in blood vessels.
+
+
+== History ==
+It was known almost from the time of the first synthesis of GTN by Ascanio Sobrero in 1846 that handling and tasting of nitroglycerin could cause sudden intense headaches, which suggested a vasodilation effect (as suggested by Sobrero). Constantine Hering developed a form of nitroglycerin in 1847 and advocated for its dosing as a treatment of a number of diseases; however, its use as a specific treatment for blood pressure and chest pain was not among these. This is primarily due to his deep rooted focus in homeopathy.Following Thomas Brunton's discovery that amyl nitrite could be used to treat chest pain, William Murrell experimented with the use of nitroglycerin to alleviate angina pectoris and reduce blood pressure, and showed that the accompanying headaches occurred as a result of overdose.  Murrell began treating patients with small doses of GTN in 1878, and the substance was widely adopted after he published his results in The Lancet in 1879.The medical establishment used the name "glyceryl trinitrate" or "trinitrin" to avoid alarming patients, because of a general awareness that nitroglycerin was explosive.Overdoses may generate methemoglobinemia.
+
+
+== References ==
+
+
+== Further reading ==

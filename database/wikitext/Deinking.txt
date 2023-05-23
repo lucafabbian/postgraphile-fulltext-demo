@@ -1,0 +1,105 @@
+Deinking is the industrial process of removing printing ink from paperfibers of recycled paper to make deinked pulp.
+The key in the deinking process is the ability to detach ink from the fibers. This is achieved by a combination of mechanical action and chemical means. In Europe the most common process is froth flotation deinking.
+Paper is one of the main targets for recycling. A concern about recycling wood pulp paper is that the fibers are degraded with each cycle and after being recycled 4–6 times the fibers become too short and weak to be useful in making paper.
+
+
+== History ==
+
+Before the invention of the paper machine in 1799 the most common fibre source was recycled fibres from used textiles, hence the name rag paper. The rags were from hemp, linen and cotton. It was not until the introduction of wood pulp in 1843 that paper production was independent of recycled materials.Recycling of used paper before the industrialisation of paper production, rag paper was recycled to make low-grade board. A process for removing printing inks from recycled paper was invented by German jurist Justus Claproth in 1774. He practiced together with German paper producer Johann Engelhard Schmid. Today this method is called deinking.
+First in the 1950s and 1960s the use of recycled fibres from paper made of wood pulp begun to increase, and was mainly used in packaging paper and paperboard. In the 1950s the froth flotation technique was adapted for deinking recycled paper. Use of recovered paper increased in the 1970s mainly in graphic and hygienic papers, and accelerated in the 1980s. The annual growth in use of recovered paper increased by 6% between 1980 and 1996. The use of virgin fibres only increased 2% in the same period. In 1997 recovered paper production was 42% of the total paper production.
+
+
+== Deinking process ==
+
+
+=== Sorting ===
+Waste paper may contain a mixture of different paper types made of mixtures of different paperfibers. These must be sorted before processed. Broke (paper waste from paper production) is normally used directly in the papermachine.
+
+Office waste (OW)
+Old magazine papers (OMP)
+Old newsprint (ONP)
+Paperboard
+Corrugated fiberboardRecycled paper can be used to make paper of the same or lower quality than it was originally. The sorted paper is baled and shipped to a papermill. The pulpmill uses waste paper grade according to the paper quality they want to make.
+
+
+=== Debaling ===
+The bales are opened and large foreign objects are sorted out on the conveyor belt to the pulper. Many extraneous materials are readily removed. Twine, strapping, etc. are removed from the hydropulper by a "ragger". Metal straps and staples can be screened out or removed by a magnet. Film-backed pressure-sensitive tape stays intact: the PSA adhesive and the backing are both removed together.
+
+
+=== Pulping ===
+Pulpers are either batch, which uses a tub with a high shear rotor, or continuous, using a long, perforated drum.  Drum pulpers are very expensive but have the advantage of not breaking up contaminants, thus giving cleaner end product.
+The pulper chops the paper to smaller pieces; water and chemicals are added. Normally the pH is adjusted to 8.5 - 10.0. Normal deinking chemicals are: 
+
+pH control: sodium silicate or sodium hydroxide
+Bleaching: hydrogen peroxide
+Calcium ion source: hard water, lime or calcium chloride
+Collector: fatty acid, fatty acid emulsion, fatty acid soap or organo-modified siloxaneAfter pulping, the mixture is a slurry. The slurry goes to screening.
+
+
+=== Cleaning and screening ===
+Centrifugal cleaning is spinning the pulp slurry in a cleaner, causing materials that are denser than pulp fibers to move outward and be rejected. Screens, with either slots or holes, are used to remove contaminants that are larger than pulp fibers.
+Materials which are more difficult to remove include wax coatings on corrugated cartons and stickies, soft rubbery particles which can make deposits and contaminate the recycled paper. Stickies can originate from book bindings, hot melt adhesives, PSA adhesives from paper labels, laminating adhesives of reinforced gummed tapes, etc.
+
+
+=== Deinking stage ===
+In the deinking stage the goal is to release and remove the hydrophobic contaminants from the recycled paper. The contaminants are mostly printing ink and stickies. Several processes are used, most commonly flotation or washing.
+
+
+==== Flotation deinking ====
+
+Froth flotation was adapted from the flotation process used in the mining industry in the 1960s. It is the most common deinking process in Europe used to recover recycled paper. Often most of the collector is added to the inlet of the flotation. The process temperatures are normally in the range 45 - 55 °C. Air is blown into the pulp suspension. The collector has affinity both to the ink particles and air bubbles, causing them to attach. The air bubbles lift the ink to the surface and form a thick froth that can be removed. Normally the setup is a two-stage system with 3, 4 or 5 flotation cells in series. Flotation deinking is very effective in removing ink particles larger than about 10 µm.
+
+
+==== Wash deinking ====
+Wash deinking consists of a washing stage where dispersants are added to wash out the printing inks. When the pulp slurry is dewatered (thickened), the medium to fine particles are washed out. This process is most useful for removing particles smaller than about 30 µm, like water-based inks, fillers, coating particles, fines and micro stickies. This process is more common when making deinked pulp for tissue. The processing equipment are  belt filters, pressure belt filters, disk filters and static filters. This stage is much more efficient than normal washing / dewatering stages.
+
+
+==== Combined washing and flotation ====
+High quality deinking of office wastes and other printing papers often commonly uses a combination of washing and flotation.
+
+
+==== Enzymatic deinking ====
+This method of deinking uses industrial or food grade enzymes in conjunction with flotation deinking to aid in the removal of inks in recycling mills. More efficient removal of ink increases fiber yield, decreases dirt count, and increases paper brightness. Often the use of enzymatic deinking helps mills reduce their bleach usage or use cheaper furnish.
+
+
+==== Other deinking processes ====
+Dissolved air flotation (DAF) is used by some mills in the deinking stage and will remove some ink and filler (ash); however, it is mainly used to clarify the process water.
+
+
+=== Washing / dewatering ===
+Washing / dewatering (thickening) is a filtration process. Small particles (< 5 µm) are removed by passing water through the pulp.
+
+
+=== Bleaching ===
+
+If white paper is desired, bleaching uses peroxides or hydrosulfites to increase the brightness of the pulp. The bleaching methods are similar for mechanical pulp, but the goal is to make the fiber brighter.
+
+
+=== Papermaking ===
+The deinked fiber is made into a new paper product in the same way that virgin wood fiber, see papermaking.
+
+
+=== Byproducts ===
+The unusable material left over, mainly ink, plastics, filler and short fibers, is called sludge. The sludge is buried in a landfill, burned to create energy at the paper mill or used as a fertilizer by local farmers.
+
+
+=== Problems ===
+Water based flexographic printing inks with particle sizes below 5 µm and poor solubility in alkaline conditions may cause problems in deinking, especially in the flotation stage. The solution is to use an extra acidic washing stage.
+Temperature control is important as this affects the stickiness of stickies.
+Additional issues arise when taking into account the number of chemicals potentially present in paper for recycling. Studies have indicated that paper might contain as many as 10,000 different chemicals, fate of which in the deinking process still remains unknown. Polychlorinated biphenyls are often found in pigments which are used in newspaper and magazine paper.
+
+
+== See also ==
+Dissolved air flotation
+Environmental issues with paper
+Froth flotation
+German inventors and discoverers
+Paper recycling
+Pulp & Paper chemicals
+
+
+== References ==
+
+
+== Further reading ==
+Göttsching, Lothar; Pakarinen, Heikki (2000). Papermaking Science and Technology: 7. Recycled Fiber and Deinking. Finland. ISBN 978-952-5216-07-3.

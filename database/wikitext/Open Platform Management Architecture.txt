@@ -1,0 +1,32 @@
+Open Platform Management Architecture (OPMA) is an open, royalty free standard for connecting a modular, platform hardware management subsystem (an "mCard") to a computer motherboard.  Platform hardware management generally refers to the remote monitoring of platform hardware variables such as fan speed, voltages, CPU and enclosure temperatures along with a wide range of other sensors.  It also implies the ability to remotely control the power state of the platform and to reset the system back into an operational state should it "hang".  A significant advantage of OPMA over previous generation management subsystem attachment methods is that OPMA does not consume a PCI socket.  OPMA cards are also smaller and lower cost than their PCI predecessors.
+The OPMA specification, which can be freely downloaded from the web, specifies a signal list, connector and pin out, power requirements, mechanical form factor, BIOS and management controller firmware interfaces, and a detailed division of management subsystem resources between the motherboard and the mCard.  OPMA enables a wide variety of mCards to individually interface to a given motherboard.  It also enables a single mCard to individually interface to multiple motherboard models.  
+OPMA is mainly targeted at server platforms where the cost of a card based management subsystem is more easily borne, but high end workstations may also leverage the specification to handle cases where remote workstation platform management is required.  The OPMA interface is flexible enough to handle multiple mCard price points and capabilities ranging from basic IPMI based management to those that support KVMoIP, remote virtual media, and newer external interface standards that require a larger on-card resource footprint such as WS-Management.
+OPMA supports two basic management subsystem connection paradigms.  The first is where virtually the entire management subsystem resides on the mCard.  Using this paradigm, the platform contains no basic management controller of any sort and relies on the presence of an OPMA card for all remote hardware management capabilities.  In the second paradigm, the basic management module is soldered to the motherboard and the OPMA connector is used as an upgrade path for advanced platform management features.  In this case, which is known as "upgrade kit mode", the OPMA card is able to access all sensors supported by the soldered down management controller using an SMBus link over which the Intelligent Platform Management Bus (IPMB) protocol is employed. 
+OPMA also leverages the Intelligent Platform Management Interface (IPMI) specification in order to provide a basic plug and play capability.  Using IPMI-defined OEM command extensions, the system and the mCard exchange basic information during system boot such as mCard/motherboard make and model, specification version compliance, and optional capabilities defined by the OPMA specification.
+
+
+== History ==
+OPMA was created as a joint technology development effort between AMD and various platform management subsystem technology companies such as Agilent, AMI, Avocent, and Raritan Embedded Solutions (formerly called Peppercon).  When OPMA was first released in February 2005, platform hardware management was being treated as a value added feature by OEMs.  This resulted in a constant redesign of the management card infrastructure such that no two motherboard manufacturers could use the same card.  Lack of standards and constant redesign resulted in higher end user costs.  While PCI based management cards were available which could be plugged into a variety of platforms, the PCI bus did not provide direct access to all of the sensors needed to manage the hardware aspects of a platform.  To gain full sensor access, custom headers had to be added to motherboards.  Custom cables then linked these sideband signals between the card and the motherboard. PCI based platform management cards also consume a PCI slot which is a premium resource for many servers.  This is especially true of those using the 1U rack format and those which need PCI slots for RAID interface cards that enhance system hard disk throughput.
+AMD engineering teams were internally tasked with building server reference designs to support Opteron server processor evaluation by customers.  During these early internal server design efforts it was determined that a standard management card subsystem that was reusable across many platforms would decrease time to market while saving design and support costs for AMD reference design platforms in the field. Such an interface would also allow AMD to outsource the design and test of the management card to industry experts.  AMD reasoned that external audiences would derive these same benefits as its internal engineering teams and so OPMA was documented and released.
+
+
+== Adoption ==
+According to AMD's press releases, there has been significant interest in OPMA by the server industry platform and infrastructure providers. Some of the motherboards may be seen using links in the external links section.  To date, no tier one computer OEMs have offered OPMA enabled motherboards for sale.
+
+
+== External links ==
+OPMA enabled channel motherboards
+
+http://www.tyan.com/product_board_spec.aspx?pid=157OPMA mcards
+
+http://www.ami.com/news/meganews/mn6-08.pdf
+http://www.raritan.com/_downloads/pdfs/products/sa_opma-m3-g4_02en_datasheet.pdf
+http://www.aten.com/products/productItem.php?pcid=20061106173036003&psid=20061106173448002&pid=2006110617367007&layerid=subClass7
+http://www.arima.com.tw/server/Product/ViewProduct.asp?View=Arima%20Aquarius
+http://www.arima.com.tw/server/Product/ViewProduct.asp?View=Arima%20Scorpio2
+http://www.coreipm.com: coreIPM Project: Free & Open Source firmware for OPMA mcardsStandards
+
+http://www.intel.com/design/servers/ipmi
+http://www.intel.com/technology/manage/downloads/ws_management.pdfSIG
+
+http://www.opma-sig.org

@@ -1,0 +1,56 @@
+Biological immortality (sometimes referred to as bio-indefinite mortality) is a state in which the rate of mortality from senescence is stable or decreasing, thus decoupling it from chronological age. Various unicellular and multicellular species, including some vertebrates, achieve this state either throughout their existence or after living long enough. A biologically immortal living being can still die from means other than senescence, such as through injury, poison, disease, predation, lack of available resources, or changes to environment.
+This definition of immortality has been challenged in the Handbook of the Biology of Aging, because the increase in rate of mortality as a function of chronological age may be negligible at extremely old ages, an idea referred to as the late-life mortality plateau. The rate of mortality may cease to increase in old age, but in most cases that rate is typically very high.The term is also used by biologists to describe cells that are not subject to the Hayflick limit on how many times they can divide.
+
+
+== Cell lines ==
+
+Biologists chose the word "immortal" to designate cells that are not subject to the Hayflick limit, the point at which cells can no longer divide due to DNA damage or shortened telomeres. Prior to Leonard Hayflick's theory, Alexis Carrel hypothesized that all normal somatic cells were immortal.The term "immortalization" was first applied to cancer cells that expressed the telomere-lengthening enzyme telomerase, and thereby avoided apoptosis—i.e. cell death caused by intracellular mechanisms. Among the most commonly used cell lines are HeLa and Jurkat, both of which are immortalized cancer cell lines. HeLa cells originated from a sample of cervical cancer taken from Henrietta Lacks in 1951.  These cells have been and still are widely used in biological research such as creation of the polio vaccine, sex hormone steroid research, and cell metabolism. Embryonic stem cells and germ cells have also been described as immortal.Immortal cell lines of cancer cells can be created by induction of oncogenes or loss of tumor suppressor genes. One way to induce immortality is through viral-mediated induction of the large T-antigen, commonly introduced through simian virus 40 (SV-40).
+
+
+== Organisms ==
+According to the Animal Aging and Longevity Database, the list of animals with negligible aging (along with estimated longevity in the wild) includes:
+Blanding's turtle (Emydoidea blandingii) – 77 years
+Olm (Proteus anguinus) – 102 years
+Eastern box turtle (Terrapene carolina) – 138 years
+Red sea urchin (Strongylocentrotus franciscanus) – 200 years
+Rougheye rockfish (Sebastes aleutianus) – 205 years
+Ocean quahog clam (Arctica islandica) – 507 years
+Greenland shark (Somniosus microcephalus) - 250 to 500 yearsIn 2018, scientists working for Calico, a company owned by Alphabet, published a paper in the journal eLife which presents possible evidence that Heterocephalus glaber (Naked mole rat) do not face increased mortality risk due to aging.
+
+
+=== Bacteria and some yeast ===
+Many unicellular organisms age: as time passes, they divide more slowly and ultimately die. Asymmetrically dividing bacteria and yeast also age. However, symmetrically dividing bacteria and yeast can be biologically immortal under ideal growing conditions. In these conditions, when a cell splits symmetrically to produce two daughter cells, the process of cell division can restore the cell to a youthful state. However, if the parent asymmetrically buds off a daughter only the daughter is reset to the youthful state—the parent isn't restored and will go on to age and die. In a similar manner stem cells and gametes can be regarded as "immortal".
+
+
+=== Hydra ===
+
+Hydras are a genus of the Cnidaria phylum. All cnidarians can regenerate, allowing them to recover from injury and to reproduce asexually. Hydras are simple, freshwater animals possessing radial symmetry and contain post-mitotic cells (cells that will never divide again) only in the extremities. All hydra cells continually divide. It has been suggested that hydras do not undergo senescence, and, as such, are biologically immortal. In a four-year study, 3 cohorts of hydra did not show an increase in mortality with age. It is possible that these animals live much longer, considering that they reach maturity in 5 to 10 days. However, this does not explain how hydras are subsequently able to maintain telomere lengths.
+
+
+=== Jellyfish ===
+Turritopsis dohrnii, or Turritopsis nutricula, is a small (5 millimeters (0.20 in)) species of jellyfish that uses transdifferentiation to replenish cells after sexual reproduction. This cycle can repeat indefinitely, potentially rendering it biologically immortal. This organism originated in the Caribbean sea, but has now spread around the world. Key molecular mechanisms of its rejuvenation appear to involve DNA replication and repair, and stem cell renewal, according to a comparative genomics study.Similar cases include hydrozoan Laodicea undulata and scyphozoan Aurelia sp.1.
+
+
+=== Lobsters ===
+
+Research suggests that lobsters may not slow down, weaken, or lose fertility with age, and that older lobsters may be more fertile than younger lobsters. This does not however make them immortal in the traditional sense, as they are significantly more likely to die at a shell moult the older they get (as detailed below).
+Their longevity may be due to telomerase, an enzyme that repairs long repetitive sections of DNA sequences at the ends of chromosomes, referred to as telomeres. Telomerase is expressed by most vertebrates during embryonic stages but is generally absent from adult stages of life. However, unlike vertebrates, lobsters express telomerase as adults through most tissue, which has been suggested to be related to their longevity. Contrary to popular belief, lobsters are not immortal. Lobsters grow by moulting which requires considerable energy, and the larger the shell the more energy is required. Eventually, the lobster will die from exhaustion during a moult. Older lobsters are also known to stop moulting, which means that the shell will eventually become damaged, infected, or fall apart and they die. The European lobster has an average life span of 31 years for males and 54 years for females.
+
+
+=== Planarian flatworms ===
+
+Planarian flatworms have both sexually and asexually reproducing types. Studies on genus Schmidtea mediterranea suggest these planarians appear to regenerate (i.e. heal) indefinitely, and asexual individuals have an "apparently limitless [telomere] regenerative capacity fueled by a population of highly proliferative adult stem cells". "Both asexual and sexual animals display age-related decline in telomere length; however, asexual animals are able to maintain telomere lengths somatically (i.e. during reproduction by fission or when regeneration is induced by amputation), whereas sexual animals restore telomeres by extension during sexual reproduction or during embryogenesis like other sexual species. Homeostatic telomerase activity observed in both asexual and sexual animals is not sufficient to maintain telomere length, whereas the increased activity in regenerating asexuals is sufficient to renew telomere length... "For sexually reproducing planaria: "the lifespan of individual planarian can be as long as 3 years, likely due to the ability of neoblasts to constantly replace aging cells". Whereas for asexually reproducing planaria: "individual animals in clonal lines of some planarian species replicating by fission have been maintained for over 15 years".
+
+
+== See also ==
+
+
+== References ==
+
+
+== Bibliography ==
+James L. Halperin. The First Immortal, Del Rey, 1998. ISBN 0-345-42092-6
+Robert Ettinger.  The Prospect of Immortality, Ria University Press, 2005. ISBN 0-9743472-3-X
+Dr. R. Michael Perry. Forever For All: Moral Philosophy, Cryonics, and the Scientific Prospects for Immortality, Universal Publishers, 2001. ISBN 1-58112-724-3
+Martinez, D.E. (1998) "Mortality patterns suggest lack of senescence in hydra." Experimental Gerontology 1998 May;33(3):217–225. Full text.
+Rose, Michael; Rauser, Casandra L.; Mueller, Laurence D. (Spring 2011). Does Aging Stop?. Oxford University Press.

@@ -1,0 +1,12 @@
+The Colorado EKG Repository, Inc is a non profit corporation established in 2005 by a concerned group of volunteer physicians, patients, lawyers, lawmakers and internet professionals.
+COEKG is an independent project supervised by the Colorado Medical Society to provide unbiased, nonprofit oversight and guidance for the development of a secure electrocardiography exchange service for critical patients presenting to Colorado's Emergency Departments and Community Health Clinics.
+COEKG's prototype aims to facilitate advanced connectivity between healthcare entities. COEKG advocates expect their experience will assist in the standardization of more general electronic medical records (EMR) data exchange.  COEKG implements a subset of the Continuity of Care Record (CCR) messaging protocol.
+When fully connected health care consumers and providers will be able to securely and reliably access point-of-care clinical information. Many providers and patients advocate rapid development of EMR interconnectivity, and they believe COEKG efforts should expand to the entire health record.  Critics denounce the idea for fear that privacy protection will never reach an acceptable level.
+Medical records and associated identifying demographic data is especially sensitive and private information.  Any attempt to allow Internet transfer of medical records must comply with HIPAA regulations. The Health Insurance Portability and Accountability Act of 1996 affects every organization that transmits medical and health records.
+
+
+== External links ==
+COEKG
+ASTM CCR
+Medical Records Institute - CCR
+Center for Health Information Technology (CHiT)

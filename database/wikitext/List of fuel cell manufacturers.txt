@@ -1,0 +1,6 @@
+A fuel cell is an electrochemical energy conversion device. Fuel cells differ from batteries in that they are designed for continuous replenishment of the reactants consumed.
+
+This is a partial list of companies currently producing commercially available fuel cell systems for use in residential, commercial, or industrial settings. Fuel cell systems from these manufacturers are currently being used to generate AC or DC electricity, heat, water, or any combination of the three. 
+
+
+== References ==

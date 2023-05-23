@@ -1,0 +1,118 @@
+On 3 June 1998, an ICE 1 train on the Hannover-Hamburg railway near Eschede in Lower Saxony, Germany derailed and crashed into an overpass that crossed the railroad, which then collapsed onto the train. 101 people were killed and at least 88 were injured, making it as of 2023 the second-deadliest railway disaster in German history after the 1939 Genthin rail disaster, and the world's worst ever high-speed rail disaster.
+The cause of the derailment was a single fatigue crack in one wheel, which caused a part of the wheel to become caught in a railroad switch (points), changing the direction of the switch while the train was passing over it. This led to the train's carriages going down two separate tracks, causing the train to derail and crash into the pillars of a concrete road bridge, which then collapsed and crushed two coaches. The remaining coaches and the rear power car crashed into the wreckage.
+After the incident, many investigations into the wheel fracture took place. Analysis concluded that the accident was caused by poor wheel design which allowed a fatigue fracture to develop on the wheel rim.Investigators also considered other contributing factors, including the failure to stop the train, and maintenance procedures.
+The disaster had legal and technical consequences including trials, fines and compensation payments. The wheel design was modified and train windows were made easier to break in an emergency.
+A memorial place was opened at the place of the disaster.
+
+
+== Background ==
+
+The InterCity Express 1, abbreviated as ICE 1, is the first German high-speed train and was introduced in 1988.
+
+
+== Timeline ==
+
+
+=== Wheel fracture ===
+ICE 1 trainset 51 was travelling as ICE 884 "Wilhelm Conrad Röntgen" on the Munich to Hamburg route; the train was scheduled to stop at Augsburg, Nürnberg, Würzburg, Fulda, Kassel, Göttingen, and Hanover before reaching Hamburg. After stopping in Hanover at 10:30, the train continued its journey northwards. About 130 kilometres (80 mi) and forty minutes away from Hamburg: 0:05  and six kilometres (3.7 mi) south of central Eschede, near Celle, the steel tyre on a wheel on the third axle of the first car split and peeled away from the wheel, having been weakened by metal fatigue. The momentum of this caused the steel tyre to flatten and it was catapulted upwards, penetrating the floor of the train carriage where it remained stuck.The tyre embedded in the carriage was seen by Jörg Dittmann, one of the passengers in Coach 1. The tyre went through an armrest in his compartment between the seats where his wife and son were sitting. Dittmann took his wife and son out of the damaged coach and went to inform a conductor in the third coach.
+The conductor, who noticed vibrations in the train, told Dittmann that company policy required him to investigate the circumstances before pulling the emergency brake. The conductor took one minute to reach the site in Coach 1. According to Dittmann, the train had begun to sway from side to side by then. The conductor did not show willingness to stop the train immediately at that time, and wished to investigate the incident more thoroughly. Dittmann could not find an emergency brake in the corridor and had not noticed that there was an emergency brake handle in his own compartment. The train crashed just as Dittmann was about to show the armrest puncture to the conductor.: 13:12 
+
+
+=== Derailment ===
+As the train passed over the first of two points, the embedded tyre slammed against the guide rail of the points, pulling it from the railway ties. This guide rail also penetrated the floor of the car, becoming embedded in the vehicle and lifting the bogie off the rails. At 10:59 local time (08:59 UTC), one of the now-derailed wheels struck the points lever of the second switch, changing its setting. The rear axles of car number 3 were switched onto a parallel track, and the entire car was thereby thrown sideways into the piers supporting a 300-tonne (300-long-ton; 330-short-ton) roadway overpass, destroying them.Car number 4, likewise derailed by the violent deviation of car number 3 and still travelling at 200 kilometres per hour (125 mph), passed intact under the bridge and rolled onto the embankment immediately behind it, striking several trees before coming to a stop. Two Deutsche Bahn railway workers who had been working near the bridge were killed instantly when the derailed car crushed them. The breaking of the car couplings caused the automatic emergency brakes to engage, and the mostly undamaged first three cars came to a stop.
+
+
+=== Bridge collapse ===
+The front power car and coaches one and two cleared the bridge. Coach three hit the bridge, which began to collapse, but cleared the bridge. Coach four cleared the bridge, moved away from the track onto an embankment, and hit a group of trees before stopping. The bridge pieces crushed the rear half of coach five. The restaurant coach, six, was crushed to a 15-centimetre (6 in) height. With the track now obstructed completely by the collapsed bridge, the remaining cars jackknifed into the rubble in a zig-zag pattern: car 7, the service car, the restaurant car, the three first-class cars numbered 10 to 12, and the rear power car all derailed and slammed into the pile.: 34:25  The resulting mess was likened to a partially collapsed folding ruler. An automobile was also found in the wreckage; it belonged to the two railway technicians killed, and was probably parked on the bridge before the accident.: 36:20 Separated from the rest of the carriages, the detached front power car coasted for a further three kilometers (two miles) until it came to a stop after passing Eschede railway station.
+
+The crash produced a sound that witnesses later described as "startling", "horribly loud", and "like a plane crash". People living nearby, alerted by the sound, were the first to arrive at the scene; Erika Karl, the first, photographed the site. She said that, upon hearing the noise, her husband believed initially that the accident was an aircraft accident. After the accident, eight of the ICE carriages occupied an area slightly longer than the length of a single carriage.: 34:20 At 11:02, the local police declared an emergency; at 11:07, as the magnitude of the disaster quickly became apparent, this was elevated to "major emergency"; and at 12:30 the Celle district government declared a "catastrophic emergency" (civil state of emergency). More than 1,000 rescue workers from regional emergency services, fire departments, rescue services, the police and army were dispatched. Some 37 emergency physicians, who happened to be attending a professional conference in nearby Hanover, also provided assistance during the early hours of the rescue effort, as did units of the British Forces Germany.
+While the driver and many passengers in the front part of the train survived with minor to moderate injuries, very few passengers survived in the rear carriages, which crashed into the concrete bridge pile at a speed of 200 km/h (120 mph). 101 were killed, including the two railway workers who had been standing under the bridge. ICE 787 had passed under the bridge going in the opposite direction (on the Hamburg to Hanover route) only two minutes earlier.
+By 13:45 authorities had given emergency treatment to 87 people, of which 27 (the most severely injured passengers) were airlifted to hospitals.
+
+
+== Causes ==
+The disintegrated resilient wheel was the cause of the accident, but several factors contributed to the severity of the damage, including proximity to the bridge and flipping point, and the wheel being on a car near the front of the train, causing many cars to derail.
+
+
+=== Wheel design ===
+The ICE 1 trains were originally equipped with single-cast wheelsets, known as Monobloc wheels. Once in service it soon became apparent that this design could, as a result of metal fatigue and out-of-round conditions, result in resonance and vibration at cruising speed. Passengers noticed this particularly in the restaurant car, where there were reports of loud vibrations in the dinnerware and of glasses "creeping" across tables.
+Managers in the railway organisation had experienced these severe vibrations on a trip and asked to have the problem solved. In response engineers decided that to solve the problem, the suspension of ICE cars could be improved with the use of a rubber damping ring between the rail-contacting steel tyre and the steel wheel body. A similar design (known as resilient wheels) had been employed successfully in trams around the world, at much lower speeds. This kind of wheel, dubbed a "wheel-tyre" design, consisted of a wheel body surrounded by a 20-millimetre-thick (0.79 in) rubber damper and then a relatively thin metal tyre. The new design was not tested at high speed in Germany before it was made operational, but was successful at resolving the issue of vibration at cruising speeds. Decade-long experience at high speed gathered by train manufacturers and railway companies in other European countries and Japan was not considered.At the time, there were no facilities in Germany that could test the actual failure limit of the wheels, and so complete prototypes were never tested physically. The design and specification relied greatly on available materials data and theory. The very few laboratory and rail tests that were performed did not measure wheel behaviour with extended wear conditions or speeds greater than normal cruising. Nevertheless, over several years the wheels had been reliable and, until the accident, had not caused any major problems.
+In July 1997, nearly one year before the disaster, Üstra, the company that operates Hanover's tram network, discovered fatigue cracks in dual block wheels on trams running at about 24 km/h (15 mph). It began changing wheels before fatigue cracks could develop, much earlier than was legally required by the specification. Üstra reported its findings in a warning to all other users of wheels built with similar designs, including Deutsche Bahn, in late 1997. According to Üstra, Deutsche Bahn replied by stating that they had not noticed problems in their trains.: 39:38 The Fraunhofer Institute for Structural Durability and System Reliability (Fraunhofer LBF) in Darmstadt was charged with the task of determining the cause of the accident. It was revealed later that the institute had told the DB management as early as 1992 about its concerns about possible wheel-tyre failure.
+It was soon apparent that dynamic repetitive forces had not been considered in the modelling done during the design phase, and the resulting design lacked an adequate margin of safety. The following factors, overlooked during design, were noted:
+
+The tyres were flattened into an ellipse as the wheel turned through each revolution (approximately 500,000 times during a typical day in service on an ICE train), with corresponding fatigue effects.
+In contrast to the monobloc wheel design, cracks could form on the inside as well as the outside of the tyre.
+As the tyre wore thinner, dynamic forces increased, causing crack growth.
+Flat spots and ridges or swells in the tyre dramatically increased the dynamic forces on the assembly and greatly accelerated wear.
+
+
+=== Failure to stop train ===
+Failing to stop the train resulted in a catastrophic series of events. Had the train been stopped immediately after the disintegration of the wheel, it is unlikely that the subsequent events would have occurred.
+Valuable time was lost when the train manager refused to stop the train until he had investigated the problem himself, saying this was company policy. This decision was upheld in court, absolving the train manager of all charges.  Given that he was a customer service employee and not a train maintainer or engineer, he had no more authority to make an engineering judgment about whether or not to stop the train than did any passenger.
+
+
+=== Maintenance ===
+About the time of the disaster, the technicians at Deutsche Bahn's maintenance facility in Munich used only standard flashlights for visual inspection of the tyres, instead of metal fatigue detection equipment. Previously, advanced testing machines had been used; however the equipment generated many false positive error messages, so it was considered unreliable and its use was discontinued. During the week prior to the Eschede disaster, three separate automated checks indicated that a wheel was defective. Investigators discovered, from a maintenance report generated by the train's on-board computer, that two months prior to the Eschede disaster, conductors and other train staff filed eight separate complaints about the noises and vibrations generated from the bogie with the defective wheel; the company did not replace the wheel. Deutsche Bahn said that its inspections were proper at the time and that the engineers could not have predicted the wheel fracture.
+
+
+=== Other factors ===
+The design of the overbridge may have also contributed to the accident because it had two thin piers holding up the bridge on either side, instead of the spans going from solid abutments to solid abutments. The bridge that collapsed in the Granville rail disaster of 1977 had a similar weakness. The bridge built after the disaster is a cantilevered design that does not have this vulnerability.
+Another contributing factor to the casualty rate was the use of welds that "unzipped" during the crash in the carriage bodies.
+
+
+== Consequences ==
+
+
+=== Legal ===
+Immediately after the accident, Deutsche Bahn paid 30,000 Deutsche Marks (about US$19,000) for each fatality to the applicable families. At a later time Deutsche Bahn settled with some victims. Deutsche Bahn stated that it paid the equivalent of more than 30 million U.S. dollars to survivors and the families of victims.
+In August 2002, two Deutsche Bahn officials and one engineer were charged with manslaughter. The trial lasted 53 days with expert witnesses from around the world testifying. The case ended in a plea bargain in April 2003. According to the German code of criminal procedure, if the defendant has not been found to bear substantial guilt, and if the state attorney and the defendant agree, the defendant may pay a fine and the criminal proceedings are dismissed with prejudice and without a verdict. Each engineer paid €10,000  (around US$12,000).
+
+
+=== Technical ===
+Within weeks, all wheels of similar design were replaced with monobloc wheels. The entire German railway network was checked for similar arrangements of switches close to possible obstacles.
+Rescue workers at the crash site experienced considerable difficulties in cutting their way through the train to gain access to the victims. Both the aluminium framework and the pressure-proof windows offered unexpected resistance to rescue equipment. As a result, all trains were refitted with windows that have breaking seams.
+
+
+== Memorial ==
+Udo Bauch, a survivor who became disabled by the accident, built his own memorial with his own money. Bauch said that the chapel received 5,000 to 6,000 visitors per year. One year after Bauch's memorial was built, an official memorial, funded partly by Deutsche Bahn, was established.The official memorial was opened on 11 May 2001 in the presence of 400 relatives as well as many dignitaries, rescuers and citizens from Eschede. The memorial consists of  101 wild cherry trees each representing one fatality. The trees have been planted along the rails near the bridge and with the switch in front. From the field, a staircase leads up to the street and a gate; on the other side of the street a number of stairs lead further up to nowhere. There is an inscription on the side of the stone gate and an inscription on a memorial wall that also lists the names of the fatalities placed at the centre of the trees.
+
+		
+		
+
+
+== Dramatization ==
+The Eschede derailment, as well as the investigation into the incident, was covered as the fifth episode of the first season of the National Geographic TV documentary series Seconds from Disaster, entitled "Derailment at Eschede" which was filmed on the Ecclesbourne Valley Railway in Derbyshire, UK.
+
+
+== See also ==
+National Geographic Seconds From Disaster episodes
+Lathen train collision – 2006 maglev train crash in Germany
+Lists of rail accidents
+List of structural failures and collapses
+List of accidents and disasters by death toll
+
+
+== Citations ==
+
+
+== References ==
+The Eschede Reports
+ICE Train Accident in Eschede – Recent News Summary
+Official Eschede Website showing memorial Archived 26 April 2009 at the Wayback Machine (in German)
+
+
+== Further reading ==
+O'Connor, Bryan, (NASA), "Eschede Train Disaster", Leadership ViTS Meeting, 7 May 2007
+Johnston, Howard; Holley, Mel (17–30 June 1998). "Europe stunned as freak German high speed crash kills 98". Rail. No. 333. EMAP Apex Publications. pp. 6–7. ISSN 0953-4563. OCLC 49953699.
+Bewältigung größerer Schadensereignisse - das ICE-Unglück Eschede. Christian Brauner. Villingen-Schwenningen. 2000. ISBN 978-3-931778-28-6. OCLC 76177381.{{cite book}}:  CS1 maint: others (link)
+Fehler im System: Eisenbahnunfälle als Symptom einer Bahnkrise. Jürgen Hörstel, Hans-Joachim Ritzau (1st ed.). Pürgen: Ritzau, Verl. Zeit und Eisenbahn. 2000. ISBN 3-921304-33-4. OCLC 165953436.{{cite book}}:  CS1 maint: others (link)
+Die ICE-Katastrophe von Eschede: Erfahrungen und Lehren : eine interdisziplinäre Analyse. E. Hüls, H.-J. Oestern. Berlin: Springer. 1999. ISBN 3-540-65807-6. OCLC 42961153.{{cite book}}:  CS1 maint: others (link)
+Preuß, Erich [in German] (1998). Eschede, 10 Uhr 59: die Geschichte einer Eisenbahn-Katastrophe (1st ed.). München: GeraMond Verlag. ISBN 3-932785-21-5. OCLC 165866936.
+Reiter, Markus (2005). Eschede und danach Erfahrungen aus der Arbeit des Ombudsmannes der Deutschen Bahn. Stuttgart. ISBN 978-3-7910-2406-6. OCLC 254023541.
+
+
+== External links ==
+
+The ICE/ICT pages
+Eschede – Zug 884("Eschede - Train 884"), a German documentary film about the disaster by Raymond Ley (2008, 90 minutes).
+"Das ICE-Unglück von Eschede" ("The ICE accident in Eschede") (in German)

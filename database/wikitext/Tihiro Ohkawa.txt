@@ -1,0 +1,22 @@
+Tihiro Ohkawa (Japanese: 大河千弘, Hepburn: Ōkawa Chihiro, January 3, 1928 - September 27, 2014) was a Japanese physicist whose field of work was in plasma physics and fusion power. He was a pioneer in developing ways to generate electricity by nuclear fusion when he worked at General Atomics. Ohkawa died September 27, 2014 in La Jolla, California at the age of 86.
+
+
+== Early life and career ==
+Ohkawa was born in Kanazawa on January 3, 1928. He studied physics at the University of Tokyo in 1950, and was a member of the Yoshio Nishina group for researching cosmic altitude radiation for 16 years even during the World War II. He was a researcher at CERN and at Midwestern State University before becoming a professor at the University of Tokyo. In 1960, he went to General Atomics, where he led a fusion research project and later became vice president and deputy chairman of the board.
+In 1994, Ohkawa left General Atomics to found TOYO Technologies. In 2004, he was co-founder of Nano Fusion Technologies with Masano Nishikawa for the development of microfluidics. He was also a physics professor at the University of California, San Diego.
+
+
+== Scientific contributions ==
+In 1955, Ohkawa independently came up with idea of the fixed-field alternating gradient accelerator (FFAG) together with Keith Symon and Andrei Kolomensky, which led to the development of the first prototype in 1956 by the Midwestern Universities Research Association (MURA). He then developed a procedure to stabilize instabilities in tokamaks using multipole magnetic fields with Donald Kerst in 1960, which was then later confirmed by experiments.In 1968, Ohkawa demonstrated that the plasma-current multipole configuration used to trap plasmas was stable, which resulted in the development of a series of tokamaks with vertically elongated plasma cross sections called the doublet. This eventually led to General Atomics' DIII-D tokamak, which influenced the design and concept of ITER.Ohkawa was also involved in the use of radioactive isotopes in the separation of nuclear isotopes from nuclear waste (at the Archimedes Technology Group in San Diego, which he founded).Ohkawa holds over 50 patents, in areas such as tile accelerators, fusion technology and biotechnology.
+
+
+== Honors and awards ==
+In 1968, Ohkawa became a Fellow of the American Physical Society. In 1979, he received the James Clerk Maxwell Prize for Plasma Physics for "his development of multi-current or doublet approach to the design of tokamaks with non-circular cross sections and for investigation of plasma confinement in toroidal multipoles".He also received the 1984 Fusion Power Associates Leadership Award.
+
+
+== References ==
+
+
+== External links ==
+Fusion Pioneer Tihiro Ohkawa Dies from General Atomics website
+Oral history interview transcript with Tihiro Ohkawa on 23 May 2006, American Institute of Physics, Niels Bohr Library & Archives

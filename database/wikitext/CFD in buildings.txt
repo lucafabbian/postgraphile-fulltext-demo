@@ -1,0 +1,1811 @@
+CFD stands for computational fluid dynamics (and heat transfer). As per this technique, the governing differential equations of a flow system or thermal system are known in the form of Navier–Stokes equations, thermal energy equation and species equation with an appropriate equation of state. In the past few years, CFD has been playing an increasingly important role in building design, following its continuing development for over a quarter of a century. The information provided by CFD can be used to analyse the impact of building exhausts to the environment, to predict smoke and fire risks in buildings, to quantify indoor environment quality, and to design natural ventilation systems.
+
+
+== Applications ==
+Recently CFD finds very wide application in different areas of science and engineering; some examples are:
+Aerodynamics of aircraft and vehicles : lift and drag
+Hydrodynamics of ships
+Power plant : combustion in internal combustion engines and gas turbines
+Turbo machinery: Flows inside rotating passages, diffusers etc.
+Electrical and electronics engineering: cooling of equipment including microcircuits.
+Chemical process engineering: mixing and separation and polymer moulding.
+Marine engineering: loads on off-shore structure.
+Environmental engineering: distribution of pollutant and effluents.
+Hydrology and oceanography: flows in rivers, estuaries and oceans.
+Meteorology: weather prediction.
+Biomedical engineering: blood flows through arteries and veins.
+External and internal environment of buildings: wind loading, ventilation analysis and heating/cooling load calculations.Previously, most building-related issues such as ventilation analysis, wind loading, wind environment etc. were examined using wind tunnel tests, but today all these tests can be done effectively with CFD. CFD can resolve all of the above-mentioned issues in a relatively short time period, and it is more economical as well as being a stronger approach than the older one (experimental). Currently, Computational Fluid Dynamics is used as a sophisticated airflow modeling method and can be used to predict airflow, heat transfer and contaminant transportation in and around buildings. CFD plays an important role in building design, designing a thermally-conformable, healthy and energy-efficient building. CFD can examine the effectiveness and efficiency of various heating ventilation and air conditioning (HVAC) systems by easily changing the type and location of different components, supply air conditions and system control schedules. Furthermore, CFD helps in developing passive heating/cooling/ventilation strategies (e.g. natural ventilation) by modelling and optimizing building site-plans and indoor layouts. Globally, the building sector is the source of approximately 40% of total energy consumption.In the present era, there is a huge gap in energy consumption and energy production. As the building sector makes up a huge amount of the total consumption, it is essential to investigate the optimum configuration for buildings to reduce the buildings' energy usage. In order to achieve this, CFD can play an important role. Building performance simulation (BPS) and CFD programs are important building design tools which are used for the evaluation of building performance, including thermal comfort, indoor air quality mechanical system efficiency and energy consumption.CFD in buildings is mainly used for one or more followings purposes:
+
+Thermal analysis: through walls, roof and floor of buildings
+Ventilation analysis.
+Orientation, site and location selection of buildings based on local geographical and environmental conditions.
+
+
+=== Thermal analysis ===
+In buildings, heat transfer takes place in its all modes i.e. conduction, convection and radiation. In order to reduce heat losses from buildings, CFD analysis can be done for the optimum configuration of composite walls, roof and floor. The differential form of the general transport equation is as follows:
+The numerical solution of above equation can be obtained by finite difference method (FDM), finite volume method (FVM) and finite element method (FEM). In buildings, for heat transfer analysis, the scalar function ф in equation (1) is replaced by Temperature (T), diffusion coefficient Γ is replaced by thermal conductivity k and the source term 
+  
+    
+      
+        
+          S
+          
+            ϕ
+          
+        
+      
+    
+    {\displaystyle S_{\phi }}
+   is replaced by heat generation term e or by any heat radiation source 
+  
+    
+      
+        
+          Q
+          
+            i
+          
+        
+      
+    
+    {\displaystyle Q_{i}}
+   or by both (depending upon the nature of source available) and there are different forms of equations for different cases. For simplicity and easy understanding, only 1-Dimensional cases have been discussed.
+In buildings the heat transfer analysis can be done for all parts of buildings (walls, roof and floor) in following two ways
+
+Steady State Thermal Analysis
+Transient Thermal Analysis
+
+
+==== Steady state thermal analysis ====
+The steady state thermal analysis consist the following type of governing differential equations.
+Case-1: General steady state heat conduction equation.
+For this case the governing differential equation (GDE) (1) becomes as follows:
+
+  
+    
+      
+        
+          d
+          i
+          v
+          
+          (
+          ρ
+          u
+          T
+          )
+        
+        =
+        
+          d
+          i
+          v
+          
+          (
+          k
+          
+          g
+          r
+          a
+          d
+          
+          T
+          )
+        
+        +
+        
+          
+            S
+            
+              T
+            
+          
+        
+        
+      
+    
+    {\displaystyle {div\,(\rho uT)}={div\,(k\,grad\,T)}+{S_{T}}\,}
+  Case-2: Steady state heat conduction equation (no heat generation)
+For this case the governing differential equation (GDE) (1) becomes as follows:
+
+  
+    
+      
+        
+          d
+          i
+          v
+          
+          (
+          ρ
+          u
+          T
+          )
+        
+        =
+        
+          d
+          i
+          v
+          
+          (
+          k
+          
+          g
+          r
+          a
+          d
+          
+          T
+          )
+        
+        
+      
+    
+    {\displaystyle {div\,(\rho uT)}={div\,(k\,grad\,T)}\,}
+  Case-3: Steady state heat conduction equation (no heat generation and no convection)
+For this case the governing differential equation (GDE) (1) becomes as follows:
+
+  
+    
+      
+        
+          d
+          i
+          v
+          
+          (
+          k
+          
+          g
+          r
+          a
+          d
+          
+          T
+          )
+        
+        =
+        0
+        
+      
+    
+    {\displaystyle {div\,(k\,grad\,T)}=0\,}
+  
+
+
+==== Transient thermal analysis ====
+The transient thermal analysis consist the following type of governing differential equations.
+Case-1: Transient heat conduction
+For this case the governing differential equation (GDE) (1) becomes as follows:
+
+  
+    
+      
+        
+          
+            
+              ∂
+              
+                (
+                ρ
+                T
+                )
+              
+            
+            
+              ∂
+              t
+            
+          
+        
+        +
+        
+          d
+          i
+          v
+          
+          (
+          ρ
+          u
+          T
+          )
+        
+        =
+        
+          d
+          i
+          v
+          
+          (
+          k
+          
+          g
+          r
+          a
+          d
+          
+          T
+          )
+        
+        +
+        
+          
+            S
+            
+              T
+            
+          
+        
+        
+      
+    
+    {\displaystyle {\frac {\partial {(\rho T)}}{\partial t}}+{div\,(\rho uT)}={div\,(k\,grad\,T)}+{S_{T}}\,}
+  Case- 2: Transient heat conduction (no heat generation)
+For this case the governing differential equation (GDE) (1) becomes as follows:
+
+  
+    
+      
+        
+          
+            
+              ∂
+              
+                (
+                ρ
+                T
+                )
+              
+            
+            
+              ∂
+              t
+            
+          
+        
+        +
+        
+          d
+          i
+          v
+          
+          (
+          ρ
+          u
+          T
+          )
+        
+        =
+        
+          d
+          i
+          v
+          
+          (
+          k
+          
+          g
+          r
+          a
+          d
+          
+          T
+          )
+        
+      
+    
+    {\displaystyle {\frac {\partial {(\rho T)}}{\partial t}}+{div\,(\rho uT)}={div\,(k\,grad\,T)}}
+  Case-3: Transient heat conduction (no heat generation and no convection)
+For this case the governing differential equation (GDE) (1) becomes as follows:
+
+  
+    
+      
+        
+          
+            
+              ∂
+              
+                (
+                ρ
+                T
+                )
+              
+            
+            
+              ∂
+              t
+            
+          
+        
+        =
+        
+          d
+          i
+          v
+          
+          (
+          k
+          
+          g
+          r
+          a
+          d
+          
+          T
+          )
+        
+        
+      
+    
+    {\displaystyle {\frac {\partial {(\rho T)}}{\partial t}}={div\,(k\,grad\,T)}\,}
+  We can solve these above mentioned governing differential equation (GDE) equations using CFD technique.
+
+
+=== Ventilation analysis ===
+The ventilation study in buildings is done to find the thermally comfortable environment with acceptable indoor air quality by regulating indoor air parameters (air temperature, relative humidity, air speed, and chemical species concentrations in the air). CFD finds an important role in regulating the indoor air parameters to predict the ventilation performance in buildings. The ventilation performance prediction provides the information regarding indoor air parameters in a room or a building even before the construction of buildings.These air parameters are crucial for designing a comfortable indoor as well as a good integration of the building in the outdoor environment. This is because the design of appropriate ventilation systems and the development of control strategies need detailed information regarding the following parameters;
+
+Airflow
+Contaminant dispersion
+Temperature distributionThe aforesaid information is also useful for an architect to design the building configuration. From the last three decades, the CFD technique is widely used with considerable success in buildings.Recently ventilation and its related fields has becomes a great part of wind engineering. A ventilation study can be done using wind tunnel investigation (experimentally) or by CFD modeling (theoretically). Natural ventilation system may be preferred over the forced ventilation system in some applications, as it eliminates or reduces the mechanical ventilation system, which may provide both fan energy and first-cost savings. In present era, due to development of a lot of CFD software and other building performance simulation software, it has become easier to assess the possibility of natural/forced ventilation system in a building. CFD analysis is quite useful than the experimental approach because here other related relations among the variables in post-processing could be found. The data obtained either experimental or numerically is useful in two ways:
+Better comfort of user
+It provides the data which is used as input to the heat balance calculation of the buildings
+
+
+=== Orientation, site, and location selection ===
+
+Earlier, the choice of dwelling location was dependent on the need for water, so most developments started in valley areas. In our present era, due to advancements in science and technology, it has become easier to select the building orientation, site and location based on local geographical and environmental conditions. In the selection of building site and location, wind loading plays an important role. For example, in the case in which two buildings at a location exist side by side with a gap, when a volume of wind blows around the ends of the buildings and through the gap, the sum of flow around each building and then its velocity increases as it travels through the gap, at the expense of pressure loss. As a result, there is a build up of pressure entering the gap, which leads to higher wind loads on the sides of buildings. 
+When wind blows over the face of a high rise building, a vortex is created by the downward flow on the front face (as shown in figure-1). The wind speed in the reverse direction near the ground level may have 140% of the reference wind speed, which can cause severe damage (especially to the roof of building). Such damage to buildings can be prevented if the effects of wind loading are considered in the early stage of construction of a building. In early age of construction, wind loading effects were determined by the wind tunnel test but, today, all these tests can be successfully simulated through CFD analysis. 
+It is becoming increasingly important to provide pleasant building environments. Architects and wind engineers are often asked to look over the design (orientation, site, location and gaps between the surrounding buildings) in the formative planning stage of construction. By using CFD analysis, it is possible to find the suitable information (local wind velocity, convective coefficients, and solar radiation intensity) for optimal orientation, site and location selection of buildings.
+
+
+== CFD approach for heat transfer analysis in buildings ==
+CFD technique can be used for the analysis of heat transfer in each part of a building. CFD technique finds the solution by following ways:
+
+Discretization of the governing differential equation using numerical methods (Finite difference method has been discussed).
+Solve the discretized version of equation with high performance computers.
+
+
+=== Discretization of the governing differential equations for the steady state heat transfer analysis ===
+Consider a building having a plane wall with thickness L, heat generation e and constant thermal conductivity k.  The wall is subdivided into M equal regions of thickness  
+  
+    
+      
+        Δ
+        x
+      
+    
+    {\displaystyle \Delta x}
+   = X/T in x-direction, and the divisions between the regions are selected as nodes as shown in figure-2.
+
+The whole domain of wall in x-direction is divided in elements as shown in figure and the size of all interior elements is same while for exterior elements it is half.
+Now to obtain the FDM solution for the interior nodes, consider the element represented by the node m which is surrounded by neighboring nodes m-1 and m+1. The FDM technique presumes that temperature varies linearly in walls (shown in figure-3).
+FDM solution is (for all interior nodes except to 0 and last node):
+
+  
+    
+      
+        
+          
+            
+              (
+              
+                T
+                
+                  m
+                  −
+                  1
+                
+                
+                  i
+                
+              
+              −
+              2
+              
+                T
+                
+                  m
+                
+                
+                  n
+                
+              
+              +
+              
+                T
+                
+                  m
+                
+                
+                  i
+                
+              
+              )
+            
+            
+              Δ
+              
+                
+                  x
+                
+                
+                  2
+                
+              
+            
+          
+        
+        +
+        
+          
+            e
+            k
+          
+        
+        =
+        0
+      
+    
+    {\displaystyle {\frac {(T_{m-1}^{i}-2T_{m}^{n}+T_{m}^{i})}{\Delta {x}^{2}}}+{\frac {e}{k}}=0}
+  
+
+
+==== Boundary conditions ====
+Above equation is valid only to interior nodes only. To obtain the solution for exterior nodes we have to apply the boundary conditions (as applicable), which are as follows.1.Specified heat flux boundary condition
+
+  
+    
+      
+        
+          q
+          
+            0
+          
+        
+        A
+        +
+        k
+        A
+        
+          
+            
+              (
+              
+                T
+                
+                  1
+                
+              
+              −
+              
+                T
+                
+                  0
+                
+              
+              )
+            
+            
+              Δ
+              
+                x
+              
+            
+          
+        
+        +
+        
+          
+            
+              e
+              
+                0
+              
+            
+            2
+          
+        
+        A
+        Δ
+        
+          x
+        
+        =
+        0
+      
+    
+    {\displaystyle q_{0}A+kA{\frac {(T_{1}-T_{0})}{\Delta {x}}}+{\frac {e_{0}}{2}}A\Delta {x}=0}
+  When boundary is insulated (q=0)
+
+  
+    
+      
+        k
+        A
+        
+          
+            
+              (
+              
+                T
+                
+                  1
+                
+              
+              −
+              
+                T
+                
+                  0
+                
+              
+              )
+            
+            
+              Δ
+              
+                x
+              
+            
+          
+        
+        +
+        
+          
+            
+              e
+              
+                0
+              
+            
+            2
+          
+        
+        A
+        Δ
+        
+          x
+        
+        =
+        0
+      
+    
+    {\displaystyle kA{\frac {(T_{1}-T_{0})}{\Delta {x}}}+{\frac {e_{0}}{2}}A\Delta {x}=0}
+  2. Convective boundary condition
+
+  
+    
+      
+        h
+        A
+        
+          (
+          
+            T
+            
+              ∞
+            
+          
+          −
+          
+            T
+            
+              0
+            
+          
+          )
+        
+        +
+        k
+        A
+        
+          
+            
+              (
+              
+                T
+                
+                  1
+                
+              
+              −
+              
+                T
+                
+                  0
+                
+              
+              )
+            
+            
+              Δ
+              
+                x
+              
+            
+          
+        
+        +
+        
+          
+            
+              e
+              
+                0
+              
+            
+            2
+          
+        
+        A
+        Δ
+        
+          x
+        
+        =
+        0
+      
+    
+    {\displaystyle hA{(T_{\infty }-T_{0})}+kA{\frac {(T_{1}-T_{0})}{\Delta {x}}}+{\frac {e_{0}}{2}}A\Delta {x}=0}
+  3. Radiation boundary condition
+
+  
+    
+      
+        ϵ
+        σ
+        A
+        
+          (
+          
+            T
+            
+              s
+              u
+              r
+            
+            
+              4
+            
+          
+          −
+          
+            T
+            
+              0
+            
+            
+              4
+            
+          
+          )
+        
+        +
+        k
+        A
+        
+          
+            
+              (
+              
+                T
+                
+                  1
+                
+              
+              −
+              
+                T
+                
+                  0
+                
+              
+              )
+            
+            
+              Δ
+              
+                x
+              
+            
+          
+        
+        +
+        
+          
+            
+              e
+              
+                0
+              
+            
+            2
+          
+        
+        A
+        Δ
+        
+          x
+        
+        =
+        0
+      
+    
+    {\displaystyle \epsilon \sigma A{(T_{sur}^{4}-T_{0}^{4})}+kA{\frac {(T_{1}-T_{0})}{\Delta {x}}}+{\frac {e_{0}}{2}}A\Delta {x}=0}
+  4. Combined convective and radiation boundary condition (shown in figure-4).
+
+  
+    
+      
+        h
+        A
+        
+          (
+          
+            T
+            
+              ∞
+            
+          
+          −
+          
+            T
+            
+              0
+            
+          
+          )
+        
+        +
+        ϵ
+        σ
+        A
+        
+          (
+          
+            T
+            
+              s
+              u
+              r
+            
+            
+              4
+            
+          
+          −
+          
+            T
+            
+              0
+            
+            
+              4
+            
+          
+          )
+        
+        +
+        k
+        A
+        
+          
+            
+              (
+              
+                T
+                
+                  1
+                
+              
+              −
+              
+                T
+                
+                  0
+                
+              
+              )
+            
+            
+              Δ
+              
+                x
+              
+            
+          
+        
+        +
+        
+          
+            
+              e
+              
+                0
+              
+            
+            2
+          
+        
+        A
+        Δ
+        
+          x
+        
+        =
+        0
+      
+    
+    {\displaystyle hA{(T_{\infty }-T_{0})}+\epsilon \sigma A{(T_{sur}^{4}-T_{0}^{4})}+kA{\frac {(T_{1}-T_{0})}{\Delta {x}}}+{\frac {e_{0}}{2}}A\Delta {x}=0}
+  or
+when radiation and convection heat transfer coefficient are combined, above equation becomes as follows; 
+
+  
+    
+      
+        h
+        
+          A
+          
+            c
+            o
+            m
+            b
+            i
+            n
+            e
+            d
+          
+        
+        
+          (
+          
+            T
+            
+              ∞
+            
+          
+          −
+          
+            T
+            
+              0
+            
+          
+          )
+        
+        +
+        k
+        A
+        
+          
+            
+              (
+              
+                T
+                
+                  1
+                
+              
+              −
+              
+                T
+                
+                  0
+                
+              
+              )
+            
+            
+              Δ
+              
+                x
+              
+            
+          
+        
+        +
+        
+          
+            
+              e
+              
+                0
+              
+            
+            2
+          
+        
+        A
+        Δ
+        
+          x
+        
+        =
+        0
+        
+      
+    
+    {\displaystyle hA_{combined}{(T_{\infty }-T_{0})}+kA{\frac {(T_{1}-T_{0})}{\Delta {x}}}+{\frac {e_{0}}{2}}A\Delta {x}=0\,}
+  
+5. Combined convective, radiation and heat flux boundary condition
+
+  
+    
+      
+        
+          q
+          
+            0
+          
+        
+        A
+        +
+        h
+        A
+        
+          (
+          
+            T
+            
+              ∞
+            
+          
+          −
+          
+            T
+            
+              0
+            
+          
+          )
+        
+        +
+        ϵ
+        σ
+        A
+        
+          (
+          
+            T
+            
+              s
+              u
+              r
+            
+            
+              4
+            
+          
+          −
+          
+            T
+            
+              0
+            
+            
+              4
+            
+          
+          )
+        
+        +
+        k
+        A
+        
+          
+            
+              (
+              
+                T
+                
+                  1
+                
+              
+              −
+              
+                T
+                
+                  0
+                
+              
+              )
+            
+            
+              Δ
+              
+                x
+              
+            
+          
+        
+        +
+        
+          
+            
+              e
+              
+                0
+              
+            
+            2
+          
+        
+        A
+        Δ
+        
+          x
+        
+        =
+        0
+      
+    
+    {\displaystyle q_{0}A+hA{(T_{\infty }-T_{0})}+\epsilon \sigma A{(T_{sur}^{4}-T_{0}^{4})}+kA{\frac {(T_{1}-T_{0})}{\Delta {x}}}+{\frac {e_{0}}{2}}A\Delta {x}=0}
+  6.Interface boundary condition : when there is an interface (in composite walls) of different walls having different thermo-physical properties, the two different solid media A and B are assumed to be perfect contact and thus have same temperature at interface at node m (as shown in figure-5).
+
+  
+    
+      
+        
+          k
+          
+            A
+          
+        
+        A
+        
+          
+            
+              (
+              
+                T
+                
+                  m
+                  −
+                  1
+                
+              
+              −
+              
+                T
+                
+                  m
+                
+              
+              )
+            
+            
+              Δ
+              
+                x
+              
+            
+          
+        
+        +
+        
+          k
+          
+            B
+          
+        
+        A
+        
+          
+            
+              (
+              
+                T
+                
+                  m
+                  +
+                  1
+                
+              
+              −
+              
+                T
+                
+                  m
+                
+              
+              )
+            
+            
+              Δ
+              
+                x
+              
+            
+          
+        
+        +
+        
+          
+            
+              e
+              
+                A
+                ,
+                m
+              
+            
+            2
+          
+        
+        A
+        Δ
+        
+          x
+        
+        +
+        
+          
+            
+              e
+              
+                B
+                ,
+                m
+              
+            
+            2
+          
+        
+        A
+        Δ
+        
+          x
+        
+        =
+        0
+      
+    
+    {\displaystyle k_{A}A{\frac {(T_{m-1}-T_{m})}{\Delta {x}}}+k_{B}A{\frac {(T_{m+1}-T_{m})}{\Delta {x}}}+{\frac {e_{A,m}}{2}}A\Delta {x}+{\frac {e_{B,m}}{2}}A\Delta {x}=0}
+  
+In above equations q_0 = denotes specified heat flux is in 
+  
+    
+      
+        (
+        W
+        
+          /
+        
+        
+          m
+          
+            2
+          
+        
+        )
+      
+    
+    {\displaystyle (W/m^{2})}
+  , h =convective coefficient, 
+  
+    
+      
+        
+          h
+          
+            c
+            o
+            m
+            b
+            i
+            n
+            e
+            d
+          
+        
+      
+    
+    {\displaystyle h_{combined}}
+   = combined convective and radiation heat transfer coefficient,
+  
+    
+      
+        
+          T
+          
+            s
+          
+        
+        u
+        r
+      
+    
+    {\displaystyle T_{s}ur}
+   = Temperature of surrounding surface,
+  
+    
+      
+        
+          T
+          
+            (
+          
+        
+        ∞
+        )
+      
+    
+    {\displaystyle T_{(}\infty )}
+   =Ambient Temperature, 
+  
+    
+      
+        
+          T
+          
+            0
+          
+        
+      
+    
+    {\displaystyle T_{0}}
+   = Temperature of at initial node.
+Note: For interior side of wall we can apply the suitable boundary condition from above (as applicable), in that case  
+  
+    
+      
+        
+          T
+          
+            (
+          
+        
+        ∞
+        )
+      
+    
+    {\displaystyle T_{(}\infty )}
+   will be replaced by 
+  
+    
+      
+        
+          T
+          
+            r
+          
+        
+      
+    
+    {\displaystyle T_{r}}
+   (Room Temperature), 
+  
+    
+      
+        
+          T
+          
+            0
+          
+        
+      
+    
+    {\displaystyle T_{0}}
+  = will be replaced by 
+  
+    
+      
+        
+          T
+          
+            l
+          
+        
+      
+    
+    {\displaystyle T_{l}}
+   (Temperature of last node).
+
+
+=== Discretization of the governing differential equations for the transient heat transfer analysis ===
+Transient thermal analysis is more important than the steady thermal analysis, as this analysis include the variable ambient condition with time. In transient heat conduction, the temperature changes with time as well as position. The finite difference solution of transient heat conduction requires discretization in time in addition to space, as shown in figure-6.
+
+The nodal points and volume elements for the transient FDM formulation of 1-D conduction in a plane wall exist as shown in the figure-7.
+
+For this case the FDM explicit solution for equation (1) will be as follows,
+
+  
+    
+      
+        k
+        A
+        
+          
+            
+              (
+              
+                T
+                
+                  m
+                  −
+                  1
+                
+                
+                  i
+                
+              
+              −
+              
+                T
+                
+                  m
+                
+                
+                  i
+                
+              
+              )
+            
+            
+              Δ
+              
+                x
+              
+            
+          
+        
+        +
+        k
+        A
+        
+          
+            
+              (
+              
+                T
+                
+                  m
+                  +
+                  1
+                
+                
+                  i
+                
+              
+              −
+              
+                T
+                
+                  m
+                
+                
+                  i
+                
+              
+              )
+            
+            
+              Δ
+              
+                x
+              
+            
+          
+        
+        +
+        
+          
+            e
+            
+              m
+            
+          
+        
+        A
+        Δ
+        
+          x
+        
+        =
+        (
+        ρ
+        
+          c
+          
+            p
+          
+        
+        Δ
+        x
+        A
+        )
+        
+          
+            
+              (
+              
+                T
+                
+                  m
+                
+                
+                  i
+                  +
+                  1
+                
+              
+              −
+              
+                T
+                
+                  m
+                
+                
+                  i
+                
+              
+              )
+            
+            
+              Δ
+              x
+            
+          
+        
+      
+    
+    {\displaystyle kA{\frac {(T_{m-1}^{i}-T_{m}^{i})}{\Delta {x}}}+kA{\frac {(T_{m+1}^{i}-T_{m}^{i})}{\Delta {x}}}+{e_{m}}A\Delta {x}=(\rho c_{p}\Delta xA){\frac {(T_{m}^{i+1}-T_{m}^{i})}{\Delta x}}}
+  The above equation can be solved explicitly for the temperature 
+  
+    
+      
+        (
+        
+          T
+          
+            m
+          
+          
+            i
+            +
+            1
+          
+        
+        )
+      
+    
+    {\displaystyle (T_{m}^{i+1})}
+   to give
+
+  
+    
+      
+        
+          
+            T
+            
+              m
+            
+            
+              i
+              +
+              1
+            
+          
+        
+        =
+        τ
+        
+          (
+          
+            T
+            
+              m
+              +
+              1
+            
+            
+              i
+            
+          
+          −
+          
+            T
+            
+              m
+            
+            
+              i
+            
+          
+          )
+        
+        +
+        
+          (
+          1
+          −
+          2
+          τ
+          )
+        
+        
+          T
+          
+            m
+          
+          
+            i
+          
+        
+        +
+        τ
+        
+          
+            
+              (
+              
+                e
+                
+                  m
+                
+              
+              Δ
+              
+                
+                  x
+                
+                
+                  2
+                
+              
+              )
+            
+            k
+          
+        
+      
+    
+    {\displaystyle {T_{m}^{i+1}}=\tau {(T_{m+1}^{i}-T_{m}^{i})}+{(1-2\tau )}T_{m}^{i}+\tau {\frac {(e_{m}\Delta {x}^{2})}{k}}}
+  where,
+
+  
+    
+      
+        τ
+        =
+        
+          
+            
+              (
+              α
+              Δ
+              t
+              )
+            
+            
+              Δ
+              
+                x
+                
+                  2
+                
+              
+            
+          
+        
+        
+      
+    
+    {\displaystyle \tau ={\frac {(\alpha \Delta t)}{\Delta x^{2}}}\,}
+  and 
+
+  
+    
+      
+        α
+        =
+        
+          
+            k
+            
+              ρ
+              
+                c
+                
+                  p
+                
+              
+            
+          
+        
+        
+      
+    
+    {\displaystyle \alpha ={\frac {k}{\rho c_{p}}}\,}
+  here,
+  
+    
+      
+        τ
+      
+    
+    {\displaystyle \tau }
+   represents the cell Fourier no,
+  
+    
+      
+        α
+      
+    
+    {\displaystyle \alpha }
+   represents thermal diffusivity,   
+  
+    
+      
+        
+          c
+          
+            p
+          
+        
+      
+    
+    {\displaystyle c_{p}}
+   represents specific heat at constant pressure, 
+  
+    
+      
+        Δ
+        t
+      
+    
+    {\displaystyle \Delta t}
+   represents time step,
+  
+    
+      
+        Δ
+        x
+      
+    
+    {\displaystyle \Delta x}
+   represents space step.
+Above equation is valid for all interior nodes and to find the relation for first and last node, apply boundary conditions (as applicable) as discussed in steady state heat transfer. For a convective & radiation boundary if solar radiation data  
+  
+    
+      
+        
+          q
+          
+            s
+            o
+            l
+            a
+            r
+          
+        
+      
+    
+    {\displaystyle q_{solar}}
+  \, in (
+  
+    
+      
+        (
+        W
+        
+          /
+        
+        
+          m
+          
+            2
+          
+        
+        )
+      
+    
+    {\displaystyle (W/m^{2})}
+  )  is available and absorptivity-transmissivity constant K is known, the relation for temperature is obtained as follows;
+
+  
+    
+      
+        h
+        A
+        
+          (
+          
+            T
+            
+              ∞
+            
+            
+              i
+            
+          
+          −
+          
+            T
+            
+              0
+            
+            
+              i
+            
+          
+          )
+        
+        +
+        κ
+        A
+        
+          q
+          
+            s
+            o
+            l
+          
+        
+        =
+        (
+        ρ
+        
+          c
+          
+            p
+          
+        
+        Δ
+        x
+        A
+        )
+        
+          
+            
+              (
+              
+                T
+                
+                  1
+                
+                
+                  i
+                
+              
+              −
+              
+                T
+                
+                  0
+                
+                
+                  i
+                
+              
+              )
+            
+            
+              Δ
+              x
+            
+          
+        
+      
+    
+    {\displaystyle hA{(T_{\infty }^{i}-T_{0}^{i})}+\kappa Aq_{sol}=(\rho c_{p}\Delta xA){\frac {(T_{1}^{i}-T_{0}^{i})}{\Delta x}}}
+  Note: the thermal analysis for the roof and floor of a building can be done in same way, as discussed for walls.\\
+
+
+== See also ==
+Computational fluid dynamics
+Natural ventilation
+JPMorgan Chase Tower (Houston)
+Dynamic insulation
+Thermal management of high-power LEDs
+Vented balance safety enclosure
+Different types of boundary conditions in fluid dynamics
+Wind tunnel
+Greenhouse
+
+
+== References ==

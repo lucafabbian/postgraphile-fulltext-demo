@@ -1,0 +1,33 @@
+Where Time Stood Still is an isometric action-adventure game released by Ocean in 1988 for the Sinclair Spectrum 128K, MS-DOS and Atari ST. The game was ported by fans to Amiga in July 2014, and on Amiga CD32 in December 2014 and was converted from the Atari ST version with some enhancements which were not present in other iterations. A Commodore 64 version was considered but never started. The game was produced by Denton Designs as a follow-up to The Great Escape from 1986.
+
+
+== Plot ==
+A plane has crashed in a remote and unknown plateau of the Himalayas. To their horror, the survivors soon discover that it is populated by dangerous prehistoric creatures and tribes.
+The player must guide the party of four survivors - the pilot, Jarret, and his three passengers - to safety, avoiding dinosaurs, cannibals and natural dangers, while also ensuring they are sufficiently rested and fed during the long and difficult journey.
+
+
+== Description ==
+The graphics are rendered in isometric 3D projection. The Atari ST and Spectrum versions are monochrome while the DOS version uses four-color CGA. The DOS version has no music, with sounds limited to PC speaker beeps and clicks.
+The Amiga and Amiga CD32 versions for the most part are a 1:1 rendition of the Atari ST version, but does have some enhancements such as full introduction sequence, based on the comic book style adverts that were available and enhanced music that utilise the Amiga better.  The Amiga CD32 version is the same as the Amiga version except it uses AmigaDOS for preloading all files and then running the entire game from RAM.
+
+
+== Gameplay ==
+The player initially controls Jarret, the leader of the party. The other survivors are Clive, a wealthy businessman; Gloria, his daughter; and Dirk, her fiancé. Each member of the party may be controlled by the player or by the game. Each member of the party has a different personality and abilities. For example, Clive is overweight, tires easily, and is always hungry. Dirk is athletic and has some knowledge of the local languages; he is reluctant to leave Gloria, and will become despondent if she dies. Useful objects are scattered about the map, which should be carefully explored.
+A simple menu and cursor system is used to select members and manipulate objects. Computer-controlled characters will complain if they are injured, tired or hungry. It is up to the player to decide what action to take in response. Indulge them too often, and food and time will run short. Ignore them, and they will abandon you and try to make their own way to safety.
+
+
+== Development ==
+The working title for the game during development was "Tibet"
+
+
+== Reviews ==
+Sinclair User: "Cancel all plans for a fortnight. Dash down to the shop. Pick up a copy of WHERE TIME STOOD STILL. Buy a 128K Spectrum if you haven't already got one. Lock yourself in your room and prepare to play the most exciting game you've ever seen on the Spectrum."Your Sinclair: "A superb arcade adventure..."
+
+
+== References ==
+
+
+== External links ==
+Where Time Stood Still at SpectrumComputing.co.ukWhere Time Stood Still at MobyGames
+Where Time Stood Still at the Little Green Desktop
+Where Time Stood Still at the Hall of Light

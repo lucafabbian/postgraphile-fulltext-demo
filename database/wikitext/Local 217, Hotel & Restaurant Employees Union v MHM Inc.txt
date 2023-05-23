@@ -1,0 +1,25 @@
+Local 217, Hotel & Restaurant Employees Union v MHM Inc, 976 F.2d 805 (1992) is a US labor law case, concerning the scope of labor rights in the United States.
+
+
+== Facts ==
+Staff at the former Summit Hotel in Hartford, Connecticut, claimed they were entitled to warning before the hotel closed in 1990, and continued medical benefits. The employees were represented by, Local 217, Hotel & Restaurant Employees Union, and the claim was brought against two potential bodies. The Colonial Constitution East Limited Partnership owned the hotel. MHM, Inc. was a separate hotel management firm which operated it. Under the Worker Adjustment and Retraining Notification Act 1988 §2102(a) it was asked whether a subsidiary or parent corporation was responsible to notify employees that the hotel would close.
+
+
+== Judgment ==
+The Second Circuit held the subsidiary was the employer, although the trial court had found the parent responsible, while noting the subsidiary would be the employer under the National Labor Relations Act 1935. The Court, however, refused an injunction to allow continuing health care cover for 57 days. Winter J gave the following opinion.
+
+It is true that in the instant matter CCELP made the decision to close the hotel. It by no means follows, however, that MHM was not a WARN employer. Section 2101(a)(1)(A) defines employer as "[a]ny business enterprise ... employ[ing] more than 100 employees." Giving the statutory language its common meaning, MHM was undeniably the "employer" of the laid-off employees. It bargained with, hired, fired, supervised, paid, and ultimately laid off the employees. The collective bargaining agreement governing labor-management relations at the Summit Hotel was between MHM as the employer and Local 217 as the representative of the employees. The only question, therefore, is whether there is some compelling reason to ignore the plain import of the statutory language.
+MHM argues that it was powerless to comply with WARN's notice provisions because it could not control either the timing or the substance of CCELP's decisions regarding the continuation of the hotel's operations. That is hardly a compelling argument, however. Even if WARN contained an "Act of God" or "force majeure" exemption, the circumstances here would not trigger it. MHM entered into a contractual arrangement with CCELP to manage the hotel. CCELP was thus a customer of services provided by MHM. Nothing prevented MHM from charging a management fee that took potential liability under WARN into account. For all that appears on this record, MHM may have done so. Nor did anything prevent MHM from bargaining for specific contractual terms that would give it notice of closure sufficient to meet its obligations under WARN or from bargaining for a monetary arrangement, such as an escrow account, that would guarantee payment of the damages specified in Section 2104(a)(1)(A) and (B). MHM therefore voluntarily exposed itself to the obligations imposed by WARN. To hold otherwise would not only flaunt the statutory language but would also invite resort to arrangements separating real estate and operational aspects of businesses solely to evade WARN. In analogous circumstances, we would not seriously entertain an argument that an employer need not comply with safety laws or regulations governing physical plants because the plant was leased and the landlord refused to allow modifications or repairs.
+
+Although we conclude that MHM was a WARN employer, Local 217 is not entitled to the relief it seeks. As noted, WARN § 2104(a) provides a damages action for back pay and for "the cost of medical expenses incurred during the employment loss." Section 2104(b) states, however, that "the remedies provided for in this section shall be the exclusive remedies for any violation of this chapter." The relief appellants seek, a preliminary injunction compelling MHM to provide fifty-seven days of insurance coverage under WARN, is, therefore, not one of the remedies specified in WARN and was properly denied.
+
+
+== See also ==
+
+United States labor law
+
+
+== Notes ==
+
+
+== References ==

@@ -1,0 +1,79 @@
+European route E35 is a European route that runs from Amsterdam, Netherlands, in northwestern Europe, to Rome, Italy in the south of the continent. The road heads through Germany and Switzerland before reaching Italy.
+
+
+== Route description ==
+
+ The Netherlands
+ A 10: Amsterdam ( E19 E22 E19 E231)
+ A 2: Amsterdam ( E19) - Utrecht ( E25 E30)
+ A 12: Utrecht ( E25 E30 E311) - Arnhem - Zevenaar
+ Germany
+ A 3: Emmerich am Rhein - Duisburg  E34 - Köln ( E31 E37 E40) - Limburg a. d. Lahn ( E44) - Frankfurt am Main ( E42)
+ A 5: Frankfurt am Main ( E42) - Darmstadt ( E451) - Mannheim ( E50, Towards  E30) - Karlsruhe (Start of Concurrency with  E52) - Offenburg ( E531), End of Concurrency with  E52) - Weil am Rhein ( E54)
+ Switzerland
+ A 2: Basel ( E60, Start of Concurrency with  E25) - Olten (End of Concurrency with  E25) - Luzern - Altdorf ( E41) - Bellinzona ( E43) - Lugano - Chiasso
+ Italy
+ A 9: Como - Lainate ( E62)
+ A 8: Lainate ( E62) - Milan ( E62)
+ A 50: Milan ( E62  E64)
+ A 1: Milan - Piacenza ( E70) - Parma ( E33) - Modena (Start of Concurrency with  E45) - Bologna (End of Concurrency with  E45) - Sasso Marconi
+ A 1var: Sasso Marconi - Barberino di Mugello
+ A 1: Barberino di Mugello - Firenze ( E76) - Arezzo ( E78) - Orte (Start of Concurrency with  E45) - Fiano Romano (End of Concurrency with  E45)
+ A 1dir: Fiano Romano ( E45) - Roma (Towards  E80 E821)
+
+
+== History ==
+
+
+== Major intersections ==
+Principal Cities, North to South:
+
+ Netherlands
+Amsterdam (A2)
+Utrecht (A2, A12)
+Ede (A12)
+Arnhem (A12)
+ Germany
+Duisburg (A3)
+Düsseldorf (A3)
+Cologne (A3)
+Bonn (A3)
+Wiesbaden (A3)
+Frankfurt am Main (A3)
+Darmstadt (A67, A5)
+Bensheim (A5)
+Heidelberg (A5)
+Karlsruhe (A5)
+Baden-Baden (A5)
+Freiburg im Breisgau (A5)
+ Switzerland
+Basel (A2)
+Luzern (A2)
+Altdorf (A2)
+Bellinzona (A2)
+Lugano (A2)
+Chiasso (A2)
+ Italy
+Como (A9)
+Milan (A9, A8, A50, A1)
+Piacenza (A1)
+Parma (A1)
+Modena (A1)
+Bologna (A1)
+Florence (A1)
+Arezzo (A1)
+Orvieto (A1)
+Rome (A1dir)Tunnels:
+
+St. Gotthard Tunnel, Switzerland
+
+
+== See also ==
+ Roads portal
+
+
+== References ==
+
+
+== External links ==
+UN Economic Commission for Europe: Overall Map of E-road Network (2007)

@@ -1,0 +1,3004 @@
+In mathematics, an abelian group, also called a commutative group, is a group in which the result of applying the group operation to two group elements does not depend on the order in which they are written. That is, the group operation is commutative. With addition as an operation, the integers and the real numbers form abelian groups, and the concept of an abelian group may be viewed as a generalization of these examples. Abelian groups are named after early 19th century mathematician Niels Henrik Abel.The concept of an abelian group underlies many fundamental algebraic structures, such as fields, rings, vector spaces, and algebras. The theory of abelian groups is generally simpler than that of their non-abelian counterparts, and finite abelian groups are very well understood and fully classified.
+
+
+== Definition ==
+An abelian group is a set 
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+  , together with an operation 
+  
+    
+      
+        ⋅
+      
+    
+    {\displaystyle \cdot }
+   that combines any two elements 
+  
+    
+      
+        a
+      
+    
+    {\displaystyle a}
+   and 
+  
+    
+      
+        b
+      
+    
+    {\displaystyle b}
+   of 
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+   to form another element of 
+  
+    
+      
+        A
+        ,
+      
+    
+    {\displaystyle A,}
+   denoted 
+  
+    
+      
+        a
+        ⋅
+        b
+      
+    
+    {\displaystyle a\cdot b}
+  . The symbol 
+  
+    
+      
+        ⋅
+      
+    
+    {\displaystyle \cdot }
+   is a general placeholder for a concretely given operation. To qualify as an abelian group, the set and operation, 
+  
+    
+      
+        (
+        A
+        ,
+        ⋅
+        )
+      
+    
+    {\displaystyle (A,\cdot )}
+  , must satisfy four requirements known as the abelian group axioms (some authors include in the axioms some properties that belong to the definition of an operation: namely that the operation is defined for any ordered pair of elements of A, that the result is well-defined, and that the result belongs to A):
+
+Associativity
+For all 
+  
+    
+      
+        a
+      
+    
+    {\displaystyle a}
+  , 
+  
+    
+      
+        b
+      
+    
+    {\displaystyle b}
+  , and 
+  
+    
+      
+        c
+      
+    
+    {\displaystyle c}
+   in 
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+  , the equation 
+  
+    
+      
+        (
+        a
+        ⋅
+        b
+        )
+        ⋅
+        c
+        =
+        a
+        ⋅
+        (
+        b
+        ⋅
+        c
+        )
+      
+    
+    {\displaystyle (a\cdot b)\cdot c=a\cdot (b\cdot c)}
+   holds.
+Identity element
+There exists an element 
+  
+    
+      
+        e
+      
+    
+    {\displaystyle e}
+   in 
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+  , such that for all elements 
+  
+    
+      
+        a
+      
+    
+    {\displaystyle a}
+   in 
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+  , the equation 
+  
+    
+      
+        e
+        ⋅
+        a
+        =
+        a
+        ⋅
+        e
+        =
+        a
+      
+    
+    {\displaystyle e\cdot a=a\cdot e=a}
+   holds.
+Inverse element
+For each 
+  
+    
+      
+        a
+      
+    
+    {\displaystyle a}
+   in 
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+   there exists an element 
+  
+    
+      
+        b
+      
+    
+    {\displaystyle b}
+   in 
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+   such that 
+  
+    
+      
+        a
+        ⋅
+        b
+        =
+        b
+        ⋅
+        a
+        =
+        e
+      
+    
+    {\displaystyle a\cdot b=b\cdot a=e}
+  , where 
+  
+    
+      
+        e
+      
+    
+    {\displaystyle e}
+   is the identity element.
+Commutativity
+For all 
+  
+    
+      
+        a
+      
+    
+    {\displaystyle a}
+  , 
+  
+    
+      
+        b
+      
+    
+    {\displaystyle b}
+   in 
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+  , 
+  
+    
+      
+        a
+        ⋅
+        b
+        =
+        b
+        ⋅
+        a
+      
+    
+    {\displaystyle a\cdot b=b\cdot a}
+  .A group in which the group operation is not commutative is called a "non-abelian group" or "non-commutative group".: 11 
+
+
+== Facts ==
+
+
+=== Notation ===
+
+There are two main notational conventions for abelian groups – additive and multiplicative.
+
+Generally, the multiplicative notation is the usual notation for groups, while the additive notation is the usual notation for modules and rings. The additive notation may also be used to emphasize that a particular group is abelian, whenever both abelian and non-abelian groups are considered, some notable exceptions being near-rings and partially ordered groups, where an operation is written additively even when non-abelian.: 28–29 
+
+
+=== Multiplication table ===
+To verify that a finite group is abelian, a table (matrix) – known as a Cayley table – can be constructed in a similar fashion to a multiplication table.: 10  If the group is 
+  
+    
+      
+        G
+        =
+        {
+        
+          g
+          
+            1
+          
+        
+        =
+        e
+        ,
+        
+          g
+          
+            2
+          
+        
+        ,
+        …
+        ,
+        
+          g
+          
+            n
+          
+        
+        }
+      
+    
+    {\displaystyle G=\{g_{1}=e,g_{2},\dots ,g_{n}\}}
+   under the operation 
+  
+    
+      
+        ⋅
+      
+    
+    {\displaystyle \cdot }
+  , the 
+  
+    
+      
+        (
+        i
+        ,
+        j
+        )
+      
+    
+    {\displaystyle (i,j)}
+  -th entry of this table contains the product 
+  
+    
+      
+        
+          g
+          
+            i
+          
+        
+        ⋅
+        
+          g
+          
+            j
+          
+        
+      
+    
+    {\displaystyle g_{i}\cdot g_{j}}
+  .
+The group is abelian if and only if this table is symmetric about the main diagonal. This is true since the group is abelian iff 
+  
+    
+      
+        
+          g
+          
+            i
+          
+        
+        ⋅
+        
+          g
+          
+            j
+          
+        
+        =
+        
+          g
+          
+            j
+          
+        
+        ⋅
+        
+          g
+          
+            i
+          
+        
+      
+    
+    {\displaystyle g_{i}\cdot g_{j}=g_{j}\cdot g_{i}}
+   for all 
+  
+    
+      
+        i
+        ,
+        j
+        =
+        1
+        ,
+        .
+        .
+        .
+        ,
+        n
+      
+    
+    {\displaystyle i,j=1,...,n}
+  , which is iff the 
+  
+    
+      
+        (
+        i
+        ,
+        j
+        )
+      
+    
+    {\displaystyle (i,j)}
+   entry of the table equals the 
+  
+    
+      
+        (
+        j
+        ,
+        i
+        )
+      
+    
+    {\displaystyle (j,i)}
+   entry for all 
+  
+    
+      
+        i
+        ,
+        j
+        =
+        1
+        ,
+        .
+        .
+        .
+        ,
+        n
+      
+    
+    {\displaystyle i,j=1,...,n}
+  , i.e. the table is symmetric about the main diagonal.
+
+
+== Examples ==
+For the integers and the operation addition 
+  
+    
+      
+        +
+      
+    
+    {\displaystyle +}
+  , denoted 
+  
+    
+      
+        (
+        
+          Z
+        
+        ,
+        +
+        )
+      
+    
+    {\displaystyle (\mathbb {Z} ,+)}
+  , the operation + combines any two integers to form a third integer, addition is associative, zero is the additive identity, every integer 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+   has an additive inverse, 
+  
+    
+      
+        −
+        n
+      
+    
+    {\displaystyle -n}
+  , and the addition operation is commutative since 
+  
+    
+      
+        n
+        +
+        m
+        =
+        m
+        +
+        n
+      
+    
+    {\displaystyle n+m=m+n}
+   for any two integers 
+  
+    
+      
+        m
+      
+    
+    {\displaystyle m}
+   and 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+  .
+Every cyclic group 
+  
+    
+      
+        G
+      
+    
+    {\displaystyle G}
+   is abelian, because if 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+  , 
+  
+    
+      
+        y
+      
+    
+    {\displaystyle y}
+   are in 
+  
+    
+      
+        G
+      
+    
+    {\displaystyle G}
+  , then 
+  
+    
+      
+        x
+        y
+        =
+        
+          a
+          
+            m
+          
+        
+        
+          a
+          
+            n
+          
+        
+        =
+        
+          a
+          
+            m
+            +
+            n
+          
+        
+        =
+        
+          a
+          
+            n
+          
+        
+        
+          a
+          
+            m
+          
+        
+        =
+        y
+        x
+      
+    
+    {\displaystyle xy=a^{m}a^{n}=a^{m+n}=a^{n}a^{m}=yx}
+  . Thus the integers, 
+  
+    
+      
+        
+          Z
+        
+      
+    
+    {\displaystyle \mathbb {Z} }
+  , form an abelian group under addition, as do the integers modulo 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+  , 
+  
+    
+      
+        
+          Z
+        
+        
+          /
+        
+        n
+        
+          Z
+        
+      
+    
+    {\displaystyle \mathbb {Z} /n\mathbb {Z} }
+  .
+Every ring is an abelian group with respect to its addition operation. In a commutative ring the invertible elements, or units, form an abelian multiplicative group. In particular, the real numbers are an abelian group under addition, and the nonzero real numbers are an abelian group under multiplication.
+Every subgroup of an abelian group is normal, so each subgroup gives rise to a quotient group. Subgroups, quotients, and direct sums of abelian groups are again abelian. The finite simple abelian groups are exactly the cyclic groups of prime order.: 32 
+The concepts of abelian group and 
+  
+    
+      
+        
+          Z
+        
+      
+    
+    {\displaystyle \mathbb {Z} }
+  -module agree.  More specifically, every 
+  
+    
+      
+        
+          Z
+        
+      
+    
+    {\displaystyle \mathbb {Z} }
+  -module is an abelian group with its operation of addition, and every abelian group is a module over the ring of integers 
+  
+    
+      
+        
+          Z
+        
+      
+    
+    {\displaystyle \mathbb {Z} }
+   in a unique way.In general, matrices, even invertible matrices, do not form an abelian group under multiplication because matrix multiplication is generally not commutative. However, some groups of matrices are abelian groups under matrix multiplication – one example is the group of 
+  
+    
+      
+        2
+        ×
+        2
+      
+    
+    {\displaystyle 2\times 2}
+   rotation matrices.
+
+
+== Historical remarks ==
+Camille Jordan named abelian groups after Norwegian mathematician Niels Henrik Abel, as Abel had found that the commutativity of the group of a polynomial implies that the roots of the polynomial can be calculated by using radicals.: 144–145 
+
+
+== Properties ==
+If 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+   is a natural number and 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+   is an element of an abelian group 
+  
+    
+      
+        G
+      
+    
+    {\displaystyle G}
+   written additively, then 
+  
+    
+      
+        n
+        x
+      
+    
+    {\displaystyle nx}
+   can be defined as 
+  
+    
+      
+        x
+        +
+        x
+        +
+        ⋯
+        +
+        x
+      
+    
+    {\displaystyle x+x+\cdots +x}
+   (
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+   summands) and 
+  
+    
+      
+        (
+        −
+        n
+        )
+        x
+        =
+        −
+        (
+        n
+        x
+        )
+      
+    
+    {\displaystyle (-n)x=-(nx)}
+  . In this way, 
+  
+    
+      
+        G
+      
+    
+    {\displaystyle G}
+   becomes a module over the ring 
+  
+    
+      
+        
+          Z
+        
+      
+    
+    {\displaystyle \mathbb {Z} }
+   of integers. In fact, the modules over 
+  
+    
+      
+        
+          Z
+        
+      
+    
+    {\displaystyle \mathbb {Z} }
+   can be identified with the abelian groups.: 94–97 Theorems about abelian groups (i.e. modules over the principal ideal domain 
+  
+    
+      
+        
+          Z
+        
+      
+    
+    {\displaystyle \mathbb {Z} }
+  ) can often be generalized to theorems about modules over an arbitrary principal ideal domain. A typical example is the classification of finitely generated abelian groups which is a specialization of the structure theorem for finitely generated modules over a principal ideal domain. In the case of finitely generated abelian groups, this theorem guarantees that an abelian group splits as a direct sum of a torsion group and a free abelian group. The former may be written as a direct sum of finitely many groups of the form 
+  
+    
+      
+        
+          Z
+        
+        
+          /
+        
+        
+          p
+          
+            k
+          
+        
+        
+          Z
+        
+      
+    
+    {\displaystyle \mathbb {Z} /p^{k}\mathbb {Z} }
+   for 
+  
+    
+      
+        p
+      
+    
+    {\displaystyle p}
+   prime, and the latter is a direct sum of finitely many copies of 
+  
+    
+      
+        
+          Z
+        
+      
+    
+    {\displaystyle \mathbb {Z} }
+  .
+If 
+  
+    
+      
+        f
+        ,
+        g
+        :
+        G
+        →
+        H
+      
+    
+    {\displaystyle f,g:G\to H}
+   are two group homomorphisms between abelian groups, then their sum 
+  
+    
+      
+        f
+        +
+        g
+      
+    
+    {\displaystyle f+g}
+  , defined by 
+  
+    
+      
+        (
+        f
+        +
+        g
+        )
+        (
+        x
+        )
+        =
+        f
+        (
+        x
+        )
+        +
+        g
+        (
+        x
+        )
+      
+    
+    {\displaystyle (f+g)(x)=f(x)+g(x)}
+  , is again a homomorphism. (This is not true if 
+  
+    
+      
+        H
+      
+    
+    {\displaystyle H}
+   is a non-abelian group.) The set 
+  
+    
+      
+        
+          Hom
+        
+        (
+        G
+        ,
+        H
+        )
+      
+    
+    {\displaystyle {\text{Hom}}(G,H)}
+   of all group homomorphisms from 
+  
+    
+      
+        G
+      
+    
+    {\displaystyle G}
+   to 
+  
+    
+      
+        H
+      
+    
+    {\displaystyle H}
+   is therefore an abelian group in its own right.
+Somewhat akin to the dimension of vector spaces, every abelian group has a rank. It is defined as the maximal cardinality of a set of linearly independent (over the integers) elements of the group.: 49–50  Finite abelian groups and torsion groups have rank zero, and every abelian group of rank zero is a torsion group. The integers and the rational numbers have rank one, as well as every nonzero additive subgroup of the rationals. On the other hand, the multiplicative group of the nonzero rationals has an infinite rank, as it is a free abelian group with the set of the prime numbers as a basis (this results from the fundamental theorem of arithmetic).
+The center 
+  
+    
+      
+        Z
+        (
+        G
+        )
+      
+    
+    {\displaystyle Z(G)}
+   of a group 
+  
+    
+      
+        G
+      
+    
+    {\displaystyle G}
+   is the set of elements that commute with every element of 
+  
+    
+      
+        G
+      
+    
+    {\displaystyle G}
+  . A group 
+  
+    
+      
+        G
+      
+    
+    {\displaystyle G}
+   is abelian if and only if it is equal to its center 
+  
+    
+      
+        Z
+        (
+        G
+        )
+      
+    
+    {\displaystyle Z(G)}
+  . The center of a group 
+  
+    
+      
+        G
+      
+    
+    {\displaystyle G}
+   is always a characteristic abelian subgroup of 
+  
+    
+      
+        G
+      
+    
+    {\displaystyle G}
+  . If the quotient group 
+  
+    
+      
+        G
+        
+          /
+        
+        Z
+        (
+        G
+        )
+      
+    
+    {\displaystyle G/Z(G)}
+   of a group by its center is cyclic then 
+  
+    
+      
+        G
+      
+    
+    {\displaystyle G}
+   is abelian.
+
+
+== Finite abelian groups ==
+Cyclic groups of integers modulo 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+  , 
+  
+    
+      
+        
+          Z
+        
+        
+          /
+        
+        n
+        
+          Z
+        
+      
+    
+    {\displaystyle \mathbb {Z} /n\mathbb {Z} }
+  , were among the first examples of groups. It turns out that an arbitrary finite abelian group is isomorphic to a direct sum of finite cyclic groups of prime power order, and these orders are uniquely determined, forming a complete system of invariants. The automorphism group of a finite abelian group can be described directly in terms of these invariants. The theory had been first developed in the 1879 paper of Georg Frobenius and Ludwig Stickelberger and later was both simplified and generalized to finitely generated modules over a principal ideal domain, forming an important chapter of linear algebra.
+Any group of prime order is isomorphic to a cyclic group and therefore abelian. Any group whose order is a square of a prime number is also abelian. In fact, for every prime number 
+  
+    
+      
+        p
+      
+    
+    {\displaystyle p}
+   there are (up to isomorphism) exactly two groups of order 
+  
+    
+      
+        
+          p
+          
+            2
+          
+        
+      
+    
+    {\displaystyle p^{2}}
+  , namely 
+  
+    
+      
+        
+          
+            Z
+          
+          
+            
+              p
+              
+                2
+              
+            
+          
+        
+      
+    
+    {\displaystyle \mathbb {Z} _{p^{2}}}
+   and 
+  
+    
+      
+        
+          
+            Z
+          
+          
+            p
+          
+        
+        ×
+        
+          
+            Z
+          
+          
+            p
+          
+        
+      
+    
+    {\displaystyle \mathbb {Z} _{p}\times \mathbb {Z} _{p}}
+  .
+
+
+=== Classification ===
+The fundamental theorem of finite abelian groups states that every finite abelian group 
+  
+    
+      
+        G
+      
+    
+    {\displaystyle G}
+   can be expressed as the direct sum of cyclic subgroups of prime-power order; it is also known as the basis theorem for finite abelian groups. Moreover, automorphism groups of cyclic groups are examples of abelian groups. This is generalized by the fundamental theorem of finitely generated abelian groups, with finite groups being the special case when G has zero rank; this in turn admits numerous further generalizations.
+The classification was proven by Leopold Kronecker in 1870, though it was not stated in modern group-theoretic terms until later, and was preceded by a similar classification of quadratic forms by Carl Friedrich Gauss in 1801; see history for details.
+The cyclic group 
+  
+    
+      
+        
+          
+            Z
+          
+          
+            m
+            n
+          
+        
+      
+    
+    {\displaystyle \mathbb {Z} _{mn}}
+   of order 
+  
+    
+      
+        m
+        n
+      
+    
+    {\displaystyle mn}
+   is isomorphic to the direct sum of 
+  
+    
+      
+        
+          
+            Z
+          
+          
+            m
+          
+        
+      
+    
+    {\displaystyle \mathbb {Z} _{m}}
+   and 
+  
+    
+      
+        
+          
+            Z
+          
+          
+            n
+          
+        
+      
+    
+    {\displaystyle \mathbb {Z} _{n}}
+   if and only if 
+  
+    
+      
+        m
+      
+    
+    {\displaystyle m}
+   and 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+   are coprime. It follows that any finite abelian group 
+  
+    
+      
+        G
+      
+    
+    {\displaystyle G}
+   is isomorphic to a direct sum of the form
+
+  
+    
+      
+        
+          ⨁
+          
+            i
+            =
+            1
+          
+          
+            u
+          
+        
+         
+        
+          
+            Z
+          
+          
+            
+              k
+              
+                i
+              
+            
+          
+        
+      
+    
+    {\displaystyle \bigoplus _{i=1}^{u}\ \mathbb {Z} _{k_{i}}}
+  in either of the following canonical ways:
+
+the numbers 
+  
+    
+      
+        
+          k
+          
+            1
+          
+        
+        ,
+        
+          k
+          
+            2
+          
+        
+        ,
+        …
+        ,
+        
+          k
+          
+            u
+          
+        
+      
+    
+    {\displaystyle k_{1},k_{2},\dots ,k_{u}}
+   are powers of (not necessarily distinct) primes,
+or 
+  
+    
+      
+        
+          k
+          
+            1
+          
+        
+      
+    
+    {\displaystyle k_{1}}
+   divides 
+  
+    
+      
+        
+          k
+          
+            2
+          
+        
+      
+    
+    {\displaystyle k_{2}}
+  , which divides 
+  
+    
+      
+        
+          k
+          
+            3
+          
+        
+      
+    
+    {\displaystyle k_{3}}
+  , and so on up to 
+  
+    
+      
+        
+          k
+          
+            u
+          
+        
+      
+    
+    {\displaystyle k_{u}}
+  .For example, 
+  
+    
+      
+        
+          
+            Z
+          
+          
+            15
+          
+        
+      
+    
+    {\displaystyle \mathbb {Z} _{15}}
+   can be expressed as the direct sum of two cyclic subgroups of order 3 and 5: 
+  
+    
+      
+        
+          
+            Z
+          
+          
+            15
+          
+        
+        ≅
+        {
+        0
+        ,
+        5
+        ,
+        10
+        }
+        ⊕
+        {
+        0
+        ,
+        3
+        ,
+        6
+        ,
+        9
+        ,
+        12
+        }
+      
+    
+    {\displaystyle \mathbb {Z} _{15}\cong \{0,5,10\}\oplus \{0,3,6,9,12\}}
+  . The same can be said for any abelian group of order 15, leading to the remarkable conclusion that all abelian groups of order 15 are isomorphic.
+For another example, every abelian group of order 8 is isomorphic to either 
+  
+    
+      
+        
+          
+            Z
+          
+          
+            8
+          
+        
+      
+    
+    {\displaystyle \mathbb {Z} _{8}}
+   (the integers 0 to 7 under addition modulo 8), 
+  
+    
+      
+        
+          
+            Z
+          
+          
+            4
+          
+        
+        ⊕
+        
+          
+            Z
+          
+          
+            2
+          
+        
+      
+    
+    {\displaystyle \mathbb {Z} _{4}\oplus \mathbb {Z} _{2}}
+   (the odd integers 1 to 15 under multiplication modulo 16), or 
+  
+    
+      
+        
+          
+            Z
+          
+          
+            2
+          
+        
+        ⊕
+        
+          
+            Z
+          
+          
+            2
+          
+        
+        ⊕
+        
+          
+            Z
+          
+          
+            2
+          
+        
+      
+    
+    {\displaystyle \mathbb {Z} _{2}\oplus \mathbb {Z} _{2}\oplus \mathbb {Z} _{2}}
+  .
+See also list of small groups for finite abelian groups of order 30 or less.
+
+
+=== Automorphisms ===
+One can apply the fundamental theorem to count (and sometimes determine) the automorphisms of a given finite abelian group 
+  
+    
+      
+        G
+      
+    
+    {\displaystyle G}
+  . To do this, one uses the fact that if 
+  
+    
+      
+        G
+      
+    
+    {\displaystyle G}
+   splits as a direct sum 
+  
+    
+      
+        H
+        ⊕
+        K
+      
+    
+    {\displaystyle H\oplus K}
+   of subgroups of coprime order, then
+
+  
+    
+      
+        Aut
+        ⁡
+        (
+        H
+        ⊕
+        K
+        )
+        ≅
+        Aut
+        ⁡
+        (
+        H
+        )
+        ⊕
+        Aut
+        ⁡
+        (
+        K
+        )
+        .
+      
+    
+    {\displaystyle \operatorname {Aut} (H\oplus K)\cong \operatorname {Aut} (H)\oplus \operatorname {Aut} (K).}
+  Given this, the fundamental theorem shows that to compute the automorphism group of 
+  
+    
+      
+        G
+      
+    
+    {\displaystyle G}
+   it suffices to compute the automorphism groups of the Sylow 
+  
+    
+      
+        p
+      
+    
+    {\displaystyle p}
+  -subgroups separately (that is, all direct sums of cyclic subgroups, each with order a power of 
+  
+    
+      
+        p
+      
+    
+    {\displaystyle p}
+  ). Fix a prime 
+  
+    
+      
+        p
+      
+    
+    {\displaystyle p}
+   and suppose the exponents 
+  
+    
+      
+        
+          e
+          
+            i
+          
+        
+      
+    
+    {\displaystyle e_{i}}
+   of the cyclic factors of the Sylow 
+  
+    
+      
+        p
+      
+    
+    {\displaystyle p}
+  -subgroup are arranged in increasing order:
+
+  
+    
+      
+        
+          e
+          
+            1
+          
+        
+        ≤
+        
+          e
+          
+            2
+          
+        
+        ≤
+        ⋯
+        ≤
+        
+          e
+          
+            n
+          
+        
+      
+    
+    {\displaystyle e_{1}\leq e_{2}\leq \cdots \leq e_{n}}
+  for some 
+  
+    
+      
+        n
+        >
+        0
+      
+    
+    {\displaystyle n>0}
+  . One needs to find the automorphisms of
+
+  
+    
+      
+        
+          
+            Z
+          
+          
+            
+              p
+              
+                
+                  e
+                  
+                    1
+                  
+                
+              
+            
+          
+        
+        ⊕
+        ⋯
+        ⊕
+        
+          
+            Z
+          
+          
+            
+              p
+              
+                
+                  e
+                  
+                    n
+                  
+                
+              
+            
+          
+        
+        .
+      
+    
+    {\displaystyle \mathbf {Z} _{p^{e_{1}}}\oplus \cdots \oplus \mathbf {Z} _{p^{e_{n}}}.}
+  One special case is when 
+  
+    
+      
+        n
+        =
+        1
+      
+    
+    {\displaystyle n=1}
+  , so that there is only one cyclic prime-power factor in the Sylow 
+  
+    
+      
+        p
+      
+    
+    {\displaystyle p}
+  -subgroup 
+  
+    
+      
+        P
+      
+    
+    {\displaystyle P}
+  . In this case the theory of automorphisms of a finite cyclic group can be used. Another special case is when 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+   is arbitrary but 
+  
+    
+      
+        
+          e
+          
+            i
+          
+        
+        =
+        1
+      
+    
+    {\displaystyle e_{i}=1}
+   for 
+  
+    
+      
+        1
+        ≤
+        i
+        ≤
+        n
+      
+    
+    {\displaystyle 1\leq i\leq n}
+  . Here, one is considering 
+  
+    
+      
+        P
+      
+    
+    {\displaystyle P}
+   to be of the form
+
+  
+    
+      
+        
+          
+            Z
+          
+          
+            p
+          
+        
+        ⊕
+        ⋯
+        ⊕
+        
+          
+            Z
+          
+          
+            p
+          
+        
+        ,
+      
+    
+    {\displaystyle \mathbf {Z} _{p}\oplus \cdots \oplus \mathbf {Z} _{p},}
+  so elements of this subgroup can be viewed as comprising a vector space of dimension 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+   over the finite field of 
+  
+    
+      
+        p
+      
+    
+    {\displaystyle p}
+   elements 
+  
+    
+      
+        
+          
+            F
+          
+          
+            p
+          
+        
+      
+    
+    {\displaystyle \mathbb {F} _{p}}
+  . The automorphisms of this subgroup are therefore given by the invertible linear transformations, so
+
+  
+    
+      
+        Aut
+        ⁡
+        (
+        P
+        )
+        ≅
+        
+          G
+          L
+        
+        (
+        n
+        ,
+        
+          
+            F
+          
+          
+            p
+          
+        
+        )
+        ,
+      
+    
+    {\displaystyle \operatorname {Aut} (P)\cong \mathrm {GL} (n,\mathbf {F} _{p}),}
+  where 
+  
+    
+      
+        
+          G
+          L
+        
+      
+    
+    {\displaystyle \mathrm {GL} }
+   is the appropriate general linear group. This is easily shown to have order
+
+  
+    
+      
+        
+          |
+          
+            Aut
+            ⁡
+            (
+            P
+            )
+          
+          |
+        
+        =
+        (
+        
+          p
+          
+            n
+          
+        
+        −
+        1
+        )
+        ⋯
+        (
+        
+          p
+          
+            n
+          
+        
+        −
+        
+          p
+          
+            n
+            −
+            1
+          
+        
+        )
+        .
+      
+    
+    {\displaystyle \left|\operatorname {Aut} (P)\right|=(p^{n}-1)\cdots (p^{n}-p^{n-1}).}
+  In the most general case, where the 
+  
+    
+      
+        
+          e
+          
+            i
+          
+        
+      
+    
+    {\displaystyle e_{i}}
+   and 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+   are arbitrary, the automorphism group is more difficult to determine. It is known, however, that if one defines
+
+  
+    
+      
+        
+          d
+          
+            k
+          
+        
+        =
+        max
+        {
+        r
+        ∣
+        
+          e
+          
+            r
+          
+        
+        =
+        
+          e
+          
+            k
+          
+        
+        }
+      
+    
+    {\displaystyle d_{k}=\max\{r\mid e_{r}=e_{k}\}}
+  and
+
+  
+    
+      
+        
+          c
+          
+            k
+          
+        
+        =
+        min
+        {
+        r
+        ∣
+        
+          e
+          
+            r
+          
+        
+        =
+        
+          e
+          
+            k
+          
+        
+        }
+      
+    
+    {\displaystyle c_{k}=\min\{r\mid e_{r}=e_{k}\}}
+  then one has in particular 
+  
+    
+      
+        k
+        ≤
+        
+          d
+          
+            k
+          
+        
+      
+    
+    {\displaystyle k\leq d_{k}}
+  , 
+  
+    
+      
+        
+          c
+          
+            k
+          
+        
+        ≤
+        k
+      
+    
+    {\displaystyle c_{k}\leq k}
+  , and
+
+  
+    
+      
+        
+          |
+          
+            Aut
+            ⁡
+            (
+            P
+            )
+          
+          |
+        
+        =
+        
+          ∏
+          
+            k
+            =
+            1
+          
+          
+            n
+          
+        
+        (
+        
+          p
+          
+            
+              d
+              
+                k
+              
+            
+          
+        
+        −
+        
+          p
+          
+            k
+            −
+            1
+          
+        
+        )
+        
+          ∏
+          
+            j
+            =
+            1
+          
+          
+            n
+          
+        
+        (
+        
+          p
+          
+            
+              e
+              
+                j
+              
+            
+          
+        
+        
+          )
+          
+            n
+            −
+            
+              d
+              
+                j
+              
+            
+          
+        
+        
+          ∏
+          
+            i
+            =
+            1
+          
+          
+            n
+          
+        
+        (
+        
+          p
+          
+            
+              e
+              
+                i
+              
+            
+            −
+            1
+          
+        
+        
+          )
+          
+            n
+            −
+            
+              c
+              
+                i
+              
+            
+            +
+            1
+          
+        
+        .
+      
+    
+    {\displaystyle \left|\operatorname {Aut} (P)\right|=\prod _{k=1}^{n}(p^{d_{k}}-p^{k-1})\prod _{j=1}^{n}(p^{e_{j}})^{n-d_{j}}\prod _{i=1}^{n}(p^{e_{i}-1})^{n-c_{i}+1}.}
+  One can check that this yields the orders in the previous examples as special cases (see Hillar, C., & Rhea, D.).
+
+
+== Finitely generated abelian groups ==
+
+An abelian group A is finitely generated if it contains a finite set of elements (called generators) 
+  
+    
+      
+        G
+        =
+        {
+        
+          x
+          
+            1
+          
+        
+        ,
+        …
+        ,
+        
+          x
+          
+            n
+          
+        
+        }
+      
+    
+    {\displaystyle G=\{x_{1},\ldots ,x_{n}\}}
+   such that every element of the group is a linear combination with integer coefficients of elements of G. 
+Let L be a free abelian group with basis 
+  
+    
+      
+        B
+        =
+        {
+        
+          b
+          
+            1
+          
+        
+        ,
+        …
+        ,
+        
+          b
+          
+            n
+          
+        
+        }
+        .
+      
+    
+    {\displaystyle B=\{b_{1},\ldots ,b_{n}\}.}
+   
+There is a unique group homomorphism
+
+  
+    
+      
+        p
+        :
+        L
+        →
+        A
+        ,
+      
+    
+    {\displaystyle p\colon L\to A,}
+   such that 
+
+  
+    
+      
+        p
+        (
+        
+          b
+          
+            i
+          
+        
+        )
+        =
+        
+          x
+          
+            i
+          
+        
+        
+        
+          for 
+        
+        i
+        =
+        1
+        ,
+        …
+        ,
+        n
+        .
+      
+    
+    {\displaystyle p(b_{i})=x_{i}\quad {\text{for }}i=1,\ldots ,n.}
+  This homomorphism is surjective, and its kernel is finitely generated (since integers form a Noetherian ring). Consider the matrix M with integer entries, such that the entries of its jth column are the coefficients of the jth generator of the kernel. Then, the abelian group is isomorphic to the cokernel of linear map defined by M. Conversely every integer matrix defines a finitely generated abelian group.
+It follows that the study of finitely generated abelian groups is totally equivalent with the study of integer matrices. In particular, changing the generating set of A is equivalent with multiplying M on the left by a unimodular matrix (that is, an invertible integer matrix whose inverse is also an integer matrix). Changing the generating set of the kernel of M is equivalent with multiplying M on the right by a unimodular matrix.
+The Smith normal form of M is a matrix
+
+  
+    
+      
+        S
+        =
+        U
+        M
+        V
+        ,
+      
+    
+    {\displaystyle S=UMV,}
+  where U and V are unimodular, and S is a matrix such that all non-diagonal entries are zero, the non-zero diagonal entries 
+  
+    
+      
+        
+          d
+          
+            1
+            ,
+            1
+          
+        
+        ,
+        …
+        ,
+        
+          d
+          
+            k
+            ,
+            k
+          
+        
+      
+    
+    {\displaystyle d_{1,1},\ldots ,d_{k,k}}
+   are the first ones, and 
+  
+    
+      
+        
+          d
+          
+            j
+            ,
+            j
+          
+        
+      
+    
+    {\displaystyle d_{j,j}}
+   is a divisor of 
+  
+    
+      
+        
+          d
+          
+            i
+            ,
+            i
+          
+        
+      
+    
+    {\displaystyle d_{i,i}}
+   for i > j. The existence and the shape of the Smith normal proves that the finitely generated abelian group A is the direct sum 
+
+  
+    
+      
+        
+          
+            Z
+          
+          
+            r
+          
+        
+        ⊕
+        
+          Z
+        
+        
+          /
+        
+        
+          d
+          
+            1
+            ,
+            1
+          
+        
+        
+          Z
+        
+        ⊕
+        ⋯
+        ⊕
+        
+          Z
+        
+        
+          /
+        
+        
+          d
+          
+            k
+            ,
+            k
+          
+        
+        
+          Z
+        
+        ,
+      
+    
+    {\displaystyle \mathbb {Z} ^{r}\oplus \mathbb {Z} /d_{1,1}\mathbb {Z} \oplus \cdots \oplus \mathbb {Z} /d_{k,k}\mathbb {Z} ,}
+  where r is the number of zero rows at the bottom of r (and also the rank of the group). This is the fundamental theorem of finitely generated abelian groups.
+The existence of algorithms for Smith normal form shows that the fundamental theorem of finitely generated abelian groups is not only a theorem of abstract existence, but provides a way for computing expression of finitely generated abelian groups as direct sums.: 26–27 
+
+
+== Infinite abelian groups ==
+The simplest infinite abelian group is the infinite cyclic group 
+  
+    
+      
+        
+          Z
+        
+      
+    
+    {\displaystyle \mathbb {Z} }
+  . Any finitely generated abelian group 
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+   is isomorphic to the direct sum of 
+  
+    
+      
+        r
+      
+    
+    {\displaystyle r}
+   copies of 
+  
+    
+      
+        
+          Z
+        
+      
+    
+    {\displaystyle \mathbb {Z} }
+   and a finite abelian group, which in turn is decomposable into a direct sum of finitely many cyclic groups of prime power orders. Even though the decomposition is not unique, the number 
+  
+    
+      
+        r
+      
+    
+    {\displaystyle r}
+  , called the rank of 
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+  , and the prime powers giving the orders of finite cyclic summands are uniquely determined.
+By contrast, classification of general infinitely generated abelian groups is far from complete. Divisible groups, i.e. abelian groups 
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+   in which the equation 
+  
+    
+      
+        n
+        x
+        =
+        a
+      
+    
+    {\displaystyle nx=a}
+   admits a solution 
+  
+    
+      
+        x
+        ∈
+        A
+      
+    
+    {\displaystyle x\in A}
+   for any natural number 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+   and element 
+  
+    
+      
+        a
+      
+    
+    {\displaystyle a}
+   of 
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+  , constitute one important class of infinite abelian groups that can be completely characterized. Every divisible group is isomorphic to a direct sum, with summands isomorphic to 
+  
+    
+      
+        
+          Q
+        
+      
+    
+    {\displaystyle \mathbb {Q} }
+   and Prüfer groups 
+  
+    
+      
+        
+          
+            Q
+          
+          
+            p
+          
+        
+        
+          /
+        
+        
+          Z
+          
+            p
+          
+        
+      
+    
+    {\displaystyle \mathbb {Q} _{p}/Z_{p}}
+   for various prime numbers 
+  
+    
+      
+        p
+      
+    
+    {\displaystyle p}
+  , and the cardinality of the set of summands of each type is uniquely determined. Moreover, if a divisible group 
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+   is a subgroup of an abelian group 
+  
+    
+      
+        G
+      
+    
+    {\displaystyle G}
+   then 
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+   admits a direct complement: a subgroup 
+  
+    
+      
+        C
+      
+    
+    {\displaystyle C}
+   of 
+  
+    
+      
+        G
+      
+    
+    {\displaystyle G}
+   such that 
+  
+    
+      
+        G
+        =
+        A
+        ⊕
+        C
+      
+    
+    {\displaystyle G=A\oplus C}
+  . Thus divisible groups are injective modules in the category of abelian groups, and conversely, every injective abelian group is divisible (Baer's criterion). An abelian group without non-zero divisible subgroups is called reduced.
+Two important special classes of infinite abelian groups with diametrically opposite properties are torsion groups and torsion-free groups, exemplified by the groups 
+  
+    
+      
+        
+          Q
+        
+        
+          /
+        
+        
+          Z
+        
+      
+    
+    {\displaystyle \mathbb {Q} /\mathbb {Z} }
+   (periodic) and 
+  
+    
+      
+        
+          Q
+        
+      
+    
+    {\displaystyle \mathbb {Q} }
+   (torsion-free).
+
+
+=== Torsion groups ===
+An abelian group is called periodic or torsion, if every element has finite order. A direct sum of finite cyclic groups is periodic. Although the converse statement is not true in general, some special cases are known. The first and second Prüfer theorems state that if 
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+   is a periodic group, and it either has a bounded exponent, i.e., 
+  
+    
+      
+        n
+        A
+        =
+        0
+      
+    
+    {\displaystyle nA=0}
+   for some natural number 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+  , or is countable and the 
+  
+    
+      
+        p
+      
+    
+    {\displaystyle p}
+  -heights of the elements of 
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+   are finite for each 
+  
+    
+      
+        p
+      
+    
+    {\displaystyle p}
+  , then 
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+   is isomorphic to a direct sum of finite cyclic groups. 
+The cardinality of the set of direct summands isomorphic to 
+  
+    
+      
+        
+          Z
+        
+        
+          /
+        
+        
+          p
+          
+            m
+          
+        
+        
+          Z
+        
+      
+    
+    {\displaystyle \mathbb {Z} /p^{m}\mathbb {Z} }
+   in such a decomposition is an invariant of 
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+  .: 6  These theorems were later subsumed in the Kulikov criterion. In a different direction, Helmut Ulm found an extension of the second Prüfer theorem to countable abelian 
+  
+    
+      
+        p
+      
+    
+    {\displaystyle p}
+  -groups with elements of infinite height: those groups are completely classified by means of their Ulm invariants.
+
+
+=== Torsion-free and mixed groups ===
+An abelian group is called torsion-free if every non-zero element has infinite order. Several classes of torsion-free abelian groups have been studied extensively:
+
+Free abelian groups, i.e. arbitrary direct sums of 
+  
+    
+      
+        
+          Z
+        
+      
+    
+    {\displaystyle \mathbb {Z} }
+  
+Cotorsion and algebraically compact torsion-free groups such as the 
+  
+    
+      
+        p
+      
+    
+    {\displaystyle p}
+  -adic integers
+Slender groups: 259–274 An abelian group that is neither periodic nor torsion-free is called mixed. If 
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+   is an abelian group and 
+  
+    
+      
+        T
+        (
+        A
+        )
+      
+    
+    {\displaystyle T(A)}
+   is its torsion subgroup, then the factor group  
+  
+    
+      
+        A
+        
+          /
+        
+        T
+        (
+        A
+        )
+      
+    
+    {\displaystyle A/T(A)}
+   is torsion-free. However, in general the torsion subgroup is not a direct summand of 
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+  , so  
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+   is not isomorphic to 
+  
+    
+      
+        T
+        (
+        A
+        )
+        ⊕
+        A
+        
+          /
+        
+        T
+        (
+        A
+        )
+      
+    
+    {\displaystyle T(A)\oplus A/T(A)}
+  . Thus the theory of mixed groups involves more than simply combining the results about periodic and torsion-free groups. The additive group 
+  
+    
+      
+        
+          Z
+        
+      
+    
+    {\displaystyle \mathbb {Z} }
+   of integers is torsion-free 
+  
+    
+      
+        
+          Z
+        
+      
+    
+    {\displaystyle \mathbb {Z} }
+  -module.: 206 
+
+
+=== Invariants and classification ===
+One of the most basic invariants of an infinite abelian group 
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+   is its rank: the cardinality of the maximal linearly independent subset of 
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+  . Abelian groups of rank 0 are precisely the periodic groups, while torsion-free abelian groups of rank 1 are necessarily subgroups of 
+  
+    
+      
+        
+          Q
+        
+      
+    
+    {\displaystyle \mathbb {Q} }
+   and can be completely described. More generally, a torsion-free abelian group of finite rank 
+  
+    
+      
+        r
+      
+    
+    {\displaystyle r}
+   is a subgroup of 
+  
+    
+      
+        
+          
+            Q
+          
+          
+            r
+          
+        
+      
+    
+    {\displaystyle \mathbb {Q} _{r}}
+  . On the other hand, the group of 
+  
+    
+      
+        p
+      
+    
+    {\displaystyle p}
+  -adic integers 
+  
+    
+      
+        
+          
+            Z
+          
+          
+            p
+          
+        
+      
+    
+    {\displaystyle \mathbb {Z} _{p}}
+   is a torsion-free abelian group of infinite 
+  
+    
+      
+        
+          Z
+        
+      
+    
+    {\displaystyle \mathbb {Z} }
+  -rank and the groups 
+  
+    
+      
+        
+          
+            Z
+          
+          
+            p
+          
+          
+            n
+          
+        
+      
+    
+    {\displaystyle \mathbb {Z} _{p}^{n}}
+   with different 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+   are non-isomorphic, so this invariant does not even fully capture properties of some familiar groups.
+The classification theorems for finitely generated, divisible, countable periodic, and rank 1 torsion-free abelian groups explained above were all obtained before 1950 and form a foundation of the classification of more general infinite abelian groups. Important technical tools used in classification of infinite abelian groups are pure and basic subgroups. Introduction of various invariants of torsion-free abelian groups has been one avenue of further progress. See the books by Irving Kaplansky, László Fuchs, Phillip Griffith, and David Arnold, as well as the proceedings of the conferences on Abelian Group Theory published in Lecture Notes in Mathematics for more recent findings.
+
+
+=== Additive groups of rings ===
+The additive group of a ring is an abelian group, but not all abelian groups are additive groups of rings (with nontrivial multiplication). Some important topics in this area of study are:
+
+Tensor product
+A.L.S. Corner's results on countable torsion-free groups
+Shelah's work to remove cardinality restrictions
+Burnside ring
+
+
+== Relation to other mathematical topics ==
+Many large abelian groups possess a natural topology, which turns them into topological groups.
+The collection of all abelian groups, together with the homomorphisms between them, forms the category 
+  
+    
+      
+        
+          
+            Ab
+          
+        
+      
+    
+    {\displaystyle {\textbf {Ab}}}
+  , the prototype of an abelian category.
+Wanda Szmielew (1955) proved that the first-order theory of abelian groups, unlike its non-abelian counterpart, is decidable. Most algebraic structures other than Boolean algebras are undecidable.
+There are still many areas of current research:
+
+Amongst torsion-free abelian groups of finite rank, only the finitely generated case and the rank 1 case are well understood;
+There are many unsolved problems in the theory of infinite-rank torsion-free abelian groups;
+While countable torsion abelian groups are well understood through simple presentations and Ulm invariants, the case of countable mixed groups is much less mature.
+Many mild extensions of the first-order theory of abelian groups are known to be undecidable.
+Finite abelian groups remain a topic of research in computational group theory.Moreover, abelian groups of infinite order lead, quite surprisingly, to deep questions about the set theory commonly assumed to underlie all of mathematics. Take the Whitehead problem: are all Whitehead groups of infinite order also free abelian groups? In the 1970s, Saharon Shelah proved that the Whitehead problem is:
+
+Undecidable in ZFC (Zermelo–Fraenkel axioms), the conventional axiomatic set theory from which nearly all of present-day mathematics can be derived. The Whitehead problem is also the first question in ordinary mathematics proved undecidable in ZFC;
+Undecidable even if ZFC is augmented by taking the generalized continuum hypothesis as an axiom;
+Positively answered if ZFC is augmented with the axiom of constructibility (see statements true in L).
+
+
+== A note on typography ==
+Among mathematical adjectives derived from the proper name of a mathematician, the word "abelian" is rare in that it is often spelled with a lowercase a, rather than an uppercase A, the lack of capitalization being a tacit acknowledgment not only of the degree to which Abel's name has been institutionalized but also of how ubiquitous in modern mathematics are the concepts introduced by him.
+
+
+== See also ==
+Commutator subgroup – Smallest normal subgroup by which the quotient is commutative
+Abelianization – Quotienting a group by its commutator subgroup
+Dihedral group of order 6 – Non-commutative group with 6 elements, the smallest non-abelian group
+Elementary abelian group – Commutative group in which all nonzero elements have the same order
+Grothendieck group – Abelian group extending a commutative monoid
+Pontryagin duality – Duality for locally compact abelian groups
+
+
+== Notes ==
+
+
+== References ==
+Cox, David (2004). Galois Theory. Wiley-Interscience. ISBN 9781118031339. MR 2119052.
+Fuchs, László (1970). Infinite Abelian Groups. Pure and Applied Mathematics. Vol. 36-I. Academic Press. MR 0255673.
+Fuchs, László (1973). Infinite Abelian Groups. Pure and Applied Mathematics. Vol. 36-II. Academic Press. MR 0349869.
+Griffith, Phillip A. (1970). Infinite Abelian group theory. Chicago Lectures in Mathematics. University of Chicago Press. ISBN 0-226-30870-7.
+Herstein, I. N. (1975). Topics in Algebra (2nd ed.). John Wiley & Sons. ISBN 0-471-02371-X.
+Hillar, Christopher; Rhea, Darren (2007). "Automorphisms of finite abelian groups" (PDF). American Mathematical Monthly. 114 (10): 917–923. arXiv:math/0605185. Bibcode:2006math......5185H. doi:10.1080/00029890.2007.11920485. JSTOR 27642365. S2CID 1038507.
+Jacobson, Nathan (2009). Basic Algebra I (2nd ed.). Dover Publications. ISBN 978-0-486-47189-1.
+Rose, John S. (2012). A Course on Group Theory. Dover Publications. ISBN 978-0-486-68194-8. Unabridged and unaltered republication of a work first published by the Cambridge University Press, Cambridge, England, in 1978.
+Szmielew, Wanda (1955). "Elementary Properties of Abelian Groups" (PDF). Fundamenta Mathematicae. 41 (2): 203–271. doi:10.4064/fm-41-2-203-271. MR 0072131. Zbl 0248.02049.
+Robinson, Abraham; Zakon, Elias (1960). "Elementary Properties of Ordered Abelian Groups" (PDF). Transactions of the American Mathematical Society. 96 (2): 222–236. doi:10.2307/1993461. JSTOR 1993461. Archived (PDF) from the original on 2022-10-09.
+
+
+== External links ==
+"Abelian group". Encyclopedia of Mathematics. EMS Press. 2001 [1994].

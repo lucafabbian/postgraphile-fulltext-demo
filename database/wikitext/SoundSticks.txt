@@ -1,0 +1,26 @@
+SoundSticks are multimedia speakers sold by Harman Kardon, originally co-developed with Apple Inc. They were released in July 2000. They are a 2.1 system with a pair of satellite speakers and a subwoofer called the iSub, which was originally available first in October 1999 as a standalone product. They were designed by Jony Ive and have received numerous accolades for their industrial design. Harman Kardon released updated versions in 2004, 2009, 2012 and 2020.
+
+
+== Development ==
+Harman Kardon's partnership with Apple dates back to 1999 when they provided Odyssey stereo speakers built into the iMac G3. In October 1999 Steve Jobs announced the iSub, a 6-inch subwoofer that connected over USB and was only compatible with slot-loading iMacs G3s and PowerPC Macs with Apple Pro Speakers, not working on the later Intel-based Macs. Apple introduced a software implementation to adjust the frequency range of the iMac's internal speakers so they would not overlap with the iSub, and increased the iMac's maximum volume as the speakers no longer had to produce deep bass. It retailed for $99. It was designed by Jony Ive, and used clear plastic to match the aesthetic of Apple's product line at the time. Ive designed it like a wind instrument so "sound could flow freely."Harman Kardon and Apple next designed SoundSticks, a 2.1 system with a new revision of the iSub, which were introduced at the July 2000 Macworld expo. Apple led the industrial design and mechanical engineering to have them fit into its product family. The satellite speakers used Odyssey speakers similar to those in the iMac G3 and feature four drivers. Plug-and-play support for SoundSticks was added in Mac OS 9.0.4. SoundSticks were available along with the similarly designed Pro Speakers, which were also designed by Harman Kardon in collaboration with Apple, but were branded as an Apple product.SoundSticks II were released in 2004, adding capacitive volume control buttons and a 3.5mm mini-jack input, replacing the previous USB input. SoundSticks III were released in 2009 and changed the styling slightly using black highlights, instead of green and blue of the original SoundSticks and the SoundSticks II, and changed the color of the LED in the iSub to white. An updated version of SoundSticks III with Bluetooth connectivity, dubbed SoundSticks Wireless, was introduced in 2012. Harman Kardon also carried over the iSub's design for their line of Aura all-in-one speakers.  In 2020, Harman Kardon released SoundSticks 4 which marked the product's first major external redesign. The satellite speakers have white translucent plastic drivers and redesigned stands, while the subwoofer is domed and has a thinner profile and a rippled surface design.Apple retailed SoundSticks as late as 2015 but has since removed them from their store. They are still sold by Harman Kardon.
+
+		
+
+
+== Reception ==
+SoundSticks won an Industrial Design Excellence Award in 2000 and were featured on the cover of I.D. magazine.Reviews for SoundSticks were generally positive. In 2001 The Mac Observer reported "the sound is crystal clear without audible distortion" and produced strong results for music and movies, but criticized the price as being higher than comparable or superior systems. In 2002, CNET rated them four stars, praising the easy setup, design, and audio quality, but criticized the lack of physical controls and the limited support for Windows-based computers. A 2011 review was also positive, but criticized the lack of a headphone input and noted the iSub LED could not be turned off without turning off the entire system.A 2019 retrospective by Forbes praised them as having "a classic piece of kit that's stood the test of time and is as good today as when it was introduced" and "still have the look of an iconic industrial design, almost two decades on", and noted their current retail price was lower than when they launched almost 20 years earlier. A review by Wired from August 2013 was mixed, rating them 5 out of 10 points, praising the design and the sound but criticizing the placement of the controls and the Bluetooth reliability.
+
+
+== Appearances in media and as artwork ==
+In 2013 the Museum of Modern Art in Manhattan added an iSub to its collection.SoundSticks were prominently featured in the 2013 film Begin Again.Along with other old Apple products, an iSub and SoundSticks can be seen in season 1 episode 2 of The Feed.
+
+
+== See also ==
+Apple speakers
+
+
+== References ==
+
+
+== External links ==
+Official website

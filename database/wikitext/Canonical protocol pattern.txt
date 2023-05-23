@@ -1,0 +1,30 @@
+Canonical Protocol is a design pattern, applied within the service-orientation design paradigm, which attempts to make services, within a service inventory, interoperable with each other by standardizing the communication protocols used by the services. This eliminates the need for bridging communication protocols when services use different communication protocols.
+
+
+== Rationale ==
+Services developed by different project teams could be based on different communication mechanisms. As a result, a service inventory may end up having different sets of services, each conforming to a different set of protocols. When it comes to reusing services having different communication protocols, some sort of communication bridging mechanism is required. For example, services developed using JMS messaging protocol are incompatible with services using .NET Remoting, so in order to make use of these two types of services, some middleware technology needs to be in place that bridges the communication protocol disparity. Apart from incurring extra cost, the use of such a bridging technology adds latency and communication overhead. This makes the service less of a reusable and a recomposable resource and goes against the guidelines of the Service Composability design principle.
+In order to design a service inventory where all services are interoperable with each other so that they can be composed into different solutions, the application of the Canonical Protocol pattern dictates standardizing the communication protocols used by the services. When all services are using the same communication protocol, the requirement for a bridging technology is eliminated and the communication between services is more streamlined.
+
+
+== Usage ==
+
+The application of this design pattern requires choosing a technology architecture that provides a common communication framework so that all services in an inventory can communicate with each other using the same communication protocol. This depends upon how the services within a service inventory are going to be used. If the services are only going to be part of service compositions that always use a particular communication protocol (because of efficiency and security reasons), then all the services within that service inventory can be built upon such a communication protocol even if it is not the most widely used protocol.
+The Canonical Protocol pattern by Thomas Erl answers the question: "How can services be designed to avoid protocol bridging?" The problem is that services that support different communication technologies compromise interoperability, limit the quantity of potential consumers, and introduce the need for undesirable protocol bridging measures. The solution is for the architecture to establish a single communications technology as the sole or primary medium by which services can interact. Therefore, the communication protocols (including protocol versions) used within a service inventory boundary are standardized for all services (see diagram).
+One of the most mature and widely used communication mechanisms is provided by the Web services framework. Further to choosing a communication framework, the actual message protocols also need to be standardized upon. For example, whether web services are built using SOAP over HTTP or by simply using RESTful services. Similarly, when standardizing on SOAP based web services, the specific version of SOAP protocol needs to be agreed upon as well i.e. SOAP v 1.1 or SOAP v 1.2.
+
+
+== Considerations ==
+In order to standardize on a communication protocol, the features of the protocol need to be compared against the service interaction requirements including security, efficiency and transaction support. In case of web services, for example, if a service composition requires explicit transaction support, then SOAP over HTTP would be a better choice than using RESTful services.
+In some cases, depending upon the technology used to build the service, it may be possible to support two different set of protocols in order to make the service accessible to different types of service consumers (Dual Protocols design pattern). For example, using WCF, the same service can be configured to use HTTP and TCP/IP protocols at the same time.
+When choosing a communication framework, the maturity, scalability and any licensing costs need to be taken into account as building services using a protocol that is going to become obsolete in the near future will impact the reusability of such services and would require considerable time and efforts in order to redesign the service.
+
+
+== References ==
+Notes
+SourcesThomas Erl et al., (2009).SOA Design Patterns. Prentice Hall. ISBN 978-0-13-613516-6.
+
+
+== External links ==
+SOA Concepts
+SOA Terms Glossary
+SOA Design Patterns

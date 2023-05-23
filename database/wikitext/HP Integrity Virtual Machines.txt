@@ -1,0 +1,58 @@
+Integrity Virtual Machines is software from Hewlett-Packard that allows multiple virtual machines to run concurrently on any Itanium server running HP-UX, notably the HPE Integrity Servers line. It is part of HP's Virtual Server Environment suite.
+The product is optimized for server use.
+
+
+== History ==
+Christophe de Dinechin initiated a skunkworks project to virtualize Itanium, with the help of Jean-Marc Chevrot and of a "virtual team" of experienced HP engineers. A prototype of Integrity Virtual Machines was then developed between 2000 and 2003 by Christophe de Dinechin, Todd Kjos and Jonathan Ross. It was then turned into a full-fledged product by a larger team of experienced OpenVMS, Tru64 Unix and HP-UX kernel engineers.
+
+Version 1.0 and 1.2, released in 2005, ran HP-UX in virtual machines.
+Version 2.0, released in November 2006, additionally supports Windows Server 2003, CD and DVD burners, tape drives and VLAN.
+Version 3.0, released in June 2007, supports Linux Red Hat Enterprise Linux
+Version 3.5, released in late 2007, supports SUSE Linux Enterprise Server, HP-UX 11i v3 guests, new service packs for Windows and Linux guests, and accelerated virtual I/O for HP-UX guests, enabling better I/O performance and a larger number of devices.
+Version 4.0, released in September 2008, runs on HP-UX 11.31 (also known as 11i v3), supports 8 virtual CPUs, capped CPU allocation (in addition to CPU entitlement as in previous releases), additional support for accelerated virtual I/O (AVIO), and a new VM performance analysis tool. Version 4.0 also includes beta functionality such as on-line migration and support for OpenVMS guests.
+Version 4.1, released in April 2009, supports Online VM Migration which allows customers to migrate active guests from one VM Host to another VM Host without service interruption. It also provides support for SSH third-party alternatives for secure communications, accelerated virtual I/O (AVIO) for networking on Windows and Linux guests, support for ignite and VxVM backing stores. 
+Version 4.2, released March 2010, supports encryption during a VM migration, brings support for newer Itanium hardware and VM Guest OS versions, contains software allowing for VMs as Serviceguard packages and Serviceguard Nodes, and support for automatic memory reallocation. It also added support for OpenVMS 8.4 guests.
+Version 4.2.5, released September 2010, brings support for the HP Integrity Superdome 2, as well as suspend and resume support for a VM.
+Version 4.3, released March 2011, brings support for the Intel® Itanium® Tukwila processor, an NVRAM Edit utility, a Virtual iLO Remote Console, 16 virtual CPUs for guests, 128GB for guest memory, 256 AVIO storage devices, the support for Fiber Channel over Ethernet, and the support of NFS backing stores.
+Version 6.1, released March 2012 brings support for management of Hp vPar, Direct Input Output (DIO) feature for improved I/O functionality, manageability and performance.
+Version 6.3, released March 2014 can emulate NVRAM, supports 32 CPUs and 256GB of RAM for VM guests, supports dynamic addition of I/O devices, and supports migration between i2 and i4 processors. 
+Version 6.3.5, released March 2015 enables dynamic deletion of I/O devices, improvements to what physical ports NPIV guests use after they're migrated, reduced memory overhead for large VMs, and more. 
+
+
+== Capabilities ==
+Exact specifications depend on the precise version and system configuration.
+
+The host configurations are the same as those supported by HP-UX, and can include 128 physical cores and 1TB of main memory.
+More than 250 guests can run concurrently, although the optimal number is generally lower, depending on host memory and processor configuration.
+Guests can have multiple virtual CPUs, the maximum number in supported configurations being 4 with releases before 4.0, then 8 with release 4.0, 16 with release 4.3, and 32 with 6.3.
+Guests can be configured with up to 256GB of memory in version 6.3. In recent releases, memory can be adjusted dynamically for HP-UX guests.
+Virtual devices can be added or removed dynamically. The number of virtual devices allowed in supported configurations depends on the release. Versions after 4.3 support up to 256 when accelerated virtual I/Os are used.
+The CPU allocation for virtual machines can be adjusted dynamically with a granularity of 1% or 1 MHz. CPU time is allocated by a fair-share scheduler, which delivers better CPU utilization for SMP guests than a more simplistic gang scheduler.
+
+
+== User interface ==
+Integrity Virtual Machines can be created and managed using a command-line interface or a graphical user interface accessed using a web browser.
+Essential commands include:
+
+hpvmcreate to create virtual machines
+hpvmstatus to display status information
+hpvmstart and hpvmstop to start and stop virtual machines
+hpvmmodify to modify existing virtual machines
+hpvmconsole to simulate a hardware console
+hpvmmigrate to perform on-line or off-line guest migration
+hpvmsar to show performance information about the running guests.
+hpvmsuspend and hpvmresume to suspend and resume virtual machinesThe user interface is integrated in the HP Integrity Virtual Machines Manager.
+
+
+== See also ==
+Comparison of platform virtualization software
+
+
+== References ==
+
+
+== External links ==
+Product description at Hewlett-Packard
+Architecture overview
+White papers on HPVM
+Release note for version 4.3

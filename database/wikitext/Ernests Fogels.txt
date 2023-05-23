@@ -1,0 +1,15 @@
+Ernests Fogels (12 October 1910 – 22 February 1985) was a Latvian mathematician who specialized in number theory. Fogels discovered new proofs of the Gauss-Dirichlet formula on the number of classes of positively definite quadratic forms and of the de la Vallée-Poussin formula for the asymptotic location of prime numbers in an arithmetic progression.
+
+
+== Life ==
+Fogels was born on 12 October 1910 in Lidzibas, Nigrande, Saldus, Latvia. He discovered his interests in mathematics when attending the Second Gymnasium in Riga.In 1928 E. Fogels entered the Faculty of Mathematics and Natural Sciences of University of Latvia. After graduating in 1933, he was invited in 1935 to join this university to lecture in algebra and number theory and did research on Diophantine equations. At the end of 1938 he went to University of Cambridge, England to work under the supervision of Albert E. Ingham to help improving the estimate of the difference between two consecutive primes. World war II broke out after Fogels had returned to Latvia in 1939. In 1940, E. Fogels was appointed associate professor at University of Latvia.
+In 1947 he defended his PhD thesis on the sequences of asymptotically uniformly distributed numbers and went to work at the newly formed Institute of Physics and Mathematics of the Academy of Sciences of the Latvian SSR as a research fellow. In 1950 he started working at the Riga Pedagogical Institute where he had practically no time for research. In 1961 he became a research fellow at the Radioastrophysical Observatory of the Academy of Sciences of the Latvian SSR. His research focused on the density of zeros of different zeta-functions, on the distribution of primes in arithmetical progressions, on various algebraic fields and on binary and ternary quadratic forms.Fogels retired in 1966 but continued his scientific work with research on the Hecke's L-functions, prime ideals and the Riemann hypothesis until his death on 22 February 1985 in Latvia.
+
+
+== References ==
+
+
+== Bibliography ==
+L Reizins, E Riekstins, E K Fogels (Russian), Latvijskij Matematičeskij Ežegodnik, No. 30 (1986), 3-8.
+"Ernests Fogels biography". www-history.mcs.st-and.ac.uk. Retrieved 2019-01-12.
+Ernests Fogels at zbMATH

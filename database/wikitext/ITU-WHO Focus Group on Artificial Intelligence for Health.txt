@@ -1,0 +1,39 @@
+The ITU-WHO Focus Group on Artificial Intelligence for Health (AI for Health) is an inter-agency collaboration between the World Health Organization and the ITU, which created a benchmarking framework to assess the accuracy of AI in health.This organization convenes an international network of experts and stakeholders from fields like research, practice, regulation, ethics, public health, etc, that develops guideline documentation and code. The documents address ethics, assessment/evaluation, handling, and regulation of AI for health solutions, covering specific use cases including AI in ophthalmology, histopathology, dentistry, malaria detection, radiology, symptom checker applications, etc. FG-AI4H has established an ad hoc group concerned with digital technologies for health emergencies, including COVID-19. All documentation is public.The idea for the Focus Group came out of the Health Track of the 2018 AI for Good Global Summit. Administratively, FG-AI4H was created by ITU-T Study Group 16. Under ITU-T's framework, participation in Focus Groups is open to anyone from an ITU Member State. The secretariat is provided by the Telecommunication Standardization Bureau (under Director Chaesub Lee). It was first created at the July 2018 meeting with a lifetime of two years, at the July 2020 meeting this was extended for another two years, where the focus group also submitted its deliverables to its parent body. It was also presented at the NeurIPS 2020 health workshop.The outline of the benchmarking framework was published in a commentary in The Lancet as: WHO and ITU establish benchmarking process for artificial intelligence in health 
+
+
+== Overview ==
+The AI for Health framework structures various nascant component in the larger cyclical ecosystem that defines the continuous improvement nature of AI in health models.
+
+
+== AI for Health Framework ==
+
+The Deliverables (outputs) of the Focus Group AI for Health are structured in the AI for Health Framework, which roughtly corresponds to the dashed-line area in the above ecosystem diagram. Depending on their primary domain being health or ICT, the individual components of the AI for Health Framework were ratified by the corresponding United Nations Specialized Agency, as WHO Guidlines and ITU Recommendations respectively.
+Standards drawn up by FG-AI4H are titled as:
+
+AI4H ethics considerations
+AI4H regulatory [best practices | considerations]
+AI4H requirements specification
+AI software life cycle specification
+Data specification
+AI training best practices specification
+AI4H evaluation considerations
+AI4H scale-up and adoption
+AI4H applications and platforms
+Use cases of the ITU-WHO Focus Group on AI for HealthAn overview of the schematic relations is provided as depicted below.
+
+
+== See also ==
+World Health Organization (WHO)
+ITU Telecommunication Standardization Sector
+Artificial intelligence in healthcare
+Digital health
+Artificial Intelligence
+Machine Learning
+
+
+== References ==
+
+
+== External links ==
+FG-AI4H main site
+Open Code Initiative

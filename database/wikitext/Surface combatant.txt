@@ -1,0 +1,38 @@
+Surface combatants (or surface ships or surface vessels) are a subset of naval warships which are designed for warfare on the surface of the water, with their own weapons and armed forces. They are generally ships built to fight other ships, submarines, aircraft or land targets, and can carry out several other missions including counter-narcotics operations and maritime interdiction. Their primary purpose is to engage space, air, surface, and submerged targets with weapons deployed from the ship itself, rather than by manned carried craft.Surface ships include cruisers, destroyers, frigates, and corvettes, and several outdated types including battleships and battlecruisers. The category does not include aircraft carriers, amphibious assault ships, and mine hunters, as these generally do not use on board weapons system (i.e. aircraft carriers generally only attack with their aircraft, and mine hunters are not primarily combat vessels). However, some warships combine aspects of the surface combatant and other roles, such as the Russian Kuznetsov-class aircraft carrier, which carries both aircraft and an array of conventional armament (the class is sometimes termed a "heavy aircraft-carrying cruiser").Modern naval warfare is divided into three operational areas: anti-surface warfare (ASUW), anti-air warfare (AAW), and anti-submarine warfare (ASW). The current canonical combined arms naval task force or task group centers around a flagship hosting dedicated command elements to conduct tactical operations within each of these areas. In smaller surface action groups (i.e. a single or a few task elements, such as a lone Aegis-equipped destroyer or cruisers on patrol), the same combatant commander may be responsible for managing all three areas as part of his duty in carrying out his vessel's mission, while larger formations such as a carrier strike group may have an individual commander in charge of each separate warfare element. Western naval career advancement for unrestricted line officers also follow this model: a career line officer in a command-oriented track will specialize, train, and be billeted into distinct surface, naval aviation, or subsurface warfare posts.
+
+
+== Missions ==
+
+
+=== Anti-submarine warfare ===
+Anti-submarine warfare (ASW) is an important role for surface combatants, as submarines present a serious threat to navies and civilian vessels. Many surface combatants carry weapons and sensors to engage submarines, but increasingly an on-board helicopter is used as the primary anti-submarine asset.
+
+
+=== Anti-surface warfare ===
+Anti-surface warfare (attacking enemy ships) is typically carried out using anti-ship missiles, often from the ship but also from helicopters - particularly against small ships such as fast attack craft. Naval guns may also be used in an anti-surface role.
+
+
+=== Anti-aircraft warfare ===
+Anti-aircraft warfare (AAW) is typically defensive in nature, protecting the ship and other friendly ships against both aircraft and incoming missiles (which may be fired from aircraft, but also from other ships, submarines or land platforms). Some surface combatants are developing anti-ballistic missile and/or anti-satellite missile capabilities.
+
+
+=== Land attack ===
+Land attack takes two main forms:
+
+Naval gunfire support - support to troops ashore, often as part of an amphibious operationStrategic strike - Killing high-value targets, often at long range using land-attack cruise missiles such as Tomahawk or Kalibr
+
+
+=== USN categories ===
+In the United States Navy, there are two divisions of surface combatant missions:
+Battle Force Capability (BFC): defines ships capable of command of the sea and power projection:in a carrier battle group
+as units of a Surface Action Group (SAG) without a carrier.
+Protection of Shipping (POS): defines ships intended to protect:
+traditional convoys
+underway replenishment groups
+amphibious warfare groups
+
+
+== Notes ==
+
+
+== References ==

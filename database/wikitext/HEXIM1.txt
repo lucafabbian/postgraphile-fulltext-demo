@@ -1,0 +1,11 @@
+Protein HEXIM1 is a protein that in humans is encoded by the HEXIM1 gene.
+
+
+== Interactions ==
+HEXIM1 has been shown to interact with Cyclin T1 and Cdk9
+
+
+== References ==
+
+
+== Further reading ==

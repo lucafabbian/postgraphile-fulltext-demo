@@ -1,0 +1,61 @@
+The SpongeBob SquarePants Movie is a platform video game based on the live-action/animated film of the same name (in turn based on the Nickelodeon animated series SpongeBob SquarePants) and published by THQ and Nick Games for the PlayStation 2, Xbox, GameCube, Microsoft Windows, and Game Boy Advance. The PlayStation 2, Xbox, and GameCube versions were developed by Heavy Iron Studios. The Game Boy Advance version was developed by WayForward Technologies. The Microsoft Windows version was developed by AWE Games. Most of the film's cast reprise their roles.
+
+
+== Gameplay ==
+
+
+=== Console versions ===
+There are 18 levels in the game that loosely follow the storyline of the film. The player controls SpongeBob SquarePants and Patrick Star, both of whom have their own unique set of abilities. Each level contains a main objective and side tasks. Four levels involve a boss enemy that the player must defeat to progress to the next level. Boss enemies include the giant frogfish from the film, Dennis (who is fought twice), and King Neptune. Each main level and side task will give the player a Goofy Goober Token once completed, and the player needs these tokens to learn certain skills and proceed to the game. Although the player only needs to complete a level's main component in order to unlock the next level, it is not possible to complete the game only doing the main levels (though the player does not need to do all of the side tasks).
+There is also an upgrade system in the game. As the player collects "Manliness Points" (represented by glowing weights), they will learn new moves for SpongeBob and Patrick which are needed to complete the game. Once the player collects enough manliness points, they get an "Upgrade Point" which can improve a skill's effect (or be used to increase the player's Max Health from three to up to six units). Although very helpful in progressing and completing the game, upgrades are not mandatory to doing so.
+The game does not use a life system; if the player dies, they are reverted to their last checkpoint, the game does not count deaths.
+
+Platforming - The main levels of the game, the player, playing as SpongeBob or Patrick, has to navigate the level. Several skills such as combat, careful movement, and most notably, the use of SpongeBob and Patrick's move-sets are needed to progress. Each level has side tasks which offer a Goofy Goober Token, including;
+Sonic Wave Guitar - The player has to use SpongeBob's Sonic Guitar (his fifth and last move) to guide the wave throughout rings without missing one.
+Spongeball - The player must guide SpongeBob, who forms a ball, through a platforming area, similar to the Super Monkey Ball series.
+Floating Block Challenge - The player must guide Patrick by jumping from block-to-block to reach the Goofy Goober Token before time runs out. Each block has different attributes.
+Combat Arena Challenges - Playing as either SpongeBob or Patrick, with only a few health units throughout the level, the player must defeat waves of enemies.
+Driving - Using the Patty Wagon, sometimes the player will need to drive through an area. All of the driving levels have three identical side tasks: a time challenge, a ring challenge, and a "Macho" (harder) time challenge.
+Sliding - Using a small bathtub (a shell and King Neptune's crown) which acts almost like a sled with its movement, the player must slide through the area. The side tasks are the same as in the driving sequences.
+Bosses - There are a total of four boss battles in the game, none of which contain side tasks.Each completion of a challenge or its side task grants the player a Goofy Goober Token. In order to learn the moves required to advance in levels and the stories, SpongeBob and Patrick will have to complete these side missions (like the extra driving and minigame challenges) to get these tokens. SpongeBob and Patrick have a few moves, and when they get a sufficient number of points, they can upgrade a move or increase their max health. Their health units are measured in Krabby Patties; they each contain only three, but can be upgraded up to six over time. The moves will improve in effectiveness when upgraded.
+Throughout the game are cutscenes that are either in-game animations or FMV sequences that resemble slideshows and feature stills from the movie as well as photos that are not stills from the movie with clip art and illustrations of characters from the movie and objects from the movie and related backgrounds as well as fully illustrated images. The FMV sequences usually features narration by the French narrator used in the show. 
+
+
+=== PC version ===
+The gameplay has features that are reminiscent of point-and-click adventure games, similar to that in SpongeBob SquarePants: Employee of the Month and the PC version of SpongeBob SquarePants: Lights, Camera, Pants!. It mainly follows around SpongeBob and Patrick in a various number of locations. The game consists of 8 chapters that loosely follow the plot of the film, with additional story details being described in cutscenes between chapters that feature narration over still pictures.
+
+
+=== GBA version ===
+The GBA game is a 2D platformer split between 6 worlds to progress through, plus many bonus levels, and a boss at the end of each world. Unlike the console versions, there is a life system, and there is no save feature; instead, players are given a variety of level passwords as they progress through the game. Like the PC version, the story is told through still pictures, but this time with on-screen text.
+
+
+== Plot ==
+
+The plot of the video game is largely based on the film, albeit liberties are taken occasionally. King Neptune's crown has been stolen by Plankton, and SpongeBob and Patrick must retrieve it from Shell City and save Bikini Bottom.
+
+
+== Reception ==
+
+The SpongeBob SquarePants Movie have received "mixed or average" and "generally favorable" reviews according to review aggregator Metacritic. On GameRankings, the GBA version has a rating of 53 percent.
+
+
+=== Home console versions ===
+Juan Castro of IGN, who reviewed the home console versions, stated that "The SpongeBob SquarePants Movie delivers an entertaining (and oftentimes challenging) mix of platform and driving sequences. Controls feel responsive and the camera rarely hinders your view of the action. And the humor of the show practically seeps out of every clamshell and bed of kelp you cross". The PS2 version was noted by Play magazine as "a full blown AAA platformer". 
+GameZone's Louis Bedigian, who reviewed the Xbox version, felt that the game did not take advantage of the system's graphical capabilities, and wrote, "The cut scenes are more like storyboards than movie sequences. You don't get to see too many clips from the film, just stills taken from specific scenes. Why would they do this when all other movie-based games use real-time sequences, if not actual clips from the film? […] This could come as a disappointment to players expecting to re-live the movie's magic through a game. During the gameplay, you'll be entertained by amusing dialogue, but the still picture movie sequences are a bore." Bedigian concluded that young children would enjoy the game, except for "the frustration" of its driving levels due to its controls, which he wrote, "aren't very accurate, causing a lot of unnecessary screw ups during that part of the game."Anise Hollingshead of GameZone praised the GameCube version for its graphics and music, but noted that "there probably could be more" sound effects for "a better experience." Hollingshead, who felt that the game was not as fun as SpongeBob SquarePants: Battle for Bikini Bottom, also noted that the game's platform-based levels were not as fun as its racing levels, "Maybe because they're dark and dimly lit for the most part, or because they feel small and contained." Hollingshead wrote that the game was probably better for older players because of "the slight difficulty in some of the jumping sequences, and the long races".The game shipped 2 million units.
+
+
+=== Other versions ===
+Nintendo Power, reviewing the GBA version, noted the ability to change paths throughout the game, but wrote that "some areas are more difficult to reach than they should be, making the platforming tricky at times." Hollingshead criticized the GBA version for its repetitive gameplay and its inclusion of Patrick as a playable character, writing that "despite the appearance of a dual partnership in the game, it quickly becomes evident that it's really only one playable character that's been melded from two." Hollingshead wrote that "unlike the console versions, the story here feels tacked on and doesn't really do much to tie the levels together in any sort of cohesive manner." Hollingshead praised the graphics and wrote that the music was "the best part of the game," but concluded that the console versions "are much more fun."Hollingshead praised the PC version for its graphics and sound, and wrote, "The humor from the TV show has been translated very well to this computer game, and some of the dialogue is a riot. The characters all have funny things to say, and there are plenty of sight gags, too. Playing as Plankton was a great idea, and kids will love listening to the diminutive evil-ruler wannabe as he comments on the people and things around him." However, Hollingshead – who felt that the game would be best for children who were between the ages of 6 and 10 – wrote that "it's a short game, and because the adventure is the same each time through, there's not much replay value here."Kristen Salvatore of Computer Gaming World felt that the PC version and its puzzles would appeal primarily to young children, but wrote that people expecting to "play" the movie would be disappointed.  IGN's Levi Buchanan, who reviewed the cellphone game version, praised its graphics but criticized its simplicity. Buchanan wrote that the game "certainly has plenty of goofball charm and personality", but concluded that it was "something of a let-down" in comparison to previous SpongeBob cellphone games, as well as the "pretty fun console version of the game".The GBA version sold an estimated 780,000 copies; in August 2006, the game was ranked at number 25 on Edge magazine's list of "The Century's Top 50 Handheld Games," arranged by number of copies sold.
+
+
+== PlayStation 3 port ==
+On February 5, 2012, it was announced that The SpongeBob SquarePants Movie would be coming to the PlayStation Store as a PS2 Classic on February 7, 2012. The port was poorly received for numerous technical issues, including severe input lag, sound delays of up to one second during in-engine cutscenes, and stretching the 4:3 display to fill a 16:9 aspect ratio. The port was removed from the PlayStation Store shortly after release, with no official explanation given regarding its removal.
+
+
+== References ==
+
+
+== External links ==
+
+The SpongeBob SquarePants Movie  (GameCube, PlayStation 2, Xbox) on MobyGames
+The SpongeBob SquarePants Movie  (Windows, Mac) on MobyGames
+The SpongeBob SquarePants Movie  (Game Boy Advance) on MobyGames

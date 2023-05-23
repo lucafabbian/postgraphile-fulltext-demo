@@ -1,0 +1,55 @@
+Skate or Die! is a skateboarding game released by Electronic Arts (EA) in 1987 for the Commodore 64. It is EA's first internally developed game. Ports for the Apple IIGS, MS-DOS, Amstrad CPC, and ZX Spectrum were released the following years. It was ported to the Nintendo Entertainment System (NES) by Konami, published under the company's Ultra Games branding.
+
+
+== Gameplay ==
+
+In the style of the Epyx Games series, players can compete in five different skateboarding events, either individually or sequentially. When the events are challenged sequentially, up to eight players could sign up to participate.
+The game featured two half-pipe events - the freestyle ramp and the high jump, two downhill events - the downhill race (in a park setting) and the downhill jam (in a street setting), and the pool joust. The pool joust, downhill jam, and the downhill race (in two player mode only) were all head to head, while the ramp events were single player. Except for the joust, which was a hand-to-hand knockout competition (literally and figuratively), all the event winners were decided by a point system.
+Four characters were featured in Skate or Die!: Rodney Recloose, a wild man with a purple mohawk and a Marine Corps tattoo (and a facial resemblance to comedian Rodney Dangerfield) who runs a skateshop in the game, and his son Bionic Lester, an even wilder kid with a green flattop, who the player character was able to take on in the joust and the downhill jam. In the joust, Lester and his two cronies await the skater. Poseur Pete challenges beginners and Aggro Eddie takes on intermediate players, leaving Lester with the advanced pros.
+
+
+== Development ==
+Electronic Arts founder Trip Hawkins was looking for a way to capitalize off of the success of the Epyx sports games, but at the time, only being a publishing/distributing company, there was little he could do. He decided to hire programmers to make a game that would cash in on this success. Right around the same time, several Epyx programmers and graphic artists quit over Epyx' decision to bring Atari Corporation in to market and manufacture their console project (later known as the Atari Lynx). Trip Hawkins found out about these programmers leaving Epyx and reached out to hire these programmers for the purpose of producing a sports series of games. The idea for a skateboarding style game came from Producer Don Traeger, who had been inspired by a coin-operated skateboarding game from Atari called 720°. Trip Hawkins also hired Rob Hubbard to come over from England to compose the title screen music.
+The Atari ST conversion was contracted to Codemasters, who contracted Kinetic Designs to do the work. It was scheduled to be released in June 1989 but was never released.
+
+
+== Reception ==
+Yung Min Choi reviewed the game for Computer Gaming World, and wrote that "Skate or Die is an enjoyable game for teenage board freaks who cannot get enough radical action on the cement or "over-the-hill" adults who don't want to risk their lives and limbs to experience the simulated thrill of this action sport".The C64 version of Skate or Die! was also well liked for its introductory music, a catchy rock-flavored tune with digital samples that took full advantage of the SID chip's capabilities. Composed by Rob Hubbard, it has become a popular tune among modern fans of SID music and remixers of such tunes. For Konami's NES port, Kouji Murata composed an arranged version of the tune for the NES's Ricoh 2A03 sound chip.
+The game sold just over 100,000 copies between its release date and the end of the NES era.The game was reviewed in 1988 in Dragon #132 by Hartley, Patricia, and Kirk Lesser in "The Role of Computers" column. The reviewers gave the game 2 out of 5 stars.
+
+
+== Reviews ==
+Zzap! (Jan, 1988)
+Computer and Video Games (Jan, 1988)
+ACE (Advanced Computer Entertainment) (Jan, 1988)
+Player One (Oct, 1990)
+Mean Machines (Oct, 1990)
+The Games Machine (May, 1989)
+Your Sinclair (May, 1989)
+ASM (Aktueller Software Markt) (Dec, 1987)
+The One (Feb, 1989)
+Amstar (Dec, 1990)
+Commodore User (Dec, 1987)
+Power Play (Dec, 1987)
+Joystick (French) (Sep, 1990)
+Power Play (Nov, 1989)
+ACE (Advanced Computer Entertainment) (Mar, 1989)
+The Games Machine (Nov, 1989)
+VideoGame (Mar, 1991)
+Crash! (May, 1989)
+ASM (Aktueller Software Markt) (Oct, 1989)
+Jeux & Stratégie #51
+
+
+== Legacy ==
+A winterized sequel, Ski or Die, was released in 1990 for the Commodore 64, Amiga, Atari ST, PC, and NES, and a true sequel, Skate or Die 2 was published in 1990 for the NES. Ski or Die retained the multi-event format while Skate or Die 2 veered into "adventure" territory. Both games featured Rodney and Lester.
+In 2002, Criterion Games, creators of the Burnout series, was working on a Skate or Die remake or sequel for the PlayStation 2 and Xbox. Due to Criterion having issues with Electronic Arts, the game was cancelled in 2003 in favor of Burnout 3: Takedown. It was in development for 12 months before it was cancelled.In 2007, the NES version was re-released for Nintendo's Virtual Console service in Europe (excluding France) and Australia.
+
+
+== References ==
+
+
+== External links ==
+Skate or Die! at MobyGames
+Skate or Die! at Lemon64
+Skate or Die! at SpectrumComputing.co.uk

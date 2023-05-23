@@ -1,0 +1,27 @@
+In geometry, Monge's theorem, named after Gaspard Monge, states that for any three circles in a plane, none of which is completely inside one of the others, the intersection points of each of the three pairs of external tangent lines are collinear.
+For any two circles in a plane, an external tangent is a line that is tangent to both circles but does not pass between them. There are two such external tangent lines for any two circles. Each such pair has a unique intersection point in the extended Euclidean plane. Monge's theorem states that the three such points given by the three pairs of circles always lie in a straight line. In the case of two of the circles being of equal size, the two external tangent lines are parallel. In this case Monge's theorem asserts that the other two intersection points must lie on a line parallel to those two external tangents. In other words, if the two external tangents are considered to intersect at the point at infinity, then the other two intersection points must be on a line passing through the same point at infinity, so the line between them takes the same angle as the external tangent.
+
+
+== Proofs ==
+The simplest proof employs a three-dimensional analogy. Let the three circles correspond to three spheres of different radii; the circles correspond to the equators that result from a plane passing through the centers of the spheres.  The three spheres can be sandwiched uniquely between two planes.  Each pair of spheres defines a cone that is externally tangent to both spheres, and the apex of this cone corresponds to the intersection point of the two external tangents, i.e., the external homothetic center.  Since one line of the cone lies in each plane, the apex of each cone must lie in both planes, and hence somewhere on the line of intersection of the two planes.  Therefore, the three external homothetic centers are collinear.
+Monge's theorem can also be proved by using Desargues' theorem.
+Another easy proof uses Menelaus' theorem, since the ratios can be calculated with the diameters of each circle, which will be eliminated by cyclic forms when using Menelaus' theorem.
+Desargues' theorem also asserts that 3 points lie on a line, and has a similar proof using the same idea of considering it in 3 rather than 2 dimensions and writing the line as an intersection of 2 planes.
+
+
+== See also ==
+Homothetic centers of circles
+Problem of Apollonius, constructs a circle (not necessarily unique) given three other circles
+
+
+== References ==
+
+
+== Bibliography ==
+Graham, L. A. (1959). Ingenious Mathematical Problems and Methods. New York: Dover. ISBN 0486205452. Retrieved 1 December 2012.
+
+
+== External links ==
+Monge's Circle Theorem at MathWorld
+Monge's theorem at cut-the-knot
+Three Circles and Common Tangents at cut-the-knot

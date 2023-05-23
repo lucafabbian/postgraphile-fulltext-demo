@@ -1,0 +1,27 @@
+Humanistic Intelligence (HI) is defined, in the context of wearable computing, by Marvin Minsky, Ray Kurzweil, and Steve Mann, as follows:
+
+Humanistic Intelligence [HI] is intelligence that arises because of a human being in the feedback loop of a computational process, where the human and computer are inextricably intertwined.  When a wearable computer embodies HI and becomes so technologically advanced that its intelligence matches our own biological brain, something much more powerful emerges from this synergy that gives rise to superhuman intelligence within the single “cyborg” being.
+
+More generally (beyond only wearable computing), HI describes the creation of  intelligence that results from a feedback loop between a computational process and a human being, where the human and computer are inextricably intertwined.
+In the field of human-computer interaction (HCI) it has been common to think of the human and computer as separate entities. HCI emphasizes this separateness by treating the human and computer as different entities that interact.  However, HI theory thinks of the wearer and the computer with its associated input and output facilities not as separate entities, but  regards the computer as a second brain and its sensory modalities as additional senses, in which synthetic synesthesia merges with the wearer's senses. When a wearable computer functions in a successful embodiment of HI, the computer uses the human's mind and body as one of its peripherals, just as the human uses the computer as a peripheral. This reciprocal relationship is at the heart of HI.
+
+
+== Courses ==
+The principles are taught in a variety of university courses, such as:
+
+CSE40814, Mobile Computing, Fall 2014, University of Notre Dame
+ECE516, Intelligent Image Processing, 1998-2022, University of Toronto
+ECE1724, "Superhumachines" (Super-human-machine intelligence), University of Toronto
+Course: Wearable Computing, VAK: 03-799.01, Time: Mo, 13-15, Place: 1.51 TAB (ECO5), Instructor: Dr. Holger Kenn, Microsoft EMIC, Monday: Tel: 3035, TAB, 1.92, Universität Bremen
+
+
+== See also ==
+Cybernetics
+
+
+== References ==
+
+
+== External links ==
+Hawkeye Project
+J. Fung.;  et al. (2002), "Exploring Humanistic Intelligence Through Physiologically Mediated Reality" (PDF), Proceedings of the International Symposium on Mixed and Augmented Reality (ISMAR'02) 0-7695-1781-1/02, IEEE, archived from the original (PDF) on 2017-09-22, retrieved 2014-10-12

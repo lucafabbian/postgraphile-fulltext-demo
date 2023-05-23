@@ -1,0 +1,15 @@
+Juraj Hromkovič (born 1958) is a Slovak Computer Scientist and Professor at ETH Zürich. He is the author of numerous monographs and scientific publications in the field of algorithmics, computational complexity theory, and randomization.
+
+
+== Biography ==
+Hromkovič was born 1958 in Bratislava. He studied at Comenius University where he received his Ph.D. in 1986 (Dr. rer. nat.), habilitated in 1989 (Theoretical Cybernetics and Mathematical Informatics), and worked as a lecturer from 1989 to 1990. From 1989 to 1994, he was a visiting professor at the group of Burkhard Monien at the University of Paderborn. In 1994, he received a professorship at the Institute of Informatics at the University of Kiel. From 1997 to 2003, he led the Chair of Computer Science 1 at RWTH Aachen. Since 2004, he has been a professor at the Federal Institute of Technology, Zurich for Information Technology and Education.
+Next to active research in various fields of theoretical computer science (about 170 publications), the main focus of his work lies on education for teachers of Computer Science and the illustration of basics of Computer Science to non-professionals.
+
+
+== References ==
+
+
+== External links ==
+Homepage of the chair of Information Technology and Education at ETH Zürich
+Homepage of the Center for Informatics Education (ABZ) of ETH Zürich
+Juraj Hromkovič at Mathematics Genealogy Project

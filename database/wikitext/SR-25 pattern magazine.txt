@@ -1,0 +1,24 @@
+An SR-25, AR-10 or LR-308 pattern magazine is a type of detachable firearm magazine based on the original Armalite AR-10 "waffle" magazine design introduced in the late 1950s, used for .308 Winchester and 7.62×51mm NATO cartridges.
+The design has been used on many AR-10 derivatives (generally referred to as AR-308 style rifles), for instance in the Knight's Armament SR-25 and DPMS Panther LR-308, as well as bolt-action rifles such as the Mossberg MVP .308, Ruger Precision Rifle and Q FIX. Aftermarket magazines are produced by Magpul, Lancer Systems, and others. Not all AR-308 rifles use magazines compatible with the SR-25 pattern. For example, HK417/MR308/MR762 uses a proprietary design. Notably, Armalite switched from their original pattern magazines to modified M14 magazines in 1996 with their new AR-10B model, but reintroduced their original (SR-25 pattern) magazine design with the AR-10A model in 2012.
+
+
+== Firearms compatible with SR-25 pattern magazines ==
+
+
+=== AR-10/AR-308 type rifles ===
+
+
+=== Other rifles ===
+
+
+== Notable incompatible firearms ==
+SR-25 pattern magazines are in general not compatible with rifles using Springfield Armory M1A pattern magazines, FN FAL pattern magazines, or HK41/HK91/G3 pattern magazines. As mentioned, the AR-10B variant (produced since 1996) uses proprietary modified M14 magazines, while the AR-10A variant uses standard SR-25 pattern magazines. The Noveske Rifleworks N6 version prior to Gen 3 used AR-10B type magazines, but with the introduction of the N6 Gen 3, however, the design was changed to utilize the more common SR25-type. Rock River Arms LAR8 uses proprietary FAL style magazines. MKEK MPT-76 uses a proprietary design. As mentioned, HK417/MR308/MR762 uses a proprietary magazine. FN SCAR 17S use their own proprietary design. Furthermore, HK41/HK91/G3 and PTR-91 uses a proprietary design.
+
+
+== See also ==
+STANAG magazine, a standardized firearm magazine based on the 5.56x45 mm cartridge
+AICS-style magazine, an emerging standard for bolt-action rifle magazines.
+List of AR platform cartridges, cartridges that can be fired from the AR-10 and AR-15
+
+
+== References ==

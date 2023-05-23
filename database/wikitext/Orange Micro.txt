@@ -1,0 +1,35 @@
+Orange Micro Inc. was an American computer hardware company that made products for use with Apple computers. The company made a variety of products for many machines, ranging from the Apple II series to the Macintosh line. The company went out of business in 2004.
+
+
+== Products ==
+
+
+=== Products for the Apple II series ===
+Orange Micro entered the market for third-party Apple hardware developing peripherals for the Apple II series. Notably, the company developed the famed Grappler+ card, providing easy way to print Graphics on old dot matrix printers, and later a parallel port adapter for the Apple IIc. It also developed memory extensions cards for the Apple IIGS.
+
+
+=== PC compatibility ===
+In the early 1990s, Orange Micro introduced what were described as "DOS compatibility cards". This was a concept first introduced in the Mac286 by AST Research, for which Orange Micro had purchased the rights. These cards essentially consisted of an entire PC on NuBus or PCI cards. They contained enough hardware in order to run PC software such as DOS and Windows at native hardware speeds: notably, an Intel-compatible CPU, RAM, sound cards, and video chipsets supporting CGA or VGA. Some hardware, such as disks, printers, modems and network interface cards, were emulated in software.
+While Orange Micro sold their compatibility card under the Mac286 name for a time, later offerings were based on the 80386, 80486, and Pentium lines. Additional cards offered support for AMD, Cyrix, and IDT processors, offering a lower cost.
+An example of such a PC compatibility card was the OrangePC Model 220. This card, for NuBus-based Macintoshes, included a 66 MHz 486DX2 and 8MB of preinstalled memory. In December 1995, its retail price was US$1127.A later model, the OrangePC 620 series, offered a 200 or 233 MHz processor. In 1998, it started at US$399, significantly less than previous incarnations. Various 620 models utilized processors from Intel, AMD, and IDT. High-end models included a Sound Blaster chipset, while more affordable options provided software emulation, with the caveat that sound could not be played in MS-DOS software.One of its last PC compatibility offerings was the OrangePC 660, introduced in late 1998, supporting a Socket 7 CPU from 100 MHz Pentium up to a 400 MHz K6-III processor, NVIDIA RIVA 128 chipset, and two DIMM slots for up to 256MB of SDRAM. The PCfx!, introduced in late 1998, was a simplified OrangePC 660. The PCfx! includes a soldered-on 200 MHz Pentium processor, NVIDIA RIVA 128 chipset, and only 1 DIMM slot for up to 128MB of SDRAM, the PCfx! was marketed as a way for Macintosh users to play PC games.The need for such specialized compatibility hardware was eliminated after the Mac transition to Intel processors, particularly after the release of Boot Camp and virtualization software such as Parallels Desktop for Mac and VMware Fusion.
+
+
+==== Competition ====
+Competitors to the Orange Micro compatibility solutions at the time of its heyday included SoftPC or SoftWindows, a software based solution. Since SoftPC was an emulator, it was much slower than the Orange Micro offerings, which used real PC hardware.
+
+
+=== FireWire ===
+Later in its life, the company focused more on its OrangeLink FireWire based products. This included FireWire controllers, hubs, webcams, and digital cameras, such as the iBot.
+
+
+== Domain name status ==
+After Orange Micro closed, the company's webdomain, orangemicro.com, expired, having nobody to pay for its upkeep. At a point it was brought back as a mirror containing illicit links and pop-up ads amongst the original content, however it is currently just another generic advertisement filled website run by domain squatters.
+
+
+== References ==
+
+
+== External links ==
+"Orange Micro out of business?" - Arstechnica article on the end of Orange Micro
+Orange Micro archive on Archive.org
+The patent settlement mentioned in the thread

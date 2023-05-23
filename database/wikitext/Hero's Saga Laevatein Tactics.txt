@@ -1,0 +1,28 @@
+Hero’s Saga Laevatein Tactics (英雄戦記レーヴァテイン, Eiyuu Senki Laevatein) is a tactical role-playing game developed and published in Japan by GungHo Works on December 4, 2008, and published in North America by Aksys Games on October 13, 2009 for the Nintendo DS.
+The game's makers developed the game to be reminiscent of old-school tactical role-playing games, such as Final Fantasy Tactics and Tactics Ogre. Critics gave it mixed reviews, praising the graphics but criticizing its story as rote and its music as lackluster, while saying the gameplay did little to distinguish itself from other games of the same genre.
+
+
+== Gameplay ==
+
+Like many other titles in this genre, the battles take place on a grid. However, once units move next to another and attack, the game starts to differentiate itself.
+On the grid, only the "leaders" are moved and shown. Once combat starts, the battle moves to another screen in which your hero and his soldiers square off against the enemy leader and his squad. A leader starts with 8 soldiers fighting alongside them, have similar characteristics to the leader. For example, an archer's soldiers will all attack with a bow and arrow just as the leader does. However, the soldiers don't take typical damage amounts, as much as every time they are hit, the damage is represented in exclamation points. "!" represents small damage, "!!" represents medium damage, and "!!!" represents heavy damage. Taking too much damage they die off, but they can be brought back via staying in strongholds or by the ability "recruit".
+Both sides receive three turns to battle back-and-forth, and during each time you have options. The standard attack option offers balanced offense and defense. The charge option is a less accurate attack that will have player's units deal more damage than the standard attack, but then leaves them with less defensive and evasive power for the following attack. Selecting the phalanx option is the opposite; it will increase the players's team's evasion and accuracy, but lessens attack strength. If the players use phalanx when their enemy charges, their attack will be more likely to miss completely. The last option is simply defending without attacking.
+After choosing the type of attack, the player must decide to either attack the soldiers in front first or go directly for the leader. The combat is won instantly as soon as the leader is finished, even if there are soldiers left. However, eliminating soldiers will lessen the enemies future attacks, and focus more of the attacks on the leader, so it is also useful to eliminate soldiers as well.
+Units are divided up into classes depending on what weapon they are equipped with. For example, the main character Ernesto starts off using a sword which makes him of the fighter class. Once obtaining another weapon, such as an axe,  he would change to a barbarian. Weapons have different ranks, so the higher the rank, the better the stats. While there are characters who can only hold certain weapons, there are ultimately seven different weapon types with each type, each of which have two to three different job classes and skills depending on the specific weapon used, making the customization extensive.
+
+
+== Localization ==
+The game is noteworthy for its rather rare localization characteristics. It is not very often a Japanese RPG is localized in English to include some aspects of a Spanish-speaking dialect. For example, many characters use words such as "hermano" (brother), or "si" (yes) when speaking to one another.
+
+
+== Reception ==
+
+The game received an aggregate score of 62/100 on Metacritic, indicating "mixed or average reviews".Dennis Rubinshteyn of RPGFan rated the game 69/100, calling the story cliched and saying that it does little to stand out from other games. He also criticized the "snail-paced movement" and "long waits for the AI to move", saying that it slowed down the game. Stating that the game's graphics were one of its stronger points, he nevertheless called them "plain". He heavily criticized the music, specifically the fact that the game only had a single battle theme for all its maps, and that it was "not even a good song".
+
+
+== References ==
+
+
+== External links ==
+Official website
+Official website (in Japanese)

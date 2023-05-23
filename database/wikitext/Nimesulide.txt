@@ -1,0 +1,76 @@
+Nimesulide is a nonsteroidal anti-inflammatory drug (NSAID) with pain medication and fever reducing properties. Its approved indications are the treatment of acute pain, the symptomatic treatment of osteoarthritis, and primary dysmenorrhoea in adolescents and adults above 12 years old.
+Side effects may include liver problems. It has a multifactorial mode of action and is characterized by a fast onset of action. It works by blocking the production of prostaglandins (a chemical associated with pain), thereby relieving pain and inflammation.
+
+
+== Medical uses ==
+It may be used for pain, including period pains. Nimesulide is not recommended long-term, as for chronic conditions such as arthritis. This is due to its association with an increased risk of liver toxicity, including liver failure. Despite its risk of hepatotoxicity, a 2012 evaluation by the European Medicines Agency (EMA) concluded that the overall benefit/risk profile of nimesulide is favourable and in line with that of the other NSAIDs such as diclofenac, ibuprofen, and naproxen provided that the duration of use is limited to 15 days and the dose does not exceed 200 mg/day.
+
+
+=== Children ===
+Less than 10 days of nimesulide does not appear to increase the risk of hypothermia, gastrointestinal bleeding, epigastric pain, vomiting, diarrhea, or transient, asymptomatic elevation of liver enzymes compared to ketoprofen, paracetamol, mefenamic acid, aspirin, or ibuprofen in children. However, data does not speak to populations less than 6 months old.
+
+
+=== Pregnancy and lactation ===
+Women should use the drug with caution during lactation and nimesulide is contraindicated during pregnancy, and research suggest that it is also contraindicated in lactating women.
+
+
+=== Available forms ===
+
+Nimesulide is available in a variety of forms: tablets, powder for dissolution in water, suppositories, mouth dissolving tablets, and topical gel.
+
+
+== Contraindications ==
+It should be avoided by children under 12 and people with liver problems or flu-like symptoms.
+
+
+== Side effects ==
+Due to concerns about the risk of liver toxicity, nimesulide has been withdrawn from market in several countries (Spain, Finland, Belgium, and Ireland). Liver problems have resulted in both deaths and the need for transplantation. This may occur in as little as three days after starting the medication.Continuous use of nimesulide (more than 15 days) may cause the following side effects:
+Diarrhea
+Vomiting
+Skin rash
+Itchiness
+Dizziness
+Bitterness in mouth
+
+
+== Pharmacology ==
+
+
+=== Pharmacodynamics ===
+Nimesulide is a nonsteroidal anti-inflammatory drug (NSAID), acting specifically as a relatively selective cyclooxygenase-2 inhibitor. However, the pharmacological profile of nimesulide is peculiar, and additional, unknown/yet-to-be-identified mechanisms appear to also be involved. One pathway that has been implicated in its actions is the ecto-5'-nucleotidase (e-5′NT/CD73)/adenosine A2A receptor pathway.
+
+
+=== Pharmacokinetics ===
+Nimesulide is absorbed rapidly following oral administration.Nimesulide undergoes extensive biotransformation, mainly to 4-hydroxynimesulide (which also appears to be biologically active).Food, gender, and advanced age have negligible effects on nimesulide pharmacokinetics.Moderate chronic kidney disease does not necessitate dosage adjustment, while in patients with severe chronic kidney disease or liver disease, nimesulide is contraindicated.Nimesulide has a relatively rapid onset of action, with meaningful reductions in pain and inflammation observed within 15 minutes from drug intake.The therapeutic effects of nimesulide are the result of its complex mode of action, which targets a number of key mediators of the inflammatory process such as: COX-2 mediated prostaglandins, free radicals, proteolytic enzymes, and histamine.
+Clinical evidence is available to support a particularly good profile in terms of gastrointestinal tolerability.
+
+
+== History ==
+Nimesulide was launched in Italy for the first time as Aulin and Mesulid in 1985 and is available in more than 50 countries worldwide, including among others France, Portugal, Greece, Switzerland, Belgium, Russia, Thailand, and Brazil. Nimesulide has never been filed for Food and Drug Administration (FDA) evaluation in the United States, where it is not marketed.
+
+
+== Society and culture ==
+
+
+=== Brand names ===
+Nimesulide is available throughout the world as original product with the following trademarks: Sulide, Nimalox, Mesulid (Novartis, Brazil, Boehringer Ingelheim, Greece, Italy), Coxtal (Sanofi, China, Bulgaria), Sintalgin (Abbott, Brazil), Eskaflam (GSK, Brazil, Mexico), Octaprin, Nimside (Teva, Pakistan), Nise (Russia, Venezuela, Vietnam, Ukraine), Nilsid (Egypt); Aulin (Bulgaria, Czech Republic, Italy, Romania, Poland), Ainex, Drexel, Donulide, Edrigyl, Enetra, Heugan, Mesulid, Minapon, NeRelid, Nexen, Nidolon, Nilden (Mexico); Emsulide, Nimed, Nimedex, Nimesil (Czech Republic, Moldova, Latvia, Kazhakhstan, Georgia, Poland), Nimulid (Trinidad & Tobago), Nimutab, Nimdase, Nimopen-MP Nise, Nimuwin, Nisulid, Nodard Plus, Nicip, Nimcap, Nic-P, Nic-Spas, Nimupain (India); Mesulid, Novolid, Relmex (Ecuador); Remisid (Ukraine); Coxulid, Emulid, Frenag, Fuzo, Motival, Nimeksil, Nimelid, Nîmes, Nimesdin, Romasulid, Sulidin, Suljel, Thermo Sulidin (Turkey), Xilox (Hungary); Modact-IR (Pakistan); and ad Sulidene and Zolan for veterinary use. Many generic and copy-products also exist (Lusemin, Medicox, Nidol, Nimalox, Nimesil, Nimotas, Nimulid, Nizer, Sorini, Ventor, Vionim, Neolide, Willgo among others), new-aid, Nexulide (Syria), Nims, Nice, Nimulide (Nepal)
+
+
+=== India ===
+Several reports have been made of adverse drug reactions in India. On February 12, 2011, Indian Express reported that the Union Ministry of Health and Family Welfare finally had decided to suspend the pediatric use of the analgesic, Nimesulide suspension. From 10 March 2011 onward Nimesulide formulations are not indicated for human use in children below 12 years of age.On September 13, 2011 Madras High Court revoked a suspension on manufacture and sale of paediatric drugs nimesulide and phenylpropanolamine (PPA).
+
+
+=== EMA confirms the positive benefit/risk ratio ===
+On September 21, 2007 the EMA released a press release on their review on the liver-related safety of nimesulide. The EMA has concluded that the benefits of these medicines outweigh their risks, but that there is a need to limit the duration of use to ensure that the risk of patients developing liver problems is kept to a minimum. Therefore, the EMA has limited the use of systemic formulations (tablets, solutions, suppositories) of nimesulide to 15 days.
+
+
+=== Irish Medicines Board ===
+The Irish Medicines Board has decided to suspend Nimesulide from the Irish market and refer it to the EU Committee for Human Medicinal Products (CHMP) for a review of its benefit/risk profile. The decision is due to the reporting of six cases of potentially-related liver failures to the IMB by the National Liver Transplant Unit, St. Vincent's University Hospital. These cases occurred in the period from 1999 to 2006.
+
+
+=== Bribes ===
+In May 2008, Italy's leading daily paper Corriere della Sera and other media outlets reported that a top-ranking official at Italy's medicines agency AIFA had been filmed by police while accepting bribes from employees of pharmaceutical companies. The money allegedly was being paid to ensure that certain drugs would be spared scrutiny from the drugs watchdog. The investigation had started in 2005 following suspicions that some AIFA drug tests had been faked. Eight arrests were made. Nimesulide can be bought carrying a prescription from a physician that is kept as a receipt at the chemist shop, nominally allowing strong control over selling.
+The original manufacturer of nimesulide is Helsinn Healthcare SA, Switzerland, which acquired the rights for the drug in 1976. After the patent protection terminated in 2015, a number of other companies started production and marketing of Nimesulide.
+
+
+== References ==

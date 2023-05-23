@@ -1,0 +1,36 @@
+Monofluorophosphate is an anion with the formula PO3F2−, which is a phosphate group with one oxygen atom substituted with a fluoride atom. The charge of the ion is −2. The ion resembles sulfate in size, shape and charge, and can thus form compounds with the same structure as sulfates. These include Tutton's salts and langbeinites. The most well-known compound of monofluorophosphate is sodium monofluorophosphate, commonly used in toothpaste.
+Related ions include difluorophosphate (PO2F−2) and hexafluorophosphate ([PF6]−). The related neutral molecule is phosphenic fluoride PO2F.
+Organic derivatives can be highly toxic and include diisopropyl fluorophosphate. Some of the Novichok agents are monofluorophosphate esters. Names are given to these by naming the groups attached as esters and then adding "fluorophosphonate" to the end of the name. Two organic groups can be attached. Other related nerve gas substances may not be esters, and instead have carbon-phosphorus or nitrogen-phosphorus bonds. The organic fluorophosphonates react with serine esterases and serine proteases irreversibly. This prevents these enzymes from functioning. Such an important enzyme is acetylcholinesterase as found in most animals. Some of the organic esters are detoxified in mammals by an enzyme in the blood and liver called paraoxonase PON1.Willy Lange from Berlin discovered sodium monofluorophosphate in 1929. He fruitlessly tried to make monofluorophosphoric acid. However, he did discover the highly toxic organic esters. Following this discovery various nerve gases like sarin were developed.
+Fluorophosphate glasses are low melting point kinds of glass which are mixtures of fluoride and phosphate metal compounds. For example, the composition 10% SnO, 40% SnF2, 50% P2O5 forms a glass melting about 139 °C. PbO and PbF2 can lower the melting temperature, and increase water resistance. These glasses can also be coloured by various other elements, and organic dyes.
+Some mixed anion compounds are known with other anions like fluoride, chloride, difluorophosphate or tetrafluoroborate.
+
+
+== Production ==
+Hydrolysis of difluorophosphate with an alkali produces monofluorophosphate.
+
+PO2F−2 + 2 MOH → M2PO3F + H2O + F−Industrial production is by reaction of a fluoride with a metaphosphate.
+
+MF + MPO3 → M2PO3FDisodium hydrogen phosphate or tetrasodium pyrophosphate can react with hydrogen fluoride to form the sodium salt.
+
+Na2HPO4 or Na4P2O7Phosphoric acid reacts with metal fluorides dissolved in molten urea to yield monofluorphosphates.
+
+
+== Properties ==
+Monofluorophosphates are stable at room temperature, but will decompose when heated. For example, at 450 K (177 °C), silver monofluorophosphate gives off phosphoryl fluoride (POF3) as a gas leaving behind silver phosphate (Ag3PO4) and silver pyrophosphate (Ag4P2O7).In inorganic compounds the monofluorophosphate ion has an average P–O bond length of 1.51 Å. The P–F bond is longer, on average 1.58 Å. The O P F angle is 104.8°, smaller than the tetrahedral 109.47°. To compensate the O P O bond angle is 113.7° on average.Most commonly the monofluorophosphtae ion takes on point group 1, but a significant number have point group m. Only two are known with 3m and one with 3.When compared to sulfates, some are isotypical with the monofluorophosphates. Yet others have sulfates that take on a different form. But most know monofluorophosphates have no known equivalent sulfate.
+
+
+== Compounds ==
+
+
+=== Organic ===
+
+
+== Uses ==
+Zinc monofluorophosphate can be used as a corrosion inhibitor for steel when salt is present.Glutamine monofluorophosphate has been used as a fluoride-bearing medicine.
+
+
+== References ==
+
+
+== Other reading ==
+Leblanc, Marc; Maisonneuve, Vincent; Tressaud, Alain (2014). "Crystal Chemistry and Selected Physical Properties of Inorganic Fluorides and Oxide-Fluorides". Chemical Reviews. 115 (2): 1191–1254. doi:10.1021/cr500173c. ISSN 0009-2665. PMID 25135645.

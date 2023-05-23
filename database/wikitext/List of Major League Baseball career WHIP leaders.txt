@@ -1,0 +1,21 @@
+In baseball statistics, walks plus hits per inning pitched (WHIP) is a sabermetric measurement of the number of baserunners a pitcher has allowed per inning pitched. WHIP reflects a pitcher's propensity for allowing batters to reach base, therefore a lower WHIP indicates better performance. WHIP is calculated by adding the number of walks and hits allowed and dividing this sum by the number of innings pitched.
+Below is the list of the top 100 Major League Baseball pitchers in Walks plus hits per inning pitched (WHIP) with at least 1,000 innings pitched.
+Addie Joss is the all-time leader with a career WHIP of 0.9678. Jacob deGrom (0.9947) and Ed Walsh (0.9996) are the only other players with a career WHIP under 1.0000.
+
+
+== Key ==
+
+
+== List ==
+
+Stats updated as of the end of the 2022 season.
+
+
+== Notes ==
+
+
+== References ==
+
+
+== External links ==
+"Career Leaders & Records for Walks & Hits per IP". Baseball-Reference.com.

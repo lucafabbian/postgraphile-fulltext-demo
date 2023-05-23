@@ -1,0 +1,75 @@
+In mathematical field of representation theory, a symplectic representation is a representation of a group or a Lie algebra on a symplectic vector space (V, ω) which preserves the symplectic form ω. Here ω is a nondegenerate skew symmetric bilinear form
+
+  
+    
+      
+        ω
+        :
+        V
+        ×
+        V
+        →
+        
+          F
+        
+      
+    
+    {\displaystyle \omega \colon V\times V\to \mathbb {F} }
+  where F is the field of scalars. A representation of a group G preserves ω if
+
+  
+    
+      
+        ω
+        (
+        g
+        ⋅
+        v
+        ,
+        g
+        ⋅
+        w
+        )
+        =
+        ω
+        (
+        v
+        ,
+        w
+        )
+      
+    
+    {\displaystyle \omega (g\cdot v,g\cdot w)=\omega (v,w)}
+  for all g in G and v, w in V, whereas a representation of a Lie algebra g preserves ω if
+
+  
+    
+      
+        ω
+        (
+        ξ
+        ⋅
+        v
+        ,
+        w
+        )
+        +
+        ω
+        (
+        v
+        ,
+        ξ
+        ⋅
+        w
+        )
+        =
+        0
+      
+    
+    {\displaystyle \omega (\xi \cdot v,w)+\omega (v,\xi \cdot w)=0}
+  for all ξ in g and v, w in V. Thus a representation of G or g is equivalently a group or Lie algebra homomorphism from G or g to the symplectic group Sp(V,ω) or its Lie algebra sp(V,ω)
+If G is a compact group (for example, a finite group), and F is the field of complex numbers, then by introducing a compatible unitary structure (which exists by an averaging argument), one can show that any complex symplectic representation is a quaternionic representation. Quaternionic representations of finite or compact groups are often called symplectic representations, and may be identified using the Frobenius–Schur indicator.
+
+
+== References ==
+Fulton, William; Harris, Joe (1991). Representation theory. A first course. Graduate Texts in Mathematics, Readings in Mathematics. Vol. 129. New York: Springer-Verlag. doi:10.1007/978-1-4612-0979-9. ISBN 978-0-387-97495-8. MR 1153249. OCLC 246650103..

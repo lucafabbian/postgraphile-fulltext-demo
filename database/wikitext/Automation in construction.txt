@@ -1,0 +1,26 @@
+Automation in construction is the combination of methods, processes, and systems that allow for greater machine autonomy in construction activities. Construction automation may have multiple goals, including but not limited to, reducing jobsite injuries, decreasing activity completion times, and assisting with quality control and quality assurance. Some systems may be fielded as a direct response to increasing skilled labor shortages in some countries. Opponents claim that increased automation may lead to less construction jobs and that software leaves heavy equipment vulnerable to hackers.
+
+
+== Transportation Construction ==
+Kratos Defense & Security Solutions fielded the world’s first Autonomous Truck-Mounted Attenuator (ATMA) in 2017, in conjunction with Royal Truck & Equipment.
+
+
+== Uses of Automation in Construction ==
+Equipment control and management: Automation can be used to control and monitor construction equipment, such as cranes, excavators, and bulldozers.
+Material handling: Automated systems can be used to handle, transport, and place materials such as concrete, bricks, and stones.
+Surveying: Automated survey equipment and drones can be used to collect and analyze data on construction sites.
+Quality control: Automated systems can be used to monitor and control the quality of materials and construction processes.
+Safety management: Automated systems can be used to monitor and control safety conditions on construction sites.
+Scheduling and planning: Automated systems can be used to manage schedules, resources, and costs.
+Waste management: Automated systems can be used to manage and dispose of waste materials generated during construction.
+3D printing: Automated 3D printing can be used to create prototypes, models, and even full-scale building components.
+
+
+== Benefits of Automation in Construction ==
+The use of automation in construction has become increasingly prevalent in recent years due to its numerous benefits. Automation in construction refers to the use of machinery, software, and other technologies to perform tasks that were previously done manually by workers.
+One of the most significant benefits of automation in construction is increased productivity. Automation can help speed up construction processes, reduce project completion times, and improve overall efficiency. For example, using automated machinery for tasks such as concrete pouring, bricklaying, and welding can significantly increase the speed and accuracy of these tasks, allowing for more work to be completed in a shorter amount of time.
+Another benefit of automation in construction is improved safety. By automating tasks that are hazardous to workers, such as demolition or working at height, companies can reduce the risk of accidents and injuries on site. Automation can also help to reduce worker fatigue, which can be a significant factor in accidents and mistakes.
+Overall, the use of automation in construction can improve productivity, reduce costs, increase safety, and improve the quality of construction projects. As technology continues to advance, the use of automation is likely to become even more prevalent in the construction industry.
+
+
+== References ==

@@ -1,0 +1,140 @@
+Ethnobiology is the scientific study of the way living things are treated or used by different human cultures. It studies the dynamic relationships between people, biota, and environments, from the distant past to the immediate present."People-biota-environment" interactions around the world are documented and studied through time, across cultures, and across disciplines in a search for valid, reliable answers to two 'defining' questions: "How and in what ways do human societies use nature, and how and in what ways do human societies view nature?"
+
+
+== History ==
+
+
+=== Beginnings (15th century–19th century) ===
+
+Biologists have been interested in local biological knowledge since the time Europeans started colonising the world, from the 15th century onwards. Paul Sillitoe wrote that:
+Europeans not only sought to understand the new regions they intruded into but also were on the look-out for resources that they might profitably exploit, engaging in practices that today we should consider tantamount to biopiracy. Many new crops .. entered into Europe during this period, such as the potato, tomato, pumpkin, maize, and tobacco. (Page 121)
+Local biological knowledge, collected and sampled over these early centuries significantly informed the early development of modern biology:
+during the 17th century Georg Eberhard Rumphius benefited from local biological knowledge in producing his catalogue, "Herbarium Amboinense", covering more than 1,200 species of the plants in Indonesia;
+during the 18th century, Carl Linnaeus relied upon Rumphius's work, and also corresponded with other people all around the world when developing the biological classification scheme that now underlies the arrangement of much of the accumulated knowledge of the biological sciences.
+during the 19th century, Charles Darwin, the 'father' of evolutionary theory, on his Voyage of the Beagle took interest in the local biological knowledge of peoples he encountered.
+
+
+=== Phase I (1900s–1940s) ===
+Ethnobiology itself, as a distinctive practice, only emerged during the 20th century as part of the records then being made about other peoples, and other cultures. As a practice, it was nearly always ancillary to other pursuits when documenting others' languages, folklore, and natural resource use. Roy Ellen commented that:
+
+At its earliest and most rudimentary, this comprised listing the names and uses of plants and animals in native non-Western or 'traditional' populations often in the context of salvage ethnography ..[ie] ethno-biology as the descriptive biological knowledge of 'primitive' peoples.
+This 'first phase' in the development of ethnobiology as a practice has been described as still having an essentially utilitarian purpose, often focusing on identifying those 'native' plants, animals and technologies of some potential use and value within increasingly dominant western economic systems
+
+
+=== Phase II (1950s–1970s) ===
+Arising out of practices in Phase I (above) came a 'second phase' in the development of 'ethnobiology', with researchers now striving to better document and better understand how other peoples' themselves "conceptualize and categorize" the natural world around them. In Sillitoe's words:
+
+By the mid-20th century .. utilitarian-focussed studies started to give way to more cognitively framed ones, notably studies that centred on elucidating classificatory schemes. (Page 122)
+
+This 'second' phase is marked:
+in Northern America (mid 1950s) with Harold Conklin's completing his doctorate entitled "The relation of Hanunóo [1] culture to the plant world"
+in Britain (mid 1960s) with the publication of Claude Lévi-Strauss' book The Savage Mind legitimating "folk biological classification" as a worthy cross-cultural research endeavour
+in France (mid 1970s) with André-Georges Haudricourt's linguistic studies of botanical nomenclature and R. Porteres' and others work in economic biology.
+
+
+=== Present (1980s–2000s) ===
+By the turn of the 21st century ethnobiological practices, research, and findings have had a significant impact and influence across a number of fields of biological inquiry including ecology, conservation biology, development studies, and political ecology.The Society of Ethnobiology advises on its web page:
+
+Ethnobiology is a rapidly growing field of research, gaining professional, student, and public interest .. internationally
+
+Ethnobiology has come out from its place as an ancillary practice in the shadows of other core pursuits, to arise as a whole field of inquiry and research in its own right: taught within many tertiary institutions and educational programs around the world; with its own methods manuals, its own readers, and its own textbooks
+
+
+== Subjects of inquiry ==
+
+
+=== Usage ===
+All societies make use of the biological world in which they are situated, but there are wide differences in use, informed by perceived need, available technology, and the culture's sense of morality and sustainability. Ethnobiologists investigate what lifeforms are used for what purposes, the particular techniques of use, the reasons for these choices, and symbolic and spiritual implications of them.
+
+
+=== Taxonomy ===
+Different societies divide the living world up in different ways. Ethnobiologists attempt to record the words used in particular cultures for living things, from the most specific terms (analogous to species names in Linnean biology) to more general terms (such as 'tree' and even more generally 'plant'). They also try to understand the overall structure or hierarchy of the classification system (if there is one; there is ongoing debate as to whether there must always be an implied hierarchy.
+
+
+=== Cosmological, moral and spiritual significance ===
+Societies invest themselves and their world with meaning partly through their answers to questions like "how did the world happen?", "how and why did people come to be?", "what are proper practices, and why?", and "what realities exist beyond or behind our physical experience?" Understanding these elements of a societies' perspective is important to cultural research in general, and ethnobiologists investigate how a societies' view of the natural world informs and is informed by them.
+
+
+=== Traditional ecological knowledge ===
+In order to live effectively in a given place, a people needs to understand the particulars of their environment, and many traditional societies have complex and subtle understandings of the places in which they live. Ethnobiologists seek to share in these understandings, subject to ethical concerns regarding intellectual property and cultural appropriation.
+
+
+=== Cross-cultural ethnobiology ===
+In cross cultural ethnobiology research, two or more communities participate simultaneously. This enables the researcher to compare how a bio-resource is used by different communities.
+
+
+== Subdisciplines ==
+
+
+=== Ethnobotany ===
+
+Ethnobotany investigates the relationship between human societies and plants: how humans use plants – as food, technology, medicine, and in ritual contexts; how they view and understand them; and their symbolic and spiritual role in a culture.
+
+
+=== Ethnozoology ===
+
+The subfield ethnozoology focuses on the relationship between animals and humans throughout human history. It studies human practices such as hunting, fishing and animal husbandry in space and time, and human perspectives about animals such as their place in the moral and spiritual realms.
+
+
+=== Ethnoecology ===
+
+Ethnoecology refers to an increasingly dominant 'ethnobiological' research paradigm focused, primarily, on documenting, describing, and understanding how other peoples perceive, manage, and use whole ecosystems.
+
+
+== Other disciplines ==
+Studies and writings within ethnobiology draw upon research from fields including archaeology, geography, linguistics, systematics, population biology, ecology, cultural anthropology, ethnography, pharmacology, nutrition, conservation, and sustainable development.
+
+
+== Ethics ==
+Through much of the history of ethnobiology, its practitioners were primarily from dominant cultures, and the benefit of their work often accrued to the dominant culture, with little control or benefit invested in the indigenous peoples whose practice and knowledge they recorded.
+Just as many of those indigenous societies work to assert legitimate control over physical resources such as traditional lands or artistic and ritual objects, many work to assert legitimate control over their intellectual property.
+In an age when the potential exists for large profits from the discovery of, for example, new food crops or medicinal plants, modern ethnobiologists must consider intellectual property rights, the need for informed consent, the potential for harm to informants, and their "debt to the societies in which they work".Furthermore, these questions must be considered not only in light of western industrialized nations' common understanding of ethics and law, but also in light of the ethical and legal standards of the societies from which the ethnobiologist draws information.
+
+
+== See also ==
+
+
+== Footnotes ==
+
+
+== References ==
+ALEXIADES, M.N. (1996) Selected guidelines for ethnobotanical research: a field manual. The New York Botanical Garden. New York.
+BALLEE, W (1998) (ed.) Advances in historical ecology. New York: Columbia University Press.
+BERLIN, Brent (1992) Ethnobiological Classification - Principles of Categorization of Plants and Animals in Traditional Societies. Princeton University Press, 1992.
+CASTETTER, E.F. (1944) "The domain of ethnobiology". The American Naturalist. Volume 78. Number 774. Pages 158-170.
+CONKLIN, H.C. (1954) The relation of Hanunóo culture to the plant world. PhD dissertation, Yale University.
+COTTON, C.M (1996) Ethnobotany: principles and applications. John Wiley. London.
+CUNNINGHAM, A.B (2001) Applied ethnobotany: people, wild plant use and conservation. Earthscan. London
+DODSON, Michael (2007). "Report of the Secretariat on Indigenous traditional knowledge" (PDF). Report to the United Nations Economic and Social Council's Permanent Forum on Indigenous Issues, Sixth Session, New York, 14–25 May. United Nations Economic and Social Council. New York. Retrieved 2007-11-28.
+ELLEN, Roy (1993) The Cultural Relations of Classification, an Analysis of Nuaulu Animal Categories from Central Seram. Cambridge: Cambridge University Press.
+ELLEN, Roy (2006). "Introduction" (PDF). Special Edition of the Journal of the Royal Anthropological Institute. S1-S22. Retrieved 2008-04-21.
+HARRINGTON, J.P (1947) "Ethnobiology". Acta Americana. Number 5. Pages 244-247
+HAUDRICOURT, Andre-Georges (1973) "Botanical nomenclature and its translation." In M. Teich & R Young (Eds) Changing perspectives in the history of science: Essays in honour of Joseph Needham Heinemann. London. Pages 265-273.
+Hunn, Eugene (2007). "Ethnobiology in Four Phases". Journal of Ethnobiology. 27 (1): 1–10. doi:10.2993/0278-0771(2007)27[1:EIFP]2.0.CO;2. ISSN 0278-0771. S2CID 26309207.
+JOHANNES, R.E (Ed)(1989) Traditional ecological knowledge. IUCN, The World Conservation Union. Cambridge
+LAIRD, S.A. (Ed) (2002) Biodiversity and traditional knowledge: equitable partnerships in practice. Earthscan. London.
+LEVI-STRAUSS, Claude (1966). The savage mind. Weidenfeld & Nicolson. London.
+MARTIN, G.J (1995) Ethnobotany: a methods manual. Chapman & Hall. London.
+MINNIS, P (Ed) (2000) Ethnobotany: a reader. University of Oklahoma Press. Norman.
+PLOTKIN, M.J (1995) "The importance of ethnobotany for tropical forest conservation." in R.E. Schultes & Siri von Reis (Eds) Ethnobotany: evolution of a discipline (eds) Chapman & Hall. London. Pages 147-156.
+PORTERES, R. (1977)."Ethnobotanique." Encyclopaedia Universalis Organum Number 17. Pages 326-330.
+POSEY, D.A & W. L. Overal (Eds.), 1990) Ethnobiology: Implications and Applications. Proceedings of the First International Congress of Ethnobiology. Belém: Museu Paraense Emílio Goeldi.
+POSEY, D. A. (Ed.), (1999) Cultural and Spiritual Values of Biodiversity. London: United Nations Environmental Programme & Intermediate Technology Publications.
+SCHULTES, R.E. & VON REIS, S (1995) (Eds) Ethnobotany: evolution of a discipline (eds) Chapman & Hall. London. Part 6.
+SILLITOE, Paul (2006) "Ethnobiology and applied anthropology: rapprochement of the academic with the practical". Special Edition of the Journal of the Royal Anthropological Institute S119-S142
+STEVENSON, M.C. (1914) "Ethnobotany of the Zuni Indians."  Bureau of American Ethnology Annual Report. Volume 30. Number 31102, Government Printing Office. Washington, D.C.
+TUXILL, J & NABHAN, G.P (2001) People, plants and protected area. Earthscan. London.
+WARREN, D.M; SLIKKERVEER, L; & BROKENSHA, D. (Eds) (1995) The cultural dimension of development: indigenous knowledge systems. Intermediate Technology Publications. London.
+ZERNER, C (Ed) (2000) People, plants and justice: the politics of nature conservation. Columbia University Press. New York.
+
+
+== External links ==
+
+Biology on-line "Ethnobiology" articles
+Ethnobiology — Traditional Biological Knowledge in Contemporary Global Context. (Athabasca University Course Resource List) Archived 2016-03-03 at the Wayback Machine
+International Society of Ethnobiology
+Journal of Ethnobiology
+Journal of Ethnobiology and Ethnomedicine
+Society of Ethnobiology
+Tsammalex: A lexical database on plants and animals
+Languages of hunter-gatherers and their neighbors: contains many flora and fauna names in languages spoken by hunter-gatherers and their neighbors.

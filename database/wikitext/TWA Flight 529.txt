@@ -1,0 +1,28 @@
+TWA Flight 529 was a Lockheed Constellation L-049 propliner, registration N86511, operating as a scheduled passenger service from Boston, Massachusetts to San Francisco, California. On September 1, 1961, at 02:05 CDT, the flight crashed shortly after takeoff from Midway Airport (ICAO: KMDW) in Chicago, killing all 73 passengers and five crew on board; it was at the time the deadliest single plane disaster in U.S. history.The accident was investigated by the Civil Aeronautics Board, which concluded its probable cause was the loss of a 5/16 inch bolt which fell out of the elevator control mechanism during the climb from Chicago, resulting in an abrupt pitch up followed by a stall and crash.
+
+
+== Flight history ==
+The four-engine propliner originated in Boston, and after making intermediate stops in New York and Pittsburgh, arrived at Chicago Midway Airport at 01:18 CDT, where a new crew took over, and fuel and oil were added. At 02:00 the flight departed from runway 22, bound for Las Vegas, Nevada, the next stop. Five minutes later, while climbing westbound to 5,000 ft, the aircraft suddenly pitched violently upwards, resulting in an accelerated stall from which the crew was unable to recover. The aircraft crashed into terrain, and left a debris field of 200 by 1,100 feet.
+
+
+== Investigation ==
+
+The CAB investigated the accident, and as the wreckage pieces were reassembled and scrutinized, it became apparent that a critical 5/16 inch AN-175-21 nickel steel bolt was missing in the elevator boost linkage mechanism. By carefully examining and analyzing the various scuff marks and grease patterns near the missing bolt, the CAB investigators concluded that the bolt had fallen out prior to the aircraft's disintegration and collision with the ground, and not as a result of the accident itself. Without the bolt in place, the elevator (when in boost mode), and hence the entire aircraft, would become uncontrollable. This lead the investigators to deduce that the bolt had fallen out, most likely by working itself loose, a short time prior to the beginning of the accident sequence.The design of the Lockheed Constellation L-049 aircraft allowed the pilots to disable the hydraulic elevator boost and control the elevators manually via direct mechanical linkage. The pilots of the accident flight apparently attempted to revert to manual control as the aircraft began to pitch up, but the design was such that a continuous nose down pressure on the elevators made the shift to manual elevator control mechanically impossible. Thus, according to the CAB's reconstruction of events, as the pilots were desperately applying nose down pressure to avoid a stall, they were also hampering themselves from shifting to manual mode and regaining elevator control.On December 18, 1962, the CAB published its final report on the accident, concluding that the probable cause was "... the loss of an AN-175-21 nickel steel bolt from the parallelogram linkage of the elevator boost system, resulting in loss of control of the aircraft."
+
+
+== Aftermath ==
+As a result of their investigation of the accident, the CAB urged the FAA to mandate a redesign of the elevator boost control, so that the shift to manual mode could be easily carried out by the pilots, even when applying nose down pressure. The FAA replied that they had asked the manufacturer to incorporate procedural changes in the aircraft's flight manual, but did not require any design changes.
+
+A memorial service was held at Prairie Trail Park in Willowbrook, Illinois, slightly east northeast of the crash site, on the 60th anniversary of the crash. A marker dedicated to the victims and first responders was unveiled at the ceremony.  By the 1990s, trees and brush had covered most of the crash site. As of 2022, the crash site was mostly undeveloped woodland surrounded by houses.
+
+
+== See also ==
+List of accidents and incidents involving commercial aircraft
+Emery Worldwide Flight 17
+
+
+== External links ==
+WMAQ Chicago news report at The Museum of Classic Chicago TelevisionFlight Failure: Investigating the Nuts and Bolts of Air Disasters, Donald J. Porter. Promethius Books, May 2020. (ISBN 9781633886223) https://rowman.com/ISBN/9781633886223/Flight-Failure-Investigating-the-Nuts-and-Bolts-of-Air-Disasters-and-Aviation-Safety
+
+
+== Notes ==

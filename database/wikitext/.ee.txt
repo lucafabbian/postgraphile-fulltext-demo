@@ -1,0 +1,47 @@
+.ee is the internet country code top-level domain (ccTLD) of Estonia, operated by the Estonian Internet Foundation.
+
+
+== Second-level domain names ==
+.com.ee – companies (incorporated entities) as defined in the Commercial Code.
+.pri.ee – individuals.
+.fie.ee – self-employed people (sole proprietors) as defined in the Commercial Code.
+.med.ee – medical/health care institutions.
+.edu.ee – educational institutions and projects.
+.lib.ee – libraries.
+.org.ee – non-profit organizations and projects.
+
+
+== History ==
+The top-level domain .ee was introduced in 1992 and was operated by EENet until July 2010. The administrator of .ee domain was the academic Endel Lippmaa. There was a limit of one domain name per legal entity, and registrations of additional names to protect trademarks were specifically denied because "The domain name has no trademark status". As domains under .ee were meant to be an institution's identification on the Internet (like the register code in the commercial register), registration of additional domains in the defense of a trademark or a name form is not possible. Valid registrations were free of charge.
+
+
+== Domain reform ==
+The new order of registration of .ee TLD became available on 5 July 2010. Estonian Internet Foundation took over .ee ccTLD registry functions from EENet. With the new domain rules, both private individuals and foreigners can register an unlimited number of domains directly under .ee. Domain name registration is done on two levels, .ee domain registrants are serviced by authorized registrars. Also, payment of registry administration from the state budget was stopped and a fee was established for domain registration. All existing domains registered before the transition had to be re-registered during a 6-month transition period which ended on 5 January 2011. Registration services can be done through accredited registrars listed on Estonian Internet Foundation website. Domain disputes are handled by Domain Disputes Committee.
+
+
+== After the reform ==
+On June 13, 2011, the registration of domains with the dotted letters õ, ä, ö, ü, š and žš, ž was enabled, which covered the entire Estonian alphabet under the .ee domain.
+From March 1, 2013, domains can also be registered for two or up to three years.
+On July 18, 2013, the tasks of managing the .ee domain were handed over to EIS internationally. By the decision of the board of directors of ICANN, EIS was entered into the international database of top-level domains as the administrator or sponsoring organization of the .ee domain. With the status of a sponsoring organization, all administrative tasks related to the .ee domain in front of both the domestic and the international Internet community are concentrated in one institution.
+On January 6, 2014, EIS, in cooperation with accredited registrars, launched the DNSSEC service - a system of security keys that ensures that the user is directed to the web page whose address is entered in the web browser. For example, DNSSEC ensures that entering the web address of your online bank in the address bar of a web browser does not redirect the user to a similar-looking page set up by fraudsters to steal data and passwords.
+
+
+=== Registration fee ===
+.ee domains can be registered for one, two or three years. From January 1, 2017, the domain registration fee charged to registrars is 6, 12 or 18 euros depending on the length of the registration period. In 2016, the registration fee was 7, 14 and 21 euros depending on the length of the registration period. VAT is added to the fee. The fee for the domain registrant is determined by the registrars. The final cost is also influenced by competition on the market.
+
+
+== Domain hacks ==
+Linktree, a social media landing page service, uses the .ee domain (linktr.ee).
+Adventist World Radio, a refugee info and charity service, also uses the .ee domain (refug.ee).
+Shopee, an online retail site, uses the .ee domain for its link shortener service (shp.ee).
+
+
+== Criticism ==
+The new order of domain registering in 2010 was met with great controversy. The relaunch of the registry was at one point delayed to be reassessed. When the relaunch was finalized, the annual fee for a .ee domain was announced to be 285 Estonian kroons (18.2 euros) plus tax, which was met with wide criticism. A list of shortcomings was presented in a public notice to Estonian Internet Foundation by Tõnu Samuel and Jaan Jänesmäe, mentioning that the .ee domain had become the most expensive TLD in Europe. Their cause gained over 800 supporters on Facebook.The NGO Estonian Internet Community was founded partly as a reaction to the controversial domain reform with 22 founding members. Its board is made up of Tõnu Samuel, Elver Loho and Heiti Kender. Recently it noted on its blog that several of its members had lost faith in the possibility of any sort of compromise and had independently written e-mails to IANA asking them to step in to resolve the controversy.Over the following years the annual fee has gradually dropped, reaching 6 euros on 1 January 2017.
+
+
+== Notes and references ==
+
+
+== External links ==
+IANA .ee whois information

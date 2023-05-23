@@ -1,0 +1,36 @@
+Alphonse Pénaud (31 May 1850 – 22 October 1880), was a 19th-century French pioneer of aviation design and engineering.  He was the originator of the use of twisted  rubber to  power model aircraft, and his 1871 model airplane, which he called the Planophore, was the first aerodynamically stable flying model.  He went on to design a full-sized aircraft with many advanced features, but was unable to get any support for the project, and eventually committed suicide in 1880, aged 30. 
+
+
+== Biography ==
+Pénaud was born in Paris into a naval family, his father Charles Pénaud being an admiral in the French Navy. Because of a hip disease he walked with the aid of crutches and so was unable to attend the Naval School. At 20, he began studying aviation and joined the newly-founded Société Aéronautique de France. He became vice-president of the Society in 1876 and participated in the publication of the journal L'Aéronaute.
+In 1870, Pénaud made the first of a series of successful model helicopters. The principle of this was not new, having been demonstrated to the French Academy of Sciences in 1784 by M. Launoy, a naturalist, and M. Bienvenu, and was known by Sir George Cayley, but it was the first use of twisted rubber to power a flying model. During the early years of the development of heavier-than-air flight, many experimenters were to use this method of propulsion for experimental models, including Lawrence Hargrave and A.V. Roe.
+
+
+=== Planophore ===
+The next year he built the Planophore, which was to be a major influence on early aircraft design. In addition to the use of a twisted rubber motor driving a pusher propeller, this machine introduced two important principles to practical aeronautics: the wings were curved upwards at the tips, in effect having dihedral, and the rear-mounted horizontal stabiliser was set at a smaller angle of incidence than the wings. Both of these design features gave the planophore a degree of automatic stability. The principle of dihedral had been worked out by Sir George Cayley, although at the time Pénaud was not aware of Cayley's work. The principle of a difference in the angle of incidence between the main lifting surface and the stabiliser was worked out for the first time by Pénaud. The Planophore was successfully flown at the Tuileries Gardens in Paris in front of members of the Société Aéronautique on 18 August 1871, flying a distance of 131 feet (40 m) and staying in the air for 11 seconds.
+The Planophore was 51 cm (20 in) long with a wingspan of 46 cm (18 in) and a wing area of 0.05 m² (0.53 ft2) with a two-bladed propeller 20 cm (8 in) in diameter. It weighed 16 g (0.56 oz), of which the rubber accounted for 5 g (0.17 oz).
+
+
+=== Later work ===
+The following year he produced a rubber-driven ornithopter. Both the helicopter and the ornithopter enjoyed some success as toys. In 1873 he started collaborating with an engineer named Paul Gauchot, and produced two designs for full-sized aircraft, the first in 1874 and the second in 1876. The 1876 aircraft was drawn in detail for the purpose of patenting the ideas it incorporated, and had many remarkably advanced features, including electrically operated elevators, a fully enclosed cabin for the pilot, a retractable undercarriage, and the use of a pair of propellers rotating in opposite directions to eliminate the torque reaction caused by a single propeller.
+He also participated in lighter than air experimentation, and produced a number of ingenious devices, including a differential barometer to show the rate of ascent or descent.
+Alphonse Pénaud was unable to obtain any financial backing for his ambitious design and committed suicide on 22 October 1880, aged 30.
+
+
+== Influence ==
+Pénaud's experiments were comprehensively described by Octave Chanute in his book Progress in Flying Machines.
+A helicopter of the Pénaud type was given to the Wright Brothers by their father in 1878. The Wright brothers would later mention it as an early inspiration for their interest in flight.
+Pénaud is one of the unsuccessful aviation pioneers mentioned in the Marc Blitzstein composition The Airborne Symphony.
+
+
+== Notes ==
+
+
+== References ==
+
+
+== External links ==
+Archive of Monash University website page on Pénaud
+Article on Pénaud in the Encyclopédie Universalis
+Photo and biography of Alphonse Pénaud
+Alphonse Pénaud - Engines of Our Ingenuity

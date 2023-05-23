@@ -1,0 +1,22 @@
+Malcolm Dixon (18 April 1899 – 7 December 1985) was a British biochemist.
+
+
+== Education and early life ==
+Dixon was born in Cambridge, UK to Allick Page Dixon and Caroline Dewe Dixon (née Mathews). He received his PhD in 1925, for research supervised by Frederick Gowland Hopkins at the University of Cambridge.
+
+
+== Research and career ==
+Dixon's research investigated the purification of enzymes and the enzyme kinetics of enzyme-catalyzed reactions. He studied the oxidation of glutathione and other thiols by molecular oxygen and measured the redox potential of the thiol-disulfide system, also establishing that the oxidation of glutathione was catalyzed by trace metals. He investigated xanthine oxidase, and thereby elucidated many aspects of the chemistry of dehydrogenases. He showed that the hydrogen peroxide formed in the reaction of xanthine oxidase with molecular oxygen inactivated the enzyme and that the inhibition could be relieved by the addition of catalase, thus helping to establish a biochemical role for the latter enzyme. Dixon published a series of papers on D-amino acid oxidase, detailing the kinetics and thermodynamics of association of the coenzyme with the apoprotein, the substrate and inhibitor specificity, and the effect of pH on the kinetic constants.
+Dixon was an expert on the theory and use of manometers. In 1931, he collaborated with David Keilin and Robin Hill to determine the first absorption spectrum of a cytochrome, cytochrome c. Dixon studied the chemistry of lachrymators and mustard gas and proposed a phosphokinase theory to explain their mode of action.Dixon proposed a widely used way of plotting enzyme inhibition data, commonly known as the Dixon plot, 
+in which reciprocal rate is plotted against the inhibitor concentration. Rather confusingly, the same name is sometimes given to a quite different plot proposed by Dixon in the  same year for analysing pH dependences, in which the logarithm of a Michaelis–Menten parameter is plotted against pH.
+
+
+== Enzymes (Dixon & Webb) ==
+Dixon's classic book Enzymes, written with Edwin C. Webb and published in 1958, with further editions in 1964 and 1979, had a great influence of the development of biochemistry. It contained one of the first major efforts to devise a systematic way of classifying and naming enzymes. This formed the starting point for the present classification by the IUBMB.
+
+
+== Awards and honours ==
+Dixon was elected a Fellow of the Royal Society (FRS) in 1942 and became a Fellow of King's College, Cambridge in 1950. He died in Cambridge in 1985.
+
+
+== References ==

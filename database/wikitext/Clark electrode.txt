@@ -1,0 +1,27 @@
+The Clark electrode is an electrode that measures ambient oxygen partial pressure in a liquid using a catalytic platinum surface according to the net reaction:
+O2 + 4 e− + 4 H+ → 2 H2OIt improves on a bare platinum electrode by use of a membrane to reduce fouling and metal plating onto the platinum.
+
+
+== History ==
+Leland Clark (Professor of Chemistry, Antioch College, Yellow Springs, Ohio, and Fels Research Institute, Yellow Springs, Ohio) had developed the first bubble oxygenator for use in cardiac surgery. However, when he came to publish his results, his article was refused by the editor since the oxygen tension in the blood coming out from the device could not be measured. This motivated Clark to develop the oxygen electrode.The electrode, when implanted in vivo, will reduce oxygen and thus required stirring in order to maintain an equilibrium with the environment. Severinghaus improved the design by adding a stirred cuvette in a thermostat. A discrepancy between the measured partial pressure of oxygen (pO2) between blood samples and gaseous mixtures of identical pO2, meant that the modified electrode required calibration; consequently a microtonometer was added to the water thermostat.
+
+
+== Mechanism of action ==
+The electrode compartment is isolated from the reaction chamber by a thin Teflon membrane; the membrane is permeable to molecular oxygen and allows this gas to reach the cathode, where it is electrolytically reduced.
+The above reaction requires a steady stream of electrons to the cathode, which depends on the rate at which oxygen can reach the electrode surface. Increasing the voltage applied (between the Pt electrode and a second Ag electrode) will increase the rate of electrocatalysis. Clark affixed an oxygen permselective membrane over the Pt electrode. This limits the diffusion rate of oxygen to the Pt electrode.
+Above a certain voltage, the current plateaus and increasing the potential any further does not result in a higher rate of electrocatalysis of the reaction. At this point, the reaction is diffusion-limited and depends only on the permeability properties of the membrane (which is ideally well characterized, the electrode being calibrated against known standard solutions) and by the oxygen gas concentration, which is the measured quantity.
+
+
+== Applications ==
+
+The Clark oxygen electrode laid the basis for the first glucose biosensor (in fact the first biosensor of any type), invented by Clark and Lyons in 1962.
+This sensor used a single Clark oxygen electrode coupled with a counter-electrode. As with the Clark electrode, a permselective membrane covers the Pt electrode. Now, however, the membrane is impregnated with immobilized glucose oxidase (GOx). The GOx will consume some of the oxygen as it diffuses towards the PT electrode, incorporating it into H2O2 and gluconic acid. The rate of reaction current is limited by the diffusion of both glucose and oxygen. This diffusion can be well characterized for a membrane for both the oxygen and glucose, leaving as the only variable the oxygen and glucose concentrations on the analyte-side of the glucose membrane, which is the quantity being measured.
+
+
+== References ==
+
+
+== External links ==
+Clark-type Sensors Explained, The Gas Detector Encyclopedia, Edaphic Scientific Knowledge Base
+Biosensors & Bioelectronics: Leland Clark
+Clark Oxygen Electrode, precursor to today's modern biosensors - broken link

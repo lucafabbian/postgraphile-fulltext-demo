@@ -1,0 +1,19 @@
+Lutetium (177Lu) vipivotide tetraxetan, sold under the brand name Pluvicto, is a radiopharmaceutical medication used for the treatment of prostate-specific membrane antigen (PSMA)-positive metastatic castration-resistant prostate cancer (mCRPC). Lutetium (177Lu) vipivotide tetraxetan is a targeted radioligand therapy.The most common adverse reactions include fatigue, dry mouth, nausea, anemia, decreased appetite, and constipation.Lutetium (177Lu) vipivotide tetraxetan is a radioconjugate composed of PSMA-617, a human prostate-specific membrane antigen (PSMA)-targeting ligand, conjugated to the beta-emitting radioisotope lutetium-177, with potential antineoplastic activity against PSMA-expressing tumor cells. Upon intravenous administration of lutetium (177Lu) vipivotide tetraxetan, vipivotide tetraxetan targets and binds to PSMA-expressing tumor cells. Upon binding, PSMA-expressing tumor cells are destroyed by 177Lu through the specific delivery of beta particle radiation. PSMA, a tumor-associated antigen and type II transmembrane protein, is expressed on the membrane of prostatic epithelial cells and overexpressed on prostate tumor cells.Lutetium (177Lu) vipivotide tetraxetan was approved for medical use in the United States in March 2022, and in the European Union in December 2022. The US Food and Drug Administration (FDA) considers it to be a first-in-class medication.
+
+
+== History ==
+In 2006, scientists from Purdue University designed a targeting ligand that bound with high affinity and specificity to PSMA on prostate cancer cells and patented its ability to target attached radionuclides such as 177Lu, 99mTc, 68Ga, etc. to prostate cancers. The patents were licensed to Endocyte in 2007. In 2012, scientists at German Cancer Research Center and University Hospital Heidelberg improved the drug's affinity, patented, and licensed to ABX advanced biomedical compounds, a small German pharmaceutical company, for early clinical development. In 2017, the ABX patent was also acquired by Endocyte and Endocyte together with the above two sets of patents was acquired by Novartis in 2018.Efficacy was evaluated in VISION, a randomized (2:1), multicenter, open-label trial that evaluated lutetium (177Lu) vipivotide tetraxetan plus best standard of care (BSoC) (n=551) or BSoC alone (n=280) in men with progressive, prostate-specific membrane antigen (PSMA)-positive metastatic castration-resistant prostate cancer (mCRPC). All participants received a GnRH analog or had prior bilateral orchiectomy. Participants were required to have received at least one androgen receptor pathway inhibitor, and 1 or 2 prior taxane-based chemotherapy regimens. Participants received lutetium (177Lu) vipivotide tetraxetan 7.4 GBq (200 mCi) every 6 weeks for up to a total of 6 doses plus BSoC or BSoC alone.The U.S. Food and Drug Administration (FDA) granted the application for lutetium (177Lu) vipivotide tetraxetan priority review and breakthrough therapy designations.
+
+
+== Society and culture ==
+
+
+=== Legal status ===
+On 13 October 2022, the Committee for Medicinal Products for Human Use (CHMP) of the European Medicines Agency (EMA) adopted a positive opinion, recommending the granting of a marketing authorization for the medicinal product Pluvicto, intended for the treatment of prostate cancer. The applicant for this medicinal product is Novartis Europharm Limited. Lutetium (177Lu) vipivotide tetraxetan was approved for medical use in the European Union in December 2022.
+
+
+== References ==
+
+
+== External links ==
+"Lutetium lu 177 vipivotide tetraxetan". Drug Information Portal. U.S. National Library of Medicine.

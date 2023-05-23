@@ -1,0 +1,26 @@
+Virulence-related outer membrane proteins, or outer surface proteins (Osp) in some contexts, are expressed in the outer membrane of gram-negative bacteria and are essential to bacterial survival within macrophages and for eukaryotic cell invasion.
+This family consists of several bacterial and phage Ail/Lom-like proteins. The Yersinia enterocolitica Ail protein is a known virulence factor. Proteins in this family are predicted to consist of eight transmembrane beta-sheets and four cell surface-exposed loops. It is thought that Ail directly promotes invasion and loop 2 contains an active site, perhaps a receptor-binding domain.  The phage protein Lom is expressed during lysogeny, and encode host-cell envelope proteins. Lom is found in the bacterial outer membrane, and is homologous to virulence proteins of two other enterobacterial genera. It has been suggested that lysogeny may generally have a role in bacterial survival in animal hosts, and perhaps in pathogenesis.
+Borrelia burgdorferi (responsible for Lyme disease) outer surface proteins play a role in persistence within ticks (OspA, OspB, OspD), mammalian host transmission (OspC, BBA64), host cell adhesion (OspF, BBK32, DbpA, DbpB), and in evasion of the host immune system (VlsE). OspC trigger innate immune system via signaling through TLR1, TLR2 and TLR6 receptors.
+
+
+== Examples ==
+Members of this group include:
+
+PagC, required by Salmonella typhimurium for survival in macrophages and for virulence in mice
+Rck outer membrane protein of the S. typhimurium and S. enteritidis virulence plasmid
+Ail, a product of the Yersinia enterocolitica chromosome capable of mediating bacterial adherence to and invasion of epithelial cell lines
+OmpX from Escherichia coli that promotes adhesion to and entry into mammalian cells. It also has a role in the resistance against attack by the human complement system
+a Bacteriophage lambda outer membrane protein, Lom
+OspA/B are lipoproteins from Borrelia burgdorferi. OspA and OspB share 53% amino acid identity and likely have a similar antiparallel “free-standing” β sheet protein structure associated with the outer membrane surface via a lipidated NH2-terminal cysteine residue. OspA
+OspC is a major surface lipoprotein produced by Borrelia burgdorferi when infected ticks feed. OspC is necessary for tick salivary gland invasion. OspC-deficient B. burgdorferi have a markedly reduced capacity (approximately 800-fold less than control spirochetes, OspC expressing) for successful transmission to mice. Its synthesis decreases after transmission to a mammalian host. This protein disappears from the bacterial surface around 2 weeks after infection.
+
+
+== Structure ==
+The crystal structure of OmpX from E. coli reveals that OmpX consists of an eight-stranded antiparallel all-next-neighbour beta barrel. The structure shows two girdles of aromatic amino acid residues and a ribbon of nonpolar residues that attach to the membrane interior. The core of the barrel consists of an extended hydrogen bonding network of highly conserved residues. OmpX thus resembles an inverse micelle. The OmpX structure shows that the membrane-spanning part of the protein is much better conserved than the extracellular loops. Moreover, these loops form a protruding beta sheet, the edge of which presumably binds to external proteins. It is suggested that this type of binding promotes cell adhesion and invasion and helps defend against the complement system. Although OmpX has the same beta-sheet topology as the structurally related outer membrane protein A (OmpA) InterPro: IPR000498, their barrels differ with respect to the shear numbers and internal hydrogen-bonding networks.
+OspA from Borrelia burgdorferi is an unusual outer surface protein, it has two globular domains which are connected with a single-layer β-sheet. This protein is highly soluble, contains a large number of Lys and Glu residues. These high entropy residues may disfavor crystal packing.
+
+
+== References ==
+
+
+== Further reading ==

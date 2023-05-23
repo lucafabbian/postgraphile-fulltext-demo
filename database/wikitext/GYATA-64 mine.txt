@@ -1,0 +1,22 @@
+The GYATA-64 is a Hungarian antipersonnel mine, very similar to the Russian PMN mine in design and appearance. However, the Gyata-64 mine has a 300 gram explosive charge compared with the 249 gram charge in a PMN mine. As a result, the Gyata-64 is the most powerful AP blast mine commonly encountered, for which reason it is particularly deadly.
+To put things in perspective, most anti-personnel blast mines (e.g. the VS-50) contain around 50 grams of explosive, which is enough to destroy all or part of a victim's foot. In marked contrast, the 300 gram charge inside a Gyata-64 mine can easily destroy a victim's entire leg (often requiring amputation high above the knee) in addition to inflicting severe injuries on the adjacent limb, which may also require some form of amputation.
+The Gyata-64 mine is cylindrical with a plastic body and a black rubber pressure cap. The fuze protrudes from either side of the mine. Although the body is plastic, the fuze itself contains a steel striker and spring, which make it detectable by conventional mine detectors. It is not a blast resistant mine.
+Hungary ceased production of all antipersonnel mines before 1995  and by 1998 had destroyed its stock pile of 149,686 GYATA-64 mines. Approximately 1,500 were retained for training and research as of 2004. Legacy stockpiles may exist in some foreign countries, in addition to those already planted in existing minefields. Examples have been found in Mozambique, Angola, Lebanon and Yemen.
+The render safe procedures are the same as those used for the PMN mine.
+
+
+== Specifications ==
+Height: 61 mm
+Diameter: 106 mm
+Weight: 520 g
+Explosive charge: 300 g TNT
+
+
+== References ==
+
+
+== External links ==
+GYATA-64 mine at ORDATA
+Gyata-64 mine #1 Archived 2007-08-15 at the Wayback Machine
+Gyata-64 mine #2 Archived 2008-04-05 at the Wayback Machine
+Demining incident involving a Gyata-64 mine

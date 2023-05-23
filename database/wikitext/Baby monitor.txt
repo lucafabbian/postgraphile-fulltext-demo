@@ -1,0 +1,53 @@
+A baby monitor, also known as a baby alarm, is a radio system used to remotely listen to sounds made by an infant. An audio monitor consists of a transmitter unit, equipped with a microphone, placed near to the child.  It transmits the sounds by radio waves to a receiver unit with a speaker carried by, or near to, the person caring for the infant. Some baby monitors provide two-way communication which allows the parent to speak back to the baby (parent talk-back). Some allow music to be played to the child. A monitor with a video camera and receiver is often called a baby cam.
+One of the primary uses of baby monitors is to allow attendants to hear when an infant wakes, while out of immediate hearing distance of the infant. Although commonly used, there is no evidence that these monitors prevent SIDS, and many doctors believe they provide a false sense of security. Infants and young children can often be heard over a baby monitor in crib talk, in which they talk to themselves. This is a normal part of practising their language skills.
+
+
+== History ==
+The first baby monitor was the Zenith Radio Nurse in 1937. This Zenith Radio product was developed by Eugene F. McDonald, and designed by Japanese-American sculptor and product designer Isamu Noguchi.
+
+
+== Video baby monitors (baby cams) ==
+Some baby monitors also use a video camera to show pictures on the receiver, either by plugging the receiver into a television or by including a portable LCD screen. This type of surveillance camera is often called a baby cam.
+Some baby cams can work at night with low light levels. Most video baby monitors today have a night vision feature. Infrared LEDs attached on the front of the camera allow a user to see the baby in a dark room. Video baby monitors that have night vision mode will switch to this mode automatically in the dark. Some advanced baby cams now work over Wi-Fi so parents can watch babies through their smartphone or computer.
+Baby monitors continue to evolve and now also can utilize features such as night lights and built-in lullabies. These are not available in all monitors. Some include temperature and movement monitoring devices to sit underneath a mattress or close to the baby within a cot.
+
+
+== Movement monitors ==
+A baby movement monitor uses sensor pads placed under the crib mattress to detect movement, if movement stops for more than 20 seconds an alarm will sound.
+
+
+== Wired and wireless ==
+Baby monitors generally use wireless systems, but can also use wires or may operate over existing household wiring such as X10.
+Wireless systems use radio frequencies that are designated by governments for unlicensed use. For example, in North America frequencies near 49 MHz, 902 MHz or 2.4 GHz are available. While these frequencies are not assigned to powerful television or radio broadcasting transmitters, interference from other wireless devices such as cordless telephones, wireless toys, computer wireless networks, radar, Smart Power Meters and  microwave ovens is possible.
+Digital audio wireless systems using DECT, are resistant to interference and have a range up to 300 m.Analog audio transmissions can be picked up at a distance from the home by a scanner receiver or other baby monitor receivers, and so present a risk to privacy as long as the transmitter is switched on. Digital transmission such as Frequency-hopping spread spectrum provides a level of protection from casual interception.
+Some wireless baby monitors support multiple cameras on one handheld monitor-receiver. These systems are even compatible with a standard wireless security camera.
+FM transmitters, paired with a microphone can be an inexpensive solution to a DIY baby monitor, since clock radios can also be used as one.
+
+
+== Smartphone as baby monitors ==
+Smartphone apps allow a user to monitor a camera-equipped device, such as another smartphone or a tablet. Alternatively, Wi-Fi or Bluetooth can link a camera to a dedicated app on a smartphone or tablet.  This means a smart device doesn't need to be left in the baby's room.
+
+
+== Other features ==
+Portable battery-operated receivers can be carried by the parent around the house. The transmitter stays near the infant crib and is usually plugged into a AC socket. Some baby monitor packages include two receivers.
+Baby monitors may have a visible signal as well as repeating the sound.  This is often in the form of a set of lights to indicate the noise level, allowing the device to be used when it is inappropriate or impractical for the receiver to play the sound. Other monitors have a vibrating alert on the receiver making it particularly useful for people with hearing difficulties.
+Systems with several transmitters can monitor several rooms in the home at once.
+Transmitters with movement sensors such as a pressure-sensitive mat placed beneath the child's mattress give additional warning of restless activity by the infant.
+
+
+== Standards ==
+The new voluntary ASTM International F2951 standard has been developed to address incidents associated with strangulations that can result from infant entanglement in the cords of baby monitors. This standard for baby monitors includes requirements for audio, video, and motion sensor monitors. It provides requirements for labeling, instructional material and packaging and is intended to minimize injuries to children resulting from normal use and reasonably foreseeable misuse or abuse of baby monitors.
+
+
+== Privacy ==
+Signals of baby monitors can be received by third parties, presenting privacy issues.
+
+
+== See also ==
+Frequency-hopping spread spectrum (FHSS)
+Nanny cam
+Spy video car
+Title 47 CFR Part 15
+
+
+== References ==

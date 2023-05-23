@@ -1,0 +1,12 @@
+The 3D Print Canal House is a three-year, publicly accessible "Research & Design by Doing" project in which an international team of partners from various sectors works together on 3D printing a canal house in Amsterdam.By building the house, all parties research the possibilities of 3D printing architecture and form connections between design, science, culture, building, software, communities and the city.  The project serves as both an exhibition of 3D printing technology, as well as a research site into 3D printing architecture. The project is initiated by DUS architects and the site, in Amsterdam North, opened to the public on March 1, 2014.
+
+
+== Kamermaker ==
+The house is constructed by a fused deposition modeling printer developed by DUS: the Kamermaker ("Room builder"), able to print elements of up to 2.2×2.2×3.5 metres. It is a movable pavilion with the size of a shipping container. The machine itself is 6 meters tall. The Kamermaker can be moved by truck or by ship.
+
+
+== See also ==
+Construction 3D printing
+
+
+== References ==

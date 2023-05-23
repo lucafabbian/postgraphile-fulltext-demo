@@ -1,0 +1,17 @@
+The Virginia Tech Stability Wind Tunnel is a medium-scale wind tunnel located at Virginia Polytechnic Institute and State University (Virginia Tech) in Blacksburg, Virginia. With a test section measuring 6 by 6 ft (1.8 by 1.8 m) and maximum wind speeds of approximately 262.6 ft/s (80.0 m/s), it is one of the largest university-owned wind tunnels in the United States, and is used for a wide variety of research projects within the college as well as being contracted out for commercial use, especially product testing.   Professor William Devenport is the current director, and Dr. Aurelien Borgoltz is the assistant director.
+
+
+== History ==
+The Stability Wind Tunnel was first built by the National Advisory Committee on Aeronautics (NACA), the predecessor to NASA, at Langley Research Center in 1940. The wind tunnel was used by NACA for deriving the dynamic stability of fixed models for nearly two decades. In 1958, shortly after being declared surplus, it was acquired by Virginia Tech and was attached to the university's Randolph Hall, where it was re-activated in 1961, and remains active to this day, currently being operated by the Department of Aerospace and Ocean Engineering.
+
+
+== Technical details ==
+The Stability Wind Tunnel is powered by a 600-horsepower motor which turns a 14 ft (4.3 m) propeller. In the 1990s, the fan was updated with new, custom-made blades built by Prince Aircraft Company. With the usual set-up, the wind tunnel can, at max velocity, attain a Reynolds Number of over 5,000,000. The removable test section currently in use in the tunnel utilizes stretched Kevlar walls which allow sufficient air flow to exit the system while not disrupting the airflow within the test section. This causes an absence of background noise allows researchers to monitor the sounds coming from the test section with microphones in order to gain data regarding the airflow and turbulence of smooth airfoils and other objects. Along with chambers placed alongside the test section, this leads to the current test section being called "anechoic".
+The majority of the data is currently received and analyzed by a National Instruments mainframe, alongside a number of amplifiers and other assorted equipment.
+
+
+== Commercial use ==
+The Stability Wind Tunnel has been utilized for research by a number of private organizations. These include a NASA-sponsored acoustic test regarding the landing gear of the Boeing 777 and simulated maneuvers of a scale aircraft in order to obtain data for descent of the aircraft.
+
+
+== References ==

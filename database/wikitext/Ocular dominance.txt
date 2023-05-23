@@ -1,0 +1,30 @@
+Ocular dominance, sometimes called eye preference or eyedness, is the tendency to prefer visual input from one eye to the other. It is somewhat analogous to the laterality of right- or left-handedness; however, the side of the dominant eye and the dominant hand do not always match. This is because both hemispheres control both eyes, but each one takes charge of a different half of the field of vision, and therefore a different half of both retinas (See Optic Tract for more details). There is thus no direct analogy between "handedness" and "eyedness" as lateral phenomena.Approximately 70% of the population are right-eye dominant and 29% left-eye dominant.  Dominance does appear to change depending upon direction of gaze due to image size changes on the retinas. There also appears to be a higher prevalence of left-eye dominance in those with Williams–Beuren syndrome, and possibly in migraine sufferers as well. Eye dominance has been categorized as "weak" or "strong"; highly profound cases are sometimes caused by amblyopia or strabismus.
+In those with anisometropic myopia (different amounts of nearsightedness between the two eyes), the dominant eye has typically been found to be the one with more myopia. As far as regards subjects with normal binocular vision, the widespread notion that the individual's better-sighted eye would tend to be the dominant eye has been challenged as lacking empirical basis.Dominance can change and may switch between the eyes depending on the task and physical condition of the subject (i.e. fatigue).
+
+
+== Effects ==
+In normal binocular vision there is an effect of parallax, and therefore the dominant eye is the one that is primarily relied on for precise positional information. This may be extremely important in sports which require aim, such as archery, darts or shooting sports.
+It has been asserted that cross-dominance (in which the dominant eye is on one side and the dominant hand is on the other) is advantageous in sports requiring side-on stances (e.g. baseball, cricket, golf); and tennis, however, studies within the last 20 years have shown this not to be the case. In a 1998 study of professional baseball players, hand–ocular dominance patterns did not show an effect on batting average or ERA. Similarly, in 2005, a South African study found that "cricketers were not more likely to have crossed dominance" than the normal population.Ocular dominance is an important consideration in predicting patient satisfaction with monovision correction in cataract surgery refractive surgery, also laser eye surgery, and contact lens wear.
+The dominant eye has more neural connections to the brain than the other eye does. According to a sixty-person study in the Proceedings of the Royal Society B, in non-dyslexic people, the blue cone-free spot in the dominant eye tends to be round and the same spot in the non-dominant eye tends to be unevenly shaped; in dyslexic people both eyes tend to have round areas. The study suggests this difference may be a potential, and possibly treatable, cause of dyslexia; however, further tests are required to confirm. At least 700 million people worldwide have dyslexia. In response to the study, John Stein of the University of Oxford cautions that while the study is "really interesting", there is no one single cause of dyslexia.
+
+
+== Determination ==
+A person's dominant eye "is determined by subjective alignment of two objects presented at a stereodisparity far beyond Panum's area". There are a number of ways to do this:
+
+The Miles test. The observer extends both arms, brings both hands together to create a small opening, then with both eyes open views a distant object through the opening. The observer then alternates closing the eyes or slowly draws opening back to the head to determine which eye is viewing the object (i.e. the dominant eye).
+The Porta test. The observer extends one arm, then with both eyes open aligns the thumb or index finger with a distant object. The observer then alternates closing the eyes or slowly draws the thumb/finger back to the head to determine which eye is viewing the object (i.e. the dominant eye).
+The Dolman method, also known as the hole-in-the-card test. The subject is given a card with a small hole in the middle, instructed to hold it with both hands, then instructed to view a distant object through the hole with both eyes open. The observer then alternates closing the eyes or slowly draws the opening back to the head to determine which eye is viewing the object (i.e. the dominant eye).
+The convergence near-point test. The subject fixates an object that is moved toward the nose until divergence of one eye occurs (i.e. the non-dominant eye). It is an objective test of ocular dominance.
+Certain stereograms.
+The pinhole test.
+The ring test.
+Lens fogging technique. The subject fixates a distant object with both eyes open and appropriate correction in place. A +2.00 or +2.50 lens is alternately introduced in front of each eye, which blurs the distant object. The subject is then asked to state in which eye is the blur more noticeable. This is the dominant eye.
+A dichoptic motion coherence threshold test yields a quantified indication of ocular dominance.Forced choice tests of dominance, such as the Dolman method, allow only a right or left eye result.
+
+
+== See also ==
+Ocular dominance column
+Right- and left-hand traffic
+
+
+== References ==

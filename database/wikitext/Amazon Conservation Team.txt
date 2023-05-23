@@ -1,0 +1,56 @@
+The Amazon Conservation Team (ACT) is a non-profit organization that works in partnership with indigenous people of tropical South America in conserving the biodiversity of the Amazon rainforest, as well as the culture and land of its indigenous people. ACT was formed in 1996 by ethnobotanist Mark Plotkin and Costa Rican conservationist Liliana Madrigal. The organization is primarily active in the northwest, northeast, and southern regions of the Amazon.
+ACT promotes indigenous rights to land tenure and management, as well as self-determination in governance and tradition for local communities of Amazonia. Since their founding, the organization has worked with over 50 indigenous groups. In their work, ACT pioneered a 'biocultural conservation model' which necessitates direct collaboration and consent with forest-dwelling communities. In addition to safeguarding the Amazon rainforest and protecting the biodiversity of the region, ACT works to protect indigenous medicinal traditions and related intellectual property rights of communities in South America. While their headquarters are in Arlington, Virginia, there are three field offices: ACT-Brazil, ACT-Colombia, and ACT-Suriname.
+
+
+== Recognition ==
+In 2002, ACT received the United Nations Environment Programme Global 500 Award in recognition of their conservation achievements. In 2008, the organization received the Skoll Award for Social Entrepreneurship from the Skoll Foundation. In November 2010, ACT was recognized as a 2010 Tech Awards Laureate by the prestigious Tech Museum in San Jose, for their work with technology to help map the Amazon. In 2015, ACT received the 'Seeing a Better World' Award from DigitalGlobe, a leading provider of high resolution satellite imagery, aerial photos, and geospatial content.
+
+
+== Achievements ==
+Since ACT's founding, the organization directly assisted with the expansion and creation of over 1.8 million acres of indigenous reserves in South America. To date, ACT has helped secure 193,000 acres of national parklands in the Amazon rainforest. Additionally, over 76 million acres of land have been collaboratively mapped in partnership with indigenous communities, demonstrating continued land use, recording sacred ancestral sites, and highlighting important natural resources. As of 2020, ACT has put over 5 million acres of land under improved sustainable management.
+
+
+== Signature Initiatives ==
+
+
+=== Map, Manage, Protect ===
+In its efforts to achieve the land protection objectives of its indigenous partners, ACT employs a stepped procedure: first, participatory ethnographic mapping and ethno-environmental diagnostics are conducted; second, ACT helps the tribes/communities develop management plans that embrace both land protection and sustainable development; and third, ACT provides conservation and land monitoring capacity building to the tribes/communities while bringing their representatives in communication with state environmental enforcement agencies.  To this last end, ACT conducts an annual indigenous park ranger training program certified by the International Ranger Federation. Areas ethnographically mapped by ACT, in collaboration with local tribes, include Brazil's 2,800,000-hectare Xingu Indigenous Reserve, its 248,000-hectare Suruí Indigenous Reserve, and its 4,000,000-hectare Tumucumaque Indigenous Reserve. The Suruí Reserve mapping was facilitated by technical assistance from Google Earth Outreach, which also trained the tribe in remote monitoring.
+
+
+=== Shamans and Apprentices ===
+Since its inception, ACT has worked with tribal groups in the Colombian Eastern Andes (Cofan, Inga, Siona, Kamsá, and Coreguaje) and the interior of Suriname (Trio, Wayana) in an attempt to preserve, strengthen, and perpetuate their traditional healthcare systems, including their legacy ethnobotanical knowledge.  The effort emphasizes intergenerational transmission of knowledge from elders to youth. In Suriname, ACT has constructed four traditional medicine clinics in interior communities (Kwamalasamutu, Tepu, Apetina, and the Maroon village of Gonini mofo) operated by local healers and their apprentices. In 2003, this effort was selected among a handful of global initiatives for the UNESCO/Nuffic publication "Best Practices Using Indigenous Knowledge". In 2004, ACT's integrated medicine project received a World Bank Development Marketplace Award, the first such award made for a Suriname-based initiative. In the Colombian Amazon, ACT helped establish the Association for Indigenous Woman of Traditional Medicine (ASOMI), today composed of 75 traditional healers. ACT supports the organization's cultural education program, reaching over 140 students.
+
+
+=== Isolated and Uncontacted Peoples ===
+ACT is assisting the National Park Service of Colombia in the development of protection guidelines and contingency plans for isolated indigenous communities in Colombian National Parks, with particular reference to the Rió Puré and Cahuinarí National Parks in the department of Amazonas. ACT sponsored overflights in 2010 and 2011 that identified the longhouses of uncontacted peoples, likely the Yuri (Carabayo) or Passé people, long believed extinct.On July 17, 2018, the Colombian government approved a landmark, national public-policy for the protection of isolated, indigenous groups; the policy was developed in a collaboration led by the Colombian Ministry of the Interior with the participation of governmental entities and local and regional indigenous organizations, supported by technical and legal assistance from the Amazon Conservation Team. The policy states that the decision of these groups to remain in isolation must be respected and that their territories be protected. It develops a national protection system, unique in that it incorporates both indigenous stakeholders and government institutions in establishing the mechanisms that will ensure that the territories of isolated indigenous groups remain free from incursions. This groundbreaking national public policy was the first in the Amazon region directly led by the grassroots efforts of neighboring indigenous communities and indigenous organizations undergoing a process of free prior informed consent according to international regulations, thus resulting in an unprecedented integration of traditional spiritual world-views in modern environmental protection strategies.
+
+
+== Methodologies ==
+The Amazon Conservation Team has published three methodology guides on best practices utilized by their organization. These include guides on the following topics: 'Collaborative Cultural Mapping', 'Indigenous Land Titling', and 'Mapping and Recording Place-Based Oral Histories'.
+
+
+=== Terrastories ===
+Amazon Conservation Team initiated the development of an application called Terrastories; this 'geostorytelling' application was built to enable indigenous and other local communities to locate and map their own oral storytelling traditions about places of significant meaning or value to them. Community members can add places and stories through a user-friendly interface, and make decisions about designating certain stories as private or restricted. Built with the Mapbox platform, Terrastories works both online and offline, so that remote communities can access the application entirely without needing internet connectivity. The main Terrastories interface consists of an interactive map and a sidebar with media content. Users can explore the map and click on activated points to see the stories associated with those points. Alternatively, users can interact with the sidebar and click on stories to see where in the landscape these narratives took place. Through an administrative back end, users can also add, edit, and remove stories, or set them as restricted so that they are watchable only with a special login. Users can design and customize the content of the interactive map entirely, and the interface itself is customizable with a color scheme and design reflecting the style of the community.
+The first version of the application was built at Ruby for Good 2018 for a Surinamese community called the Matawai. ACT realized the need to develop a custom interactive mapping application designed for mapping and safeguarding the intangible cultural heritage expressed in indigenous place-based oral histories, which are at risk of disappearing. ACT is also using Terrastories to map oral histories with the Wauja in Brazil and the Kogui in Colombia. Terrastories is a free and open-source (FOSS) application that can be used by communities across the world.
+
+
+== Creation of protected areas ==
+In Colombia, ACT partnered with the government and local tribes to establish two protected areas that both create new categories of reserve: The 77,000-hectare Alto Fragua Indi Wasi National Park (Caquetá Department), the first reserve to be co-managed by a resident tribe (the Inga) and the national park service; and the 10,000-hectare Orito-Ingi Ande Medicinal Plant Sanctuary (Putumayo Department), the first reserve specifically created for the conservation of medicinal flora.
+
+
+== Corporate partnerships ==
+Cosmetics company Chantecaille, known for their commitment to environmental philanthropy, in partnership with ACT, released a new make-up collection in the spring of 2020. The collection was inspired by the Amazon hummingbird, who calls the rainforests of Colombia home. Five percent of sales from this collection are donated to the non-profit organization. With the donations from Chantecaille, ACT helps ASOMI, Asociacion de Mujeres Indigenas, protect the biodiversity of the Andean Amazon. ASOMI is a group of indigenous female elders and healers living along the Colombia-Ecuador border.
+
+
+== See also ==
+Amazon Watch
+Coordinator of Indigenous Organizations of the Amazon River Basin (COICA)
+
+
+== References ==
+
+
+== External links ==
+Amazon Conservation Team homepage
+ACT rating on Charity Navigator
+Mongabay article on the work of ACT

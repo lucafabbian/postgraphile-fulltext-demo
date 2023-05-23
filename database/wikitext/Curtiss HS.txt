@@ -1,0 +1,81 @@
+The Curtiss HS was a single-engined patrol flying boat built for the United States Navy during World War I. Large numbers were built from 1917 to 1919, with the type being used to carry out anti-submarine patrols from bases in France from June 1918.  It remained in use with the US Navy until 1928, and was also widely used as a civil passenger and utility aircraft.
+
+
+== Development and design ==
+In late 1916, the Curtiss Aeroplane Company produced a new twin-engined flying boat, which was smaller than both the current Curtiss H-12 being built for Britain's Royal Naval Air Service and the earlier Curtiss H-4, with the new design given the factory designation Model H-14, although its design was unrelated to earlier Model H variants. The H-14 was a conventional unequal-span, unstaggered biplane, powered by two 100 hp (75 kW) pusher Curtiss OXX engines mounted between the wings. An order for 16 was placed by the United States Army before the prototype flew, but the prototype was disappointing and the US Army cancelled its order for H-14s.
+
+The prototype was converted to a single-engined aircraft powered by a 200 hp (149 kW) Curtiss V-X-X engine, also in a pusher configuration, during 1917, being redesignated as the Curtiss HS-1 (for H model with single engine).  The prototype was re-engined for use as a testbed for the new Liberty 12 engine, becoming the HS-1L, flying in this form on 21 October 1917.While Curtiss's V-X-X engine proved to be inadequate, as it did in its larger Model H cousins, the Liberty proved more suitable, and large orders were placed by the US Navy for the HS-1L. The HS-1 was armed with two 180 lb (80 kg) depth bombs, but it was found that these bombs were too small. In order to carry more powerful 230 lb (100 kg) bombs, Curtiss produced an increased-span version, the HS-2 with span increased by 12 ft (3.66 m) and an additional set of interplane struts, giving four-bay wings rather than the three-bay wings of the HS-1L. Again, Curtiss specified one of their own engines, and again, the Navy substituted this with the Liberty engine in the definitive HS-2L.The HS-3 was a further improved version with a new, wider hull flat-sided hull, that eliminated the typical Curtiss sponsons.  The end of the war brought an end to plans to mass-produce this version, only six being built.The HS-1L and -2L were built in vast quantities: 675 by Curtiss themselves, and nearly as many again by various contractors that included L-W-F (250), Standard (80), Gallaudet Aircraft Company (60), Boeing (25) and Loughead (2).  A further 25 were assembled by the US Navy from spare parts postwar.
+
+
+== Operational history ==
+The HS-1L began to enter service early in 1918, flying anti-submarine patrols from a number of Naval Air Stations on the Eastern Seaboard of the United States, and from the Panama Canal Zone. Two HS-1Ls operating from Chatham, Massachusetts, made the only confirmed aircraft attack on a German U-boat in American waters on July 21, 1918, but this was unsuccessful, with bombs failing to explode and the submarine escaping.  From August 1918, in order to compensate for Canada's lack of patrol aircraft, US Navy HSs operated from two bases in Nova Scotia. Twelve HS-2Ls were donated to Canada at the end of the war.
+
+Large numbers of HS boats were also used by US Navy forces in France, with deliveries starting on May 24, 1918, flying their first patrols on June 13. About 160 HS-1Ls and -2Ls were deployed to France. Following the Armistice, the HS boats based in Europe were scrapped apart from four aircraft based in the Azores, which were acquired by Portugal, while the US Naval Air Service shrank considerably, with many Naval Air Stations closing, resulting in considerable numbers of HS boats becoming surplus to requirements and available for sale at $200 to $500 without engines.  HS-2Ls continued in use by the US Navy as a patrol aircraft and a trainer until 1928.Following the Armistice, eleven HSs passed into US Coast Guard service, remaining in service until 1926. As many as 83 HS boats were used by the United States Army Air Service for communications and survey purposes from overseas bases, although they were not given US Army serial numbers.Surplus HSs were also widely exported.  Amongst Military users was Brazil, who received six aircraft in 1918. Two HS-2Ls were used in an attempt to bomb the rebel held Forte de Copacabana during the 1922 Tenente revolt.    Many were used in Canada as the first bush plane. One survives in the Canada Aviation Museum in Ottawa after being rescued from a Quebec lake.
+
+
+== Variants ==
+
+HS-1 - prototype with Curtiss engine.HS-1L - early production version of HS-1 with Liberty engine and short span (62 ft 1 in (18.92 m)) wings.
+HS-2 - longer-span version with Curtiss engine
+HS-2L - definitive production version with Liberty engine and long span (74 ft 1 in (22.58 m)) wings.
+HS-3 - improved version of the HS-2L, with new, wider hull and larger fin. Only six aircraft were built.
+HS-3L - Canadian modified version of HS-2L with modified wings (Clark Y section). At least three converted.
+
+
+== Operators ==
+ ArgentinaArgentine Naval Aviation Operated 12 aircraft from 1921 to 1931. BrazilBrazilian Naval Aviation - acquired six HS-2Ls in July 1918. Retired in 1923. CanadaCanadian Air Board - acquired 12 HS-2L from the US Navy following closure of its Naval Air Station Halifax. Likely transferred to Canadian Air Force in 1923.
+Canadian Air Force - obtained HS-2L beginning in 1920. 12 likely transferred from Air Board when it disbanded and in total operated 30. All retired in 1928. MexicoMexican Air Force PeruPeruvian Navy - received at least three HS-2Ls in 1920, remaining in service until 1926. PortugalPortuguese Naval Aviation - took over four ex-US Navy HS boats based in the Azores after the end of World War I, using them for training. Retired 1931. United StatesUnited States Army Air Service operated in total 83 HS-2L
+United States Coast Guard operated 11 until 1926
+United States Marine Corps
+United States Navy
+
+
+== Specifications (HS-2L) ==
+
+Data from Curtiss Aircraft 1907–1947General characteristics
+Crew: 2 or 3
+Length: 39 ft 0 in (11.89 m)
+Wingspan: 74 ft 1 in (22.58 m)
+Height: 14 ft 7 in (4.45 m)
+Wing area: 803 sq ft (74.6 m2)
+Airfoil: RAF 6
+Empty weight: 4,300 lb (1,950 kg)
+Gross weight: 6,432 lb (2,918 kg)
+Powerplant: 1 × Liberty L-12 V-12 water-cooled piston engine, 360 hp (270 kW)
+Propellers: 4-bladed fixed-pitch pusher propellerPerformance
+
+Maximum speed: 82.5 mph (132.8 km/h, 71.7 kn)
+Range: 517 mi (832 km, 449 nmi) 
+Endurance: 4 hours 30 minutes
+Service ceiling: 5,200 ft (1,600 m)
+Time to altitude: 2,300 ft (700 m) in 10 minutesArmament
+Guns: 1 × 0.300 in (7.62 mm) Lewis gun in flexible mount
+Bombs: 2 × 230 lb (100 kg) of bombs or depth charges carried under the wings
+
+
+== See also ==
+Canadian Vickers - three HS-3L built
+Related development
+
+Naval Aircraft Factory PTAircraft of comparable role, configuration, and era
+
+Gallaudet D-4
+
+
+== Notes ==
+
+
+== Bibliography ==
+Bowers, Peter M. (1979). Curtiss Aircraft 1907–1947. London: Putnam. ISBN 0-370-10029-8.
+Grant, Robert S. (May–July 1993). "No Rope or Railing: Canada's Curtiss HS-2Ls". Air Enthusiast. No. 50. pp. 73–77. ISSN 0143-5450.
+Hagedorn, Dan (March–May 1992). "Curtiss Types in Latin America". Air Enthusiast. No. 45. pp. 61–77. ISSN 0143-5450.
+Owers, Colin A. (July–August 1999). "HS 'Boats: Curtiss HS Flying Boats". Air Enthusiast. No. 82. pp. 64–75. ISSN 0143-5450.
+Swanborough, Gordon; Bowers, Peter M. (1976). United States Navy Aircraft since 1911 (Second ed.). London: Putnam. ISBN 0-370-10054-9.
+Taylor, Michael J. H. (1989). Jane's Encyclopedia of Aviation. London: Studio Editions. p. 281.
+Jane's All the World's Aircraft 1919. London: Sampson Lowe Marston. pp. 452a.
+
+
+== External links ==
+
+"The U.S. Navy HS-1L and HS-2L Flying-Boats" (PDF). Flight. Vol. XI, no. 49. December 4, 1919. pp. 1550–1552. No. 571. Retrieved January 13, 2011. Contemporary technical description of the HS-1L and HS-2L with photographs and drawings.
+The HS-1L Flying Boat Handbook

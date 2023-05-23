@@ -1,0 +1,256 @@
+A circumstellar disc (or circumstellar disk) is a torus, pancake or ring-shaped accretion disk of matter composed of gas, dust, planetesimals, asteroids, or collision fragments in orbit around a star. Around the youngest stars, they are the reservoirs of material out of which planets may form. Around mature stars, they indicate that planetesimal formation has taken place, and around white dwarfs, they indicate that planetary material survived the whole of stellar evolution. Such a disc can manifest itself in various ways.
+
+
+== Young star ==
+
+According to the widely accepted model of star formation, sometimes referred to as the nebular hypothesis, a young star (protostar) is formed by the gravitational collapse of a pocket of matter within a giant molecular cloud. The infalling material possesses some amount of angular momentum, which results in the formation of a gaseous protoplanetary disc around the young, rotating star. The former is a rotating circumstellar disc of dense gas and dust that continues to feed the central star. It may contain a few percent of the mass of the central star, mainly in the form of gas which is itself mainly hydrogen. The main accretion phase lasts a few million years, with accretion rates typically between 10−7 and 10−9 solar masses per year (rates for typical systems presented in Hartmann et al.).
+
+The disc gradually cools in what is known as the T Tauri star stage. Within this disc, the formation of small dust grains made of rocks and ices can occur, and these can coagulate into planetesimals. If the disc is sufficiently massive, the runaway accretions begin, resulting in the appearance of planetary embryos. The formation of planetary systems is thought to be a natural result of star formation. A sun-like star usually takes around 100 million years to form.
+
+
+== Around the Solar System ==
+
+Asteroid belt is a reservoir of small bodies in the Solar System located between the orbit of Mars and Jupiter. It is a source of interplanetary dust.
+Edgeworth-Kuiper belt, beyond the orbit of Neptune
+Scattered disc, beyond the orbit of Neptune
+Hills cloud; only the inner Oort cloud has a toroid-like shape. The outer Oort cloud is more spherical in shape.
+
+
+== Binary system ==
+
+The infall of gas onto a binary system allows the formation of circumstellar and circumbinary discs. The formation of such a disc will occur for any binary system in which infalling gas contains some degree of angular momentum. A general progression of disc formation is observed with increasing levels of angular momentum:
+
+Circumprimary disc is one which orbits the primary (i.e. more massive) star of the binary system.  This type of disc will form through accretion if any angular momentum is present in the infalling gas.
+Circumsecondary disc is one which orbits around the secondary (i.e. less massive) star of the binary star system. This type of disc will only form when a high enough level of angular momentum is present within the infalling gas. The amount of angular momentum required is dependent on the secondary-to-primary mass ratio.
+Circumbinary disc is one which orbits about both the primary and secondary stars. Such a disc will form at a later time than the circumprimary and circumsecondary discs, with an inner radius much larger than the orbital radius of the binary system. A circumbinary disc may form with an upper mass limit of approximately 0.005 solar masses, at which point the binary system is generally unable to perturb the disc strongly enough for gas to be further accreted onto the circumprimary and circumsecondary discs. An example of a circumbinary disc may be seen around the star system GG Tauri.Once a circumstellar disc has formed, spiral density waves are created within the circumstellar material via a differential torque due to the binary's gravity. The majority of these discs form axissymmetric to the binary plane, but it is possible for processes such as the Bardeen-Petterson effect, a misaligned dipole magnetic field and radiation pressure to produce a significant warp or tilt to an initially flat disc.
+Strong evidence of tilted discs is seen in the systems Her X-1, SMC X-1, and SS 433 (among others), where a periodic line-of-sight blockage of X-ray emissions is seen on the order of 50–200 days; much slower than the systems' binary orbit of ~1 day. The periodic blockage is believed to result from precession of a circumprimary or circumbinary disc, which normally occurs retrograde to the binary orbit as a result of the same differential torque which creates spiral density waves in an axissymmetric disc.
+Evidence of tilted circumbinary discs can be seen through warped geometry within circumstellar discs, precession of protostellar jets, and inclined orbits of circumplanetary objects (as seen in the eclipsing binary TY CrA). For discs orbiting a low secondary-to-primary mass ratio binary, a tilted circumbinary disc will undergo rigid precession with a period on the order of years. For discs around a binary with a mass ratio of one, differential torques will be strong enough to tear the interior of the disc apart into two or more separate, precessing discs.A study from 2020 using ALMA data showed that circumbinary disks around short period binaries are often aligned with the orbit of the binary. Binaries with a period longer than one month showed typically a misalignment of the disk with the binary orbit.
+
+
+== Dust ==
+
+Debris discs consist of planetesimals along with fine dust and small amounts of gas generated through their collisions and evaporation. The original gas and small dust particles have been dispersed or accumulated into planets.
+Zodiacal cloud or interplanetary dust is the material in the Solar System created by collisions of asteroids and evaporation of comet seen to observers on Earth as a band of scattered light along the ecliptic before sunrise or after sunset.
+Exozodiacal dust is dust around another star than the Sun in a location analogous to that of the Zodiacal Light in the Solar System.
+
+
+== Stages ==
+
+Stages in circumstellar discs refer to the structure and the main composition of the disc at different times during its evolution. Stages include the phases when the disc is composed mainly of submicron-sized particles, the evolution of these particles into grains and larger objects, the agglomeration of larger objects into planetesimals, and the growth and orbital evolution of planetesimals into the planetary systems, like our Solar System or many other stars.
+
+Major stages of evolution of circumstellar discs:
+Protoplanetary discs: In this stage large quantities of primordial material (e.g., gas and dust) are present and the discs are massive enough to have potential to be planet-forming.
+Transition discs: At this stage, the disc shows significative reduction in the presence of gas and dust and presents properties between protoplanetary and debris discs.
+Debris discs: In this stage the circumstellar disc is a tenuous dust disc, presenting small gas amounts or even no gas at all. It is characterized by having dust lifetimes smaller than the age of the disc, hence indicating that the disc is second generation rather than primordial.
+
+
+== Disc dissipation and evolution ==
+
+Material dissipation is one of the processes responsible for circumstellar discs evolution. Together with information about the mass of the central star, observation of material dissipation at different stages of a circumstellar disc can be used to determine the timescales involved in its evolution. For example, observations of the dissipation process in transition discs (discs with large inner holes) estimate the average age of a circumstellar disc to be approximately 10 Myr.Dissipation process and its duration in each stage is not well understood. Several mechanisms, with different predictions for discs' observed properties, have been proposed to explain dispersion in circumstellar discs. Mechanisms like decreasing dust opacity due to grain growth, photoevaporation of material by X-ray or UV photons from the central star (stellar wind), or the dynamical influence of a giant planet forming within the disc are some of the processes that have been proposed to explain dissipation.
+Dissipation is a process that occurs continuously in circumstellar discs throughout the lifetime of the central star, and at the same time, for the same stage, is a process that is present in different parts of the disc. Dissipation can be divided in inner disc dissipation, mid-disc dissipation, and outer disc dissipation, depending on the part of the disc considered.Inner disc dissipation occurs at the inner part of the disc (< 0.05 – 0.1 AU). Since it is closest to the star, this region is also the hottest, thus material present there typically emits radiation in the near-infrared region of the electromagnetic spectrum. Study of the radiation emitted by the very hot dust present in that part of the disc indicates that there is an empirical connection between accretion from a disc onto the star and ejections in an outflow.
+Mid-disc dissipation, occurs at the mid-disc region (1-5 AU) and is characterized for the presence of much more cooler material than in the inner part of the disc. Consequently, radiation emitted from this region has greater wavelength, indeed in the mid-infrared region, which makes it very difficult to detect and to predict the timescale of this region's dissipation. Studies made to determine the dissipation timescale in this region provide a wide range of values, predicting timescales from less than 10 up to 100 Myr.
+Outer disc dissipation occurs in regions between 50 – 100 AU, where temperatures are much lower and emitted radiation wavelength increases to the millimeter region of the electromagnetic spectrum. Mean dust masses for this region has been reported to be ~ 10−5 solar masses. Studies of older debris discs (107 - 109 yr) suggest dust masses as low as 10−8 solar masses, implying that diffusion in outer discs occurs on a very long timescale.As mentioned, circumstellar discs are not equilibrium objects, but instead are constantly evolving. The evolution of the surface density 
+  
+    
+      
+        Σ
+      
+    
+    {\displaystyle \Sigma }
+   of the disc, which is the amount of mass per unit area so after the volume density at a particular location in the disc has been integrated over the vertical structure, is given by:
+
+  
+    
+      
+        
+          
+            
+              ∂
+              Σ
+            
+            
+              ∂
+              t
+            
+          
+        
+        =
+        
+          
+            3
+            r
+          
+        
+        
+          
+            ∂
+            
+              ∂
+              r
+            
+          
+        
+        
+          [
+          
+            
+              r
+              
+                1
+                
+                  /
+                
+                2
+              
+            
+            
+              
+                ∂
+                
+                  ∂
+                  r
+                
+              
+            
+            ν
+            Σ
+            
+              r
+              
+                1
+                
+                  /
+                
+                2
+              
+            
+          
+          ]
+        
+      
+    
+    {\displaystyle {\frac {\partial \Sigma }{\partial t}}={\frac {3}{r}}{\frac {\partial }{\partial r}}\left[r^{1/2}{\frac {\partial }{\partial r}}\nu \Sigma r^{1/2}\right]}
+  
+where 
+  
+    
+      
+        r
+      
+    
+    {\displaystyle r}
+   is the radial location in the disc and 
+  
+    
+      
+        ν
+      
+    
+    {\displaystyle \nu }
+   is the viscosity at location 
+  
+    
+      
+        r
+      
+    
+    {\displaystyle r}
+  . This equation assumes axisymmetric symmetry in the disc, but is compatible with any vertical disc structure.
+Viscosity in the disc, whether molecular, turbulent or other, transports angular momentum outwards in the disc and most of the mass inwards, eventually accreting onto the central object. The mass accretion onto the star 
+  
+    
+      
+        
+          
+            
+              M
+              ˙
+            
+          
+        
+      
+    
+    {\displaystyle {\dot {M}}}
+   in terms of the disc viscosity 
+  
+    
+      
+        ν
+      
+    
+    {\displaystyle \nu }
+   is expressed:
+
+  
+    
+      
+        
+          
+            
+              M
+              ˙
+            
+          
+        
+        =
+        3
+        π
+        ν
+        Σ
+        
+          
+            [
+            
+              1
+              −
+              
+                
+                  
+                    
+                      r
+                      
+                        in
+                      
+                    
+                    r
+                  
+                
+              
+            
+            ]
+          
+          
+            −
+            1
+          
+        
+      
+    
+    {\displaystyle {\dot {M}}=3\pi \nu \Sigma \left[1-{\sqrt {\frac {r_{\text{in}}}{r}}}\right]^{-1}}
+  
+where 
+  
+    
+      
+        
+          r
+          
+            in
+          
+        
+      
+    
+    {\displaystyle r_{\text{in}}}
+   is the inner radius.
+
+
+== See also ==
+
+
+== References ==
+
+
+== External links ==
+
+McCabe, Caer (May 30, 2007). "Catalog of Resolved Circumstellar Disks". NASA JPL. Retrieved 2007-07-17.
+Image Gallery of Dust disks (from Paul Kalas, "Circumstellar Disk Learning Site)"

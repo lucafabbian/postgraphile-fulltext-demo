@@ -1,0 +1,54 @@
+HLA-DQ7 (DQ7) is an HLA-DQ serotype that recognizes the common HLA DQB1*0301 and the less common HLA DQB1*0304 gene products. DQ7 is a form of 'split antigen' of the broad antigen group DQ3 which also contains DQ8 and DQ9.
+DQ7 is linked by haplotype to a number of DQA1 (DQ alpha chain) genes, producing in cis-haplotype form, a large number of DQ αβ isoforms. These DQ alpha chains are also known to form transhaplotype isomers with other HLA-DQ.
+DQ7 is linked to the following alpha chains genes (DQA1*)
+
+03 – *0301, *0302, *0303
+0401
+0505
+0601
+
+
+== Serology ==
+Serotyping efficiency. The serotyping efficiency of DQ7 toward DQB1*0301 is reasonably good, but still results in some false negatives, for *0304 the typing efficiency is poor and cross-reaction with DQ8 is relatively high.
+
+
+== Alleles ==
+
+
+=== DQB1*0301 ===
+DQB1*0301 is the major DQ7 allele
+DQB1*0301 appears to be associated with lupus anticoagulant.
+
+
+=== DQB1*0304 ===
+DQB1*0304 is the minor DQ7 allele
+
+
+== Haplotypes ==
+DQ haplotypes of this serotype are formed between the cis-chromosomal genes of the DQA1 locus.
+This includes DQA1*0301, *0302, *0303, *0401, *0505, *0601.
+There is a rather large degree of disequilibration about DQA1*0301 suggesting that this is one of the older and more established HLA DQB1* alleles in Eurasia.   The intron structure of DQB1 suggest that DQB1*0301 DQB1*0302/*0303 split occurred before DQB1*0302/*0303, the distribution of *03 in Africa suggest that recombination DQA1*03:DQB1*0301 are primarily the result of recombination events that have occurred in Africa. A recent study of myasthenia gravis in Houston confirms the presence of A*0505:B*0301 in Nigeria. B1*0301 and A1*03 haplotypes are found at relatively high frequencies in SE Asia and Austronesia, also indicating that it is well established in the exo-African population.
+
+
+=== DQ7.3 ===
+The DQ7.3 haplotype can be formed by DQA1*0301:DQB1*0301, DQA1*0302:DQB1*0301, DQA1*0303:DQB1*0301. In the west, the DQA1*0303:DQB1*0301 haplotype appears to be more common.
+The gene products of all 3 function similarly and subunits are interchangeable.  In the literature, older DNA tests recognize DQA1*0303 as DQA1*0302, and still oldest DNA tests recognize all three as DQA1*03 or DQA1*0301.
+DQA1*0303:DQB1*0301 may be involved in narcolepsy. DQ7.3 appears to be associated with oral ulcerations and gingival disease 
+
+
+=== DQ7.4 ===
+DQA1*0401:DQB1*0301 (DQ7.4) This haplotype is found in Siberia, Africa but also at low levels in Western Europe.
+
+
+=== DQ7.5 ===
+DQA1*0505:DQB1*0301 (DQ7.5) was gene-typed as DQA1*0501:DQB1*0301 until it was recognized that there was amino acid sequence variant in the preprocessed DQA1* gene product (proto-α-chain polypeptide encoded DQA1*0505). This proto-alpha, once processed, is identical to the DQA1*0501 encoded α-chain once it is processed. Almost 100% of DQ7.5 haplotypes carry the DQA1*0505 allele.  The DR5-DQ7.5 is common in the Southeastern Europe and the Levant, with DQ7.5 reaching a haplotype frequency of 40% in Lebanon. Its high level is probably not by chance, the haplotype appears to protect against juvenile diabetes, which appears to be more common among cereal eating peoples. Cereals were first domesticated in the Near and Middle East more than 10,000 years ago and selection may explain DQ7.5's higher frequencies. (See: Triticeae)
+The processed alpha subunit of DQA1*0505 is identical to that of DQA1*0501, but some slight differences in the association with autoimmune disease are observed, possibly as a result of linked DR and DQB1 genes. DQA1*0505 can play into celiac disease under two circumstances. First it can increase risk when DQ2.5 is present, although current studies indicate that it marginally increases risk relative to DQB1*0202 in DQ2.5 cis haplotype. DQA1*0505, without DQ2, is found in a small percentage of coeliac disease (without DQ2 or DQ8).DQ7.5 is found also high in frequency in the new world, but with DR types less commonly encountered in the old world. DQA1*05 allele is not clear in the new world. DQB1*0301 may be under current positive selection in the human population, at least in areas where DQ2.5 and DQ8 are high, as it confers resistance to type 1 diabetes. For hepatitis type B, DQ7 is associated with persistence but for C, DQ7 is associated with clearance. DQA1*0505, DQB1*0301 appear to increase the risk for melanoma in the Spanish population however this may have a linkage to more recent fair skinned migrants. DQB1*0301 is also associated with allergic fungal sinusitis, human papillomavirus (HPV) induced warts, limited cutaneous systemic sclerosis in Africans, and primary sclerosing cholangitis in Southern Europeans. DQB1*0301 is also predisposing in narcolepsy. DQB1*0301 does not to play a role in any frequently occurring autoimmune disease and its presence in the near east and suppressed frequencies of coeliac disease and Type 1 diabetes in these regions is suggestive that it has a positive selection in Post-Mesolithic cereal based societies in the Western Eurasia.
+DQB1*0301 appears to be more associated with early onset myasthenia
+gravis in Japanese than DQ8, and was also found along with DQB1*0304 to be associated with Chinese MG. DQ7 or associated DR types may play a role in rheumatoid arthritis.  In celiac disease the DQ7 (A*0505/1) can mediate celiac disease when HLA DQ2.2 is also present. HLA DQB1*0301 in Turks is associated with Thymoma but the risk may be associated with HLA class I loci.
+
+
+=== DQ7.6 ===
+DQA1*0601:DQB1*0301 (DQ7.6) is a globally rare haplotype, however it is found at high frequencies in the South Pacific and along the West Pacific rim. DQB1*0301 appears to be uniquely linked to DQA1*0601. DQ7.6 is positively associated with asthma, pauciarticular juvenile arthritis without anti-nuclear antibodies,  DQ7.6 is negatively associated (Protective against) juvenile diabetes, liver and spleen disease in Schistosoma japonicum infection, pulmonary tuberculosis.
+
+
+== References ==

@@ -1,0 +1,32 @@
+The Panic of 1930 was a financial crisis that occurred in the United States which led to a severe decline in the money supply during a period of declining economic activity.  A series of bank failures from agricultural areas during this time period sparked panic among depositors which led to widespread bank runs across the country.The increase in the amount of hard cash held in lieu of deposits lowered the money multiplier effect which lowered the money supply and spending, dragging economic growth for the years to come.  The lack of expansionary monetary policy by the Federal Reserve Board coupled with such deteriorating financial and economic situation exacerbated the recession into what became known as the Great Contraction and later the Great Depression.
+
+
+== Bank failures ==
+Failures occurred predominantly among state-chartered banks. National banks accounted for less than 1/6 of the total bank failures and less than 1/4 were members of the Federal Reserve System.Caldwell and Company, a leading investment bank known as the "Morgan of the South," stands as a notable bank failure. Its half billion dollars worth of financial interests included a number of insurance companies, industrial enterprises, and the region's largest bank chain. When Caldwell collapsed, its correspondent network of financial interests failed as well.  Its collapse sparked further demand for currency from banks in affected regions.
+
+
+== Role of the Federal Reserve System ==
+The Federal Reserve, created in 1913 in response to the Panic of 1907, did not expand national money supply during this time period.  The regional Federal Reserve Banks took different approaches to the panic.
+The Federal Reserve Bank of St. Louis followed the real bills doctrine and did not open the discount window to its member banks in trouble following the collapse of Caldwell and Company.  The Federal Reserve Bank of Atlanta opened the discount window to solvent member banks which had illiquid securities and needed liquidity.  Banks under the Atlanta Fed had a lower failure rate than those under the St. Louis Fed, lending credence to the theory that the panic was largely an issue of liquidity rather than solvency.
+
+
+== Explanations ==
+Illiquidity coupled with a contagion of fear is seen as the major factor in precipitating the financial crisis.   A contagion of fear led to higher short-term demand for currency and further strained the liquidity of banks and as a result made them cash flow insolvent.  The contagion also led banks to dump their earning assets to build up their reserves which led to the failure of some banks otherwise solvent.Balance sheet insolvency is seen as another possible explanation for the banking panic.  However, data shows that most bank failures due to balance sheet insolvency happened between the panics between 1930 and 1933 while most bank failures due to illiquidity happened during the actual bank panics. Illiquidty shocks were observed by measuring increased hoarding.
+
+
+== Aftermath ==
+After the ensuing Great Contraction, the Fed began to learn to deal with regional banking panics and started to embrace its role as lender of last resort.  The importance of conducting expansionary monetary policy became evident as a result of the consequent Great Depression.
+
+
+== See also ==
+European banking crisis of 1931
+
+
+== References ==
+
+
+== Further reading ==
+Gary Gorton, Toomas Laarits, Tyler Muir. 2019. "1930: First Modern Crisis." NBER paper.
+Friedman, Milton; Schwartz, Anna J. (1993) [1963]. A Monetary History of the United States, 1867–1960. Chicago: University of Chicago Press. pp. 308–313. ISBN 978-0691003542.
+Kynaston, David (2017). Till Time's Last Sand: A History of the Bank of England, 1694–2013. New York: Bloomsbury. pp. 320–326. ISBN 978-1408868560.
+Sumner, Scott (2015). The Midas Paradox: Financial Markets, Government Policy Shocks, and the Great Depression. Oakland, CA: Independent Institute. pp. 66–71. ISBN 978-1598131505.

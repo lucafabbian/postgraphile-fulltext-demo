@@ -1,0 +1,33 @@
+Shunting, in railway operations, is the process of sorting items of rolling stock into complete trains, or the reverse. In the United States this activity is known as switching.
+
+
+== Motive power ==
+Motive power is normally provided by a locomotive known as a shunter (in the UK) or switcher (in the US). Most shunter/switchers are now diesel-powered but steam and even electric locomotives have been used. Where locomotives could not be used (e.g. because of weight restrictions) shunting operations have in the past been effected by horses or capstans.
+
+
+== Hazards ==
+
+
+=== Coupling ===
+The terms "shunter" and "switcher" are not only applied to locomotives but also to employees engaged on the ground with shunting/switching operations. The task of such personnel is particularly dangerous because not only is there the risk of being run over, but on some railway systems—particularly ones that use buffer-and-chain/screw coupling systems—the shunters have to get between the wagons/carriages in order to complete coupling and uncoupling. This was particularly so in the past. The Midland Railway company, for example, kept an ambulance wagon permanently stationed at Toton Yard to give treatment to injured shunters.
+
+The main tool of shunters working with hook-and-chain couplings was a shunting pole, which allowed the shunter to reach between wagons to fasten and unfasten couplings without having physically to go between the vehicles. This type of shunting pole was of an entirely different design than objects of the same name in North American practice (see below).
+
+
+=== Poling ===
+In the United States, a pole was sometimes used to move cars on adjacent tracks. This procedure was known as "pole switching" or "poling" for short. In these instances, the locomotive or another car was moved to be near the car that needed to be moved. The on-ground railwayman would then position a wooden pole, which was sometimes permanently attached to the locomotive, and engage it in the poling pocket of the car that needed to be moved. The engineer would then use the pole to push the car on the adjacent track. Before poling pockets or poles were common on switching locomotives, some railroads built specialized poling cars which could be coupled to locomotives that lacked poling pockets. The practice was most prevalent in rail yard operations circa 1900. Poling was the cause of some accidents and in later years was discouraged before the practice was abandoned.
+
+
+== See also ==
+Marshalling (UK) or classification (US) yard
+Switcher
+Switching and terminal railroad
+Reciprocal switching
+
+
+== References ==
+
+
+== Further reading ==
+Bostel, Nathalie; Dejax, Pierre (1998). "Models and algorithms for container allocation problems on trains in a rapid transshipment shunting yard". Transportation Science. 32 (4): 370–379. doi:10.1287/trsc.32.4.370.
+Boysen, Nils (2012). et al. "Shunting yard operations: Theoretical aspects and applications". European Journal of Operational Research. 220 (1): 1–14. doi:10.1016/j.ejor.2012.01.043.

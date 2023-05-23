@@ -1,0 +1,32 @@
+Serpula lacrymans is one of the fungi that cause damage to timber referred to as dry rot. It is a basidiomycete in the order Boletales. The Serpula lacrymans has the ability to rapidly colonise sites through unique and highly specialised mycelium which also leads to greater degradation rates of wood cellulose.
+
+
+== Taxonomy ==
+The species was first described under the name Boletus lacrymans by Franz Xavier von Wulfen in 1781. It was transferred to the genus Serpula by Petter Karsten in 1884.The specific epithet is derived from the Latin words serpula for "creeping" (as in a serpent) and lacrymans, meaning "making tears".
+
+
+== Environment ==
+Serpula lacrymans has a preference for temperatures of 21 to 22 °C (70 to 72 °F) but can survive any temperature from 3 to 26 °C (37 to 79 °F). It is not clear how much light is needed to promote Serpula lacrymans growth. In terms of aeration Serpula lacrymans often grows near ventilation shafts which shows a preference for concentrated oxygen. A moisture content of 30 to 40 percent is its ideal level in wood to promote fruit body formation. It appears that Serpula lacrymans requires an environment where both inorganic and organic materials are present. The fungus uses calcium and iron ions extracted from plaster, brick, and stone to aid the breakdown of wood, which results in brown rot.
+
+
+== Distribution ==
+Although it is a common indoor biodeterioration agent, it has only been found in a few natural environments, the Himalayas, Northern California, the Czech Republic and east Asia. A recent study on the evolutionary origin and spread of this species using genetic markers (amplified fragment length polymorphisms, DNA sequences and microsatellites) on a worldwide sample of specimens suggested the existence of two main lineages, a nonaggressive lineage found in North America, and an aggressive lineage found on all continents, both in natural environments and buildings.
+
+
+== Impact on structures ==
+Serpula lacrymans is considered to be the most damaging destroyer of indoor wood construction materials in temperate regions.In the United Kingdom alone, building owners spent at least £150 million annually to rectify damage caused by dry rot.
+
+
+== Genome ==
+Three variants/strains of S. lacrymans have been sequenced by the Joint Genome Institute (JGI) and its collaborators, and sequence data is available via their MycoCosm portal. One genome is from S. lacrymans S7.9 (v2.0). The genome assembly is 42.73 Mbp, with a predicted number of 12789 genes. The second genome is from S. lacrymans S7.3 (v2.0). The genome assembly is 47 Mbp, with a predicted number of 14495 genes. The third genome is from S. lacrymans var shastensis SHA21-2 (v1.0). The genome assembly is 45.98 Mbp, with a predicted number of 13805 genes.
+
+
+== Natural products genes ==
+The S. lacrymans genome encodes six annotated polyketide synthases (PKS1-PKS6), 15 nonribosomal peptide synthetases (NPS1-NPS4, NPS7, NPS13-NPS15, NPS17, and NPS18), and two hybrids thereof (NPS6, NPS8, and NPS16). Additionally, the genome encodes for various putative adenylate-forming reductases (NPS5, NPS9-NPS12). NPS3 was overexpressed in E. coli and characterized as an atromentin/quinone synthetase that catalyzes the formation of atromentin, similar to GreA; InvA1,2 and 5; and AtrA from Suillus grevillei, Tapinella panuoides, Paxillus involutus, respectively. NPS3 and its adjacent clustered aminotransferase gene (AMT1) were also found to be up-regulated during co-incubation with bacteria (Tauber et al., 2016).
+
+
+== Natural products ==
+The genus Serpula, including S. lacrymans and S. himantoides, is known to produce three classes of chemical compounds: pulvinic acid-type family, himanimides, and polyine acids. Within the pulvinic acid-type family, atromentin-derived compounds include variegatic acid, xerocomic acid, isoxerocomic acid, atromentic acid, variegatorubin, xerocomorubin, and other variants of these pigments. Pulvinic acid-type family pigments were found to be secreted during co-incubation with various bacteria.
+
+
+== References ==

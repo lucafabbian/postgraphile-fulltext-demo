@@ -1,0 +1,82 @@
+Canadian defamation law refers to defamation law as it stands in both common law and civil law jurisdictions in Canada. As with most Commonwealth jurisdictions, Canada follows English law on defamation issues (except in the province of Quebec where private law is derived from French civil law).
+
+
+== Common-law provinces ==
+
+
+=== Defamation law ===
+At common law, defamation covers any communication that tends to lower the reputation of the subject in the minds of ordinary members of the public. In particular, to establish prima facie defamation, the plaintiff needs to establish three things:
+
+The material is defamatory, as in it lowers the reputation of the plaintiff in the eyes of the right thinking person
+The material refers to the plaintiff, and
+The material was communicated to a party other than the plaintiffOnce prima facie defamation has been established, the defendant may present defences.
+
+
+==== Truth ====
+Truth (also referred to as justification) is an absolute defence to defamation in all common law provinces
+
+
+==== Fair comment ====
+Fair comment refers to any opinion fairly made on a matter of public interest. The onus is on the person raising the defence to establish that the defamatory material constituted a statement of opinion rather than fact. To establish that the comment was fair, the defendant must also prove, on an objective basis, that the defamatory opinion was one which a person could have honestly expressed based on the proven facts.
+
+
+==== Qualified privilege ====
+There are certain occasions under the common law where the public interest in candid and unrestricted speech trumps the interest in the protection of reputation, and a defamatory statement that is neither true nor a fair comment can be shielded from liability. Qualified privilege arises when a person has a legal or moral duty to convey information to a person with a legitimate interest in it, and does so without malicious intention. It also protects the reporting of a public tribunal's proceedings.
+
+
+==== Absolute privilege ====
+The uttering of defamatory statements in certain contexts is protected by absolute privilege. The breadth of absolute privilege includes testimony before a judicial or quasi-judicial institution, as well all speech in Parliament and provincial legislatures. Since absolute privilege is an absolute defence, even malicious motives cannot invalidate it.
+
+
+==== Responsible communication ====
+Anyone who publishes anything on a matter of public interest is shielded from liability if they exercised responsible diligence in researching and reporting on it.
+
+
+==== Innocent dissemination ====
+A defendant who distributed defamatory material without knowing that it was defamatory, and expeditiously took action to remove it upon learning of its defamatory nature, can rely on the defence of innocent dissemination. However to succeed, the person invoking defence must also not have acted negligently in the dissemination.
+
+
+==== Consent ====
+Communications made with the express or implied consent of the plaintiff are protected from defamation action.
+
+
+=== Recent developments in jurisprudence ===
+In stark contrast to the US, Canadian libel law has been slow to change. In Hill v. Church of Scientology of Toronto the Supreme Court of Canada reviewed the relationship of the common law of defamation and the Charter. The Court rejected the actual malice test outlined in the U.S. Supreme Court decision New York Times Co. v. Sullivan, citing criticism of it not only in the United States but in other countries as well. The Court held that the Charter guarantee of freedom of expression did not require any significant changes to the common law of libel.  Very controversially, it was held that there was no evidence of libel chill in Canada.
+2006-2011 saw significant developments in Canadian jurisprudence, with many important issues being clarified and the law changing generally in the direction of that occurring in the US and elsewhere in the Commonwealth:
+
+In Crookes v. Newton, the Supreme Court held that sharing a hyperlink in of itself could never amount to "publishing" defamatory material, unless there was a defamatory statement within the text of the URL itself. Extending protection for the sharing of content on the internet further past other commonwealth nations.
+In Grant v. Torstar, the Court, quoting Jameel & Ors v. Wall Street Journal Europe Sprl, made the latter defence available "to anyone who publishes material of public interest in any medium". Moreover, it defined the concept of "public interest" expansively:Public interest is not confined to publications on government and political matters, as it is in Australia and New Zealand.  Nor is it necessary that the plaintiff be a "public figure", as in the American jurisprudence since Sullivan.  Both qualifications cast the public interest too narrowly. The public has a genuine stake in knowing about many matters, ranging from science and the arts to the environment, religion, and morality. The democratic interest in such wide-ranging public debate must be reflected in the jurisprudence.
+Most commentators took this as a sign that the Supreme Court would continue to expand latitude for political and public affairs comment, and that judges were encouraged to interpret common law defences and process abuse broadly enough to ensure that comment on public interest matters was not inhibited unduly by looming lawsuits.
+
+
+=== Common tactics in defamation cases ===
+Once a claim has been made out the defendant may avail themself to a defence of justification (the truth), fair comment, responsible communication, or privilege. Publishers of defamatory comments may also use the defence of innocent dissemination where they had no knowledge of the nature of the statement, it was not brought to their attention, and they were not negligent.Another common tactic in political libel cases is the filing of a strategic lawsuit against public participation ("SLAPP"). Analyses of SLAPP tactics and suggested reforms to civil procedures and legislation have been released by the Ontario Attorney-General, the Uniform Law Conference of Canada, individual academics  and the British Columbia Civil Liberties Association.An approach increasingly common in Canadian courts is to contest jurisdiction or publication, as the courts have consistently required affidavits of proof of publication within the province where the libel is alleged. In Éditions Écosociété Inc. v. Banro Corp., interveners made extensive argument against assuming jurisdiction even when there were very clearly copies distributed and read, on the grounds that this imposed too much of a defence burden.
+Also commonly employed are extra-legal approaches including the so-called "scorched earth" defence wherein, by way of justification, every embarrassing fact in the plaintiff's entire history is publicly exposed, along with those of personal friends and associates, in an attempt to counter libel chill with a similar fear of being totally exposed. Such tactics can backfire seriously however if a powerful defendant such as a mass media organization is perceived as abusing its access to the public, sometimes resulting in large awards. Such tactics are also sometimes employed in other kinds of suits.While few defamation cases go to trial, because of the deterrence value of threatened litigation, there can be negative consequences arising from the trial itself. Canadian defamation law permits broad latitude in argument and exempts, with absolute privilege, comment made by way of argument, even if the arguments or positions advanced are noxious, intimidating or astonishing, or amusing enough to be quoted widely in the press (true or not). Some noted Canadian lawyers have advised that every possible alternative to litigation should be employed by a client genuinely fearful of reputation loss, before filing suit, simply because the "scorched earth" tactic has become so common. If defendants have a reason to resist, such as preserving freedom of political speech, the likelihood of negative publicity is magnified. The infamous McLibel case is often cited as a warning against spending vast sums and ending up with bad publicity and an uncollectible judgment.
+
+
+== Quebec ==
+The Civil Code of Quebec has different parameters for liability which the Supreme Court of Canada applies in appeals from Quebec.
+In Quebec, defamation was originally grounded in the law inherited from France. After Quebec, then called New France, became part of the British Empire, the French civil law was preserved. However, by the mid-nineteenth century, judges in what by then had come to be called Lower Canada held that principles of freedom of expression inherent in the unwritten British Constitution over-rode French civil law in matters of public interest, and incorporated various defenses of the English common law, such as the defense of fair comment, into the local law. Such references to British law became more problematic in the Twentieth Century, with some judges and academics arguing that the basic principles of the civil law gave rise to similar defenses without need to refer to English case law or principle.The Civil Code of Quebec does not have specific provisions relating to an action in defamation. Therefore, the general rules of extra-contractual responsibility established by article 1457 of the Civil Code of Quebec apply:
+
+1457. Every person has a duty to abide by the rules of conduct which lie upon him, according to the circumstances, usage or law, so as not to cause injury to another.
+Where he is endowed with reason and fails in this duty, he is responsible for any injury he causes to another person by such fault and is liable to reparation for the injury, whether it be bodily, moral or material in nature.
+
+He is also liable, in certain cases, to reparation for injury caused to another by the act or fault of another person or by the act of things in his custody.
+To establish civil liability for defamation, the plaintiff must establish, on a balance of probabilities, the existence of an injury, a wrongful act, and of a causal connection between the two. A person who has made defamatory remarks will not necessarily be civilly liable for them. The plaintiff must further demonstrate that the person who made the remarks committed a wrongful act. Therefore, communicating false information is not, in itself, a wrongful act.In the case of Bou Malhab v. Diffusion Métromédia CMR inc., the Court ruled that Quebec law exempted broadly racist comments by someone with a reputation for making same, and that accordingly MP-and-radio-host André Arthur had no liability for comments against Quebec City cabdrivers. It stated flatly that racism was not a matter to be debated or decided in courts, at least not in Quebec. Quebec's anti-SLAPP law further exempts political and public issue comment almost entirely from liability, an approach that is broadly advocated (see SLAPP studies above) to be emulated in common law jurisdictions.
+In 1994, the Court of Appeal of Quebec held that defamation in Quebec must be governed by a reasonableness standard, as opposed to the strict liability standard that is applicable in the English common law; a defendant who made a false statement would not be held liable if it was reasonable to believe the statement was true. However, in upholding the "responsible communication" defense in Grant v. Torstar, the Supreme Court of Canada also flatly rejected the strict liability standard in common law jurisdictions as well.
+
+
+== Criminal defamation ==
+Defamation as a tort does not infringe the freedom of expression guarantee under the Canadian Charter of Rights and Freedoms. Defamatory libel is equally valid as a criminal offence under the Criminal Code.
+
+
+== Enforceability of judgments in US courts ==
+In general, Canadian defamation judgements against Americans are not collectible in the United States under the SPEECH Act, and have to be re-proven in an American court in the state where the defendant resides.
+
+
+== References ==
+
+
+== Further reading ==
+Raymond E. Brown (1994). The Law of Defamation in Canada (2nd ed.). Scarborough: Carswell. ISBN 0-459-55861-7.
+Robert Martin; Gordon Stuart Adam (1994). A Sourcebook of Canadian Media Law (2nd ed.). Ottawa: Carleton University Press. ISBN 0-88629-231-X.

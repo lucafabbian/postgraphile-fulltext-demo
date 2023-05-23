@@ -1,0 +1,90 @@
+C17orf98 is a protein which in humans is coded by the gene c17orf98. The protein is derived from Homo sapiens chromosome 17. The C17orf98 gene consists of a 6,302 base sequence. Its mRNA has three exons and no alternative splice sites. The protein has 154 amino acids, with no abnormal amino acid levels. C17orf98 has a domain of unknown function (DUF4542) and is 17.6kDa in weight. C17orf98 does not belong to any other families nor does it have any isoforms. The protein has orthologs with high percent similarity in mammals and reptiles. The protein has additional distantly related orthologs across the metazoan kingdom, culminating with the sponge family.Like most proteins, C17orf98 is known to be highly expressed in the testes. The protein has also been known to have elevated levels in cancer. The protein has been shown to be expressed in proximity to or within intermediate filaments and the nucleolus. Additionally, c17orf98 has transcription factors which are also active in hematopoietic stem cells, the immune system, and the cardiovascular system, among others. The gene is over-expressed in many cancer types, including kidney renal clear cell carcinoma and lung squamous cell carcinoma. Motif and transcription factor analysis points towards c17orf98 playing a role in proliferation, specially in immune cell proliferation.
+
+
+== Gene ==
+
+
+=== Background ===
+The C17orf98 gene consists of 6,303 bases. It has three exons and two large introns. The gene has no alternative splice sites. The 5' UTR sequence of C17orf98 is highly conserved in primates. No non-mammalian 5' UTR matches were able to be determined. C17orf98 has 11 Alu repeats.
+
+
+=== Enhancers ===
+GeneCards determined that C17orf98 has five enhancer sequences. The role of the sequences may provide insight into the function of C17orf98. Four of the five enhancers are active in the thymus. All five enhancers are active in the H1 hESC. Additionally, all five enhancers are active in iPS DF 19.11 derived from foreskin fibroblasts.
+
+
+=== Transcription factors ===
+The C17orf98 promoter has many transcription factors binding sites. C17orf98's transcription factors are commonly found in hematopoietic cells, connective tissue, cardiovascular tissue, and the immune system. The presence of Krueppel Like Transcription Factors suggests a role for c17orf 98 in proliferation or apoptosis. The presence of SMAD indicates an involvement in the TGF-β pathway, while the presence of Myc related transcription factors indicates a potential proliferation function of the protein. Additionally, other C17orf98 transcription factors, like RBPJ-Kappa are involved in proliferation and signalling.
+
+
+=== Variants ===
+Numerous SNPs were found in the 5' UTR, 3' UTR, and coding region of c17orf98. Few SNPs were found in highly conserved regions. In all, four SNPs were found in the highly conserved amino acids. One SNP was found in the start codon sequence. Of these five, three had a SNP on the third position of the codon. Due to the wobble hypothesis, three of the five SNPs would have no effect on the overall protein structure.
+
+
+=== mRNA ===
+C17orf98 does not have any miRNA binding sites. Its mRNA has low abundance (0.44%). The mRNA sequence has three hexaloops, none of which are significant.
+
+
+== Protein ==
+
+
+=== Primary structure ===
+C17orf98 is a 17.6kDa protein. Distant orthologs are 5 to 6 kDa larger, but some of the discrepancies come from an added NLS sequence, which Homo sapiens does not have There are no positive or negative charge clusters. There are no transmembrane components. The isoelectric point is 9.80 / 17564.67 pI/Mw. C17orf98 is hydrophobic and soluble. 
+
+
+=== Secondary and tertiary structure ===
+Secondary structure of c17orf98 consists of both beta sheets and alpha helices (see diagram on right). Results are confirmed in the tertiary structure, however, alpha helix and beta sheet numbers differ slightly (see diagram on right).
+
+
+=== Motifs and binding sites ===
+There are no N-terminal signal peptides. Cleavage motifs were not found. There are no ER membrane retention signals, nor peroxisomal targeting signal. SKL2 is not present, thus a secondary peroxisome signal is not present. There are no vacuolar targeting signals. There are no RNA binding motifs or actinin type actin binding motifs. There are no N-myristoylation pattern or prenylation patterns.
+
+Kinase finder at Cuckoo determined kinase binding sites for c17orf98. There are many Serine/Threonine, and Tyrosine kinase phosphorylation sites. Serine and Threonine kinase binding sites are the most prevalent above the statistically significant threshold. There are no SUMOylation sites. C17orf98 gene has six sites on the sequence of possible O-GlcNAc sites. Highly conserved O-GlcNAc amino acid sites are 24, 32, 117, and 142. O-GlcNAc post-translational modification occurs on Ser/Thr residues, specifically on oncogenes, tumor suppressors, and proteins involved in growth factor signaling.C17orf98 has a Caspase3/7 motif, where either Caspase 3 or 7 would cleave. This supports the idea that C17orf98 is involved in proliferation, as a proapoptotic caspase would want to destroy any protein driving proliferation. The protein also has a motif where peptidyl-prolyl cis-trans isomerase NIMA interacting 1 (Pin1) binds. Pin1 upregulation is involved in cancer and immune disorders. This supports the claim that C17orf98 is involved in cancer, immune cells, and perhaps cancers of the immune system. Additionally, C17orf98 protein has an IBM site, where inhibitors of apoptosis (IAPs) bind. This again supports the idea of C17orf98 being involved in inhibiting apoptosis, and logically, driving cancer. Furthermore, C17orf98 has motifs where GRB2's SH2 domain binds. GRB2 is an adapter protein involved in the RAS signaling pathway, a pathway that when deregulated drives uncontrolled proliferation.
+
+
+=== Amino acid sequence ===
+A duplication may have occurred at positions 59–71.
+
+Homo sapiensMAYLSECRLRLEKGFILDGVAVSTAARAYGRSRPKLWSAIPPYNAQQDYHARSYFQ SHVVPPLLRVVPPLLRKTDQDHGGTGRDGWIVDYIHIFGQGQRYLNRRNWAGTGHS LQQVTGHDHYNADLKPIDGFNGRFGYRRNTPALRQSTSVFGEVTHFPLF
+
+
+=== Associated proteins ===
+There are no known associated proteins.
+
+
+== Expression ==
+Protein abundance in Homo sapiens whole organism is quite low. No data is available for other species. Allen Brain Atlas yields no brain atlas for c17orf98.
+
+
+=== Subcellular localization ===
+C17orf98 protein has been found to be expressed in the intermediate filaments and the nucleoli. A C17orf98 antibody is available from Sigma-Aldrich. Additionally, C17orf98 localizes in the cytoplasm. Distantly related c17orf98 orthologs in organisms such as Macrostomum lignano and Amphimedon queenslandica exhibit nuclear expression. Nuclear localization signals are present in distantly related organisms in non-conserved sites. The results of the k-NN prediction is cytoplasmic localization. C17orf98 is not a signal peptide. The protein is a soluble.
+
+
+=== Tissue ===
+Like most proteins, C17orf98 protein is highly expressed in the testes. The protein is expressed on adult tissues as well as fetal tissue. The protein has been found to be mildly expressed in connective tissue. Additionally, expression has been seen in the sperm, breast epithelial cells, and various cells of the immune system.
+
+
+== Clinical significance ==
+
+
+=== Cancer ===
+Protein expression is elevated in many cancer patients. Specifically, protein expression has been shown to be high on colorectal, breast, prostate, and lung. C17orf98 is expressed in papillary thyroid cancer as well. Additionally, mutations were found in c17orf98 in endometrial, stomach, coloratura, and kidney cancer. C17orf98 expression is elevated in cancer patients with BRCA. In kidney renal clear cell carcinoma patients, c17orf98 expression dramatically decreased compared to the non cancerous state. In 80% of chromophobe renal cell carcinoma patients, at least one gene duplication c17orf98 was present.
+
+
+=== Other conditions ===
+Protein expression is lower in males with teratozoospermia as compared to those without. Many Geo Profile experiments have been conducted with C17orf98, however, none yield data showing significant change in expression.
+
+
+== Evolution ==
+C17orf98 is a slow mutating protein. It resembles cytochrome c in its rate of divergence, as determined by the molecular clock equations.
+
+
+=== Paralogs ===
+There are no known Homo sapiens paralogs for C17orf98.
+
+
+=== Orthologs ===
+C17orf98 protein has additional distantly related orthologs across the metazoan kingdom. Its most distant relative is in the sponge family. There is no known ortholog in ctenophores, nematodes, bacteria, fungus, plants, or zebrafish. There are only two fish with the C17orf 98 gene. Model organisms such as Caenorhabditis elegans, and Drosophila melanogaster, do not have the gene.
+C17orf98 Orthologs
+
+
+== References ==

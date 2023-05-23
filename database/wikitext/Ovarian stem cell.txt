@@ -1,0 +1,54 @@
+Ovarian stem cells are oocytes formed in ovarian follicle before birth in female mammals. They do not form post-natally, and are depleted throughout reproductive life. In humans it is estimated that 500,000–1,000,000 primordial follicles are present at birth, decreasing rapidly with age until roughly age 51 when ovulation stops, resulting in menopause. The origin of these oocytes remains under discussion. The publication of a study in 2004 proposing germ cell renewal in adult mice sparked a debate on the possibility of stem cells in the postnatal ovary. An increasing number of studies suggest that stem cells exist within the mammalian ovary and can be manipulated in vitro to produce oocytes, but whether such ovarian stem cells have the potential to differentiate into oocytes remains uncertain.
+
+
+== History ==
+
+
+=== 1870s ===
+Studies performed on humans, dogs, and cats revealed that oocyte production stops shortly after birth. If this is true, it would mean that females have a finite number of oocytes that are formed before they are born.
+
+
+=== 1920s ===
+Studies demonstrated that 'new' oocytes could be produced after damage to the fowl ovary. Additional research demonstrated that rats which had one ovary removed before puberty produced the same number of mature eggs as healthy rats. This would suggest that some compensatory mechanism is at work; an increase in immature follicle development could have occurred, or post-natal oogenesis may have been activated. However, such theories were merely speculative.
+
+
+=== 1950s ===
+Sir Solomon Zuckerman examined reports from 1900 to 1950 of multiple species and concluded that “no experimental or histological evidence supports the view that oogenesis continues after puberty”. This dogma was rarely challenged.
+
+
+=== 1960s ===
+Studies in adult primates demonstrated the presence of oogonia in mitosis as well as oocytes at successive stages of meiosis, leading to the conclusion that postnatal oogenesis takes place. Mitotic cells were not specifically stained for oocyte markers, so identification was limited to histological analysis of haematoxylin-stained sections. It is therefore possible that granulosa/theca cells, or other support cells within the ovary, could be dividing.
+
+
+=== 1990s ===
+Drosophila melanogaster's postnatal oogenesis cycle is well characterized; however, invertebrates lack the genetic similarity to allow translation of the same findings into mammals.
+
+
+=== 2000s ===
+Mice were found to have presumptive oocyte stem cells (OSCs) expressing mitotic gene markers, indicating that they were dividing. A potential functional role of OSCs in vivo has also been demonstrated by the growth of GFP-labeled OSCs into follicles when transplanted into wild-type mouse ovaries. There is widespread scientific disagreement about whether mammalian oogenesis occurs post-natally.
+
+
+=== 2010s ===
+In female human cancer patients that were treated with ABVD (adriamycin, bleomycin, vinblastine and dacarbazine) led to an increase in mean follicular density. So perhaps under certain perturbed circumstances, OSCs (if they exist) can be stimulated to form follicles.
+
+
+== Structure and function ==
+The structure and characteristics of ovarian stem cells are controversial, since there is currently no definitive evidence that they exist. However, scientists that do believe ovarian stem cells exist have described the stem cells as having the ability to finish meiotic progression, which they believe they have confirmed through cytometry and in situ hybridisation.Using fluorescent proteins to label the OSCs, scientists have demonstrated OSCs that can form primordial follicles that are capable of further growth and development. However, these findings are not agreed upon by the scientific community.
+
+
+== Markers ==
+Markers for ovarian stem cells are also a source of contention.
+Markers previously used are:
+DDX4
+STRA-8
+SCP-3
+SPO 11
+Dmc 1DDX4 protein is a commonly used marker as its expression is associated with germ cells. The identification of these cells revolves around their key ability to undergo mitotic division. Several studies have identified isolation of cells expressing DDX4, or VASA in rodents. Isolation has been based on expression of DDX4 which is an RNA helicase DEAD box polypeptide 4, in the ovary this is only expressed in the germline. DDX4 has been criticised as a maker mainly due to the assumption that DDX4 does not have a surface epitope and is only an intracellular protein. However recent evidence has shown that cell populations from the human ovary can express DDX4 on the cell surface. Therefore, invalidating ddx4 as a marker.
+
+
+== Potential clinical ==
+If OSCs can be definitively identified and better understood, then it is proposed that manipulation of these cells could present a novel treatment method for Premature Ovarian Insufficiency (POI), female infertility, and post-menopausal health conditions. This would rely on successful identification, removal, cryopreservation, and re-injection of OSCs and such a protocol currently only exists in theory.
+Removal and cryopreservation of OSCs from female patients prior to ovotoxic treatments such as chemotherapy, and subsequent replacement into the patient's ovary, has been proposed as a way to allow women to produce their own oocytes and conceive their own child after follicle-depleting treatment.Re-injection of OSCs into the ovary following menopause may restore the population of hormone secreting oocytes, restoring endocrine function in the ovary and resulting in the reversal of the unpleasant symptoms of menopause.Removal and preservation of OSCs in advance of anticipated POI, followed by re-injection when the patient desires pregnancy may be a future fertility treatment for women suffering from POI.Ultimately, until OSCs have been irrevocably characterised, and a more developed understanding of the ovarian environment has been achieved, these treatments remain hypothetical.
+
+
+== References ==

@@ -1,0 +1,15 @@
+An ionocyte (formerly called a chloride cell) is a mitochondrion-rich cell within ionoregulatory organs of animals, such as teleost fish gill, insect Malpighian tubules, crustacean gills, antennal glands and maxillary glands, and copepod Crusalis organs. These cells contribute to the maintenance of optimal osmotic, ionic, and acid-base levels within metazoans. In aquatic invertebrates, ionocytes perform the functions of both ion uptake and ion excretion. In marine teleost fish, by expending energy to power the enzyme Na+/K+-ATPase and in coordination with other protein transporters, ionocytes pump excessive sodium and chloride ions against the concentration gradient into the ocean. Conversely, freshwater teleost ionocytes use this low intracellular environment to attain sodium and chloride ions into the organism, and also against the concentration gradient. In larval fishes with underdeveloped / developing gills, ionocytes can be found on the skin and fins.
+
+
+== Mechanism of action ==
+Marine teleost fishes consume large quantities of seawater to reduce osmotic dehydration. The excess of ions absorbed from seawater is pumped out of the teleost fishes via the ionocytes. These cells use active transport on the basolateral (internal) surface to accumulate chloride, which then diffuses out of the apical (external) surface and into the surrounding environment. Such mitochondrion-rich cells are found in both the gill lamellae and filaments of teleost fish. Using a similar mechanism, freshwater teleost fish use these cells to take in salt from their dilute environment to prevent hyponatremia from water diffusing into the fish. In the context of freshwater fish, ionocytes are often referred to as "mitochondria-rich cells", to emphasis their high density of mitochondria.
+
+
+== See also ==
+Pulmonary ionocyte - a rare type of specialised cell that may regulate mucus viscosity in humans
+
+
+== References ==
+
+
+== Further reading ==

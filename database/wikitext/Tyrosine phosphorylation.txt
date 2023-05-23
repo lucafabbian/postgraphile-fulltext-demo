@@ -1,0 +1,76 @@
+Tyrosine phosphorylation is the addition of a phosphate (PO43−) group to the amino acid tyrosine on a protein. It is one of the main types of protein phosphorylation. This transfer is made possible through enzymes called tyrosine kinases. Tyrosine phosphorylation is a key step in signal transduction and the regulation of enzymatic activity.
+
+
+== History ==
+In the summer of 1979, studies of polyomavirus middle T and v-Src associated kinase activities led to the discovery of tyrosine phosphorylation as a new type of protein modification. Following the 1979 discovery that Src is a tyrosine kinase, the number of known distinct tyrosine kinases grew rapidly, accelerated by the advent of rapid DNA sequencing technology and PCR. About one year later, researchers discovered an important role for tyrosine phosphorylation in growth factor signaling and proliferation, and by extension in oncogenesis through hijacking of growth factor tyrosine phosphorylation signaling pathways.
+In 1990 receptor tyrosine kinase (RTK) initiation of intracellular signaling was detected. Phosphotyrosine (P.Tyr) residues on activated RTKs are recognized by a phosphodependent-binding domain, the SH2 domain. The recruitment of SH2 domain proteins to autophosphorylated RTKs at the plasma membrane is essential for initiating and propagating downstream signaling. SH2 domain proteins may have a variety of functions, including adaptor proteins to recruit other signaling proteins, enzymes that act on membrane molecules, such as phospholipases, cytoplasmic tyrosine kinases that relay signals, E3 ubiquitin ligases, and transcription factors. In 1995 proteins were found containing a second type of P.Tyr-binding domain, PTB, in RTK signaling. Gradually the number of identified tyrosine kinases and receptor tyrosine kinases grew. As of 2002, of the 90 known human tyrosine kinases, 58 were RTKs, and opposing the action of the tyrosine kinases were 108 protein phosphatases that can remove phosphate from P.Tyr in proteins.
+
+
+== Signal transduction ==
+Ushiro and Cohen (1980) discovered the important role of the phosphorylation of tyrosine as a regulator of intracellular processes and revealed changes in the tyrosine kinase activity of proteins in mammalian cells. Subsequently, the change in protein tyrosine kinase activity was shown to underlie the Ras-MAPK signaling pathway regulated by mitogen-activated protein (MAP) kinases.The classical scheme of transmission of the proliferative signals through the pathway mediated by growth factors (Ras-MAPK pathway) includes:
+
+association of growth factor with receptor
+dimerization of receptor and autophosphorylation of receptor tyrosine kinase (RTK)
+module coupling of RTK with adaptor SH2−domain proteins; activation of Ras
+phosphorylation and activation of MAP kinases
+transmission of signal into genome.Another pathway of transmission of proliferative signals into the genome, with participation of growth factors and tyrosine kinases, is the monocascade STAT (signal transducer and activator of transcription) protein pathway activated by receptors of growth factors and cytokines. The essence of this transmission consists in direct activation by tyrosine kinases of the STAT (signal transducer and activator of transcription) proteins located in the cytoplasm. This transmission is also provided by the SH2−domain contacts responsible for the coupling of phosphotyrosine-containing proteins.
+
+
+== PTK ==
+Two important classes of tyrosine kinase in tyrosine phosphorylation are receptor tyrosine kinase and nonreceptor tyrosine kinase. Receptor tyrosine kinases are type I transmembrane proteins possessing an N-terminal extracellular domain, which can bind activating ligands, a single transmembrane domain, and a C-terminal cytoplasmic domain that includes the catalytic domain. Nonreceptor tyrosine kinases lack a transmembrane domain. Most are soluble intracellular proteins, but a subset associate with membranes via a membrane-targeting posttranslational modification, such as an N-terminal myristoyl group, and can act as the catalytic subunit for receptors that lack their own catalytic domain.
+
+
+== Reaction ==
+Protein tyrosine kinases (PTKs) catalyze the transfer of the γ-phosphate group from ATP to the hydroxyl group of tyrosine residues, whereas protein tyrosine phosphatases (PTPs) remove the phosphate group from phosphotyrosine.
+
+
+== Function ==
+
+
+=== Growth factor signaling ===
+Tyrosine phosphorylation of certain target proteins is required for ligand stimulation of their enzymatic activity. In response to EGF, PDGF, or FGF receptor activation, the SH2 domains of PLCγ bind to specific phosphotyrosines in the C-terminal tails of these receptors. Binding of PLCγ to the activated receptor facilitates its efficient tyrosine phosphorylation by the RTK. PDGF-induced activation of phospholipase C activity is abrogated in cells expressing PLCγ mutated in the tyrosine phosphorylation sites.
+
+
+=== Cell adhesion, spreading, migration and shape ===
+Phosphorylation on tyrosine residues, which are localized on membrane proteins, stimulates a cascade of signaling pathways that control cell proliferation, migration, and adhesion. These tyrosine residues are phosphorylated very early. For example, p140Cap (Cas-associated protein) are phosphorylated within 15 minutes of cell adhesion to integrin ligands.
+
+
+=== Cell differentiation in development ===
+Tyrosine phosphorylation mediates in signal transduction pathways during germ cell development and determines their association with the differentiation of a functional gamete. Until testicular germ cells differentiate into spermatozoa, cAMP-induced tyrosine phosphorylation is not detectable. Entry of these cells into the epididymis is accompanied by sudden activation of the tyrosine phosphorylation pathway, initially in the principal piece of the cell and subsequently in the midpiece.
+
+
+=== Cell cycle control ===
+Transitions in the phases of the cell cycle are also dependent on tyrosine phosphorylation. In the late G2 phase, it is present as an inactive complex of tyrosine-phosphorylated p34cdc2 and unphosphorylated cyclin Bcdc13. In M phase, its activation as an active MPF displaying histone H1 kinase (H1K) originates from the concomitant tyrosine dephosphorylation of the p34cdc2 subunit and the phosphorylation of the cylin Bcdc13 subunit. As cells leave the S phase and enter the G2 phase, a massive tyrosine phosphorylation of p34cdc2 occurs.
+
+
+=== Gene regulation and transcription ===
+Regulation with tyrosine phosphorylation plays a very important role in gene regulation. Tyrosine phosphorylation can influence the formation of different transcription factors and the subsequent development of their product. One of these cases is tyrosine phosphorylation of caveolin 2 (Cav-2) that negatively regulates the anti-proliferative function of transforming growth factor beta (TGF-beta) in endothelial cells. Only tyrosine phosphorylation is essential for the negative regulation of anti-proliferative function and signaling of TGF-β in ECs.
+
+
+=== Endocytosis and exocytosis ===
+The phosphorylation of tyrosine residues plays an important role in these two very important processes. Ligand-dependent endocytosis, which is not coupled to secretion, is known to be regulated via tyrosine phosphorylation. The effect of tyrosine phosphorylation is specific to rapid endocytosis. Dynamin is tyrosine phosphorylated in rapid endocytosis as well as in ligand dependent endocytosis.
+
+
+=== Insulin stimulation of glucose uptake ===
+Insulin binds to the insulin receptor at the cell surface and activates its tyrosine kinase activity, leading to autophosphorylation and phosphorylation of several receptor substrates. Phosphorylation of selected tyrosine sites on receptor substrates is known to activate different pathways leading to increased glucose uptake, lipogenesis, and glycogen and protein synthesis, as well as to the stimulation of cell growth. In addition to the activation of these pathways by tyrosine phosphorylation, several mechanisms of downregulating the response to insulin stimulation have also been identified.
+
+
+=== Angiogenesis (formation of new blood vessels) ===
+Protein tyrosine phosphorylation of capillary endothelial cells plays an important role in their proliferation. This phosphorylation can form new blood vessels.
+
+
+=== Regulation of ion channels in nerve transmission ===
+Many studies demonstrating high levels of protein-tyrosine kinases and phosphatases in the central nervous system have suggested that tyrosine phosphorylation is also involved in the regulation of neuronal processes. High levels of protein-tyrosine kinases and phosphatases and their substrates at synapses, both presynaptically and postsynaptically, suggest that tyrosine phosphorylation may regulate synaptic transmission. The role of tyrosine phosphorylation in the regulation of ligand-gated ion channels in the central nervous system has been less clear. The major excitatory neurotransmitter receptors in the central nervous system are the glutamate receptors. These receptors can be divided into three major classes, AMPA, kainate, and NMDA receptors, based on their selective agonists and on their physiological properties. Recent studies have provided evidence that NMDA receptors are regulated by tyrosine phosphorylation.
+
+
+== Tyrosine kinase and diseases ==
+Tyrosine kinases are critical mediators of intracellular signaling and of intracellular responses to extracellular signaling. Changes in tyrosine kinase activity are implicated in numerous human diseases, including cancers, diabetes, and pathogen infectivity. Understanding the mechanism of CD4-mediated negative signaling is of particular interest in view of the progressive depletion of the CD4+ subset of T lymphocytes by the human immunodeficiency virus (HIV), which causes AIDS.
+T-cells from HIV-infected individuals also display activation defects, and undergo spontaneous apoptosis in culture. Similarities between the inhibitory effects of anti-CD4 antibodies and HIV-derived gp 120 immune complexes on T-cells suggest that sequestration of this and/or other putative substrates by gp 120-mediated CD4 ligation in HIV-infected individuals may play a role in the loss of CD4+ cells and the inhibition of their activation.
+In activated B-cell–like (ABC) diffuse large B-cell lymphoma, JAK1 mediates autocrine IL-6 and IL-10 cytokine activation via a noncanonical epigenetic regulation mechanism involving phosphorylation of H3Y41P.
+
+
+== See also ==
+Protein phosphorylation
+
+
+== References ==

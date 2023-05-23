@@ -1,0 +1,24 @@
+TYMP is a gene that encodes for the enzyme thymidine phosphorylase.  The TYMP gene is also known as ECGF1 (endothelial cell growth factor 1, platelet-derived) and MNGIE due to its role in MNGIE syndrome.   
+
+
+== Structure ==
+The TYMP gene is located on chromosome 22 in humans and contains 10 exons spanning more than 4.3 kb.
+
+
+== Function ==
+TYMP encodes for the enzyme thymidine phosphorylase. TYMP and thymidine phosphorylase are associated with angiogenesis, growth of endothelial cells, and mitochondrial neurogastrointestinal encephalomyopathy (MNGIE).
+Thymidine phosphorylase is angiogenic growth factor which promotes angiogenesis in vivo and stimulates the in vitro growth of a variety of endothelial cells. Thymidine phosphorylase has a highly restricted target cell specificity acting only on endothelial cells, hence its alternative name of ECGF1.  Because it limits glial cell proliferation, thymidine phosphorylase is also known as gliostatin. Thymidine phosphorylase activity in leukocytes from mitochondrial neurogastrointestinal encephalomyopathy (MNGIE) patients was less than 5 percent of controls, indicating that loss-of-function mutations in TYMP cause MNGIE.
+
+
+== Interactive pathway map ==
+Click on genes, proteins and metabolites below to link to respective articles.
+
+
+== References ==
+
+
+== Further reading ==
+
+
+== External links ==
+GeneReviews/NIH/NCBI/UW entry on Mitochondrial Neurogastrointestinal Encephalopathy Disease (MNGIE)

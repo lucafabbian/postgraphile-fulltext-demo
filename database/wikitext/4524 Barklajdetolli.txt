@@ -1,0 +1,34 @@
+4524 Barklajdetolli, provisional designation 1981 RV4, is an elongated Vestian asteroid and an exceptionally slow rotator from the inner regions of the asteroid belt, approximately 10 kilometers in diameter. It was discovered on 8 September 1981, by Russian–Ukrainian astronomer Lyudmila Zhuravleva at the Crimean Astrophysical Observatory in Nauchnyj, on the Crimean peninsula. The asteroid was named for Russian field marshal Michael Andreas Barclay de Tolly.
+
+
+== Orbit and classification ==
+Barklajdetolli is an attributed member of the Vestian family, one of the largest groups of stony asteroids in the main-belt. It orbits the Sun in the inner main-belt at a distance of 2.0–2.6 AU once every 3 years and 6 months (1,291 days). Its orbit has an eccentricity of 0.13 and an inclination of 7° with respect to the ecliptic.In September 1935, it was first identified as 1935 SN and 1935 SC1 at Simeiz and Johannesburg Observatory, respectively. The body's observation arc begins with a precovery taken at Palomar Observatory in 1953, or 28 years prior to its official discovery observation at Nauchnyj.
+
+
+== Physical characteristics ==
+Barklajdetolli has been characterized as a common stony S-type asteroid.
+
+
+=== Slow rotator and shape ===
+In August 2009, a rotational lightcurve for this asteroid was obtained at the Carbuncle Hill Observatory (912) on Rhode Island, United States. Lightcurve analysis gave an exceptionally long rotation period of 1,069 hours with a high brightness amplitude of 1.26 in magnitude (U=2).While the period still may be wrong by a few hundred hours, it is one of the slowest rotating asteroids known to exist. The exceptionally high variation in  brightness indicates that the body has a non-spheroidal shape.
+
+
+=== Diameter and albedo ===
+According to the surveys carried out by the Japanese Akari satellite and NASA's Wide-field Infrared Survey Explorer with its subsequent NEOWISE mission, the asteroid's surface has a low albedo of 0.05 and 0.10, respectively, while the Collaborative Asteroid Lightcurve Link (CALL) assumes a much higher albedo of 0.24, derived from its Flora family classification. The divergent albedos also translate into different estimates for the body's size.While the space-based surveys find a diameter of 12.1 and 13.6 kilometers, respectively, CALL calculates only 7.1 kilometers, as the higher a body's albedo (reflectivity), the smaller its diameter for a certain absolute magnitude.
+
+
+== Naming ==
+This minor planet was named in memory of Russian field marshal of Scottish descent, Michael Andreas Barclay de Tolly (1761–1818). He was Russia's Minister of War and commander-in-chief of its armies during the French invasion of Russia in the Patriotic War of 1812. The official naming citation was published by the Minor Planet Center on 4 May 1999 (M.P.C. 34620).
+
+
+== References ==
+
+
+== External links ==
+Asteroid Lightcurve Database (LCDB), query form (info Archived 16 December 2017 at the Wayback Machine)
+Dictionary of Minor Planet Names, Google books
+Asteroids and comets rotation curves, CdR – Observatoire de Genève, Raoul Behrend
+Discovery Circumstances: Numbered Minor Planets (1)-(5000) – Minor Planet Center
+4524 Barklajdetolli at AstDyS-2, Asteroids—Dynamic Site
+Ephemeris · Observation prediction · Orbital info · Proper elements · Observational info
+4524 Barklajdetolli at the JPL Small-Body Database

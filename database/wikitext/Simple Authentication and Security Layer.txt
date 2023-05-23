@@ -1,0 +1,62 @@
+Simple Authentication and Security Layer (SASL) is a framework for authentication and data security in Internet protocols. It decouples authentication mechanisms from application protocols, in theory allowing any authentication mechanism supported by SASL to be used in any application protocol that uses SASL. Authentication mechanisms can also support proxy authorization, a facility allowing one user to assume the identity of another. They can also provide a data security layer offering data integrity and data confidentiality services. DIGEST-MD5 provides an example of mechanisms which can provide a data-security layer. Application protocols that support SASL typically also support Transport Layer Security (TLS) to complement the services offered by SASL.
+John Gardiner Myers wrote the original SASL specification (RFC 2222) in 1997. In 2006, that document was replaced by RFC 4422 authored by Alexey Melnikov and Kurt D. Zeilenga. SASL, as defined by RFC 4422 is an IETF Standard Track protocol and is, as of 2006, a Proposed Standard.
+
+
+== SASL mechanisms ==
+A SASL mechanism implements a series of challenges and responses. Defined SASL mechanisms include:
+
+EXTERNAL where authentication is implicit in the context (e.g., for protocols already using IPsec or TLS)
+ANONYMOUS for unauthenticated guest access
+PLAIN a simple cleartext password mechanism, defined in RFC 4616
+OTP a one-time password mechanism.  Obsoletes the SKEY mechanism.
+SKEY an S/KEY mechanism.
+CRAM-MD5 a simple challenge-response scheme based on HMAC-MD5.
+DIGEST-MD5 (historic), partially HTTP Digest compatible challenge-response scheme based upon MD5.  DIGEST-MD5 offered a data security layer.
+SCRAM (RFC 5802), modern challenge-response scheme based mechanism with channel binding support
+NTLM an NT LAN Manager authentication mechanism
+GS2- family of mechanisms supports arbitrary GSS-API mechanisms in SASL. It is now standardized as RFC 5801.
+GSSAPI for Kerberos V5 authentication via the GSSAPI.  GSSAPI offers a data-security layer.
+BROWSERID-AES128 for Mozilla Persona authentication
+EAP-AES128 for GSS EAP authentication
+GateKeeper (& GateKeeperPassport) a challenge-response mechanism developed by Microsoft for MSN Chat
+OAUTHBEARER OAuth 2.0 bearer tokens (RFC 6750), communicated through TLS
+OAUTH10A OAuth 1.0a message-authentication-code tokens (RFC 5849, Section 3.4.2)
+
+
+== SASL-aware application protocols ==
+Application protocols define their representation of SASL exchanges with a profile. A protocol has a service name such as "ldap" in a registry shared with GSSAPI and Kerberos.As of 2012 protocols currently supporting SASL include:
+
+Application Configuration Access Protocol
+Advanced Message Queuing Protocol (AMQP)
+Blocks Extensible Exchange Protocol
+Internet Message Access Protocol (IMAP)
+Internet Message Support Protocol
+Internet Relay Chat (IRC) (with IRCX or the IRCv3 SASL extension)
+Lightweight Directory Access Protocol (LDAP)
+libvirt
+ManageSieve (RFC 5804)
+memcached
+Post Office Protocol (POP)
+Remote framebuffer protocol used by VNC
+Simple Mail Transfer Protocol (SMTP)
+Subversion svn protocol
+Extensible Messaging and Presence Protocol (XMPP)
+
+
+== See also ==
+Transport Layer Security (TLS)
+
+
+== References ==
+
+
+== External links ==
+RFC 4422 - Simple Authentication and Security Layer (SASL) - obsoletes RFC 2222
+RFC 4505 - Anonymous Simple Authentication and Security Layer (SASL) Mechanism - obsoletes RFC 2245
+RFC 4616 - The PLAIN Simple Authentication and Security Layer (SASL) Mechanism - updates RFC 2595
+The IETF SASL Working Group, chartered to revise existing SASL specifications, as well as to develop a family of GSSAPI mechanisms
+Cyrus SASL, a free and portable SASL library providing generic security for various applications
+GNU SASL, a free and portable SASL command-line utility and library, distributed under the GNU GPLv3 and LGPLv2.1, respectively
+Dovecot SASL, an SASL implementation
+RFC 2831 (historic) - Using Digest Authentication as a SASL Mechanism, obsoleted in RFC 6331
+Java SASL API Programming and Deployment Guide

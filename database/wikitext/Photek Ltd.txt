@@ -1,0 +1,41 @@
+Photek Limited is a specialist manufacturer and global supplier of vacuum-based tubes and camera systems for photon detection. Photek manufacture image intensifiers, solar-blind detectors, photomultipliers, streak tubes and a range of associated electronics and camera systems. The company was founded in 1991 by Jon Howorth, Ralph Powell, Martin Ingle, Geoff Holt and Mehmet Madakbas.
+Photek's manufacturing specialty is fast-time-resolution devices using micro-channel plates. Fusion plasma diagnostics collaborations with AWE have improved time resolution to less than 100ps for devices with micro-channel plate amplification. Detectors without an MCP, such as vacuum photo-diodes, can go as low as 55ps time resolution. Specialist devices, such as streak tubes, achieve an even better resolution of 1 picosecond or less
+ but must sacrifice one spatial dimension for timing information.
+Photek LTD announces the formation of Photek USA LLC, a US sales and technical support center. Photek USA is building a US-based team to enter new markets and launch new products while supporting the long-standing relationship with Sydor Technologies (Sydor) and their strength in servicing the DOE NNSA Laboratories and Mission Support Services.Dublin, Ireland and St Leonards-on-Sea, United Kingdom, 15 February 2021 – Tibidabo Scientific Industries Ltd (“Tibidabo Scientific”), a global leader and supplier of highly differentiated technology for scientific research, aerospace, and industrial markets, announced the acquisition of Photek Limited.
+
+
+== Notable Projects ==
+
+
+=== Space Missions ===
+Photek detectors have been used in several space missions through collaborations with academic institutions such as the University of Leicester:
+
+Photek is proud to have contributed to the Indian Space Agency (ISRO) project where they have shown a new Galaxy 9.3 billion light-years away.The Indian satellite AstroSat uses intensifiers developed and built at Photek in Hastings between 2010 and 2013. AstroSat was launched in 2015, and after a period of calibration started surveying regions of the sky of special scientific interests at different wavelengths deep into the UV spectral region (completely invisible from Earth) .
+Image Intensifiers (CsI Far-UV, CsTe Near-UV, Alkali-Antimonide Visible) for the Ultra-Violet Imaging Telescope (UVIT) on Astrosat. ISRO - Launched September 28, 2016.
+Scanning Image Spectrograph (CsI Far-UV image intensifier), part of the Special Sensor Ultraviolet Spectrographic Imager (SSUSI) on DMSP satellites since 2003. NASA - Launched October 18, 2003; November 04, 2006; October 18, 2009; April 14, 2014.
+UV Spectrograph (CsI Far-UV image intensifier), part of the Miniature Integrated Camera And Spectrometer (MICAS) on Deep Space 1. NASA - Launched October 24, 1998.
+Scintillating Optical Fibre Trajectory (SOFT) Detector (Alkali-Antimonide Visible image intensifier), part of the Cosmic Ray Isotope Spectrometer (CRIS) on Advanced Composition Explorer (ACE). NASA - Launched August 25, 1997.
+
+
+=== Particle Detectors ===
+Photek are partners in the TORCH project at CERN to produce a new detector for the LHCb upgrade. A concurrent collaboration with Arradiance, USA to develop protective vacuum coatings for electron multipliers has shown ALD-coated photomultipliers can cope with the much higher flux (5C.cm-2) required in particle detector applications.
+
+
+=== Velocity Map Imaging ===
+Photek were the first to commercialise Velocity Map Imaging (VMI) technology, offering VMI ion optics and related instrumentation for physical chemistry and laser physics research applications. VMI is a variation of charged-particle imaging that offers high velocity resolution, unlocking information on fundamental chemical structure or the characteristics of the intense, ultra-short laser-particle interaction. VMI was used as a ‘quantum microscope’ to take the first ever ‘photograph’ inside a hydrogen atom in 2013.
+
+
+=== Unusual Applications ===
+Fluorescence imaging of Michaelangelo's David, proves a non-destructive method for chemical testing of artwork surfaces. Using an image intensifier with 5ns time windows after a 1ns 337 nm laser exposure the fluorescence decay was measured over 100ns to obtain a map of the different surface chemicals to reveal ancient repairs and preservation methods.
+Bio-photon emission can provide information about chemical processes in living organisms. The low intensity emissions can even be detected after attenuation through other tissue when using an image intensifier with sufficient gain. An image intensifier with 200 um spatial resolution and 10us time resolution was used to analyse the effects of hyperoxia by the bio-photon emission from oxidation reactions. This damage is of particular concern in the brain as it consumes 20% of the oxygen in the body and is composed largely of fatty tissues that are susceptible to this oxidative stress.
+
+
+== References ==
+
+
+== External links ==
+Photek Ltd website
+Lumintek camera system
+Velocitas Velocity Map Imaging system
+Sydor Technologies
+German Image Detector Systems

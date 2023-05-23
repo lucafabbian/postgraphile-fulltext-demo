@@ -1,0 +1,35 @@
+1991 Darwin, provisional designation 1967 JL, is a stony Florian asteroid from the inner regions of the asteroid belt, approximately 5 kilometers in diameter.
+It was discovered on 6 May 1967, by Argentine astronomers Carlos Cesco and Arnold Klemola at the El Leoncito's Yale–Columbia Southern Station of the Félix Aguilar Observatory in Argentina. It was named for both George and Charles Darwin.
+
+
+== Classification and orbit ==
+Darwin is a member of the Flora family, one of the largest groups of stony asteroids in the main-belt. It orbits the Sun in the inner main-belt at a distance of 1.8–2.7 AU once every 3 years and 4 months (1,232 days). Its orbit has an eccentricity of 0.21 and an inclination of 6° with respect to the ecliptic.It was first observed as 1954 UG at Goethe Link Observatory in 1954, extending the body's observation arc by 13 years prior to its official discovery observation at El Lenoncito.
+
+
+== Physical characteristics ==
+Darwin has been characterized as a common stony S-type asteroid based on its classification to the Flora family.
+
+
+=== Rotation period ===
+In September 1991, a rotational lightcurve of Darwin was obtained from photometric observations by Polish astronomer Wiesław Wiśniewski. Lightcurve analysis gave a rotation period of 4.7 hours with a brightness amplitude of 0.08 magnitude (U=2).
+
+
+=== Diameter and albedo ===
+According to the surveys carried out by the Japanese Akari satellite and NASA's Wide-field Infrared Survey Explorer with its subsequent NEOWISE mission, Darwin measures between 4.989 and 6.32 kilometers in diameter and its surface has an albedo between 0.16 and 0.28.The Collaborative Asteroid Lightcurve Link adopts Pravec's revised WISE data, that is, an albedo of 0.2541 and a diameter of 5.02 kilometers with an absolute magnitude of 13.6.
+
+
+== Naming ==
+This minor planet was named in memory of English naturalist Charles Darwin (1809–1882), the first to establish the theory of biological evolution. While on research in Argentina, he crossed the Andes relatively near to the Leoncito Astronomical Complex where the minor planet was discovered.The asteroid also honors George Darwin (1845–1912), his second son who was a noted astronomer for his pioneering application of detailed dynamical analyses to problems of cosmogony and geology. The Darwins are also honored by the lunar and Martian craters Darwin. The official naming citation was published by the Minor Planet Center on 1 April 1980 (M.P.C. 5282).
+
+
+== References ==
+
+
+== External links ==
+Asteroid Lightcurve Database (LCDB), query form (info Archived 16 December 2017 at the Wayback Machine)
+Dictionary of Minor Planet Names, Google books
+Asteroids and comets rotation curves, CdR – Observatoire de Genève, Raoul Behrend
+Discovery Circumstances: Numbered Minor Planets (1)-(5000) – Minor Planet Center
+1991 Darwin at AstDyS-2, Asteroids—Dynamic Site
+Ephemeris · Observation prediction · Orbital info · Proper elements · Observational info
+1991 Darwin at the JPL Small-Body Database

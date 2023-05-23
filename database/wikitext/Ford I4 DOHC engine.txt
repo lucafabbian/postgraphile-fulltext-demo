@@ -1,0 +1,89 @@
+The Ford I4 DOHC engine is a cast iron block 4-cylinder inline internal combustion engine with twin overhead camshafts, produced by the Ford Motor Company at Dagenham Engine Plant. It was initially available as a 2.0 litre 8-valve version, and later in 2.0 and 2.3 litre 16-valve versions from 1989 to the end of production of the MK2 Ford Galaxy in 2006. It powered various Ford models during this time, but was most well known in the rear-wheel drive "Twin Cam" variants of the Ford Sierra and Ford Scorpio. Despite being built for the company's larger RWD models, Ford also employed the engine in the front-wheel drive Galaxy and the Escort RS 2000 16v.
+
+
+== History ==
+The engine was originally designed to replace the 2.0 L OHC Pinto engine, derivatives of which had powered most of Ford's four-cylinder rear-wheel drive cars since the early 1970s, and which was by that time lagging behind the competition in terms of power output, efficiency and refinement. Equipped with a newly designed cast aluminium alloy twin-cam cylinder head but still only 8 valves, and a "square" 86 mm × 86 mm (3.39 in × 3.39 in) bore and stroke, the new I4 was launched in the Ford Sierra and Scorpio, mated to either the also new all-synchromesh MT-75 5-speed manual transmission or the existing A4LD four-speed automatic. The engine received mixed reviews, being seen as an improvement over the Pinto, but not the leap forward one might have expected.
+
+
+== Transverse installation ==
+Although front-wheel drive and already powered by a separate range of engines, the Escort received the next major incarnation of the I4. In 1990, the MkV Escort had been launched to disappointing press reviews, and Ford were looking to boost the image of this critically important range and steal sales from arch rivals Vauxhall and VW who were doing very well with big bore GTE/GTI badged versions of their family hatches.
+Ford's strategy was to introduce two high-performance versions of the Escort to compete in the hot hatch market, using the well known XR3i and RS2000 badges. The Zetec engine being developed for the new Mondeo was a still a year away, so rather than wait for the new engine to become available Ford opted to use this engine with a new multivalve cylinder head and tubular exhaust manifold, and mount it transversely in a FWD application.
+With the discontinuation of the Sierra in 1993 and the RS2000 in 1996, the I4 engine continued in more workaday applications, appearing in the Ford Galaxy MPV launched in 1995. By this time, a longer-stroked 2.3 litre 16-valve version of the engine was available alongside the original 2.0 which was still available in both 8-valve and 16-valve versions. This 2.3 litre unit also appeared in the Ford Scorpio and the Ford Transit van. The I4 remained the main petrol unit for the original Galaxy until its 2006 redesign.
+
+
+== 8v engine Specifications ==
+Two valves per cylinder with hydraulic valve lifters
+Twin camshafts driving by a timing chain
+Stroke and bore were both 86 mm (3.39 in)
+Compression was 10.3:1 (Later versions of the 8V DOHC were 9.8:1)
+Five main crankshaft bearings
+
+
+=== N8A ===
+Carbureted
+Power: 107 hp (80 kW) at 5600 rpm.
+Torque: 180 N⋅m (133 lb⋅ft) at 3000 rpm.
+Redline: 6050 rpm
+
+
+=== N9A ===
+Electronic fuel injection (Batched multi-point)
+Power: 123 hp (92 kW) at 5500 rpm.
+Torque: 174 N⋅m (128 lb⋅ft) at 2500 rpm.
+Redline: 5950 rpm
+
+
+=== N9C/N9E/NSE/N9D ===
+Electronic fuel injection (Batched multi-point) (N9x with EEC4, NSx with EEC5 [distributor-less])
+Catalytic converter
+Power: 118 hp (88 kW) at 5500 rpm
+Torque: 171 N⋅m (126 lb⋅ft) at 2500 rpm.
+Redline: 5950 rpm
+
+
+== 16-valve engines ==
+
+
+=== N7A ===
+Capacity: 2.0 L (1,998 cc)
+Bore x Stroke: 86 mm × 86 mm (3.39 in × 3.39 in)
+Compression: 10.3:1
+Valvegear: Chain driven DOHC. 16 valves. Hydraulic tappets.
+Fuelling: EEC-IV controlled multi-point fuel injection
+Power: 150 hp (112 kW) @ 6000 rpm
+Torque: 190 N⋅m (140 lb⋅ft) @ 4500 rpm
+
+
+=== N3A ===
+Capacity: 2.0 L (1,998 cc)
+Bore x Stroke: 86 mm × 86 mm (3.39 in × 3.39 in)
+Compression: 9.8:1
+Valvegear: Chain driven DOHC. 16 valves. Hydraulic tappets.
+Fuelling: EEC-V controlled multi-point fuel injection
+Power: 136 hp (101 kW) @ 6300 rpm
+Torque: 175 N⋅m (129 lb⋅ft) @ 4200 rpm
+
+
+=== Y5A/Y5B ===
+Capacity: 2.3 L (2,295 cc)
+Bore x Stroke: 89.6 mm × 91 mm (3.53 in × 3.58 in)
+Compression: 10.0:1
+Valvegear: Chain driven DOHC. 16 valves. Hydraulic tappets.
+Fuelling: EEC-V controlled multi-point fuel injection
+Power: 145 hp (108 kW) @ 5600 rpm
+Torque: 210 N⋅m (155 lb⋅ft) @ 4500 rpm.
+
+
+== Gallery ==
+
+		
+		
+		
+		
+
+
+== See also ==
+List of Ford engines
+
+
+== References ==

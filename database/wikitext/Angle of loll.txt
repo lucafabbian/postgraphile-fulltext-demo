@@ -1,0 +1,11 @@
+Angle of loll is the state of a ship that is unstable when upright (i.e. has a negative metacentric height) and therefore takes on an angle of heel to either port or starboard.
+When a vessel has negative metacentric height (GM) i.e., is in unstable equilibrium, any external force applied to the vessel will cause it to start heeling. As it heels, the moment of inertia of the vessel's waterplane (a plane intersecting the hull at the water's surface) increases, which increases the vessel's BM (distance from the centre of Buoyancy to the Metacenter). Since there is relatively little change in KB (distance from the Keel to the centre of Buoyancy) of the vessel, the KM (distance from Keel to the Metacentre) of the vessel increases.
+At some angle of heel (say 10°), KM will increase sufficiently equal to KG (distance from the keel to the centre of gravity), thus making GM of vessel equal to zero. When this occurs, the vessel goes to neutral equilibrium, and the angle of heel at which it happens is called angle of loll.
+In other words, when an unstable vessel heels over towards a progressively increasing angle of heel, at a certain angle of heel, the centre of buoyancy (B) may fall vertically below the centre of gravity (G). Angle of list should not be confused with angle of loll. Angle of list is caused by unequal loading on either side of centre line of vessel.
+Although a vessel at angle of loll does display features of stable equilibrium, this is a dangerous situation and rapid remedial action is required to prevent the vessel from capsizing.It is often caused by the influence of a large free surface or the loss of stability due to damaged compartments.  It is different from list in that the vessel is not induced to heel to one side or the other by the distribution of weight, it is merely incapable of maintaining a zero heel attitude.
+
+
+== See also ==
+
+
+== References ==

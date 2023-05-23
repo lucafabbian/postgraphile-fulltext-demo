@@ -1,0 +1,42 @@
+VR Class Dr12 (original designation Hr12) was a heavy diesel-electric locomotive of Valtionrautatiet (Finnish State Railways). The first 6 locomotives were ordered in 1956. They entered service between 1959 and 1963. The locomotives were built by 2 manufacturers, Valmet and Lokomo, both based in Tampere. All Hr12 class locomotives with even numbers were produced by Valmet, while all odd numbers were produced by Lokomo. The locomotives were withdrawn in the early 1990s.
+
+
+== Features ==
+When it was introduced, the Dr12 gave drivers a new experience of comfort and forward visibility compared to steam locomotives, but compared to the newer VR Class Dr13, the Dr12 had a heavy axle load and slow acceleration with a top speed of only 120 km/h. The reason for this was that the locomotive turned out to be underpowered. The problem of the top speed was corrected in the last 10 locomotives by changing the transmission in such a way that the technical top speed was increased to 140 km/h, but this feature was never used. As a result, the entire locomotive series had a maximum permissible speed restricted to 120 km/h. However, due to the high axle weight, the Dr12 had good adhesion properties and it was considered to be a reliable and robust locomotive. It was well-suited to heavy trains with relatively low speed requirements.
+In addition to the underpowered engine, the second problem of the Dr12 was the heavy axle load, which could damage lightly laid tracks. In practice it could only be used on Western Finland's heavily laid lines.
+
+
+== Technology ==
+Dr12 consisted of two three-axle bogies each of which had one driving motor per axle, on which rested a very rigid steel body with the hardware and the cabins. The locomotive had one large 182-liter 1,800 hp V16 diesel engine mounted in its centre, which was directly connected to the main and auxiliary generator sets. Cabins had safety zones in both ends which were designed to protect the driver and equipment in a collision.
+Two locomotives could be connected to be controlled by one set of controls, but this feature was used very rarely.
+
+
+== Use ==
+Dr12 was intended for use on heavy passenger and freight trains. As the timetables got tighter, the acceleration of the Dr12 turned out to be insufficient for passenger trains.
+Both the locomotive numbers 2200 (made by Valmet) and 2201 (made by Lokomo) started their careers in April 1959.
+The locomotives were based at Tampere depot, where they initially pulled express trains and heavy freight trains between Helsinki and Seinäjoki and between Riihimäki and Kouvola.
+The electrification of the main lines and the upgrade of the tracks allowed the operating area of the Dr12s to expand to unelectrified lines in the East and North, where they replaced the VR Class Hr1 and VR Class Tr1 locomotives. By 1980 Finland's major railway lines had been electrified, which drastically reduced the need for diesel traction. In the end Dr12 locomotives were used in Turku and Tampere areas, including the Turku–Tampere line. The last Dr12 locomotive (no. 2216) was withdrawn after pulling a timber train from Salo, Finland to Turku on 19 December 1990. This same locomotive is now preserved and it was used at the VR Group's 150th anniversary in August 2012 on the Hanko–Hyvinkää line.
+
+
+== Numbering ==
+Years of manufacture (Nos.):
+1959 (2200–2205)
+1960 (2206–2219)
+1961 (2220–2227)
+1962 (2228–2231)
+1963 (2232–2241)
+
+
+== Gallery ==
+
+
+== See also ==
+
+
+== References ==
+
+
+== External links ==
+ Media related to VR Class Dr12 at Wikimedia Commons
+Finnish Railway Museum
+Steam Locomotives in Finland Including the Finnish Railway Museum

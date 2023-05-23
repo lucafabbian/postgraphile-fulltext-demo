@@ -1,0 +1,1134 @@
+In mathematics, an Abelian 2-group is a higher dimensional analogue of an Abelian group, in the sense of higher algebra, which were originally introduced by Alexander Grothendieck while studying abstract structures surrounding Abelian varieties and Picard groups. More concretely, they are given by groupoids 
+  
+    
+      
+        
+          A
+        
+      
+    
+    {\displaystyle \mathbb {A} }
+   which have a bifunctor 
+  
+    
+      
+        +
+        :
+        
+          A
+        
+        ×
+        
+          A
+        
+        →
+        
+          A
+        
+      
+    
+    {\displaystyle +:\mathbb {A} \times \mathbb {A} \to \mathbb {A} }
+   which acts formally like the addition an Abelian group. Namely, the bifunctor 
+  
+    
+      
+        +
+      
+    
+    {\displaystyle +}
+   has a notion of commutativity, associativity, and an identity structure. Although this seems like a rather lofty and abstract structure, there are several (very concrete) examples of Abelian 2-groups. In fact, some of which provide prototypes for more complex examples of higher algebraic structures, such as Abelian n-groups.
+
+
+== Definition ==
+An Abelian 2-group is a groupoid 
+  
+    
+      
+        
+          A
+        
+      
+    
+    {\displaystyle \mathbb {A} }
+   with a bifunctor 
+  
+    
+      
+        +
+        :
+        
+          A
+        
+        ×
+        
+          A
+        
+        →
+        
+          A
+        
+      
+    
+    {\displaystyle +:\mathbb {A} \times \mathbb {A} \to \mathbb {A} }
+   and natural transformations
+  
+    
+      
+        
+          
+            
+              
+                τ
+                :
+              
+              
+                X
+                +
+                Y
+                ⇒
+                Y
+                +
+                X
+              
+            
+            
+              
+                σ
+                :
+              
+              
+                
+                (
+                X
+                +
+                Y
+                )
+                +
+                Z
+                ⇒
+                X
+                +
+                (
+                Y
+                +
+                Z
+                )
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}\tau :&X+Y\Rightarrow Y+X\\\sigma :&(X+Y)+Z\Rightarrow X+(Y+Z)\end{aligned}}}
+  which satisfy a host of axioms ensuring these transformations behave similarly to commutativity (
+  
+    
+      
+        τ
+      
+    
+    {\displaystyle \tau }
+  ) and associativity 
+  
+    
+      
+        (
+        σ
+        )
+      
+    
+    {\displaystyle (\sigma )}
+   for an Abelian group. One of the motivating examples of such a category comes from the Picard category of line bundles on a scheme (see below).
+
+
+== Examples ==
+
+
+=== Picard category ===
+For a scheme or variety 
+  
+    
+      
+        X
+      
+    
+    {\displaystyle X}
+  , there is an Abelian 2-group 
+  
+    
+      
+        
+          
+            Pic
+          
+        
+        (
+        X
+        )
+      
+    
+    {\displaystyle {\textbf {Pic}}(X)}
+   whose objects are line bundles 
+  
+    
+      
+        
+          
+            L
+          
+        
+      
+    
+    {\displaystyle {\mathcal {L}}}
+   and morphisms are given by isomorphisms of line bundles. Notice over a given line bundle 
+  
+    
+      
+        
+          
+            L
+          
+        
+      
+    
+    {\displaystyle {\mathcal {L}}}
+  
+  
+    
+      
+        
+          End
+        
+        (
+        
+          
+            L
+          
+        
+        )
+        =
+        
+          Aut
+        
+        (
+        
+          
+            L
+          
+        
+        )
+        ≅
+        
+          
+            
+              O
+            
+          
+          
+            X
+          
+          
+            ∗
+          
+        
+      
+    
+    {\displaystyle {\text{End}}({\mathcal {L}})={\text{Aut}}({\mathcal {L}})\cong {\mathcal {O}}_{X}^{*}}
+  since the only automorphisms of a line bundle are given by a non-vanishing function on 
+  
+    
+      
+        X
+      
+    
+    {\displaystyle X}
+  . The additive structure 
+  
+    
+      
+        +
+      
+    
+    {\displaystyle +}
+   is given by the tensor product 
+  
+    
+      
+        ⊗
+      
+    
+    {\displaystyle \otimes }
+   on the line bundles. This makes is more clear why there should be natural transformations instead of equality of functors. For example, we only have an isomorphism of line bundles
+  
+    
+      
+        
+          
+            L
+          
+        
+        ⊗
+        
+          
+            
+              L
+            
+          
+          ′
+        
+        ≅
+        
+          
+            
+              L
+            
+          
+          ′
+        
+        ⊗
+        
+          
+            L
+          
+        
+      
+    
+    {\displaystyle {\mathcal {L}}\otimes {\mathcal {L}}'\cong {\mathcal {L}}'\otimes {\mathcal {L}}}
+  but not direct equality. This isomorphism is independent of the line bundles chosen and are functorial hence they give the natural transformation
+  
+    
+      
+        τ
+        :
+        (
+        −
+        ⊗
+        −
+        )
+        →
+        (
+        −
+        ⊗
+        −
+        )
+      
+    
+    {\displaystyle \tau :(-\otimes -)\to (-\otimes -)}
+  switching the components. The associativity similarly follows from the associativity of tensor products of line bundles.
+
+
+=== Two term chain complexes ===
+Another source for Picard categories is from two-term chain complexes of Abelian groups
+  
+    
+      
+        
+          A
+          
+            −
+            1
+          
+        
+        
+          →
+          
+            d
+          
+        
+        
+          A
+          
+            0
+          
+        
+      
+    
+    {\displaystyle A^{-1}\xrightarrow {d} A^{0}}
+  which have a canonical groupoid structure associated to them. We can write the set of objects as the abelian group 
+  
+    
+      
+        
+          A
+          
+            0
+          
+        
+      
+    
+    {\displaystyle A^{0}}
+   and the set of arrows as the set 
+  
+    
+      
+        
+          A
+          
+            −
+            1
+          
+        
+        ⊕
+        
+          A
+          
+            0
+          
+        
+      
+    
+    {\displaystyle A^{-1}\oplus A^{0}}
+  . Then, the source morphism 
+  
+    
+      
+        s
+      
+    
+    {\displaystyle s}
+   of an arrow 
+  
+    
+      
+        (
+        
+          a
+          
+            −
+            1
+          
+        
+        ,
+        
+          a
+          
+            0
+          
+        
+        )
+      
+    
+    {\displaystyle (a_{-1},a_{0})}
+   is the projection map
+  
+    
+      
+        s
+        (
+        
+          a
+          
+            −
+            1
+          
+        
+        +
+        
+          a
+          
+            0
+          
+        
+        )
+        =
+        
+          a
+          
+            0
+          
+        
+      
+    
+    {\displaystyle s(a_{-1}+a_{0})=a_{0}}
+  and the target morphism 
+  
+    
+      
+        t
+      
+    
+    {\displaystyle t}
+   is
+  
+    
+      
+        t
+        (
+        
+          a
+          
+            −
+            1
+          
+        
+        +
+        
+          a
+          
+            0
+          
+        
+        )
+        =
+        d
+        (
+        
+          a
+          
+            −
+            1
+          
+        
+        )
+        +
+        
+          a
+          
+            0
+          
+        
+      
+    
+    {\displaystyle t(a_{-1}+a_{0})=d(a_{-1})+a_{0}}
+  Notice this definition implies the automorphism group of any object 
+  
+    
+      
+        
+          a
+          
+            0
+          
+        
+      
+    
+    {\displaystyle a_{0}}
+   is 
+  
+    
+      
+        
+          Ker
+        
+        (
+        d
+        )
+      
+    
+    {\displaystyle {\text{Ker}}(d)}
+  . Notice that if we repeat this construction for sheaves of abelian groups over a site 
+  
+    
+      
+        X
+      
+    
+    {\displaystyle X}
+   (or topological space), we get a sheaf of Abelian 2-groups. It could be conjectured if this can be used to construct all such categories, but this is not the case. In fact, this construction must be generalized to spectra to give a precise generalization pg 88.
+
+
+==== Example of Abelian 2-group in algebraic geometry ====
+One example is the Cotangent complex for a local complete intersection scheme 
+  
+    
+      
+        X
+      
+    
+    {\displaystyle X}
+   which is given by the two-term complex
+  
+    
+      
+        
+          
+            L
+          
+          
+            X
+          
+          
+            ∙
+          
+        
+        =
+        
+          i
+          
+            ∗
+          
+        
+        I
+        
+          /
+        
+        
+          I
+          
+            2
+          
+        
+        →
+        
+          i
+          
+            ∗
+          
+        
+        
+          Ω
+          
+            Y
+          
+        
+      
+    
+    {\displaystyle \mathbf {L} _{X}^{\bullet }=i^{*}I/I^{2}\to i^{*}\Omega _{Y}}
+  for an embedding 
+  
+    
+      
+        i
+        :
+        X
+        →
+        Y
+      
+    
+    {\displaystyle i:X\to Y}
+  . There is a direct categorical interpretation of this Abelian 2-group from deformation theory using the Exalcomm category.Note that in addition to using a 2-term chain complex, would could instead consider a chain complex 
+  
+    
+      
+        
+          A
+          
+            ∙
+          
+        
+        ∈
+        C
+        
+          h
+          
+            ≤
+            0
+          
+        
+        (
+        
+          Ab
+        
+        )
+      
+    
+    {\displaystyle A^{\bullet }\in Ch^{\leq 0}({\text{Ab}})}
+   and construct an Abelian n-group (or infinity-group).
+
+
+=== Abelian 2-group of morphisms ===
+For a pair of Abelian 2-groups 
+  
+    
+      
+        
+          A
+        
+        ,
+        
+          
+            A
+          
+          ′
+        
+      
+    
+    {\displaystyle \mathbb {A} ,\mathbb {A} '}
+   there is an associated Abelian 2-group of morphisms
+  
+    
+      
+        
+          Hom
+        
+        (
+        
+          A
+        
+        ,
+        
+          
+            A
+          
+          ′
+        
+        )
+      
+    
+    {\displaystyle {\text{Hom}}(\mathbb {A} ,\mathbb {A} ')}
+  whose objects are given by functors between these two categories, and the arrows are given by natural transformations. Moreover, the bifunctor  
+  
+    
+      
+        
+          +
+          ′
+        
+      
+    
+    {\displaystyle +'}
+   on 
+  
+    
+      
+        
+          
+            A
+          
+          ′
+        
+      
+    
+    {\displaystyle \mathbb {A} '}
+   induces a bifunctor structure on this groupoid, giving it an Abelian 2-group structure.
+
+
+== Classifying abelian 2-groups ==
+On order to classify abelian 2-groups, strict picard categories using two-term chain complexes is not enough. One approach is in stable homotopy theory using spectra which only have two non-trivial homotopy groups. While studying an arbitrary Picard category, it becomes clear that there is additional data used to classify the structure of the category, it is given by the Postnikov invariant.
+
+
+=== Postnikov invariant ===
+For an Abelian 2-group 
+  
+    
+      
+        
+          A
+        
+      
+    
+    {\displaystyle \mathbb {A} }
+   and a fixed object 
+  
+    
+      
+        x
+        ∈
+        
+          Ob
+        
+        (
+        
+          A
+        
+        )
+      
+    
+    {\displaystyle x\in {\text{Ob}}(\mathbb {A} )}
+   the isomorphisms of the functors 
+  
+    
+      
+        x
+        +
+        (
+        −
+        )
+      
+    
+    {\displaystyle x+(-)}
+   and 
+  
+    
+      
+        (
+        −
+        )
+        +
+        x
+      
+    
+    {\displaystyle (-)+x}
+   given by the commutativity arrow
+  
+    
+      
+        τ
+        :
+        x
+        +
+        x
+        ⇒
+        x
+        +
+        x
+      
+    
+    {\displaystyle \tau :x+x\Rightarrow x+x}
+  gives an element of the automorphism group 
+  
+    
+      
+        
+          
+            Aut
+          
+          
+            
+              A
+            
+          
+        
+        (
+        x
+        )
+      
+    
+    {\displaystyle {\text{Aut}}_{\mathbb {A} }(x)}
+   which squares to 
+  
+    
+      
+        1
+      
+    
+    {\displaystyle 1}
+  , hence is contained in some 
+  
+    
+      
+        
+          Z
+        
+        
+          /
+        
+        2
+      
+    
+    {\displaystyle \mathbb {Z} /2}
+  . Sometimes this is suggestively written as 
+  
+    
+      
+        
+          π
+          
+            1
+          
+        
+        (
+        
+          A
+        
+        )
+      
+    
+    {\displaystyle \pi _{1}(\mathbb {A} )}
+  . We can call this element 
+  
+    
+      
+        ε
+      
+    
+    {\displaystyle \varepsilon }
+   and this invariant induces a morphism from the isomorphism classes of objects in 
+  
+    
+      
+        
+          A
+        
+      
+    
+    {\displaystyle \mathbb {A} }
+  , denoted 
+  
+    
+      
+        
+          π
+          
+            0
+          
+        
+        (
+        
+          A
+        
+        )
+      
+    
+    {\displaystyle \pi _{0}(\mathbb {A} )}
+  , to 
+  
+    
+      
+        
+          
+            Aut
+          
+          
+            
+              A
+            
+          
+        
+        (
+        x
+        )
+      
+    
+    {\displaystyle {\text{Aut}}_{\mathbb {A} }(x)}
+  , i.e. it gives a morphism
+  
+    
+      
+        ε
+        :
+        
+          π
+          
+            0
+          
+        
+        (
+        
+          A
+        
+        )
+        ⊗
+        
+          Z
+        
+        
+          /
+        
+        2
+        →
+        
+          π
+          
+            1
+          
+        
+        (
+        
+          A
+        
+        )
+        =
+        
+          
+            Aut
+          
+          
+            
+              A
+            
+          
+        
+        (
+        x
+        )
+      
+    
+    {\displaystyle \varepsilon :\pi _{0}(\mathbb {A} )\otimes \mathbb {Z} /2\to \pi _{1}(\mathbb {A} )={\text{Aut}}_{\mathbb {A} }(x)}
+  which corresponds to the Postnikov invariant. In particular, every Picard category given as a two-term chain complex has 
+  
+    
+      
+        ε
+        =
+        0
+      
+    
+    {\displaystyle \varepsilon =0}
+   because they correspond under the Dold-Kan correspondence to simplicial abelian groups with topological realizations as the product of Eilenberg-Maclane spaces
+  
+    
+      
+        K
+        (
+        
+          H
+          
+            −
+            1
+          
+        
+        (
+        
+          A
+          
+            ∙
+          
+        
+        )
+        ,
+        1
+        )
+        ×
+        K
+        (
+        
+          H
+          
+            0
+          
+        
+        (
+        
+          A
+          
+            ∙
+          
+        
+        )
+        ,
+        0
+        )
+      
+    
+    {\displaystyle K(H^{-1}(A^{\bullet }),1)\times K(H^{0}(A^{\bullet }),0)}
+   For example, if we have a Picard category with 
+  
+    
+      
+        
+          π
+          
+            1
+          
+        
+        (
+        
+          A
+        
+        )
+        =
+        
+          Z
+        
+        
+          /
+        
+        2
+      
+    
+    {\displaystyle \pi _{1}(\mathbb {A} )=\mathbb {Z} /2}
+   and 
+  
+    
+      
+        
+          π
+          
+            0
+          
+        
+        (
+        
+          A
+        
+        )
+        =
+        
+          Z
+        
+      
+    
+    {\displaystyle \pi _{0}(\mathbb {A} )=\mathbb {Z} }
+  , there is no chain complex of Abelian groups giving these homology groups since 
+  
+    
+      
+        
+          Z
+        
+        
+          /
+        
+        2
+      
+    
+    {\displaystyle \mathbb {Z} /2}
+   can only be given by a projection
+  
+    
+      
+        
+          Z
+        
+        
+          →
+          
+            ⋅
+            2
+          
+        
+        
+          Z
+        
+        →
+        
+          Z
+        
+        
+          /
+        
+        2
+      
+    
+    {\displaystyle \mathbb {Z} \xrightarrow {\cdot 2} \mathbb {Z} \to \mathbb {Z} /2}
+  Instead this Picard category can be understood as a categorical realization of the truncated spectrum 
+  
+    
+      
+        
+          τ
+          
+            ≤
+            1
+          
+        
+        
+          S
+        
+      
+    
+    {\displaystyle \tau _{\leq 1}\mathbb {S} }
+   of the sphere spectrum where the only two non-trivial homotopy groups of the spectrum are in degrees 
+  
+    
+      
+        0
+      
+    
+    {\displaystyle 0}
+   and 
+  
+    
+      
+        1
+      
+    
+    {\displaystyle 1}
+  .
+
+
+== See also ==
+∞-groupoid
+N-group (category theory)
+Gerbe
+
+
+== References ==
+
+Thesis of Hoàng Xuân Sính (Gr Categories)
+Pirashvili, Teimuraz (2010). "On abelian 2-categories and derived 2-functors". arXiv:1007.4138. {{cite journal}}: Cite journal requires |journal= (help)
+Jibladze, Mamuka; Pirashvili, Teimuraz (2011). "Cohomology with coefficients in stacks of Picard categories". arXiv:1101.2918. {{cite journal}}: Cite journal requires |journal= (help)
+Debremaeker, Raymond (2017). "Cohomology with values in a sheaf of crossed groups over a site". arXiv:1702.02128. {{cite journal}}: Cite journal requires |journal= (help) - gives techniques for defining sheaf cohomology with coefficients in a crossed module, or a Picard category
+Johnson, Niles; Osorno, Angélica M. (2012). "Modeling Stable One-Types". arXiv:1201.2686. {{cite journal}}: Cite journal requires |journal= (help) - exposition of stable 1-types containing relation with picard categories
+Gurski, Nick; Johnson, Niles; Osorno, Angélica; Stephan, Marc (2017). "Stable Postnikov data of Picard 2–categories". Algebraic & Geometric Topology. 17 (5): 2763–2806. arXiv:1606.07032. doi:10.2140/agt.2017.17.2763. S2CID 119324062.

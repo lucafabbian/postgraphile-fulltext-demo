@@ -1,0 +1,42 @@
+Nelson Ford (born 1946) was one of the founders of shareware software distribution, of HAL-PC (the Houston Area League of PC Users, a PC user group which grew to over 10,000 members), of the Association of Shareware Professionals, founder of the Public (software) Library, the largest commercial library of public domain and shareware software, and of the first major order processing service for shareware programmers. In 1984, through his shareware column in Softalk-PC magazine, he was responsible for standardizing the use of the term shareware for free-trial software.
+He wrote several shareware games: CardShark Hearts, CardShark Spades, and CardShark Bridge Tutor. Nelson Ford was inducted into the Shareware Hall Of Fame in August 2001.
+
+
+== Background ==
+Nelson Ford was born in 1946 in San Antonio, Texas, USA. He served 4 years in the United States Marine Corps, 19 months in Viet Nam. He graduated from the University of Texas at Austin, with a BBA in Accounting and moved to Houston, Texas where he met and married Kay Hightower Ford. He became a Certified Public Accountant in Texas and worked for Daniel Industries, Inc. and Pennzoil Company before forming Public (software) Library. He and Kay are retired and living in Hot Springs Village, Arkansas.
+
+
+== HAL-PC ==
+In 1979, Nelson Ford got his first personal computer, a Radio Shack Model II. In 1980, he got one of the first IBM-PCs available in Texas and shortly after that helped start the Houston Area League Of PC Users, which became the largest PC user group in the country with well over 10,000 members.
+User groups in other major cities were normally run by the few people who had started the group, which tended to limit their growth. As president of HAL-PC, Nelson Ford established a system of special interest groups (SIGs) and had the leaders of the SIGs also serve as HAL-PC's board of directors. With this source of new leadership for HAL-PC and term limits for officers, HAL-PC was assured that no one person or small group of people would run the group into the ground. The SIGs also assured that all members could find something in HAL to match their particular computer interests.
+
+
+== Association of Shareware Professionals ==
+In 1985, Nelson Ford began working on a conference of shareware programmers, bulletin board system operators, and shareware disk distributors with the goal of creating an industry trade organization. As a result of the attendance and hard work of such industry leaders as Jim "Button" Knopf and Bob Wallace and many others, the Association of Shareware Professionals was created in 1987.  Nelson Ford served on the first Board Of Directors. After more than 25 years, ASP is still a very active, important organization for shareware professionals. In 2001, Nelson Ford was inducted into the ASP Hall Of Fame.
+
+
+== Public (software) Library ==
+One of Nelson Ford's interest in the HAL-PC user group was swapping public domain and shareware software with other members. He eventually created a large, organized library of programs and his group made copies for other members for a disk fee.
+In 1984, Nelson Ford wrote a column named The Public Library in Softalk-PC magazine. When people around the world were not able to get programs discussed in the column because they lacked economical access to bulletin board systems, they wrote to Nelson Ford asking for copies, which he also made for a disk fee. This service quickly snowballed into a full-time job, resulting in the creation of Public (software) Library (PsL) to provide the service. Nelson's wife, Kay Ford, ran the operation of PsL while Nelson ran the technical side.
+Programmers who learned of the service sent their software to PsL to be added to the library, eventually at the rate of hundreds of programs a month. PsL hired technicians to test, review and write-up programs in PsL's monthly magazine and annual catalog which grew to well over 1000 pages.
+Eventually, as the volume of software increased and CD-ROM drives in PCs became common, most of PsL's shareware distribution shifted to CD-ROMs where many hundreds of programs could be put on each monthly CD-ROM. During the boom years of shareware disk distribution, new vendors were popping up all the time. As the CD-ROM and the Internet took over, these disk vendors died out, thus leaving PsL the first (1980) and most likely the very last (1997) company to distribute shareware on diskettes.
+
+
+== Shareware order processing ==
+In the 1980s and early 1990s, virtually no shareware authors had the ability to accept credit card orders at all, much less via live operators at toll-free numbers, the way most people are accustomed to making such orders. Authors could accept only cash or checks mailed directly to them and thus missed out on potential sales.
+In the late 1980s, PsL initiated an order-processing service for shareware authors in which live operators took orders over the phone at toll-free numbers. This was not an easy service to provide as banks were reluctant to give credit card merchant accounts to mail- or phone-order businesses. PsL had to change banks several times and one time lost money when a bank went bankrupt. But eventually things settled down, and some programmers began receiving from thousands to tens of thousands of dollars a month in orders—substantially more than they would have received accepting payment only by cash or check.
+Originally, PsL provided its service to programmers at its cost, but as hundreds of programmers signed up, economies of scale actually made the service profitable. With the eventual spread of the Internet, PsL added Internet order processing to its services.
+With the growth of the Internet, by 1998, the distribution of shareware by disk and CD-ROM was beginning to wane while order processing was booming, and with 13+ years of 100-hour work weeks taking their toll on Nelson and Kay Ford, they sold PsL to Digital River, Inc., an NYSE-listed, online-order-processing company, and retired.
+
+
+== The Shareware name ==
+Many terms were being used for freely-distributal software in the early 1980s. In his column on such software in Softalk-PC magazine, Nelson Ford held a contest to come up with a standard name. The most popular name was shareware, and that name was adopted for generic use.See "Association of Shareware Professionals" web site.
+
+
+== CardShark games ==
+In the mid 1980s, Nelson Ford wrote CardShark Hearts, for playing Hearts against three computer opponents, CardShark Spades, for playing Spades against the computer, and CardShark Bridge Tutor, for learning to play Contract Bridge.
+
+
+== References ==
+Publications with articles about Nelson Ford.
+Article quoting Nelson Ford about changes in shareware.

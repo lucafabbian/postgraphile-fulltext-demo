@@ -1,0 +1,17 @@
+IEEE 1680 is a family of IEEE sustainability standards dealing with the assessment of environmental performance of electronic products.IEEE 1680 is the de facto standard for green computing at the desktop level.As of April 2020, the 1680 family of standards consists of:
+
+1680.1 – Standard for the environmental and social responsibility assessment of computers, tablets and monitors.
+1680.2 – Standard for the environmental assessment of Imaging Equipment (printers, copiers, scanners, fax machines, multifunction devices...).
+1680.3 – Standard for the environmental assessment of televisions.The 1680.4 standard for Servers and the 1680.6 standard for Complex Set Top Boxes were in development but 1680.4 failed in ballot and was superseded by NSF 426.  1680.6 never passed ballot and was archived.  
+
+
+== References ==
+
+https://global.ihs.com/doc_detail.cfm?document_name=NSF%20426&item_s_key=00728331
+
+
+== External links ==
+Official IEEE webpage for the IEEE 1680 Family of Standards (discontinued)
+Official IEEE webpage for the IEEE 1680.1-2018 standard
+Official IEEE webpage for the IEEE 1680.2-2012 standard
+Official IEEE webpage for the IEEE 1680.3-2012 standard

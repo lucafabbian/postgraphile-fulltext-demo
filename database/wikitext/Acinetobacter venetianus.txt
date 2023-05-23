@@ -1,0 +1,16 @@
+Acinetobacter venetianus is a species of bacteria notable for degrading n-alkanes. It harbours plasmids carrying sequences similar to the Pseudomonas oleovorans  alkane hydroxylase gene alkBFGH. Its potential for bioremediation is an active research topic, particularly its role in the production of the bioemulsifier emulsan. Its type strain is RAG-1T(=ATCC 31012T=CCUG 45561T=LMG 19082T=LUH 3904T=NIPH 1925T).
+
+
+== References ==
+
+
+== Further reading ==
+Luckarift, Heather R.; Sizemore, Susan R.; Farrington, Karen E.; Fulmer, Preston A.; Biffinger, Justin C.; Nadeau, Lloyd J.; Johnson, Glenn R. (2011). "Biodegradation of medium chain hydrocarbons by Acinetobacter venetianus 2AW immobilized to hair-based adsorbent mats". Biotechnology Progress. 27 (6): 1580–1587. doi:10.1002/btpr.701. ISSN 8756-7938. PMID 21948333. S2CID 22702663.
+Fondi, Marco; Rizzi, Ermanno; Emiliani, Giovanni; Orlandini, Valerio; Berna, Luisa; Papaleo, Maria Cristiana; Perrin, Elena; Maida, Isabel; Corti, Giorgio; De Bellis, Gianluca; Baldi, Franco; Dijkshoorn, Lenie; Vaneechoutte, Mario; Fani, Renato (2013). "The genome sequence of the hydrocarbon-degrading Acinetobacter venetianus VE-C3". Research in Microbiology. 164 (5): 439–449. doi:10.1016/j.resmic.2013.03.003. hdl:10278/37773. ISSN 0923-2508. PMID 23528645.
+Bach, H.; Berdichevsky, Y.; Gutnick, D. (2003). "An Exocellular Protein from the Oil-Degrading Microbe Acinetobacter venetianus RAG-1 Enhances the Emulsifying Activity of the Polymeric Bioemulsifier Emulsan". Applied and Environmental Microbiology. 69 (5): 2608–2615. doi:10.1128/AEM.69.5.2608-2615.2003. ISSN 0099-2240. PMC 154541. PMID 12732528.
+Baldi F, Ivosevic N, Minacci A,  et al. (May 1999). "Adhesion of acinetobacter venetianus to diesel fuel droplets studied with In situ electrochemical and molecular probes". Applied and Environmental Microbiology. 65 (5): 2041–8. doi:10.1128/AEM.65.5.2041-2048.1999. PMC 91295. PMID 10223998.
+
+
+== External links ==
+"Acinetobacter venetianus" at the Encyclopedia of Life
+Type strain of Acinetobacter venetianus at BacDive -  the Bacterial Diversity Metadatabase

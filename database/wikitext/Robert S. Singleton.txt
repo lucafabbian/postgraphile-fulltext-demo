@@ -1,0 +1,28 @@
+Robert Shelby Singleton (born March 25, 1933) is an American engineer, inventor, scientist, teacher of magnetics and computing. He invented magnetic core memory that was addressable by content rather than location, which is the precursor to modern content-addressable memory systems. He later contributed to the invention and development of virtual memory for computer systems, Computer Aided Design and Engineering systems, and complex signal processing algorithms and circuits.
+
+
+== Early life and education ==
+Singleton was born in Chicago, Illinois on March 25, 1933. His father was Richard Leland Painter, a storekeeper-gauger with Internal Revenue Service, and who later rose to assistant to the director of ATF. His mother was Mary Painter, (née Furch). In 1944, at the age of 11, he moved with his mother to Leesburg, Florida. At age 16 he joined Army National Guard and graduated as president of his class in 1951 from Leesburg High School. Shortly after graduation he enrolled at the University of Florida, but left after his first semester to enlist in the United States Army for service in the Korean War.
+Upon returning from military service, he enrolled again at the University of Florida. He was selected as member of Sigma Tau honorary engineering fraternity and became a member of IRE (Institute of Radio Engineers) which in 1962 became today’s IEEE (Institute of Electrical and Electronics Engineers). He graduated with a BSEE degree summa cum laude with an honors project to design and build a microwave parametric amplifier. While at AT&T Bell Telephone Laboratories he graduated from New York University with a MSEE degree in 1961.
+
+
+== Military service ==
+Singleton joined the Army National Guard while still in high school and spent two years in the infantry heavy weapons platoon. He enrolled in ROTC in 1951 but quickly transferred to the U.S. Army. In 1952, after basic training, he was selected to participate in the first Nike Fire Control School at Fort Bliss, TX. This was a 40-week training class led by engineers from AT&T Bell Laboratories, the designers of the system, for the 12 men who would ultimately maintain the electronics for the first fully operational Nike anti-aircraft missile site. Located at Ft. Hancock, NJ on Sandy Hook, the site sat in defense of the New York City area. With completion of training, he spent a year with the 526th AAA Missile Battalion.
+
+
+== AT&T Bell Laboratories and breakthroughs ==
+Singleton studied under Dr. Olle I. Elgerd, a professor of engineering at the University of Florida and author in the fields of electrical engineering and cryptography error correction. Dr. Elgerd encouraged him to accept a position at Bell Laboratories. Singleton accepted the offer to join Bell Telephone Laboratories, Murray Hill, NJ as member of the technical staff in 1959. He was hired directly by William Keister, a pioneer in the field of logic circuits. Singleton’s work was primarily on digital computing devices including magnetic logic and semiconductors.
+His first major breakthrough came as a member of the electronics research department at Martin Marietta (now Lockheed Martin) in Orlando. He was continuing the work he had begun at Bell Labs in magnetics and computing and was granted patent 3,339,181 for a multi-aperture magnetic core memory that was addressed by content rather than location. During this time he published “The Optimum Selection of 1 of N Lines”. Singleton’s patent was cited by 15 subsequent patents in the two decades following its release.Singleton then joined the RCA Computer Division where he became senior scientist of the division and focused his efforts on computer memory. His work contributed to the concept, creation, and design of numerous magnetic and semiconductor memories, including virtual memory, a foundational element of computing architecture, as seen in the UNIVAC Series 90 computer systems. He was also an adjunct professor of electrical engineering at the University of Florida, teaching graduate level courses in Advanced Circuit Theory and Transients in Linear Systems.
+He explored advanced analog signal processing during this period and received patent 3,898,375 for a special remotely controlled semiconductor television filter, which numerous signal distortion systems are based on today.Singleton later shifted his focus toward Computer Aided Design and Engineering and, based on ideas from Jim Solomon and Alberto Sangiovanni-Vincentelli from Cal Berkeley, led a team that developed one of the first computer assisted integrated circuit design systems. He was awarded “Innovator of the Year” in 1990 by EDN magazine for his work. The system he and his team developed provided the tools and advanced libraries needed for integrated circuit designs, and led to an approach toward circuit design that accelerated the speed and accuracy of integrated circuit production. He retired in 1991 as Director of Engineering from Harris Corporation.
+
+
+== Personal life ==
+Singleton met Jean Theresa Gualtieri through mutual friends while he was still at Bell Laboratories. She was a classical pianist who had been performing publicly since age nine. She was awarded the highest honors from the Griffith Music Foundation three years in a row, completing all her formal studies of music by age 16. They were married in 1960, in Bloomfield, New Jersey, and shortly after moved to Orlando, Florida. The couple’s only son, Eric Singleton, was born in Orlando, Florida, in 1961.
+
+
+== References ==
+
+
+== Patents ==
+U.S. Patent 3,339,181 Associative memory system for sequential retrieval of data, filed November 1963, issued August 1967
+U.S. Patent 3,898,375 Notch rejection filter, filed December 1973, issued August 1975

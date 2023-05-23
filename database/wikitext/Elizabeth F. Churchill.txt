@@ -1,0 +1,19 @@
+Elizabeth Frances Churchill is a British American psychologist specializing in human-computer interaction (HCI) and social computing.  She is a Director of User Experience at Google. She has held a number of positions in the ACM including Secretary Treasurer from 2016 to 2018, and Executive Vice President from 2018 to 2020.
+
+
+== Education and early life ==
+Churchill was born in Calcutta, India and moved to Newcastle upon Tyne in her early childhood.  She gained a Bachelor of Science degree in Experimental Psychology and a Master of Science in Knowledge Based Systems from Sussex University in the United Kingdom where she worked on Soar simulations. She completed her PhD in 1993 at the University of Cambridge.
+
+
+== Career and research ==
+After her PhD she joined University of Nottingham as a postdoctoral researcher. In 1997, she moved to California, United States to join FXPAL where she formed and led their Social Computing Group.  In 2004, Churchill joined Palo Alto Research Center (PARC).  She joined Yahoo! in 2006 as a principal research scientist, where she formed and led the Internet Experiences Group in the Microeconomics and Social Systems division of Yahoo! Labs.  Her group and research was multidisciplinary, addressing the intersection of computer science, cognitive and social psychology, design science, neuroscience, analytics, and anthropology.  She was previously Director of Human Computer Interaction for eBay Research Labs in San Jose, CA. Currently, she is a Director of User Experience at Google in Mountain View, CA.  In 2009, she was elected as the Executive Vice President of ACM SIGCHI on a joint ballot with Gerrit van der Veer, SIGCHI's president.
+Churchill is known for her work on Embodied Conversational Agents and co-edited a book of the same name, an area of HCI which uses computer generated embodied agents together with a model of gesture and facial expression to enable face-to-face speech communication with people.  She is also known for her work on collaborative virtual environments, and on public displays and installations.  In 2011, she co-edited a special journal issue on Feminism and HCI with Shaowen Bardzell at Indiana University Bloomington. Her most recent work focuses on design systems and on designer and developer tooling.
+Churchill has chaired and run the technical program in several top conferences and publishes regularly in top-tier academic journals and conferences in computer science, human-computer interaction, sociology, and related fields.  Her work has appeared in various newspapers and magazines around the world including Scientific American and SFGate.
+
+
+=== Awards and honours ===
+In 2016, Churchill was awarded the Athena Award for Executive Leadership Award from the University of California's Center for Information Technology Research in the Interest of Society (CITRIS) and the Banatao Institute. Churchill was elected a Fellow of the Association for Computing Machinery (ACM) in 2019 for "contributions to human-computer interaction and service to the ACM" . She has received honorary doctorates from the University of Sussex in the UK (2018), and from Stockholm University in Sweden (2019) for sustained contributions to the fields of Human Computer Interaction and Social Computing.
+In 2023, Churchill received SIGCHI's Lifetime Service Award.
+
+
+== References ==

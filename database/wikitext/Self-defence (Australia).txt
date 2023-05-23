@@ -1,0 +1,49 @@
+In the criminal law of Australia, self-defence is a legal defence to a charge of causing injury or death in defence of the person or, to a limited extent, property, or a partial defence to murder if the degree of force used was excessive.
+
+
+== Self-defence in murder ==
+In Viro v The Queen, Justice Mason formulated six propositions on the law of self-defence in murder trials. Thus, a full acquittal is achieved if the jury finds that an accused reasonably believed they were threatened with death or serious bodily harm and, if so, that the force used was reasonably proportionate to the perceived danger.
+In Zecevic v Director of Public Prosecutions, the victim rented a unit from the defendant. The defendant became increasingly annoyed with the victim who kept leaving the security gates of the unit unlocked. After one heated exchange, the defendant was stabbed by the tenant. The defendant, fearing that the tenant was about to get a gun from his car, rushed off and got his shotgun. The defendant returned, and shot and killed the tenant. The majority of the High Court said at 661:
+The question to be asked in the end is quite simple. It is whether the accused believed upon reasonable grounds that it was necessary in self-defence to do what he did. If he had that belief and there were reasonable grounds for it, or if the jury is left in reasonable doubt about the matter, then he is entitled to an acquittal. Stated in this form, the question is one of general application and is not limited to cases of homicide.The New South Wales Court of Criminal Appeal in R v Burgess; R v Saunders held that 'the concept of self-defence only arises where the actions of the accused by way of self-defence are directly taken against the person threatening the accused or another’s being or property.'In R v Conlon the accused used a shotgun to repel two trespassers whom he believed to be stealing his cannabis plants. His belief was affected by drunkenness and a schizoid personality disorder which were relevant to determine whether the Crown had proved that he had not acted in self defence: specifically whether he believed that it was necessary to do what he did and whether that was a reasonable belief. This question seems advantageous to the defence because it tests whether the belief is reasonable to the accused (a subjective test), not reasonable to the reasonable person (objective test).In NSW, ss 418-423 of the Crimes Act 1900 now govern the law relating to self-defence and excessive self-defence (see below).Under South Australian law, the general defence appears in s15(1) Criminal Law Consolidation Act 1935 (SA) for defending a person's life, and s15A(1) for defending property, subject to a hybrid test, i.e. the defendant honestly believed the threat to be imminent and made an objectively reasonable and proportionate response to the circumstances as the accused subjectively perceived them.
+In July 2003, the Rann Government (SA) introduced laws allowing householders to use "whatever force they deem necessary" when confronted with a home invader. 
+Householders who kill or injure a home invader escape prosecution provided they can prove they had a genuine belief that it was necessary to do so to protect themselves or their family. The law was strongly opposed by then-Director of Public Prosecutions Paul Rofe, , and lawyer Marie Shaw, who is now a District Court Judge.
+
+
+== Excessive force ==
+The rationale of the defence recognises that the degree of culpability normally associated with murder may be missing. In the High Court case of Viro v The Queen, Aickin J said:
+
+[There is] a real distinction in the degree of culpability of an accused who has killed having formed the requisite intention without any mitigating circumstance, and an accused who, in response to a real or a reasonably apprehended attack, strikes a blow in order to defend himself, but uses force beyond that required by the occasion and thereby kills the attacker.: p 180 The defence was first recognised in the common law in R v McKay, where a farmer shot and fatally wounded a chicken thief, and confirmed in R v Howe where Mayo J held at 121-122:
+
+A person who is subjected to a violent and felonious attack and who, in endeavouring, by way of self-defence, to prevent the consummation of that attack by force exercises more force than a reasonable man [sic] would consider necessary in the circumstances, but no more than what he [or she] honestly believed to be necessary in the circumstances, is guilty of manslaughter and not of murder.This mitigatory defence was abolished in Zecevic v Director of Public Prosecutions which expressed the view that provocation should be the alternative considered. The defence was re-introduced in statutory form in South Australia in 1991, revised in 1997. The Criminal Law Consolidation Act 1935 (SA) s15 now reads:
+
+(2) It is a partial defence to a charge of murder (reducing the offence to manslaughter) if:
+(a) the defendant genuinely believed the conduct to which the charge relates to be necessary and reasonable for a defensive purpose; but
+(b) the conduct was not, in the circumstances as the defendant genuinely believed them to be, reasonably proportionate to the threat that the defendant genuinely believed to exist.
+(3) For the purposes of this section, a person acts for a defensive purpose if the person acts:
+(a) in self defence or in defence of another; or
+(b) to prevent or terminate the unlawful imprisonment of himself, herself or another.s15A  extends the partial defence to circumstances where the accused had applied excessive force in killing the deceased but had genuinely
+believed the force to be necessary and reasonable:
+
+(i) to protect property from unlawful appropriation, destruction, damage or interference; or
+(ii) to prevent criminal trespass to land or premises, or to remove from land or premises a person who is committing a criminal trespass; or
+(iii) to make or assist in the lawful arrest of an offender or alleged offender or a person who is unlawfully at large; and the defendant did not intend to cause death (emphasis added).In 2002, New South Wales reintroduced excessive self defence as s421 of the Crimes Act 1900 (NSW). Section 421 states:
+(1) This section applies if:
+(a) the person uses force that involves the intentional or reckless infliction of death, and
+(b) the conduct is not a reasonable response in the circumstances as he or she perceives them, but the person believes the conduct is necessary:
+(c) to defend himself or herself or another person, or
+(d) to prevent or terminate the unlawful deprivation of his or her liberty or the liberty of another person.
+(2) The person is not criminally responsible for murder but, on a trial for murder, the person is to be found guilty of manslaughter if the person isotherwise criminally responsible for manslaughter.
+Unlike South Australian law, s420 of the NSW Crimes Act explicitly states that self-defence is not available as a defence to murder if death is inflicted to prevent criminal trespass.In November 2005, pursuant to recommendations from the Law Reform Commission for Victoria, the Victorian legislature introduced new laws regarding self defence. Among them, a new offence of defensive homicide was created: where the accused's belief in the need for the force applied in self-defence was unreasonable, s/he may be convicted of an offence less serious than murder. However, defensive homicide was abolished in November 2014.
+
+
+== See also ==
+Battered woman syndrome
+Defense of property
+Self-defence in English law
+Self-defense (Sweden)
+Self-defense (United States)
+Use of force
+Castle doctrine
+
+
+== References ==

@@ -1,0 +1,11 @@
+Serine/threonine-protein phosphatase 2A regulatory subunit B is an enzyme that in humans is encoded by the PPP2R4 gene.Protein phosphatase 2A is one of the four major Ser/Thr phosphatases and is implicated in the negative control of cell growth and division. Protein phosphatase 2A holoenzymes are heterotrimeric proteins composed of a structural subunit A, a catalytic subunit C, and a regulatory subunit B. The regulatory subunit is encoded by a diverse set of genes that have been grouped into the B/PR55, B'/PR61, and B/PR72 families. These different regulatory subunits confer distinct enzymatic specificities and intracellular localizations to the holozenzyme. The product of this gene belongs to the B' family. This gene encodes a specific phosphotyrosyl phosphatase activator of the dimeric form of protein phosphatase 2A. Alternative splicing results in multiple transcript variants encoding different isoforms.
+
+
+== Interactions ==
+PPP2R4 has been shown to interact with PPP2R3A, CCNG1 and Janus kinase 2.
+
+
+== References ==
+
+
+== Further reading ==

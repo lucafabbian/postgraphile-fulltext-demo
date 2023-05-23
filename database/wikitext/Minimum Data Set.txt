@@ -1,0 +1,30 @@
+The Minimum Data Set (MDS) is part of the U.S. federally mandated process for clinical assessment of all residents in Medicare or Medicaid certified nursing homes and non-critical access hospitals with Medicare swing bed agreements. (The term "swing bed" refers to the Social Security Act's authorizing small, rural hospitals to use their beds in both an acute care and Skilled Nursing Facility (SNF) capacity, as needed.) This process provides a comprehensive assessment of each resident's functional capabilities and helps nursing home and SNF staff identify health problems.
+Resource Utilization Groups (RUG) are part of this process, and provide the foundation upon which a resident's individual care plan is formulated. MDS assessment forms are completed for all residents in certified nursing homes, including SNFs, regardless of source of payment for the individual resident. MDS assessments are required for residents on admission to the nursing facility and then periodically, within specific guidelines and time frames. Participants in the assessment process are health care professionals and direct care staff such as Registered Nurses, Licensed Practical/Vocational Nurses, Therapists, Social Services, Activities and Dietary staff employed by the nursing home. MDS information is transmitted electronically by nursing homes to the MDS database in their respective states. MDS information from the state databases is captured into the national MDS database at Centers for Medicare and Medicaid Services (CMS).
+Sections of MDS (Minimum Data Set):
+
+Identification Information
+Hearing, Speech and Vision
+Cognitive Patterns
+Mood
+Behavior
+Preferences for Customary Routine and Activities
+Functional Status
+Functional Abilities and Goals
+Bladder and Bowel
+Active Diagnoses
+Health Conditions
+Swallowing/Nutritional Status
+Oral/Dental Status
+Skin Conditions
+Medications
+Special Treatments, Procedures and Programs
+Restraints
+Participation in Assessment and Goal Setting
+Care Area Assessment (CAA) Summary
+Correction Request
+Assessment AdministrationThe MDS is updated by the Centers for Medicare and Medicaid Services.  Specific coding regulations in completing the MDS can be found in the Resident Assessment Instrument User's Guide.  Versions of the Minimum Data Set has been used or is being utilized in other countries.
+
+
+== References ==
+
+CMS - MDS Quality Indicator and Resident Reports Centers for Medicare & Medicaid Services Long Term Care Facility Resident Assessment Instrument 3.0 User's Manual Version 1.16 October 2018

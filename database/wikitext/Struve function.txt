@@ -1,0 +1,1346 @@
+In mathematics, the Struve functions Hα(x), are solutions y(x) of the non-homogeneous Bessel's differential equation:
+
+  
+    
+      
+        
+          x
+          
+            2
+          
+        
+        
+          
+            
+              
+                d
+                
+                  2
+                
+              
+              y
+            
+            
+              d
+              
+                x
+                
+                  2
+                
+              
+            
+          
+        
+        +
+        x
+        
+          
+            
+              d
+              y
+            
+            
+              d
+              x
+            
+          
+        
+        +
+        
+          (
+          
+            
+              x
+              
+                2
+              
+            
+            −
+            
+              α
+              
+                2
+              
+            
+          
+          )
+        
+        y
+        =
+        
+          
+            
+              4
+              
+                
+                  (
+                  
+                    
+                      x
+                      2
+                    
+                  
+                  )
+                
+                
+                  α
+                  +
+                  1
+                
+              
+            
+            
+              
+                
+                  π
+                
+              
+              Γ
+              
+                (
+                
+                  α
+                  +
+                  
+                    
+                      1
+                      2
+                    
+                  
+                
+                )
+              
+            
+          
+        
+      
+    
+    {\displaystyle x^{2}{\frac {d^{2}y}{dx^{2}}}+x{\frac {dy}{dx}}+\left(x^{2}-\alpha ^{2}\right)y={\frac {4\left({\frac {x}{2}}\right)^{\alpha +1}}{{\sqrt {\pi }}\Gamma \left(\alpha +{\frac {1}{2}}\right)}}}
+  introduced by Hermann Struve (1882). The complex number α is  the order of the Struve function, and is often an integer.
+And further defined its second-kind version 
+  
+    
+      
+        
+          
+            K
+          
+          
+            α
+          
+        
+        (
+        x
+        )
+      
+    
+    {\displaystyle \mathbf {K} _{\alpha }(x)}
+   as 
+  
+    
+      
+        
+          
+            K
+          
+          
+            α
+          
+        
+        (
+        x
+        )
+        =
+        
+          
+            H
+          
+          
+            α
+          
+        
+        (
+        x
+        )
+        −
+        
+          Y
+          
+            α
+          
+        
+        (
+        x
+        )
+      
+    
+    {\displaystyle \mathbf {K} _{\alpha }(x)=\mathbf {H} _{\alpha }(x)-Y_{\alpha }(x)}
+  .
+The modified Struve functions Lα(x) are equal to −ie−iαπ / 2Hα(ix), are solutions y(x) of the non-homogeneous Bessel's differential equation:
+
+  
+    
+      
+        
+          x
+          
+            2
+          
+        
+        
+          
+            
+              
+                d
+                
+                  2
+                
+              
+              y
+            
+            
+              d
+              
+                x
+                
+                  2
+                
+              
+            
+          
+        
+        +
+        x
+        
+          
+            
+              d
+              y
+            
+            
+              d
+              x
+            
+          
+        
+        −
+        
+          (
+          
+            
+              x
+              
+                2
+              
+            
+            +
+            
+              α
+              
+                2
+              
+            
+          
+          )
+        
+        y
+        =
+        
+          
+            
+              4
+              
+                
+                  (
+                  
+                    
+                      x
+                      2
+                    
+                  
+                  )
+                
+                
+                  α
+                  +
+                  1
+                
+              
+            
+            
+              
+                
+                  π
+                
+              
+              Γ
+              
+                (
+                
+                  α
+                  +
+                  
+                    
+                      1
+                      2
+                    
+                  
+                
+                )
+              
+            
+          
+        
+      
+    
+    {\displaystyle x^{2}{\frac {d^{2}y}{dx^{2}}}+x{\frac {dy}{dx}}-\left(x^{2}+\alpha ^{2}\right)y={\frac {4\left({\frac {x}{2}}\right)^{\alpha +1}}{{\sqrt {\pi }}\Gamma \left(\alpha +{\frac {1}{2}}\right)}}}
+  And further defined its second-kind version 
+  
+    
+      
+        
+          
+            M
+          
+          
+            α
+          
+        
+        (
+        x
+        )
+      
+    
+    {\displaystyle \mathbf {M} _{\alpha }(x)}
+   as 
+  
+    
+      
+        
+          
+            M
+          
+          
+            α
+          
+        
+        (
+        x
+        )
+        =
+        
+          
+            L
+          
+          
+            α
+          
+        
+        (
+        x
+        )
+        −
+        
+          I
+          
+            α
+          
+        
+        (
+        x
+        )
+      
+    
+    {\displaystyle \mathbf {M} _{\alpha }(x)=\mathbf {L} _{\alpha }(x)-I_{\alpha }(x)}
+  .
+
+
+== Definitions ==
+Since this is a non-homogeneous equation, solutions can be constructed from a single particular solution by adding the solutions of the homogeneous problem. In this case, the homogeneous solutions are the Bessel functions, and the particular solution may be chosen as the corresponding Struve function.
+
+
+=== Power series expansion ===
+Struve functions, denoted as Hα(z) have the power series form
+
+  
+    
+      
+        
+          
+            H
+          
+          
+            α
+          
+        
+        (
+        z
+        )
+        =
+        
+          ∑
+          
+            m
+            =
+            0
+          
+          
+            ∞
+          
+        
+        
+          
+            
+              (
+              −
+              1
+              
+                )
+                
+                  m
+                
+              
+            
+            
+              Γ
+              
+                (
+                
+                  m
+                  +
+                  
+                    
+                      3
+                      2
+                    
+                  
+                
+                )
+              
+              Γ
+              
+                (
+                
+                  m
+                  +
+                  α
+                  +
+                  
+                    
+                      3
+                      2
+                    
+                  
+                
+                )
+              
+            
+          
+        
+        
+          
+            (
+            
+              
+                z
+                2
+              
+            
+            )
+          
+          
+            2
+            m
+            +
+            α
+            +
+            1
+          
+        
+        ,
+      
+    
+    {\displaystyle \mathbf {H} _{\alpha }(z)=\sum _{m=0}^{\infty }{\frac {(-1)^{m}}{\Gamma \left(m+{\frac {3}{2}}\right)\Gamma \left(m+\alpha +{\frac {3}{2}}\right)}}\left({\frac {z}{2}}\right)^{2m+\alpha +1},}
+  where Γ(z) is the gamma function.
+The modified Struve functions, denoted Lα(z), have the following power series form
+
+  
+    
+      
+        
+          
+            L
+          
+          
+            α
+          
+        
+        (
+        z
+        )
+        =
+        
+          ∑
+          
+            m
+            =
+            0
+          
+          
+            ∞
+          
+        
+        
+          
+            1
+            
+              Γ
+              
+                (
+                
+                  m
+                  +
+                  
+                    
+                      3
+                      2
+                    
+                  
+                
+                )
+              
+              Γ
+              
+                (
+                
+                  m
+                  +
+                  α
+                  +
+                  
+                    
+                      3
+                      2
+                    
+                  
+                
+                )
+              
+            
+          
+        
+        
+          
+            (
+            
+              
+                z
+                2
+              
+            
+            )
+          
+          
+            2
+            m
+            +
+            α
+            +
+            1
+          
+        
+        .
+      
+    
+    {\displaystyle \mathbf {L} _{\alpha }(z)=\sum _{m=0}^{\infty }{\frac {1}{\Gamma \left(m+{\frac {3}{2}}\right)\Gamma \left(m+\alpha +{\frac {3}{2}}\right)}}\left({\frac {z}{2}}\right)^{2m+\alpha +1}.}
+  
+
+
+=== Integral form ===
+Another definition of the Struve function, for values of α satisfying Re(α) > − 1/2, is possible expressing in term of the Poisson's integral representation:
+
+
+== Asymptotic forms ==
+For small x, the power series expansion is given above.
+For large x, one obtains:
+
+  
+    
+      
+        
+          
+            H
+          
+          
+            α
+          
+        
+        (
+        x
+        )
+        −
+        
+          Y
+          
+            α
+          
+        
+        (
+        x
+        )
+        =
+        
+          
+            
+              
+                (
+                
+                  
+                    x
+                    2
+                  
+                
+                )
+              
+              
+                α
+                −
+                1
+              
+            
+            
+              
+                
+                  π
+                
+              
+              Γ
+              
+                (
+                
+                  α
+                  +
+                  
+                    
+                      1
+                      2
+                    
+                  
+                
+                )
+              
+            
+          
+        
+        +
+        O
+        
+          (
+          
+            
+              (
+              
+                
+                  
+                    x
+                    2
+                  
+                
+              
+              )
+            
+            
+              α
+              −
+              3
+            
+          
+          )
+        
+        ,
+      
+    
+    {\displaystyle \mathbf {H} _{\alpha }(x)-Y_{\alpha }(x)={\frac {\left({\frac {x}{2}}\right)^{\alpha -1}}{{\sqrt {\pi }}\Gamma \left(\alpha +{\frac {1}{2}}\right)}}+O\left(\left({\tfrac {x}{2}}\right)^{\alpha -3}\right),}
+  where Yα(x) is the Neumann function.
+
+
+== Properties ==
+The Struve functions satisfy the following recurrence relations:
+
+  
+    
+      
+        
+          
+            
+              
+                
+                  
+                    H
+                  
+                  
+                    α
+                    −
+                    1
+                  
+                
+                (
+                x
+                )
+                +
+                
+                  
+                    H
+                  
+                  
+                    α
+                    +
+                    1
+                  
+                
+                (
+                x
+                )
+              
+              
+                
+                =
+                
+                  
+                    
+                      2
+                      α
+                    
+                    x
+                  
+                
+                
+                  
+                    H
+                  
+                  
+                    α
+                  
+                
+                (
+                x
+                )
+                +
+                
+                  
+                    
+                      
+                        (
+                        
+                          
+                            x
+                            2
+                          
+                        
+                        )
+                      
+                      
+                        α
+                      
+                    
+                    
+                      
+                        
+                          π
+                        
+                      
+                      Γ
+                      
+                        (
+                        
+                          α
+                          +
+                          
+                            
+                              3
+                              2
+                            
+                          
+                        
+                        )
+                      
+                    
+                  
+                
+                ,
+              
+            
+            
+              
+                
+                  
+                    H
+                  
+                  
+                    α
+                    −
+                    1
+                  
+                
+                (
+                x
+                )
+                −
+                
+                  
+                    H
+                  
+                  
+                    α
+                    +
+                    1
+                  
+                
+                (
+                x
+                )
+              
+              
+                
+                =
+                2
+                
+                  
+                    d
+                    
+                      d
+                      x
+                    
+                  
+                
+                
+                  (
+                  
+                    
+                      
+                        H
+                      
+                      
+                        α
+                      
+                    
+                    (
+                    x
+                    )
+                  
+                  )
+                
+                −
+                
+                  
+                    
+                      
+                        (
+                        
+                          
+                            x
+                            2
+                          
+                        
+                        )
+                      
+                      
+                        α
+                      
+                    
+                    
+                      
+                        
+                          π
+                        
+                      
+                      Γ
+                      
+                        (
+                        
+                          α
+                          +
+                          
+                            
+                              3
+                              2
+                            
+                          
+                        
+                        )
+                      
+                    
+                  
+                
+                .
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}\mathbf {H} _{\alpha -1}(x)+\mathbf {H} _{\alpha +1}(x)&={\frac {2\alpha }{x}}\mathbf {H} _{\alpha }(x)+{\frac {\left({\frac {x}{2}}\right)^{\alpha }}{{\sqrt {\pi }}\Gamma \left(\alpha +{\frac {3}{2}}\right)}},\\\mathbf {H} _{\alpha -1}(x)-\mathbf {H} _{\alpha +1}(x)&=2{\frac {d}{dx}}\left(\mathbf {H} _{\alpha }(x)\right)-{\frac {\left({\frac {x}{2}}\right)^{\alpha }}{{\sqrt {\pi }}\Gamma \left(\alpha +{\frac {3}{2}}\right)}}.\end{aligned}}}
+  
+
+
+== Relation to other functions ==
+Struve functions of integer order can be expressed in terms of Weber functions En and vice versa: if n is a non-negative integer then
+
+  
+    
+      
+        
+          
+            
+              
+                
+                  
+                    E
+                  
+                  
+                    n
+                  
+                
+                (
+                z
+                )
+              
+              
+                
+                =
+                
+                  
+                    1
+                    π
+                  
+                
+                
+                  ∑
+                  
+                    k
+                    =
+                    0
+                  
+                  
+                    
+                      ⌊
+                      
+                        
+                          
+                            n
+                            −
+                            1
+                          
+                          2
+                        
+                      
+                      ⌋
+                    
+                  
+                
+                
+                  
+                    
+                      Γ
+                      
+                        (
+                        
+                          k
+                          +
+                          
+                            
+                              1
+                              2
+                            
+                          
+                        
+                        )
+                      
+                      
+                        
+                          (
+                          
+                            
+                              z
+                              2
+                            
+                          
+                          )
+                        
+                        
+                          n
+                          −
+                          2
+                          k
+                          −
+                          1
+                        
+                      
+                    
+                    
+                      Γ
+                      
+                        (
+                        
+                          n
+                          −
+                          k
+                          +
+                          
+                            
+                              1
+                              2
+                            
+                          
+                        
+                        )
+                      
+                    
+                  
+                
+                −
+                
+                  
+                    H
+                  
+                  
+                    n
+                  
+                
+                (
+                z
+                )
+                ,
+              
+            
+            
+              
+                
+                  
+                    E
+                  
+                  
+                    −
+                    n
+                  
+                
+                (
+                z
+                )
+              
+              
+                
+                =
+                
+                  
+                    
+                      (
+                      −
+                      1
+                      
+                        )
+                        
+                          n
+                          +
+                          1
+                        
+                      
+                    
+                    π
+                  
+                
+                
+                  ∑
+                  
+                    k
+                    =
+                    0
+                  
+                  
+                    
+                      ⌊
+                      
+                        
+                          
+                            n
+                            −
+                            1
+                          
+                          2
+                        
+                      
+                      ⌋
+                    
+                  
+                
+                
+                  
+                    
+                      Γ
+                      (
+                      n
+                      −
+                      k
+                      −
+                      
+                        
+                          1
+                          2
+                        
+                      
+                      )
+                      
+                        
+                          (
+                          
+                            
+                              z
+                              2
+                            
+                          
+                          )
+                        
+                        
+                          −
+                          n
+                          +
+                          2
+                          k
+                          +
+                          1
+                        
+                      
+                    
+                    
+                      Γ
+                      
+                        (
+                        
+                          k
+                          +
+                          
+                            
+                              3
+                              2
+                            
+                          
+                        
+                        )
+                      
+                    
+                  
+                
+                −
+                
+                  
+                    H
+                  
+                  
+                    −
+                    n
+                  
+                
+                (
+                z
+                )
+                .
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}\mathbf {E} _{n}(z)&={\frac {1}{\pi }}\sum _{k=0}^{\left\lfloor {\frac {n-1}{2}}\right\rfloor }{\frac {\Gamma \left(k+{\frac {1}{2}}\right)\left({\frac {z}{2}}\right)^{n-2k-1}}{\Gamma \left(n-k+{\frac {1}{2}}\right)}}-\mathbf {H} _{n}(z),\\\mathbf {E} _{-n}(z)&={\frac {(-1)^{n+1}}{\pi }}\sum _{k=0}^{\left\lfloor {\frac {n-1}{2}}\right\rfloor }{\frac {\Gamma (n-k-{\frac {1}{2}})\left({\frac {z}{2}}\right)^{-n+2k+1}}{\Gamma \left(k+{\frac {3}{2}}\right)}}-\mathbf {H} _{-n}(z).\end{aligned}}}
+  Struve functions of  order n + 1/2 where n is an integer can be expressed in terms of elementary functions. In particular if n is a non-negative integer then
+
+  
+    
+      
+        
+          
+            H
+          
+          
+            −
+            n
+            −
+            
+              
+                1
+                2
+              
+            
+          
+        
+        (
+        z
+        )
+        =
+        (
+        −
+        1
+        
+          )
+          
+            n
+          
+        
+        
+          J
+          
+            n
+            +
+            
+              
+                1
+                2
+              
+            
+          
+        
+        (
+        z
+        )
+        ,
+      
+    
+    {\displaystyle \mathbf {H} _{-n-{\frac {1}{2}}}(z)=(-1)^{n}J_{n+{\frac {1}{2}}}(z),}
+  where the right hand side is a spherical Bessel function.
+Struve functions (of any order) can be expressed in terms of the generalized hypergeometric function 1F2:
+
+  
+    
+      
+        
+          
+            H
+          
+          
+            α
+          
+        
+        (
+        z
+        )
+        =
+        
+          
+            
+              z
+              
+                α
+                +
+                1
+              
+            
+            
+              
+                2
+                
+                  α
+                
+              
+              
+                
+                  π
+                
+              
+              Γ
+              
+                (
+                
+                  α
+                  +
+                  
+                    
+                      
+                        3
+                        2
+                      
+                    
+                  
+                
+                )
+              
+            
+          
+        
+        
+          
+
+          
+          
+            1
+          
+        
+        
+          F
+          
+            2
+          
+        
+        
+          (
+          
+            1
+            ;
+            
+              
+                
+                  3
+                  2
+                
+              
+            
+            ,
+            α
+            +
+            
+              
+                
+                  3
+                  2
+                
+              
+            
+            ;
+            −
+            
+              
+                
+                  
+                    z
+                    
+                      2
+                    
+                  
+                  4
+                
+              
+            
+          
+          )
+        
+        .
+      
+    
+    {\displaystyle \mathbf {H} _{\alpha }(z)={\frac {z^{\alpha +1}}{2^{\alpha }{\sqrt {\pi }}\Gamma \left(\alpha +{\tfrac {3}{2}}\right)}}{}_{1}F_{2}\left(1;{\tfrac {3}{2}},\alpha +{\tfrac {3}{2}};-{\tfrac {z^{2}}{4}}\right).}
+  
+
+
+== Applications ==
+The Struve and Weber functions were shown to have an application to beamforming in., and in describing the effect of confining interface on Brownian motion of colloidal particles at low Reynolds numbers.
+
+
+== References ==
+
+R. M. Aarts and Augustus J. E. M. Janssen (2003). "Approximation of the Struve function H1 occurring in impedance calculations". J. Acoust. Soc. Am. 113 (5): 2635–2637. Bibcode:2003ASAJ..113.2635A. doi:10.1121/1.1564019. PMID 12765381.
+R. M. Aarts and Augustus J. E. M. Janssen (2016). "Efficient approximation of the Struve functions Hn occurring in the calculation of sound radiation quantities". J. Acoust. Soc. Am. 140 (6): 4154–4160. Bibcode:2016ASAJ..140.4154A. doi:10.1121/1.4968792. PMID 28040027.
+Abramowitz, Milton; Stegun, Irene Ann, eds. (1983) [June 1964]. "Chapter 12". Handbook of Mathematical Functions with Formulas, Graphs, and Mathematical Tables. Applied Mathematics Series. Vol. 55 (Ninth reprint with additional corrections of tenth original printing with corrections (December 1972); first ed.). Washington D.C.; New York: United States Department of Commerce, National Bureau of Standards; Dover Publications. p. 496. ISBN 978-0-486-61272-0. LCCN 64-60036. MR 0167642. LCCN 65-12253.
+Ivanov, A. B. (2001) [1994], "Struve function", Encyclopedia of Mathematics, EMS Press
+Paris, R. B. (2010), "Struve function",  in Olver, Frank W. J.; Lozier, Daniel M.; Boisvert, Ronald F.; Clark, Charles W. (eds.), NIST Handbook of Mathematical Functions, Cambridge University Press, ISBN 978-0-521-19225-5, MR 2723248
+Struve, H. (1882). "Beitrag zur Theorie der Diffraction an Fernröhren". Annalen der Physik und Chemie. 17 (13): 1008–1016. Bibcode:1882AnP...253.1008S. doi:10.1002/andp.18822531319.
+
+
+== External links ==
+Struve functions at the Wolfram functions site.

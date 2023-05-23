@@ -1,0 +1,39 @@
+Steven Feuerstein is an author focusing  on the Oracle database PL/SQL language, having written ten books on PL/SQL, and one book on mySQL, all published by O'Reilly Media. His signature book, Oracle PL/SQL Programming,
+which many consider the "bible" for PL/SQL developers, was first published in September 1993. It has grown from 916 pages in 1993 to over 1000 pages in its 6th edition, published 20 years later.
+
+
+== Career ==
+Feuerstein has developed software since 1980. He spent five years with Oracle Corporation (1987–1992) and served as PL/SQL evangelist for Quest Software from January 2001 to 2013. In March 2014, he re-joined Oracle Corporation as an Architect and leads a team of Oracle Developer Advocates.
+Between 1999 and 2008, he focused his attention on improving the testing of PL/SQL programs, first by starting the open-source framework utPLSQL for unit testing PL/SQL, later on through the creation of Quest Code Tester for Oracle, which automates PL/SQL code testing.
+Steven was one of the original Oracle ACE Directors and publishes regularly in Oracle Magazine and in the ODTUG magazine.
+In April 2010, Feuerstein launched the PL/SQL Challenge, a daily quiz on Oracle PL/SQL that quickly attracted over 1,000 daily players, making it one of the most active PL/SQL-related websites on the Internet. In 2011, Feuerstein added the PL/SQL Channel, which offers video-based training on the Oracle PL/SQL language.
+In March 2014, Feuerstein re-joined Oracle Corporation as an evangelist. He then formed the Developer Advocates team to help Oracle Database users take full advantage of this database to build their applications. The PL/SQL Challenge was transformed into the Oracle Dev Gym, which offers quizzes, workouts and classes on SQL, PL/SQL, and other Oracle technologies.
+
+
+== Books ==
+Advanced Oracle PL/SQL Programming with Packages, O'Reilly Media, October 1996, ISBN 1-56592-238-7
+with Charles Dye, John Beresniewicz.Oracle Built-in Packages, O'Reilly Media, May 1998, ISBN 1-56592-375-8
+with John Beresniewicz, Chip Dawes. Oracle PL/SQL Built-ins Pocket Reference, O'Reilly Media, October 1998, ISBN 1-56592-456-8
+Oracle PL/SQL Programming: Guide to Oracle8i Features, O'Reilly Media, October 1999, ISBN 1-56592-675-7
+with Andrew Odewahn. Oracle PL/SQL Programming: A Developer's Workbook, O'Reilly Media, May 2000, ISBN 1-56592-674-9
+with Bill Pribyl. Learning Oracle PL/SQL, O'Reilly Media, November 2001, ISBN 0-596-00180-0
+with Arup Nanda. Oracle PL/SQL for DBAs, First Edition, O'Reilly Media, October 2005, ISBN 0-596-00587-3
+with Guy Harrison. MySQL Stored Procedure Programming: Building High-Performance Web Applications in MySQL, O'Reilly Media, March 2006, ISBN 0-596-10089-2
+Oracle PL/SQL Best Practices, Second Edition, O'Reilly Media, October 2007, ISBN 0-596-51410-7
+with Bill Pribyl, Chip Dawes. Oracle PL/SQL Language Pocket Reference, Fourth Edition, O'Reilly Media, October 2007, ISBN 0-596-51404-2
+with Bill Pribyl. Oracle PL/SQL Programming, Fifth Edition, O'Reilly Media, September 2009, ISBN 0-596-51446-8
+Oracle PL/SQL Programming, 6th Edition Covers Versions Through Oracle Database 12c, February 2014 ISBN 1-4493-2445-2
+
+
+== References ==
+
+
+== External links ==
+The Cyberworld of Steven Feuerstein (personal homepage)
+The PL/SQL Challenge (daily PL/SQL quiz)
+The PL/SQL Channel (video trainings on Oracle PL/SQL)
+FeuerThoughts Steven Feuerstein's blog, often about non-technical issues
+Best Practice PL/SQL with Steven Feuerstein, on Oracle Technology Network
+PL/SQL Obsession Steven Feuerstein's online portal for all things PL/SQL on Quest Software's community portal toadworld.com
+Feuerthoughts: An Interview with Steven Feuerstein by Iggy Fernandez, Editor of the Northern California Oracle Users Group (NoCOUG) Journal for the  August 2006 issue
+An interview with Steven Feuerstein A recent interview on databasedesign-resource.com

@@ -1,0 +1,22 @@
+Kaltix Corp., commonly known as Kaltix, was a personalized search engine company founded at Stanford University in June 2003 by Sepandar Kamvar, Taher Haveliwala, and Glen Jeh. It was acquired by Google in September 2003.
+
+
+== Description ==
+Kaltix was a startup company, formed to commercialize personalized web search technology utilizing a set of proprietary algorithms. The company developed a system to speed up the computation of Google's PageRank algorithm and personalize search results by sorting them according to the interests of the individual instead of the consensus approach developed by Google. It was claimed by the founders of the company that the algorithm offered a way to compute search results nearly 1,000 times faster than what was possible using current methods in 2003.
+
+
+== History ==
+Kaltix was based on the work of Sep Kamvar, Taher Haveliwala and Glen Jeh, alumni from Stanford University and participants of their alma mater's PageRank Project as graduate students from 2002 to 2003. The project's aim was to advance the PageRank algorithm, developed by Larry Page and Sergey Brin, the co-founders of Google. Their collective efforts resulted in the development of three algorithms: Quadratic Extrapolation, BlockRank and Adaptive PageRank. Together, the algorithms formed the foundation of Kaltix.The first algorithm was presented in a paper to the 12th International World Wide Web Conference (WWW 2003) in Budapest, Hungary on May 22, 2003. Kaltix Corp was later established on June 16, 2003, and the trio published their business plan and purchased the Kaltix domain name the same day. Just three months after the company's founding, on September 30, 2003, Kaltix was acquired by Google for an undisclosed sum.
+
+
+== Reception ==
+Kaltix was initially met with excitement and mystery by both technology writers (including The New York Times) and the technology industry as a whole. Enthusiasm for the potential of personalized search results, obtained up to five times faster than Google was accompanied by speculation due to the lack of public information about the company at the time. Since its founding and acquisition by Google, Kaltix has been noted for its significance due to its impact towards the development of personalized search.
+
+
+== References ==
+
+
+== External links ==
+Sep Kamvar's Personal Website
+Taher Haveliwala's Personal Website
+Glen Jeh's Personal Google Site Archived 2016-04-13 at the Wayback Machine

@@ -1,0 +1,28 @@
+The Barbel-class submarines, the last diesel-electric propelled attack submarines built by the United States Navy, incorporated numerous, radical engineering improvements over previous classes. They were the first production warships built with the teardrop-shape hull first tested on the experimental USS Albacore (AGSS-569), and the first to combine the control room, attack center, and conning tower in the same space in the hull. They were of double hull design with 1.5-inch thick HY80 steel.  This class of submarine became part of the United States Navy's fleet in 1959 and was taken out of service 1988–1990, leaving the Navy with an entirely nuclear-powered submarine fleet.
+The Barbel class' design is considered to be very effective. The Zwaardvis-class submarines of the Netherlands and the Hai Lung class of the Republic of China (designed and built in the Netherlands) were closely derived from the Barbel class design. The Japanese Uzushio class and its successors were also influenced by the Barbel class.
+
+
+== Design ==
+Designed under project SCB 150, the class overall was a somewhat smaller diesel-powered version of the Skipjack-class nuclear submarines, the first of which entered service only three months after Barbel, having been laid down only 11 days later. Several features of the experimental Albacore were used in the Barbel-class design, most obviously the fully streamlined "teardrop" hull. Albacore's single-shaft configuration, necessary to minimize drag and thus maximize speed, was also adopted for the Barbels, Skipjacks, and all subsequent US nuclear submarines. This was a matter of considerable debate and analysis within the Navy, as two shafts offered redundancy and improved maneuverability. For the first time, the Barbels also did away with the conning tower, instead combining the functions of attack center and control room into the same space, another feature adopted for all subsequent US submarines. This was facilitated by the adoption of "push-button" ballast control, another feature of Albacore. Previous designs had routed the trim system piping through the control room, where the valves were manually operated. The "push-button" system used hydraulic operators on each valve, remotely electrically operated (actually via toggle switches) from the control room. This greatly conserved control room space and reduced the time required to conduct trim operations. The overall layout made coordination of the weapons and ship control systems easier during combat operations.
+The torpedo tube arrangement of the Barbels was the same as the Skipjacks', with six bow tubes in a three-over-three configuration. These (and the Skipjack-derived George Washington-class SSBNs) were the only US Navy classes to have this configuration, as subsequent SSN designs used four angled midships torpedo tubes to make room for a large bow sonar sphere, and most SSBNs had four bow tubes.
+The Barbels were built with bow mounted diving planes, but these were replaced by sail planes (aka fairwater planes) within a few years. This feature was standard on US Navy submarines until bow planes returned with the improved Los Angeles class, the first of which was launched in 1987.
+
+
+== Ships in class ==
+
+
+== References ==
+
+
+=== Citations ===
+
+
+=== Sources ===
+
+
+== External links ==
+
+Barbel class at globalsecurity.org
+Oregon Museum of Science and Industry (OMSI) page on USS Blueback
+NavSource.org Postwar Diesel Submarines photo gallery index
+On Eternal Patrol postwar index page with Bonefish fire

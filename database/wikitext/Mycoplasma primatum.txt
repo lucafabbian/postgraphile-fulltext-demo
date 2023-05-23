@@ -1,0 +1,6 @@
+Mycoplasma primatum  is a species of bacteria in the genus Mycoplasma. This genus of bacteria lacks a cell wall around their cell membrane. Without a cell wall, they are unaffected by many common antibiotics such as penicillin or other beta-lactam antibiotics that target cell wall synthesis. Mycoplasma are the smallest bacterial cells yet discovered, can survive without oxygen and are typically about 0. 1  µm in diameter.
+This species is common in the oral and urogenital tracts of cercopithecine monkeys where it was first isolated in 1971.  It was also isolated a human with an infected umbilicus and vagina in 1955. It has not been identified as a pathogen. Its genome has been sequenced.
+The type strain is ATCC 25948 = NCTC 10163.
+
+
+== References ==

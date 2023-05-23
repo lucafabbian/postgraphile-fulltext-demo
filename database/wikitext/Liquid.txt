@@ -1,0 +1,723 @@
+A liquid is a nearly incompressible fluid that conforms to the shape of its container but retains a nearly constant volume independent of pressure. It is one of the four fundamental states of matter (the others being solid, gas, and plasma), and is the only state with a definite volume but no fixed shape.
+The density of a liquid is usually close to that of a solid, and much higher than that of a gas. Therefore, liquid and solid are both termed condensed matter. On the other hand, as liquids and gases share the ability to flow, they are both called fluids.
+A liquid is made up of tiny vibrating particles of matter, such as atoms, held together by intermolecular bonds. Like a gas, a liquid is able to flow and take the shape of a container. Unlike a gas, a liquid maintains a fairly constant density and does not disperse to fill every space of a container.
+Although liquid water is abundant on Earth, this state of matter is actually the least common in the known universe, because liquids require a relatively narrow temperature/pressure range to exist. Most known matter in the universe is either gas (as interstellar clouds) or plasma (as stars).
+
+
+== Introduction ==
+
+Liquid is one of the four primary states of matter, with the others being solid, gas and plasma. A liquid is a fluid. Unlike a solid, the molecules in a liquid have a much greater freedom to move. The forces that bind the molecules together in a solid are only temporary in a liquid, allowing a liquid to flow while a solid remains rigid.
+A liquid, like a gas, displays the properties of a fluid. A liquid can flow, assume the shape of a container, and, if placed in a sealed container, will distribute applied pressure evenly to every surface in the container. If liquid is placed in a bag, it can be squeezed into any shape. Unlike a gas, a liquid is nearly incompressible, meaning that it occupies nearly a constant volume over a wide range of pressures; it does not generally expand to fill available space in a container but forms its own surface, and it may not always mix readily with another liquid. These properties make a liquid suitable for applications such as hydraulics.
+Liquid particles are bound firmly but not rigidly. They are able to move around one another freely, resulting in a limited degree of particle mobility. As the temperature increases, the increased vibrations of the molecules causes distances between the molecules to increase. When a liquid reaches its boiling point, the cohesive forces that bind the molecules closely together break, and the liquid changes to its gaseous state (unless superheating occurs). If the temperature is decreased, the distances between the molecules become smaller. When the liquid reaches its freezing point the molecules will usually lock into a very specific order, called crystallizing, and the bonds between them become more rigid, changing the liquid into its solid state (unless supercooling occurs).
+
+
+== Examples ==
+Only two elements are liquid at standard conditions for temperature and pressure: mercury and bromine. Four more elements have melting points slightly above room temperature: francium, caesium, gallium and rubidium. In addition, certain mixtures of elements are liquid at room temperature, even if the individual elements are solid under the same conditions (see eutectic mixture). An example is the sodium-potassium metal alloy NaK. Other metal alloys that are liquid at room temperature include galinstan, which is a gallium-indium-tin alloy that melts at −19 °C (−2 °F), as well as some amalgams (alloys involving mercury).Pure substances that are liquid under normal conditions include water, ethanol and many other organic solvents. Liquid water is of vital importance in chemistry and biology, and it is necessary for all known forms of life.Inorganic liquids include water, magma, inorganic nonaqueous solvents and many acids.
+Important everyday liquids include aqueous solutions like household bleach, other mixtures of different substances such as mineral oil and gasoline, emulsions like vinaigrette or mayonnaise, suspensions like blood, and colloids like paint and milk.
+Many gases can be liquefied by cooling, producing liquids such as liquid oxygen, liquid nitrogen, liquid hydrogen and liquid helium. Not all gases can be liquified at atmospheric pressure, however. Carbon dioxide, for example, can only be liquified at pressures above 5.1 atm.Some materials cannot be classified within the classical three states of matter. For example, liquid crystals (used in liquid-crystal displays) possess both solid-like and liquid-like properties, and belong to their own state of matter distinct from either liquid or solid.
+
+
+== Applications ==
+
+
+=== Lubrication ===
+
+Liquids are useful as lubricants due to their ability to form a thin, freely flowing layer between solid materials. Lubricants such as oil are chosen for viscosity and flow characteristics that are suitable throughout the operating temperature range of the component. Oils are often used in engines, gear boxes, metalworking, and hydraulic systems for their good lubrication properties.
+
+
+=== Solvation ===
+Many liquids are used as solvents, to dissolve other liquids or solids. Solutions are found in a wide variety of applications, including paints, sealants, and adhesives. Naphtha and acetone are used frequently in industry to clean oil, grease, and tar from parts and machinery. Body fluids are water-based solutions.
+Surfactants are commonly found in soaps and detergents. Solvents like alcohol are often used as antimicrobials. They are found in cosmetics, inks, and liquid dye lasers. They are used in the food industry, in processes such as the extraction of vegetable oil.
+
+
+=== Cooling ===
+
+Liquids tend to have better thermal conductivity than gases, and the ability to flow makes a liquid suitable for removing excess heat from mechanical components. The heat can be removed by channeling the liquid through a heat exchanger, such as a radiator, or the heat can be removed with the liquid during evaporation. Water or glycol coolants are used to keep engines from overheating. The coolants used in nuclear reactors include water or liquid metals, such as sodium or bismuth. Liquid propellant films are used to cool the thrust chambers of rockets. In machining, water and oils are used to remove the excess heat generated, which can quickly ruin both the work piece and the tooling. During perspiration, sweat removes heat from the human body by evaporating. In the heating, ventilation, and air-conditioning industry (HVAC), liquids such as water are used to transfer heat from one area to another.
+
+
+=== Cooking ===
+Liquids are often used in cooking due to their excellent heat-transfer capabilities. In addition to thermal conduction, liquids transmit energy by convection. In particular, because warmer fluids expand and rise while cooler areas contract and sink, liquids with low kinematic viscosity tend to transfer heat through convection at a fairly constant temperature, making a liquid suitable for blanching, boiling, or frying. Even higher rates of heat transfer can be achieved by condensing a gas into a liquid. At the liquid's boiling point, all of the heat energy is used to cause the phase change from a liquid to a gas, without an accompanying increase in temperature, and is stored as chemical potential energy. When the gas condenses back into a liquid this excess heat-energy is released at a constant temperature. This phenomenon is used in processes such as steaming.
+
+
+=== Distillation ===
+Since liquids often have different boiling points, mixtures or solutions of liquids or gases can typically be separated by distillation, using heat, cold, vacuum, pressure, or other means. Distillation can be found in everything from the production of alcoholic beverages, to oil refineries, to the cryogenic distillation of gases such as argon, oxygen, nitrogen, neon, or xenon by liquefaction (cooling them below their individual boiling points).
+
+
+=== Hydraulics ===
+Liquid is the primary component of hydraulic systems, which take advantage of Pascal's law to provide fluid power. Devices such as pumps and waterwheels have been used to change liquid motion into mechanical work since ancient times. Oils are forced through hydraulic pumps, which transmit this force to hydraulic cylinders. Hydraulics can be found in many applications, such as automotive brakes and transmissions, heavy equipment, and airplane control systems. Various hydraulic presses are used extensively in repair and manufacturing, for lifting, pressing, clamping and forming.
+
+
+=== Liquid metals ===
+
+Liquid metals have several properties that are useful in sensing and actuation, particularly their electrical conductivity and ability to transmit forces (incompressibility). As freely flowing substances, liquid metals retain these bulk properties even under extreme deformation. For this reason, they have been proposed for use in soft robots and wearable healthcare devices, which must be able to operate under repeated deformation. The metal gallium is considered to be a promising candidate for these applications as it is a liquid near room temperature, has low toxicity, and evaporates slowly.
+
+
+=== Miscellaneous ===
+Liquids are sometimes used in measuring devices. A thermometer often uses the thermal expansion of liquids, such as mercury, combined with their ability to flow to indicate temperature. A manometer uses the weight of the liquid to indicate air pressure.The free surface of a rotating liquid forms a circular paraboloid and can therefore be used as a telescope. These are known as liquid-mirror telescopes. They are significantly cheaper than conventional telescopes, but can only point straight upward (zenith telescope). A common choice for the liquid is mercury.
+
+
+== Mechanical properties ==
+
+
+=== Volume ===
+
+Quantities of liquids are measured in units of volume. These include the SI unit cubic metre (m3) and its divisions, in particular the cubic decimeter, more commonly called the litre (1 dm3 = 1 L = 0.001 m3), and the cubic centimetre, also called millilitre (1 cm3 = 1 mL = 0.001 L = 10−6 m3).The volume of a quantity of liquid is fixed by its temperature and pressure. Liquids generally expand when heated, and contract when cooled. Water between 0 °C and 4 °C is a notable exception.On the other hand, liquids have little compressibility. Water, for example, will compress by only 46.4 parts per million for every unit increase in atmospheric pressure (bar). At around 4000 bar (400 megapascals or 58,000 psi) of pressure at room temperature water experiences only an 11% decrease in volume. Incompressibility makes liquids suitable for transmitting hydraulic power, because a change in pressure at one point in a liquid is transmitted undiminished to every other part of the liquid and very little energy is lost in the form of compression.However, the negligible compressibility does lead to other phenomena. The banging of pipes, called water hammer, occurs when a valve is suddenly closed, creating a huge pressure-spike at the valve that travels backward through the system at just under the speed of sound. Another phenomenon caused by liquid's incompressibility is cavitation. Because liquids have little elasticity they can literally be pulled apart in areas of high turbulence or dramatic change in direction, such as the trailing edge of a boat propeller or a sharp corner in a pipe. A liquid in an area of low pressure (vacuum) vaporizes and forms bubbles, which then collapse as they enter high pressure areas. This causes liquid to fill the cavities left by the bubbles with tremendous localized force, eroding any adjacent solid surface.
+
+
+=== Pressure and buoyancy ===
+
+In a gravitational field, liquids exert pressure on the sides of a container as well as on anything within the liquid itself. This pressure is transmitted in all directions and increases with depth. If a liquid is at rest in a uniform gravitational field, the pressure 
+  
+    
+      
+        p
+      
+    
+    {\displaystyle p}
+   at depth 
+  
+    
+      
+        z
+      
+    
+    {\displaystyle z}
+   is given by
+
+  
+    
+      
+        p
+        =
+        
+          p
+          
+            0
+          
+        
+        +
+        ρ
+        g
+        z
+        
+      
+    
+    {\displaystyle p=p_{0}+\rho gz\,}
+  where:
+
+  
+    
+      
+        
+          p
+          
+            0
+          
+        
+        
+      
+    
+    {\displaystyle p_{0}\,}
+   is the pressure at the surface
+
+  
+    
+      
+        ρ
+        
+      
+    
+    {\displaystyle \rho \,}
+   is the density of the liquid, assumed uniform with depth
+
+  
+    
+      
+        g
+        
+      
+    
+    {\displaystyle g\,}
+   is the gravitational accelerationFor a body of water open to the air, 
+  
+    
+      
+        
+          p
+          
+            0
+          
+        
+      
+    
+    {\displaystyle p_{0}}
+   would be the atmospheric pressure.
+Static liquids in uniform gravitational fields also exhibit the phenomenon of buoyancy, where objects immersed in the liquid experience a net force due to the pressure variation with depth. The magnitude of the force is equal to the weight of the liquid displaced by the object, and the direction of the force depends on the average density of the immersed object. If the density is smaller than that of the liquid, the buoyant force points upward and the object floats, whereas if the density is larger, the buoyant force points downward and the object sinks. This is known as Archimedes' principle.
+
+
+=== Surfaces ===
+
+Unless the volume of a liquid exactly matches the volume of its container, one or more surfaces are observed. The presence of a surface introduces new phenomena which are not present in a bulk liquid. This is because a molecule at a surface possesses bonds with other liquid molecules only on the inner side of the surface, which implies a net force pulling surface molecules inward. Equivalently, this force can be described in terms of energy: there is a fixed amount of energy associated with forming a surface of a given area. This quantity is a material property called the surface tension, in units of energy per unit area (SI units: J/m2). Liquids with strong intermolecular forces tend to have large surface tensions.A practical implication of surface tension is that liquids tend to minimize their surface area, forming spherical drops and bubbles unless other constraints are present. Surface tension is responsible for a range of other phenomena as well, including surface waves, capillary action, wetting, and ripples. In liquids under nanoscale confinement, surface effects can play a dominating role since – compared with a macroscopic sample of liquid – a much greater fraction of molecules are located near a surface.
+The surface tension of a liquid directly affects its wettability. Most common liquids have tensions ranging in the tens of mJ/m2, so droplets of oil, water, or glue can easily merge and adhere to other surfaces, whereas liquid metals such as mercury may have tensions ranging in the hundreds of mJ/m2, thus droplets do not combine easily and surfaces may only wet under specific conditions.
+The surface tensions of common liquids occupy a relatively narrow range of values when exposed to changing conditions such as temperature, which contrasts strongly with the enormous variation seen in other mechanical properties, such as viscosity.The free surface of a liquid is disturbed by gravity (flatness) and waves (surface roughness).
+
+
+=== Flow ===
+
+An important physical property characterizing the flow of liquids is viscosity. Intuitively, viscosity describes the resistance of a liquid to flow.
+More technically, viscosity measures the resistance of a liquid to deformation at a given rate, such as when it is being sheared at finite velocity. A specific example is a liquid flowing through a
+pipe: in this case the liquid undergoes shear deformation since it flows more slowly near the walls of the pipe
+than near the center. As a result, it exhibits viscous resistance to flow. In order to maintain flow, an external force must be applied, such as a pressure difference between the ends of the pipe.
+The viscosity of liquids decreases with increasing temperature.Precise control of 
+viscosity is important in many applications, particularly the lubrication industry.
+One way to achieve such control is by blending two or more liquids of differing viscosities in precise ratios. 
+In addition, various additives exist which can modulate the temperature-dependence of the
+viscosity of lubricating oils. This capability is important since machinery often operate over a range of 
+temperatures (see also viscosity index).The viscous behavior of a liquid can be either Newtonian or non-Newtonian. A Newtonian liquid exhibits a linear strain/stress curve, meaning its viscosity is independent of time, shear rate, or shear-rate history. Examples of Newtonian liquids include water, glycerin, motor oil, honey, or mercury. A non-Newtonian liquid is one where the viscosity is not independent of these factors and either thickens (increases in viscosity) or thins (decreases in viscosity) under shear. Examples of non-Newtonian liquids include ketchup, custard, or starch solutions.
+
+
+=== Elasticity under confinement ===
+Confined liquids may exhibit different mechanical properties compared to bulk liquids. For example,
+liquids under sub-millimeter confinement (e.g. in the gap between rigid walls) exhibit a solid-like mechanical response and possess a surprisingly large low-frequency elastic shear modulus, which scales with the inverse cubic power of the confinement length.
+
+
+=== Sound propagation ===
+
+The speed of sound in a liquid is given by 
+  
+    
+      
+        c
+        =
+        
+          
+            K
+            
+              /
+            
+            ρ
+          
+        
+      
+    
+    {\displaystyle c={\sqrt {K/\rho }}}
+   where 
+  
+    
+      
+        K
+      
+    
+    {\displaystyle K}
+   is the bulk modulus of the liquid and 
+  
+    
+      
+        ρ
+      
+    
+    {\displaystyle \rho }
+   the density. As an example, water has a bulk modulus of about 2.2 GPa and a density of 1000 kg/m3, which gives c = 1.5 km/s.
+
+
+== Thermodynamics ==
+
+
+=== Phase transitions ===
+
+At a temperature below the boiling point, any matter in liquid form will evaporate until reaching equilibrium with the reverse process of condensation of its vapor. At this point the vapor will condense at the same rate as the liquid evaporates. Thus, a liquid cannot exist permanently if the evaporated liquid is continually removed. A liquid at or above its boiling point will normally boil, though superheating can prevent this in certain circumstances.
+At a temperature below the freezing point, a liquid will tend to crystallize, changing to its solid form. Unlike the transition to gas, there is no equilibrium at this transition under constant pressure, so unless supercooling occurs, the liquid will eventually completely crystallize. However, this is only true under constant pressure, so that (for example) water and ice in a closed, strong container might reach an equilibrium where both phases coexist. For the opposite transition from solid to liquid, see melting.
+
+
+=== Liquids in space ===
+The phase diagram explains why liquids do not exist in space or any other vacuum. Since the pressure is zero (except on surfaces or interiors of planets and moons) water and other liquids exposed to space will either immediately boil or freeze depending on the temperature. In regions of space near the earth, water will freeze if the sun is not shining directly on it and vaporize (sublime) as soon as it is in sunlight. If water exists as ice on the moon, it can only exist in shadowed holes where the sun never shines and where the surrounding rock does not heat it up too much. At some point near the orbit of Saturn, the light from the sun is too faint to sublime ice to water vapor. This is evident from the longevity of the ice that composes Saturn's rings.
+
+
+=== Solutions ===
+
+Liquids can form solutions with gases, solids, and other liquids.
+Two liquids are said to be miscible if they can form a solution in any proportion; otherwise they are immiscible. As an example, water and ethanol (drinking alcohol) are miscible whereas water and gasoline are immiscible. In some cases a mixture of otherwise immiscible liquids can be stabilized to form an emulsion, where one liquid is dispersed throughout the other as microscopic droplets. Usually this requires the presence of a surfactant in order to stabilize the droplets. A familiar example of an emulsion is mayonnaise, which consists of a mixture of water and oil that is stabilized by lecithin, a substance found in egg yolks.
+
+
+== Microscopic description ==
+
+The microscopic structure of liquids is complex and historically has been the subject of intense research and debate. A few of the key ideas are explained below.
+
+
+=== General description ===
+Microscopically, liquids consist of a dense, disordered packing of molecules. This contrasts with the other two common phases of matter, gases and solids. Although gases are disordered, the molecules are well-separated in space and interact primarily through molecule-molecule collisions. Conversely, although the molecules in solids are densely packed, they usually fall into a regular structure, such as a crystalline lattice (glasses are a notable
+exception).
+
+
+=== Short-range ordering ===
+
+While liquids do not exhibit long-range ordering as in a crystalline lattice, they do possess short-range order, which persists over a few molecular diameters.In all liquids, excluded volume interactions induce short-range order in molecular positions (center-of-mass coordinates). Classical monatomic liquids like argon and krypton are the simplest examples. Such liquids can be modeled as disordered "heaps" of closely packed spheres, and the short-range order corresponds to the fact that nearest and next-nearest neighbors in a packing of spheres tend to be separated by integer multiples of the diameter.In most liquids, molecules are not spheres, and intermolecular forces possess a directionality, i.e., they depend on the relative orientation of molecules. As a result, there is short-ranged orientational order in addition to the positional order mentioned above. Orientational order is especially important in hydrogen-bonded liquids like water. The strength and directional nature of hydrogen bonds drives the formation of local "networks" or "clusters" of molecules. Due to the relative importance of thermal fluctuations in liquids (compared with solids), these structures are highly dynamic, continuously deforming, breaking, and reforming.
+
+
+=== Energy and entropy ===
+The microscopic features of liquids derive from an interplay between attractive intermolecular forces and entropic forces.The attractive forces tend to pull molecules close together, and along with short-range repulsive interactions, they are the dominant forces behind the regular structure of solids. The entropic forces are not "forces" in the mechanical sense; rather, they describe the tendency of a system to maximize its entropy at fixed energy (see microcanonical ensemble). Roughly speaking, entropic forces drive molecules apart from each other, maximizing the volume they occupy. Entropic forces dominant in gases and explain the tendency of gases to fill their containers. In liquids, by contrast, the intermolecular and entropic forces are comparable, so it is not possible to neglect one in favor of the other. Quantitatively, the binding energy between adjacent molecules is the same order of magnitude as the thermal energy 
+  
+    
+      
+        
+          k
+          
+            B
+          
+        
+        T
+      
+    
+    {\displaystyle k_{\text{B}}T}
+  .
+
+
+==== No small parameter ====
+The competition between energy and entropy makes liquids difficult to model at the molecular level, as there is no idealized "reference state" that can serve as a starting point for tractable theoretical descriptions. Mathematically, there is no small parameter from which one can develop a systematic perturbation theory. This situation contrasts with both gases and solids. For gases, the reference state is the ideal gas, and the density can be used as a small parameter to construct a theory of real (nonideal) gases (see virial expansion). For crystalline solids, the reference state is a perfect crystalline lattice, and possible small parameters are thermal motions and lattice defects.
+
+
+=== Role of quantum mechanics ===
+Like all known forms of matter, liquids are fundamentally quantum mechanical. However, under standard conditions (near room temperature and pressure), much of the macroscopic behavior of liquids can be understood in terms of classical mechanics. The "classical picture" posits that the constituent molecules are discrete entities that interact through intermolecular forces according to Newton's laws of motion. As a result, their macroscopic properties can be described using classical statistical mechanics. While the intermolecular force law technically derives from quantum mechanics, it is usually understood as a model input to classical theory, obtained either from a fit to experimental data or from the classical limit of a quantum mechanical description. An illustrative, though highly simplified example is a collection of spherical molecules interacting through a Lennard–Jones potential.
+For the classical limit to apply, a necessary condition is that the thermal de Broglie wavelength, 
+
+  
+    
+      
+        Λ
+        =
+        
+          
+            (
+            
+              
+                
+                  2
+                  π
+                  
+                    ℏ
+                    
+                      2
+                    
+                  
+                
+                
+                  m
+                  
+                    k
+                    
+                      B
+                    
+                  
+                  T
+                
+              
+            
+            )
+          
+          
+            1
+            
+              /
+            
+            2
+          
+        
+      
+    
+    {\displaystyle \Lambda =\left({\frac {2\pi \hbar ^{2}}{mk_{\text{B}}T}}\right)^{1/2}}
+  is small compared with the length scale under consideration. Here, 
+  
+    
+      
+        ℏ
+      
+    
+    {\displaystyle \hbar }
+   is the Planck constant and 
+  
+    
+      
+        m
+      
+    
+    {\displaystyle m}
+   is the molecule's mass. Typical values of 
+  
+    
+      
+        Λ
+      
+    
+    {\displaystyle \Lambda }
+   are about 0.01-0.1 nanometers (Table 1). Hence, a high-resolution model of liquid structure at the nanoscale may require quantum mechanical considerations. A notable example is hydrogen bonding in associated liquids like water, where, due to the small mass of the proton, inherently quantum effects such as zero-point motion and tunneling are important.For a liquid to behave classically at the macroscopic level, 
+  
+    
+      
+        Λ
+      
+    
+    {\displaystyle \Lambda }
+   must be small compared with the average distance 
+  
+    
+      
+        a
+        ≈
+        
+          ρ
+          
+            −
+            1
+            
+              /
+            
+            3
+          
+        
+      
+    
+    {\displaystyle a\approx \rho ^{-1/3}}
+   
+between molecules. That is, 
+
+  
+    
+      
+        
+          
+            Λ
+            a
+          
+        
+        ≪
+        1
+      
+    
+    {\displaystyle {\frac {\Lambda }{a}}\ll 1}
+  Representative values of this ratio for a few liquids are given in Table 1. The conclusion is that quantum effects are important for liquids at low temperatures and with small molecular mass. For dynamic processes, there is an additional timescale constraint:
+
+  
+    
+      
+        τ
+        ≫
+        
+          
+            h
+            
+              
+                k
+                
+                  B
+                
+              
+              T
+            
+          
+        
+      
+    
+    {\displaystyle \tau \gg {\frac {h}{k_{B}T}}}
+  where 
+  
+    
+      
+        τ
+      
+    
+    {\displaystyle \tau }
+   is the timescale of the process under consideration. For room-temperature liquids, the right-hand side is about 10−14 seconds, which generally means that time-dependent processes involving translational motion can be described classically.At extremely low temperatures, even the macroscopic behavior of certain liquids deviates from classical mechanics. Notable examples are hydrogen and helium. Due to their low temperature and mass, such liquids have a thermal de Broglie wavelength comparable to the average distance between molecules.
+
+
+=== Dynamic phenomena ===
+The expression for the sound velocity of a liquid,
+
+  
+    
+      
+        c
+        =
+        
+          
+            K
+            
+              /
+            
+            ρ
+          
+        
+      
+    
+    {\displaystyle c={\sqrt {K/\rho }}}
+  ,contains the bulk modulus K. If K is frequency-independent, then the liquid behaves as a linear medium, so that sound propagates without dissipation or mode coupling. In reality, all liquids show some dispersion: with increasing frequency, K crosses over from the low-frequency, liquid-like limit 
+  
+    
+      
+        
+          K
+          
+            0
+          
+        
+      
+    
+    {\displaystyle K_{0}}
+   to the high-frequency, solid-like limit 
+  
+    
+      
+        
+          K
+          
+            ∞
+          
+        
+      
+    
+    {\displaystyle K_{\infty }}
+  . In normal liquids, most of this crossover takes place at frequencies between GHz and THz, sometimes called hypersound.
+At sub-GHz frequencies, a normal liquid cannot sustain shear waves: the zero-frequency limit of the shear modulus is 0. This is sometimes seen as the defining property of a liquid. 
+However, like the bulk modulus K, the shear modulus G is also frequency-dependent and exhibits a similar crossover at hypersound frequencies.
+According to linear response theory, the Fourier transform of K or G describes how the system returns to equilibrium after an external perturbation; for this reason, the dispersion step in the GHz to THz region is also called relaxation. As a liquid is supercooled toward the glass transition, the structural relaxation time exponentially increases, which explains the viscoelastic behavior of glass-forming liquids.
+
+
+=== Experimental methods ===
+The absence of long-range order in liquids is mirrored by the absence of Bragg peaks in X-ray and neutron diffraction. Under normal conditions, the diffraction pattern has circular symmetry, expressing the isotropy of the liquid. Radially, the diffraction intensity smoothly oscillates. This can be described by the static structure factor 
+  
+    
+      
+        S
+        (
+        q
+        )
+      
+    
+    {\displaystyle S(q)}
+  , with wavenumber 
+  
+    
+      
+        q
+        =
+        (
+        4
+        π
+        
+          /
+        
+        λ
+        )
+        sin
+        ⁡
+        θ
+      
+    
+    {\displaystyle q=(4\pi /\lambda )\sin \theta }
+   given by the wavelength 
+  
+    
+      
+        λ
+      
+    
+    {\displaystyle \lambda }
+   of the probe (photon or neutron) and the Bragg angle 
+  
+    
+      
+        θ
+      
+    
+    {\displaystyle \theta }
+  . The oscillations of 
+  
+    
+      
+        S
+        (
+        q
+        )
+      
+    
+    {\displaystyle S(q)}
+   express the short-range order of the liquid, i.e., the correlations between a molecule and "shells" of nearest neighbors, next-nearest neighbors, and so on.
+An equivalent representation of these correlations is the radial distribution function 
+  
+    
+      
+        g
+        (
+        r
+        )
+      
+    
+    {\displaystyle g(r)}
+  , which is related to the Fourier transform of 
+  
+    
+      
+        S
+        (
+        q
+        )
+      
+    
+    {\displaystyle S(q)}
+  . It represents a spatial average of a temporal snapshot of pair correlations in the liquid.
+
+
+== Prediction of liquid properties ==
+
+Methods for predicting liquid properties can be organized by their "scale" of description, that is, the length scales and time scales over which they apply.
+Macroscopic methods use equations that directly model the large-scale behavior of liquids, such as their thermodynamic properties and flow behavior.
+Microscopic methods use equations that model the dynamics of individual molecules.
+Mesoscopic methods fall in between, combining elements of both continuum and particle-based models.
+
+
+=== Macroscopic ===
+
+
+==== Empirical correlations ====
+Empirical correlations are simple mathematical expressions intended to approximate a liquid's properties over a range of experimental conditions, such as varying temperature and pressure. They are constructed by fitting simple functional forms to experimental data. For example, the temperature-dependence of liquid viscosity is sometimes approximated by the function 
+  
+    
+      
+        η
+        (
+        T
+        )
+        =
+        A
+        
+          e
+          
+            B
+            
+              /
+            
+            T
+          
+        
+      
+    
+    {\displaystyle \eta (T)=Ae^{B/T}}
+  , where 
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+   and 
+  
+    
+      
+        B
+      
+    
+    {\displaystyle B}
+   are fitting constants. Empirical correlations allow for extremely efficient estimates of physical properties, which can be useful in thermophysical simulations. However, they require high quality experimental data to obtain a good fit and cannot reliably extrapolate beyond the conditions covered by experiments.
+
+
+==== Thermodynamic potentials ====
+
+Thermodynamic potentials are functions that characterize the equilibrium state of a substance. An example is the Gibbs free energy 
+  
+    
+      
+        G
+        (
+        p
+        ,
+        T
+        )
+      
+    
+    {\displaystyle G(p,T)}
+  , which is a function of pressure and temperature. Knowing any one thermodynamic potential 
+  
+    
+      
+        
+          
+            F
+          
+        
+      
+    
+    {\displaystyle {\mathcal {F}}}
+   is sufficient to compute all equilibrium properties of a substance, often simply by taking derivatives of 
+  
+    
+      
+        
+          
+            F
+          
+        
+      
+    
+    {\displaystyle {\mathcal {F}}}
+  . Thus, a single correlation for 
+  
+    
+      
+        
+          
+            F
+          
+        
+      
+    
+    {\displaystyle {\mathcal {F}}}
+   can replace separate correlations for individual properties. Conversely, a variety of experimental measurements (e.g., density, heat capacity, vapor pressure) can be incorporated into the same fit; in principle, this would allow one to predict hard-to-measure properties like heat capacity in terms of other, more readily available measurements (e.g., vapor pressure).
+
+
+==== Hydrodynamics ====
+
+Hydrodynamic theories describe liquids in terms of space- and time-dependent macroscopic fields, such as density, velocity, and temperature. These fields obey partial differential equations, which can be linear or nonlinear. Hydrodynamic theories are more general than equilibrium thermodynamic descriptions, which assume that liquids are approximately homogeneous and time-independent. The Navier-Stokes equations are a well-known example: they are partial differential equations giving the time evolution of density, velocity, and temperature of a viscous fluid. There are numerous methods for numerically solving the Navier-Stokes equations and its variants.
+
+
+=== Mesoscopic ===
+
+Mesoscopic methods operate on length and time scales between the particle and continuum levels. For this reason, they combine elements of particle-based dynamics and continuum hydrodynamics.An example is the lattice Boltzmann method, which models a fluid as a collection of fictitious particles that exist on a lattice. The particles evolve in time through streaming (straight-line motion) and collisions. Conceptually, it is based on the Boltzmann equation for dilute gases, where the dynamics of a molecule consists of free motion interrupted by discrete binary collisions, but it is also applied to liquids. Despite the analogy with individual molecular trajectories, it is a coarse-grained description that typically operates on length and time scales larger than those of true molecular dynamics (hence the notion of "fictitious" particles).
+Other methods that combine elements of continuum and particle-level dynamics include smoothed-particle hydrodynamics, dissipative particle dynamics, and multiparticle collision dynamics.
+
+
+=== Microscopic ===
+Microscopic simulation methods work directly with the equations of motion (classical or quantum) of the constituent molecules.
+
+
+==== Classical molecular dynamics ====
+
+Classical molecular dynamics (MD) simulates liquids using Newton's law of motion; from Newton's second law (
+  
+    
+      
+        F
+        =
+        m
+        
+          
+            
+              x
+              ¨
+            
+          
+        
+      
+    
+    {\displaystyle F=m{\ddot {x}}}
+  ), the trajectories of molecules can be traced out explicitly and used to compute macroscopic liquid properties like density or viscosity. However, classical MD requires expressions for the intermolecular forces ("F" in Newton's second law). Usually, these must be approximated using experimental data or some other input.
+
+
+==== Ab initio (quantum) molecular dynamics ====
+
+Ab initio quantum mechanical methods simulate liquids using only the laws of quantum mechanics and fundamental atomic constants. In contrast with classical molecular dynamics, the intermolecular force fields are an output of the calculation, rather than an input based on experimental measurements or other considerations. In principle, ab initio methods can simulate the properties of a given liquid without any prior experimental data. However, they are very expensive computationally, especially for large molecules with internal structure.
+
+
+== See also ==
+
+
+== References ==

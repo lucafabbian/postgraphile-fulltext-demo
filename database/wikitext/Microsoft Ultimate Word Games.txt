@@ -1,0 +1,20 @@
+Microsoft Ultimate Word Games (known as Wordament on iOS and Android) is a word puzzle game published by Microsoft Studios, first released for Windows Phone as 'Wordament' on April 24, 2012. The game was relaunched in June 2017 with two new game modes, Crosswords and Word Twister (first known as Jumble).
+
+
+== History ==
+The game had the distinction that allows optional access to online leaderboards through Xbox Live service from all platforms, including iOS and Android devices.
+Through the service, the game gives out achievements and the associated Gamerscore as reward, even if the user is using a non-Microsoft device.
+
+
+== Rules and gameplay ==
+
+In Wordament, the goal is to find words by highlighting adjacent or diagonal letter tiles in sequence. Words must have at least three letters and cannot be abbreviations or proper nouns. To make a word, select any tile and drag through adjacent or diagonal letter tiles to make words. Each tile can only be used once per word. Some tiles have two letters or unique characteristics. Double letter tiles with a slash between them can work as either letter, otherwise if there are two letters they are both used. A dash after a letter is a prefix tile. Prefix tiles can only be used at the beginning of a word. A dash before a letter is a suffix tile. Suffix tiles can only be used at the end of a word.
+In Word Twister, the goal is to make as many words as possible using the given tiles. Words must have at least three letters and cannot be abbreviations or proper nouns. To make a word, click or drag tiles to move them above the rack and press the Check button. The Bonus Twister is an extra puzzle players can unlock by finding the three words with keys next to them. Players can solve by using all the tiles given.
+In Crosswords, the goal is to find answers for all of the given clues. Divided into two lists, Across and Down, clues often involve trivia, word play, or brain teasers. To answer a clue, highlight the grid space by clicking on the clue in the list. You can also select any square in the crossword grid and click the square again to swap between highlighting Across and Down clues. Type in the missing letters to fill in the answer. You can check any letter, answer, or the full grid at any time with the Check button. Correct letters will become green while wrong ones will be marked with a red strike.
+
+
+== References ==
+
+
+== External links ==
+Official website

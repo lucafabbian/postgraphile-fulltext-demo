@@ -1,0 +1,10 @@
+The MAS1 oncogene (MAS receptor) is a G protein-coupled receptor which binds the angiotensin II metabolite angiotensin (1-7). The MAS1 receptor, when activated by binding angiotensin-(1-7), opposes many of the effects of the angiotensin II receptor. Hence, MAS1 receptor agonists have similar therapeutic effects to angiotensin II receptor antagonists, including lowering of blood pressure.
+
+
+== References ==
+
+
+== External links ==
+IUPHAR GPCR Database - MAS1
+IUPHAR GPCR Database - MAS1L
+proto-oncogene+proteins+c-mas-1 at the U.S. National Library of Medicine Medical Subject Headings (MeSH)

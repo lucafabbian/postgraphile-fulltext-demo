@@ -1,0 +1,17 @@
+version: '3.8'
+services:
+  db:
+    image: postgres
+    restart: always
+    environment:
+      POSTGRES_PASSWORD: example
+    ports:
+      - 5432:5432
+
+  app:
+    build: .
+    command: npx postgraphile -n 0.0.0.0 --legacy-relations omit --no-ignore-indexes --simple-collections omit --append-plugins @graphile-contrib/pg-simplify-inflector,postgraphile-plugin-connection-filter,@pyramation/postgraphile-plugin-fulltext-filter --enhance-graphiql -c postgres://postgres:example@db:5432/postgres -w
+    depends_on:
+      - db
+    ports:
+      - 5000:5000

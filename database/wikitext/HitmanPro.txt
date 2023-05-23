@@ -1,0 +1,28 @@
+HitmanPro (formerly Hitman Pro) is a portable antimalware program, which aims to detect and (if found) remove malicious files and registry entries related to rootkits, trojans, viruses, worms, spyware, adware, rogue antivirus programs, ransomware, and other malware from infected computers.
+Suspicious objects are analyzed across an internet connection using a range of online malware detection services (see multiscanning), and can be removed by HitmanPro if confirmed. Latest Version 3.7.9 uses Bitdefender and Kaspersky Lab as in-cloud technology partners. There is a very low system load because the virus definitions are not installed and tested in depth on the computer in question; rather they are analyzed remotely.
+The company behind HitmanPro, Surfright, was acquired by Sophos in December 2015.
+
+
+== Scan types ==
+Version 3 of HitmanPro has three different types of antimalware scans: Default Scan, Quick Scan, and Early Score Warning. The Default Scan will check the entire computer and will send suspicious files to the cloud. The Quick Scan will scan only common parts of infections and will send unknown files to the cloud. The Early Score Warning will scan the entire computer and examine each and every file with advanced heuristics and check for common symptoms of malware, including if it was recently installed on the computer, if it starts automatically when windows boots, if it is impersonating a common system file, and even if it has a tray icon in the taskbar.
+
+
+== Previous versions ==
+HitmanPro 3 is a completely different design than earlier versions of Hitman Pro that was developed by Mark Loman in the Netherlands. The previous versions, version 1 and 2, automatically download, install and run third party anti-spyware and anti-adware programs that are freely available on the Internet:
+
+Webroot Spy Sweeper (trial, expires in 7 days)
+PC Tools Spyware Doctor (demo, will not clean anything)
+ESET NOD32 (trial, expires in 30 days)
+Lavasoft AdAware SE (freeware)
+Safer Networking Spybot - Search & Destroy (freeware)
+TrendMicro CWShredder (freeware)
+JavaCool Software SpywareBlaster (freeware)
+McAfee VirusScan SuperDAT (virus signature definition updates, McAfee PrimeSupport license required for qualifying product)
+Ewido Micro Scanner (freeware)
+
+
+== References ==
+
+
+== External links ==
+Official website

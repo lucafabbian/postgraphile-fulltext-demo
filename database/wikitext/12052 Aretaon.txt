@@ -1,0 +1,34 @@
+12052 Aretaon  is a mid-sized Jupiter trojan from the Trojan camp, approximately 40 kilometers (25 miles) in diameter. It was discovered on 3 May 1997, by Belgian astronomer Eric Elst at ESO's La Silla Observatory in northern Chile. The dark Jovian asteroid has a rotation period of 8.05 hours. It was named after Aretaon from Greek mythology.
+
+
+== Orbit and classification ==
+Aretaon is a Jupiter trojan in a 1:1 orbital resonance with Jupiter. It is located in the trailering Trojan camp at the Gas Giant's L5 Lagrangian point, 60° behind its orbit (see Trojans in astronomy). It orbits the Sun at a distance of 4.9–5.6 AU once every 11 years and 12 months (4,381 days; semi-major axis of 5.24 AU). Its orbit has an eccentricity of 0.07 and an inclination of 11° with respect to the ecliptic. The body's observation arc begins with its first observation as 1977 UG5 at the Palomar Observatory in October 1977, almost 20 years prior to its official discovery observation at La Silla.
+
+
+== Naming ==
+This minor planet was named from Greek mythology after the Trojan warrior Aretaon. He was killed by Teucer during the Trojan War. The official naming citation was published by the Minor Planet Center on 6 January 2003 (M.P.C. 47300).
+
+
+== Physical characteristics ==
+Aretaon is an assumed, carbonaceous C-type asteroid. The majority of Jupiter trojans are D-types, with the reminder being mostly C- and P-type asteroids.
+
+
+=== Rotation period ===
+In September 2012, a rotational lightcurve of Aretaon was obtained from photometric observations by Robert Stephens at the Center for Solar System Studies in Landers, California. Lightcurve analysis gave a rotation period of 8.05 hours with a brightness amplitude of 0.17 magnitude (U=2). This period determination was confirmed by astronomers at the Palomar Transient Factory in September 2013, measuring a period of 8.048 hours and an amplitude of 0.19 magnitude in the R-band (U=2).
+
+
+=== Diameter and albedo ===
+According to the survey carried out by the NEOWISE mission of NASA's Wide-field Infrared Survey Explorer, Aretaon measures 39.151 kilometers in diameter and its surface has an albedo of 0.073, while the Collaborative Asteroid Lightcurve Link assumes a standard albedo for a carbonaceous asteroid of 0.057 and calculates a diameter of 42.23 kilometers based on an absolute magnitude of 10.6.
+
+
+== References ==
+
+
+== External links ==
+Asteroid Lightcurve Database (LCDB), query form (info Archived 16 December 2017 at the Wayback Machine)
+Dictionary of Minor Planet Names, Google books
+Discovery Circumstances: Numbered Minor Planets (10001)-(15000) – Minor Planet Center
+Asteroid 12052 Aretaon at the Small Bodies Data Ferret
+12052 Aretaon at AstDyS-2, Asteroids—Dynamic Site
+Ephemeris · Observation prediction · Orbital info · Proper elements · Observational info
+12052 Aretaon at the JPL Small-Body Database

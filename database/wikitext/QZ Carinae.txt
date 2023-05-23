@@ -1,0 +1,22 @@
+QZ Carinae (HD 93206) is a multiple star system in the constellation Carina.  It is the brightest member of the loose open cluster Collinder 228 and one of the brightest stars in the Carina Nebula.  The apparent magnitude is variable from +6.16 to +6.49 with a period of 6 days.
+
+
+== Description ==
+QZ Carinae is approximately 2,300 parsecs (7,500 light-years) from Earth in the Carina Nebula star-forming region.  It is composed of four massive luminous stars, designated A1 and A2, and B1 and B2. The A1/A2 and B1/B2 pairs take no more than 25 years to orbit each other, while the A pair completes an orbit around each other every 20.7 days and the B pair every 6.0 days.  The system is bright at x-ray wavelengths primarily due to colliding stellar winds in the two close pairs.  Pair A1/A2 contributes the bulk of the x-ray luminosity.
+
+
+== Components ==
+QZ Carinae A1 is a blue supergiant of spectral type O9.7I with around 40 times the Sun's mass that has expanded to 22.5 times the Sun's radius. With a surface temperature of 32,000 K, it is around 500,000 times as luminous as the Sun. Its partner A2 is a blue-white main sequence star of spectral type B2V with around 10 times the Sun's mass and 6 times its radius. With a surface temperature of 20,000 K, it is around 5,000 times as luminous as the Sun.
+QZ Carinae B1 is a hot blue giant that is expanding and cooling away from the main sequence.  It is of spectral type O8III with around 14.1 times the Sun's mass and 26.9 times its radius. With a surface temperature of 32,573 K, it is around 200,000 times as luminous as the Sun. Partner B2 is a hot main sequence star of spectral type O9V with around 28 times the Sun's mass and 8.9 times its radius. With a surface temperature of 32,463 K, it is around 80,000 times as luminous as the Sun. Star B1 is less massive than B2 and is assumed to have undergone significant mass loss or mass transfer to B2. Together, all four stars have a combined mass 94 times that of the Sun.
+
+
+== Variability ==
+
+Star B is a Beta Lyrae variable eclipsing system.  It causes the apparent magnitude of the system to vary regularly every 5.999 days from +6.16 at maximum to +6.49 at the primary minimum and +6.43 at the secondary minimum.  It was first noted to be variable in 1972 by observers in Auckland.
+
+
+== References ==
+
+
+== External links ==
+Collinder 228 SEDS.org

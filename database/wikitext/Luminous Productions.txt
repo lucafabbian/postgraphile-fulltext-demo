@@ -1,0 +1,28 @@
+Luminous Productions Co., Ltd. (株式会社ルミナス・プロダクション, Kabushiki gaisha Ruminasu Purodakushon) was a Japanese video game development studio and a subsidiary of Square Enix.
+It was originally known as Business Division 2, which was the development team responsible for Final Fantasy XV and was one of 12 Business Divisions (internal development and production divisions) that Square Enix had at the time before the company consolidated its development divisions in 2020. The current name and development structure of the studio was formed on 27 March 2018 as an external company.
+The aim of the company was to create AAA video games for a global audience using Square Enix's proprietary Luminous Engine.On February 28, 2023, Square Enix Holdings announced that on May 1, 2023, Luminous Productions would reorganize and merge with Square Enix Co. Ltd internally, citing the merging of the two would “enhance the Group’s ability to develop HD games”.
+
+
+== History ==
+
+
+=== Formation ===
+Luminous Productions was originally assembled from employees working on Final Fantasy XV. While forming a new internal studio from existing ones is common worldwide, it is uncommon in Japan. Since the studio pulled in so many who were working on Final Fantasy XV, Luminous Productions helped with the game alongside their new project. So many were taken from the internal development division Business Division 2 that created Final Fantasy XV that Square Enix stated that it functionally "no longer exists".
+
+
+=== Focus ===
+Its initial goal was to work on video games and "other entertainment content [sic]", but later that year the studio was refocused on just making games, causing to report a thirty-three million dollar loss for the half-year ending on September 30, 2018. The new studio's leader and Final Fantasy XV director Hajime Tabata left Luminous Productions and Square Enix around the same time, and planned future content for Final Fantasy XV was also cancelled. President of Square Enix Yosuke Matsuda clarified that the studio would be a "fusion of cutting-edge technology and art".Resources shifted to the then-unannounced Forspoken (initially dubbed Project Athia), with the studio continuing to use the Luminous Engine. The games protagonist, Alfre "Frey" Holland (Ella Balinska), is a young woman who uses magical powers to survive in a fantasy world. According to director Takeshi Aramaki, the gameplay will be focused on terrain traversal speed and fluidity. Square Enix also described the game as a "narrative-driven adventure". It was released in 2023 for Microsoft Windows and PlayStation 5.
+
+
+=== Research and development ===
+In 2018, preparations were made to launch a new game, and active development began in 2019. In September 2019, the team released a video called Back Stage on their website to demonstrate the work they were doing with an advanced form of ray tracing they call path tracing. Several projects are in production, including research and engine development. In terms of the number of projects, we have several production lines in motion, including engine development and R&D. Of the 130 employees, approximately 20 are not Japanese, and the studio uses an in-house translator so that the studio can operate globally. A focus of the studio technologically is to not have in-game development and 3D cinematic teams working separately, but making a game that is entirely created in a cinematic mode.
+
+
+== Video games ==
+
+
+== References ==
+
+
+== External links ==
+Official website

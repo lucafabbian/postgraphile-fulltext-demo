@@ -1,0 +1,15 @@
+Proprietors of and applicants for European patents have the possibility to opt out their European patents or patent applications from the exclusive competence of the Unified Patent Court (UPC). An opt-out most notably prevents a competitor from challenging the validity of the European patent centrally before the UPC (by filing an action for revocation before the UPC), thus allowing the proprietor to avoid putting all his eggs (i.e., all national parts of the European patent) in one basket.The possibility to opt out is open until one month before the end of a seven-year transitional period after the entry into force of the UPC Agreement (UPCA) on June 1, 2023 but is no longer available if an action has already been brought before the UPC. The possibility to opt out is not available for European patents with unitary effect, which are also called "unitary patents". An opt-out can be withdrawn at any time "unless an action has already been brought before a national court".Since the UPCA's "sunrise period" started on March 1, 2023, Applications to opt out can be filed with the Registry of the UPC using the UPC's case management system (CMS). Applications to opt out cannot be filed with the European Patent Office (EPO), even though information about opt-outs is expected to also be available from the European Patent Register. Only published patent applications can be opted out, and a European patent can only be opted out "in respect of all EPC contracting states for which the patent was granted". No fee is payable to the Court for lodging an Application to opt out.
+
+
+== See also ==
+Opt-out, a method by which an individual can avoid receiving unsolicited product or service information
+
+
+== Notes ==
+
+
+== References ==
+
+
+== Further reading ==
+Tochtermann, Lea (2018). "Law to be applied to a European Patent after an opt out according to Art. 83 (3) UPCA". Gewerblicher Rechtsschutz und Urheberrecht. 120 (4): 337–340. ISSN 0016-9420.

@@ -1,0 +1,75 @@
+The Atlantic Time Zone is a geographical region that keeps standard time—called Atlantic Standard Time (AST)—by subtracting four hours from Coordinated Universal Time (UTC), resulting in UTC−04:00. AST is observed in parts of North America and some Caribbean islands. During part of the year, some portions of the zone observe daylight saving time, referred to as Atlantic Daylight Time (ADT), by moving their clocks forward one hour to result in UTC−03:00. The clock time in this zone is based on the mean solar time of the 60th meridian west of the Greenwich Observatory.
+In Canada, the provinces of New Brunswick, Nova Scotia, and Prince Edward Island are in this zone, though legally they calculate time specifically as an offset of four hours from Greenwich Mean Time (GMT–4) rather than from UTC. Small portions of Quebec (eastern Côte-Nord and the Magdalen Islands) also observe Atlantic Time. Officially, the entirety of Newfoundland and Labrador observes Newfoundland Standard Time, but in practice Atlantic Time is used in most of Labrador.
+No portion of the continental United States currently uses Atlantic Time, although it is used by the territories of Puerto Rico and the U.S. Virgin Islands. In the 2010s, several U.S. states considered legislation to move from the Eastern Time Zone to Atlantic Standard Time. Any changes must be approved by the United States Department of Transportation and the United States Congress before taking legal effect.
+The United States National Hurricane Center's official advisories typically report AST and UTC when tracking storms in the Caribbean that threaten the U.S., which may confuse the mainland public not familiar with the time zone designation.
+
+
+== Areas covered ==
+
+
+=== Caribbean ===
+Antigua and Barbuda (no DST)
+Barbados (no DST)
+Dominica (no DST)
+Dominican Republic (no DST)
+France and French overseas collectivities, in the following areas:
+Guadeloupe (no DST)
+Martinique (no DST)
+Saint Barthélemy (no DST)
+Saint-Martin (no DST)
+Grenada (no DST)
+Guyana (no DST)
+Netherlands and Dutch special municipalities, in the following areas:
+Aruba (no DST)
+Bonaire (no DST)
+Curaçao (no DST)
+Saba (no DST)
+Sint Eustatius (no DST)
+Sint Maarten (no DST)
+Saint Kitts and Nevis (no DST)
+Saint Lucia (no DST)
+Saint Vincent and the Grenadines (no DST)
+Trinidad and Tobago (no DST)
+United Kingdom (British Overseas Territories), in the following areas:
+Anguilla (no DST)
+Bermuda
+British Virgin Islands (no DST)
+Montserrat (no DST)
+United States, in the following areas:
+Puerto Rico (no DST)
+United States Virgin Islands (no DST)
+
+
+=== North America ===
+Canada, in the following areas:
+Nova Scotia
+New Brunswick
+Prince Edward Island
+Most of Labrador
+Magdalen Islands, Quebec
+Côte-Nord (east of the 63rd meridian), Quebec (no DST)
+
+
+=== Additional local areas ===
+Greenland, in the following area:
+Thule Air Base
+
+
+== U.S. states considering a change to Atlantic Standard Time ==
+All six of the New England states in the northeastern U.S., currently in the Eastern Time Zone (with daylight saving time), have considered legislation to shift to UTC−04:00, equivalent to Atlantic Standard Time (with no observance of daylight saving time) or Eastern Daylight Time. Virtually all of this region is west of the theoretical western border of the zone at 67.5°W; only a small portion of Maine lies east of that meridian. A Massachusetts commission concluded in 2017 that the benefits of changing to Atlantic Standard Time year-round would outweigh the disadvantages, provided that a majority of northeastern states make the same change. In May 2017, the Maine Senate approved a change to AST, on the condition that there would be a referendum, and that Massachusetts and New Hampshire decided to make the same switch. Also in 2017, the New Hampshire House of Representatives approved a bill in favor of a regional change, but this was voted down by the state's Senate. Similar bills have been put forward in Connecticut, Rhode Island, and Vermont.In 2018, Florida enacted into law the "Sunshine Protection Act", under which the state would observe daylight saving time year-round. Most of the state would permanently keep Eastern Daylight Time, which is equivalent to Atlantic Standard Time; the state's panhandle region would move to year-round Central Daylight Time / Eastern Standard Time. However, the change cannot take effect until it is passed into federal law by the United States Congress.On March 15, 2022, the United States Senate voted unanimously to advance a federal version of the "Sunshine Protection" legislation from Florida, also called the "Sunshine Protection Act", to the United States House of Representatives. If the bill passes the House and earns the president's signature, Daylight Saving will be made permanent in most of the United States in November 2023, effectively making the parts of the US in the Eastern Time Zone a part of the Atlantic Standard Time Zone year-round.
+
+
+== See also ==
+Daylight saving time in the Americas
+
+
+== References ==
+
+
+== External links ==
+
+Atlantic Standard Time: current time (live clock)
+Atlantic Daylight Time: current time (live clock)
+Web clock (Official times across Canada)
+Canada time zone map
+Time zone map

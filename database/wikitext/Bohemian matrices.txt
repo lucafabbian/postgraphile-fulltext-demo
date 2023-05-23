@@ -1,0 +1,61 @@
+A Bohemian matrix family is a set of matrices whose
+free entries come from a single discrete, usually finite population, 
+denoted here by P. That is, each entry of any matrix from this particular Bohemian matrix family must be an element of P. Such a matrix is called a Bohemian matrix.  Bohemian matrices can have other structures as well, such as being a Toeplitz matrix or an upper Hessenberg matrix. Usually, only one Bohemian matrix family with a fixed population P is studied at a time, and so one can classify any given matrix as being Bohemian or not, without significant ambiguity.
+
+
+== Applications ==
+
+
+=== Software testing ===
+One common application is for testing software for linear algebra.  Bohemian matrices are (usually) exactly representable on a computer, and one can search for extreme behavior either by exhaustive search (for small dimension), by random sampling, or by optimization techniques. For instance, Steven E. Thornton has solved more than two trillion eigenvalue problems, and in doing so uncovered instances of convergence failure in some popular software systems.Anymatrix [1] captures in MATLAB form
+a number of optimal (or just interesting) classes of Bohemian matrices.
+See also Cleve Moler's blog post on Bohemian Matrices in the Matlab Gallery.
+
+
+=== Improved bounds ===
+In a talk given at the 2018 Bohemian Matrices and Applications Workshop, Nick Higham explained how he had used genetic algorithms on Bohemian matrices with population P={-1, 0, 1} to sharpen lower bounds on the maximal growth factor for rook pivoting.
+
+
+== Connections to other fields ==
+
+
+=== Random matrices ===
+Bohemian matrices can be studied by random sampling, and such studies might be considered as part of the field of Random Matrices.  However, most of the focus of the study of Random Matrices to date has been on real symmetric or Hermitian matrices, or on the study of matrices whose entries are drawn from a continuous distribution such as Gaussian ensembles.  Notable exceptions include the work of Terence Tao and Van Vu.
+
+
+=== Bernoulli and Hadamard matrices ===
+Matrices with entries only from  ±1 are sometimes called Bernoulli matrices, which are therefore examples of Bohemian matrices.
+A Hadamard matrix is a Bernoulli matrix that satisfies a further property, namely that its determinant is maximal. Therefore Hadamard matrices are also Bohemian.  Hadamard matrices (and indeed Bernoulli matrices) have been studied for much longer than the name "Bohemian matrix" has existed, of course. But the kinds of questions one can ask about Hadamard matrices (the original question was which matrices have maximal determinant) can also be asked about other Bohemian matrices.  One of the first generalizations of Hadamard matrices was to what are now sometimes called Butson-type Hadamard matrices, whose entries are  qth roots of unity for  q > 2. These can also be considered prototypical Bohemian matrices.
+
+
+=== Graph theory ===
+Matrices with discrete entries, especially incidence matrices, are crucial to the understanding of Graph Theory.  The results of graph theory can be used to explain some of the phenomena encountered in Bohemian matrix experiments.  Conversely, some experiments carried out in the style advocated by Bohemian matrix workers can be informative for graphs.
+
+
+=== Combinatorics ===
+A significant number of the open problems listed at the Encyclopedia of Integer Sequences under Bohemian matrices are combinatorial in nature.  For instance, A306782 lists a table of the number of distinct minimal polynomials for Bernoulli matrices (that is, Bohemian matrices with population  ±1) up to and including dimension 5.  The numbers for higher dimension are not known.  The number of Bernoulli matrices of dimension 6 is 236=68,719,476,736 and while this set likely could be searched exhaustively (it is delightfully parallel), the greater-than-exponential growth of the number of matrices soon defeats brute force.  There are symmetries that might be taken advantage of, as is done in  for zero-one matrices, but these seem to require sophisticated combinatorial knowledge.
+
+
+=== Number theory ===
+Number theorists have worked on polynomials with restricted coefficients for a very long time.  For instance, Littlewood polynomials have coefficients  ±1 when expressed in the monomial basis. Kurt Mahler was concerned with the problem, as were Andrew Odlyzko & Bjorn Poonen and Peter Borwein.By using companion matrices each of these restricted-coefficient polynomial problems can be considered to be a Bohemian matrix problem.  However, the characteristic polynomial of a Bohemian matrix might have coefficients that are exponentially large in the dimension, so the converse is not true and these areas of study are not equivalent.There are other connections, to Magic Squares for instance. See Kathleen Ollerenshaw's book with D. Brée. The following paper explicitly connects Bohemian matrices to quadratic forms.
+
+
+=== Solution of polynomial equations ===
+A commonly-used technique to find polynomial roots is to construct a companion matrix for it and use numerical eigenvalue solvers to find the eigenvalues, which are then the roots of the original polynomial.  It seems counterintuitive and wasteful to do this, but it can be quite practical.  This is the default method of NumPy's Polynomial package.  The method is frequently numerically stable.  Sometimes this does not work well, however, if the polynomial coefficients are at all large, or when the polynomial is otherwise ill-conditioned.
+One can sometimes improve the situation by finding a minimal height companion matrix for the polynomial by looking for such in a Bohemian matrix family.  No efficient general-purpose techniques for this are known, however.
+
+
+== History ==
+The name "Bohemian matrices", together with the idea that it might be useful to categorize problems in this way, appeared in print by ISSAC 2016. The name arises from the mnemonic BOunded HEight Matrix of Integers (BOHEMI),
+although the classification has since been extended to other discrete populations
+including non-integer populations (including for example Gaussian integers). The breadth and utility of the idea of making this categorization is becoming increasingly apparent: the first significant journal publication was although smaller publications appeared  before that. As of March 2022, publications explicitly using the name, aside from those cited elsewhere in this article, includeThe first workshop on the subject was held in 2018 at the University of Manchester and entitled Bohemian Matrices and Applications.
+The idea can be considered to be a specialization in the sense of
+George Pólya, in that Bohemian matrix families are restricted to have certain
+entries and are thus special matrices. The idea can also be considered a generalization,  because
+instead of merely having entries either 0 or 1 as in an incidence matrix of a graph,
+or -1 and 1 as in the companion matrix of a Littlewood polynomial, the Bohemian family can have entries
+which are otherwise bounded or discrete or (usually) both.
+The idea is somewhat similar to that of sign pattern matrices in which two matrices with real entries are considered equivalent if the corresponding entries have the same sign, and that theory looks for common properties.  A Bohemian matrix with population P={-1, 0, 1} is an example of a sign pattern matrix and so it has all the properties of such matrices; but it may also have special properties owing to its Bohemian nature.
+
+
+== References ==

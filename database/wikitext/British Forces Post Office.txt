@@ -1,0 +1,59 @@
+The British Forces Post Office (BFPO) provides a postal service to HM Forces separate from that provided by Royal Mail in the United Kingdom. BFPO addresses are used for the delivery of mail in the UK and around the world. BFPO moved from its original base at Inglis Barracks, Mill Hill to its current base at RAF Northolt in northwest London in 2007.
+
+
+== Mission ==
+The mission of BFPO is to "...provide an efficient and effective Postal and Courier Service to sustain the fighting power of UK Armed Forces Worldwide." 
+
+
+== BFPO addresses and numbers ==
+Below is an example of a BFPO address, using the fictitious Loamshire Regiment:
+
+12345678 LCPL B Jones
+B Company
+1 Loamshire Regt
+BFPO 61
+
+BFPO 61 is for Milan, Italy. Until the handover of Hong Kong to China in 1997, Hong Kong used postal orders with BFPO 1 being the address for British forces serving in the then colony.When sending mail from the UK to a member of HM Forces serving overseas, the sender must address it to the appropriate BFPO number, and not to the country in which that person is based. This is especially important as mail to BFPO addresses is often charged at the inland UK rate, and if it is addressed to an overseas destination with only UK postage attached, this will result in delays.
+For security reasons, mail from HM Forces to civilian addresses in Northern Ireland or the Republic of Ireland must be handed directly to BFPO staff, not placed in the post box, and must not have a return military address displayed on the envelope. In addition, mail to those destinations cannot be sent using the Bluey system.
+In 2012, in collaboration with Royal Mail, the BFPO introduced UK-style postcodes, to help ordering items online, owing to problems with websites not recognising the BFPO addressing format. The addresses are assigned to the notional post town "BFPO" and, as of 2012, the postcodes all begin with "BF1". For example, the above address would appear as:
+12345678 LCPL B Jones
+B Company
+1 Loamshire Regt
+BFPO 61
+BFPO
+BF1 2AY
+
+These UK style postcodes are provided for compatibility with non-BFPO UK addresses and are solely for use within websites, due to the automated sorting process at BFPO they should not appear on items of mail.
+
+
+== The "e-Bluey" ==
+To speed up the delivery to HM Forces, the BFPO developed a hybrid form of mail, known as the 'e-Bluey', in which letters can be sent directly by internet to the British Armed Forces serving in theatre. The letters are downloaded and printed and then dispatched to the recipient via the traditional military postal system. Letters sent by serving Armed Forces members to family and friends in the UK (from Operational Theatres) are downloaded and printed at various locations in the UK and then delivered to the Royal Mail for final delivery.
+The name, e-bluey, comes from the aerograms that are (still) provided for troops on active service and their families at home. Self-adhesive strips along the edges of the paper allowed it to be folded and sealed without the added weight of an envelope, meaning that more of them could be carried by air or by hand for the same total weight. Because of the blue paper these were nicknamed "blueys", and the name came to carry something of an emotional charge due to the significance of receiving a possibly rare bluey from a loved one. "e-Bluey" was thus a natural term for the BFPO's electronic hybrid mail system.
+The e-blueys are downloaded from an e-bluey web server (www.ebluey.com) and utilises Pressure Sealed forms that are printed and sealed with an integrated Printer/Sealer. This ensures maximum security and privacy and the correspondence is not censored or reviewed.
+The e-bluey was first conceived by Brigadier Barry Cash, CE of the British Forces Post Office (now retired).  He assigned the initial development to Major Roy Walker MBE (now retired) in the late 1990s. The service was activated the week before Christmas of 2000. Photo capability was added in 2005, allowing senders to attach personal photos to their e-blueys.
+In the spring of 2003, during the first three months of the Invasion of Iraq, over 250,000 e-blueys were sent per month, a record that still stands.  The e-bluey became ubiquitous.  By the time it was replaced, it accounted for 80% of the flat mail delivered to troops in theatre. e-Blueys were available in numerous locations around the globe plus on operational Navy ships.
+The e-bluey system was supported by SuperLetter.Com Inc. who wrote the software and managed the servers for the e-bluey system. The system won several awards, including BFPO e-bluey System Winner 2001 World Mail Award, BFPO e-bluey System Winner 2005 UK Mail Award, and BFPO 2007 UK Mail Award for Technology.
+The e-bluey equipment was maintained by Technical Support Services (TSS), a department within BFPO London, since its inception.
+The e-bluey service ceased in April 2017. It was replaced by the INtouch message service. 
+
+
+== Postal orders ==
+One of the services that is provided by some of the British Forces Post Offices is the issuing and cashing of postal orders. A British postal order issued at a forces post office is very sought after by collectors of postal orders.
+A postal order issued by a BFPO in a Commonwealth country, such as the Sovereign Base Areas of Akrotiri and Dhekelia in Cyprus, is regarded as being a part of the numismatic and notaphilic history of that country.
+
+
+== History of the British Army postal services ==
+
+The Anglo-Saxon Chronicle make mention of messengers being sent by King Edward the Elder (899–924) to recall members of the Kent fyrd, but it is generally regarded that the origins of the postal services stem from the King's Messengers (Nuncii et Cursores) of medieval times. In particular the Royal Post established in the reign of King Edward IV (1461–83) to support his troops engaged in a war against Scotland.A dedicated military postal unit, the Army Post Office Corps was formed in 1882.  In 1913 it was subsumed into the Royal Engineers as the Royal Engineers (Postal Section) and in late 1990s became the BFPO.  Today, all services are provided by BFPO.
+
+
+== References ==
+
+
+== External links ==
+
+Official website.
+Using BFPO Postcode data
+BFPO Numbers and Post Codes
+BAOR Locations and BFPO Codes
+Information on Royal Mail BFPO Data

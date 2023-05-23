@@ -1,0 +1,45 @@
+The concept of a vortex engine or atmospheric vortex engine (AVE), independently proposed by Norman Louat  and Louis M. Michaud, aims to replace large physical chimneys with a vortex of air created by a shorter, less-expensive structure. The AVE induces ground-level vorticity, resulting in a vortex similar to a naturally occurring landspout or waterspout.
+
+Michaud's patent claims that the main application is that the air flow through the louvers at the base will drive low-speed air turbines, generating twenty percent additional electric power from the heat normally wasted by conventional power plants.  That is, the vortex engine's proposed main application is as a "bottoming cycle" for large power plants that need cooling towers.
+The application proposed by Louat in his patent claims is to provide a less-expensive alternative to a physical solar updraft tower. In this application, the heat is provided by a large area of ground heated by the sun and covered by a transparent surface that traps hot air, in the manner of a greenhouse. A vortex is created by deflecting vanes set at an angle relative to the tangent of the outer radius of the solar collector. Louat estimated that the minimum diameter of the solar collector would need to be 44+ metres in order to collect "useful energy".  A similar proposal is to eliminate the transparent cover. This scheme would drive the chimney-vortex with warm seawater or warm air from the ambient surface layer of the earth. In this application, the application strongly resembles a dust devil with an air-turbine in the center.
+Since 2000, Croatian researchers Ninic and Nizetic (from the Faculty of Electrical Engineering, Mechanical Engineering and Naval Architecture University of Split) have also developed this technology and patents.The solar research team at Universiti Teknologi PETRONAS (UTP), Malaysia, headed by Prof. Hussain H. Al-Kayiem, developed the first experimental prototype of a solar vortex power generation (SVPG) technology that uses solar energy as a heat source. The basic prototype was then subjected to a series of developments and performance enhancements by integration with sensible thermal energy storage (TES) and modification in the design of the vortex generator. The team carried out and published an experimental evaluation, theoretical analysis, and computational simulations of the SVPG and compiled the findings in a book which summarizes the fundamentals of this technology.
+
+
+== Theory of operation ==
+
+(applicable primarily to the Michaud patent)
+
+In operation, the vortex centripetally expels heavier, colder external air (37), and therefore forms a large, low-pressure chimney of hot air (35).  It uses about twenty percent of a power-plant's waste heat to drive its air motion. Depending on weather, a large station may create a virtual chimney from 200 m to 15 km high, efficiently venting waste power plant heat into colder upper atmosphere with minimal structure.
+The vortex is begun by briefly turning on a diffuse heater (83) and electrically driving the turbines (21) as fans. This moves mildly heated air into the vortex arena (2). The air must have only a mild temperature difference because large temperature differences increase mixing with cold ambient air and reduce efficiency. The heat might be from flue gases, turbine exhaust or small natural gas heaters.
+The air in the arena rises (35). This draws more air (33, 34) through directing louvers (3, 5), which cause a vortex to form (35). In the early stages, external airflow (31) is restricted as little as possible by opening external louvers (25). Most of the heat energy is at first used to start the vortex.
+In the next stage of start-up, the heater (83) may be turned off and the turbines (21) by-passed by louvers (25). At this time, low-temperature heat from an external powerplant drives the updraft and vortex via a conventional crossway cooling tower (61).
+As the air leaves the louvers (3, 5) more rapidly, the vortex increases in speed. The air's momentum causes centrifugal forces on the air in the vortex, which reduce pressure in the vortex, narrowing it further.  Narrowing further increases the vortex speed as conservation of momentum causes it to spin faster. The speed of spin is set by the speed of the air leaving louvers (33, 34) and the width of the arena (2). A wider arena and faster louver speed cause a faster, tighter vortex.
+Heated air (33, 34) from the crossway cooling tower (61) enters the concrete vortex arena (2) via two rings of directing louvers (3, 5, height exaggerated for clarity) and rises (35). The upper ring of louvers (5) seals the low-pressure end of the vortex with a thick, relatively high-speed air-curtain (34). This substantially increases the pressure difference between the base of the vortex (33) and the outside air (31). In turn, this increases the efficiency of the power turbines (21).
+The lower ring of louvers (3) convey large masses of air (33) almost directly into the low-pressure end of the vortex. The lower ring of louvers (3) are crucial to get high mass flows, because air from them (33) spins more slowly, and thus has lower centripetal forces and a higher pressure at the vortex.
+Air-driven turbines (21) in constrictions at the inlet of the cooling tower (61) drive electric motor-generators. The generators begin to function only in the last stages of start-up, as a strong pressure differential forms between the base of the vortex arena (33) and the outside air (31)  At this time, the bypass louvers (25) are closed.
+The wall (1) and bump (85) retain the base of the vortex (35) in ambient winds by shielding the low-velocity air-motion (33) in the base of the arena, and smoothing turbulent airflow. The height of the wall (1) must be five to thirty times the height of the louvers (3, 5) to retain the vortex in normal wind conditions.
+To manage safety and wear of the arena (2), the planned maximum speed of the vortex base (33) is near 3 m/s (10 ft/s).  The resulting vortex should resemble a large, slow dust-devil of water-mist more than a violent tornado. In uninhabited areas, faster speeds might be permitted so the vortex can survive in faster ambient winds.
+Most of the unnamed numbered items are a system of internal louvers and water pumps to manage air velocities and heating as the engine starts.
+
+
+== Criticism and history ==
+In early studies it was not absolutely clear that this could be made workable due to cross-wind disruption of the vortex.  This motivated later studies with wind tunnel empirical validation of the CFD model, which conclude, "The full scale simulations subjected to cross wind show that the power generation capacity is not affected by the cross winds."Michaud has built a prototype in Utah with colleague Tom Fletcher.Also, according to Michaud's patent application, the design was initially prototyped with a gasoline-powered 50 cm "fire-swirl".
+The University of Western Ontario's wind-tunnel laboratory, through a seed investment from OCE's Centre for Energy, is studying the dynamics of a one-metre version of Michaud's vortex engine.PayPal founder Peter Thiel's Breakout Labs sponsored an AVE test with a (2012) $300,000 grant. The preliminary results (2015) for which were reported in The Atlantic.
+
+
+== Disambiguation ==
+The term « Vortex Engine » also refers to a new kind of internal combustion engine.
+
+
+== See also ==
+Solar updraft tower
+Landspout
+Waterspout
+
+
+== References ==
+
+
+== External links ==
+Atmospheric Vortex Engine
+Power a city with tornados

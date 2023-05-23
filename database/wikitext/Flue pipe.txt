@@ -1,0 +1,56 @@
+A flue pipe (also referred to as a labial pipe) is an organ pipe that produces sound through the vibration of air molecules, in the same manner as a recorder or a whistle. Air under pressure (called wind) is driven through a flue and against a sharp lip called a labium, causing the column of air in the pipe to resonate at a frequency determined by the pipe length (see wind instrument). Thus, there are no moving parts in a flue pipe. This is in contrast to reed pipes, whose sound is driven by beating reeds, as in a clarinet. Flue pipes are common components of pipe organs.
+
+
+== Stop ==
+Flue pipes include all stops of the "Principal", "Flute", and "String" classes, and some stops from the "Hybrid" class.
+
+
+== Construction ==
+
+Flue pipes may be metallic or wooden. Metal pipes are usually circular in cross section; wooden pipes are usually square or rectangular, though triangular and round wooden pipes do exist. A flue pipe has two major parts, a foot and a resonator. The foot is the bottom portion of the pipe, usually conical. At its base is the toe hole, through which wind enters it. The length of the foot does not affect the pipe's pitch, so organ builders vary the foot lengths of their flue pipes depending on other factors, including the desired shape of the pipes in the façade, the height of the rackboard in which the pipes are seated, and the weight of the completed pipe.
+The resonator supports the oscillations of air generated at the mouth of the pipe, a horizontal opening at the juncture of the resonator with the foot. The voicing, the length of the resonator, and the resonator's volume all determine the fundamental pitch of the flue pipe. The conical taper of the pipe determines the overblown pitch. If the pipe is metal, a tuning sleeve or tuning collar may be fixed at the top of the resonator and raised or lowered to vary its length, thereby adjusting the pitch produced.
+Between the foot and the resonator, the side of the pipe containing the mouth is flat. A plate of metal or wood called a languid, fixed horizontally here, blocks the airway, except for a small slot called the windway alongside the mouth. This allows air to flow as a sheet of wind directed towards the pipe's mouth. Flat pieces of metal or wood called ears may be attached to the sides of the mouth for tuning purposes, and a horizontal dowel called a roller or beard may be affixed at the pipe to ensure prompt pipe speech.
+
+
+== Actuation ==
+When wind is driven into the foot of the pipe, a sheet of wind is focused by the windway across the mouth to strike just above the edge of the upper lip. This creates a Bernoulli effect, or "siphon effect", causing a low pressure area to be created just below the mouth. When this low pressure area reaches a critical stage, it pulls the airstream past the edge of the mouth, filling the vacuum. This alternately pressurizes the inside and outside of the opening, pressurizing and rarefying the air in the pipe's resonator. The column of air in the resonator thus vibrates at a frequency determined by the pipe's dimensions.
+  See Wind Instrument.
+
+
+== Tonal groups ==
+Flue pipes generally belong to one of three tonal families: flutes, diapasons (or principals), and strings. The basic "foundation" (from the French term fonds) sound of an organ is composed of varying combinations of these three tonal groups, depending upon the particular organ and the repertory being played.
+The end of the pipe opposite the mouth may be either open or closed (also known as Gedackt or stopped). A closed pipe sounds an octave lower than an open pipe of the same length. Also,  an open pipe produces a tone in which both the even-numbered and the odd-numbered partials are present, while a stopped pipe produces a tone with odd-numbered partials. The tone of a stopped pipe tends to be gentler and sweeter than that of an open pipe, though this is largely at the discretion of the voicer.
+
+
+=== Flutes ===
+In the system of organ flue pipe scaling, "flutes" are generally the widest flue pipes and produce the tone with the most fundamental and the least harmonics among flue pipes. They are so named because they sound like a flute instrument; though most flute stops are not intended to imitate a specific kind of flute, such as the modern orchestral instrument, they produce similar sounds. A stopped flute, such as the Gedackt (German for "covered"), produces a more muffled sound, while an open flute, such as the Waldflöte (German for "forest flute"), produces a rounder, open sound. The Flûte harmonique (French for "harmonic flute"), whose use the great 19th-century French organ builder Aristide Cavaillé-Coll advocated, is a metal flute pipe of double length with a hole punched in the center, which causes the pipe to speak at its first partial with a very round, intense sound. Cavaillé-Coll used the names Flûte Octaviante and Octavin for the 4-foot and 2-foot harmonic flutes, respectively.  The Rohrflöte (German for "pipe flute", or more commonly "chimney flute" in English) is a stopped flute rank with a small pipe or chimney built into the cap.
+
+
+=== Diapasons ===
+Diapasons or principals represent the characteristic sound of the pipe organ. They are not intended to imitate any other instrument or sound. They are medium-scaled and are often prominently featured in the façades of pipe organs, often painted and decorated.  Diapasons appear throughout the entire range of the instrument, from 32′ pitch to 1′ pitch (not including mixtures), a range of nine octaves.
+A stop of diapason type may or may not actually be labelled "Diapason". The "Diapason" label is most commonly used in English and American-style organs, whereas the same type of stop is known as a "Prinzipal" or "Principal" on German-style organs, and for French organs they would typically be called "Montre" (literally on "Display" - i.e. the pipes at the front of the organ case) or "Prestant" ("standing in front" - Latin praestare).  Furthermore, diapasons at pitches higher than 8′ pitch (pronounced 8 foot, referring to the length of the resonator part of the longest pipe of the stop) are often labelled with other names. For example, on English-style organs, the stops called Principal and Fifteenth sound one octave and two octave pitches respectively above the 8′ Diapason; on German-style organs, the name Octav is used to indicate the stop an octave above the 8′ Prinzipal, and similarly for French instruments, the names Octave and Doublette for 4′ and 2′ pitches respectively are commonly used.
+In Italian organs, the 8′ and sometime the 16′ pitches are called "Principale" and form the foundation of the entire organ. One characteristic of the classic Italian organ (starting from the 16th century on) is the separated "Ripieno". The "Ripieno" includes many Diapason stops, all separate, in contrast to the German and French style "Fourniture" and "Mixtur". The 4′ pitch is called "Ottava" and all the others are named after the harmonic they produce. They can go up to the "Quadragesima Terza" (43rd), a pipe of 1⁄8′ pitch.
+
+
+=== Strings ===
+String pipes are the smallest-scaled (narrowest) flue pipes. They produce a bright sound that is low in fundamentals and rich in upper partials. String stops are generally named after bowed string instruments such as the Violoncelle, the Gamba, the Geigen (from the German Geige, for violin), and the Viol. One of the most famous organs with a String Division is the Wanamaker Organ.
+
+
+==== Undulating stops ====
+Often, an organ  will feature two similarly-voiced stops, one tuned slightly sharp or flat of the other. When these stops are played together, a unique undulating effect results due to alternating constructive and destructive interference (beat frequency). Examples include the Voix céleste (French for celestial voice), typically tuned slightly sharp, and the Unda maris (Latin for sea waves), typically tuned slightly flat. String stops are most commonly used as undulating stops, though some builders have made undulating flute stops (notably Ernest M. Skinner's Flute celeste). Rare outside Italy is an undulating diapason, as in the Italian "Voce Umana" (not to be confused with the Vox Humana, which is a soft reed stop with a short resonator).
+
+
+=== Labial reeds ===
+Some flue pipes are designed to produce the sounds of reed pipes or to imitate the sounds of orchestral instruments which are approximated by reed pipes. The sound is generally more mellow and sweet than that of a true reed pipe. Examples include the Saxophone, the Muted horn, the Clarinet flute, and the Echo oboe.
+
+
+== Tonal characteristics ==
+The diameter of a flue pipe directly affects its tone. When comparing pipes of otherwise identical shape and size, a wide pipe will tend to produce a flute tone, a medium pipe a diapason tone, and a narrow pipe a string tone. These relationships are referred to as the scale of the pipe: i.e., wide-scaled, normal-scaled, or narrow-scaled. As a pipe's scale increases, more fundamental will be present, and fewer partials will be present in the tone. Thus, the tone becomes richer and fuller as the pipe's diameter widens from string scale to principal scale to flute scale.
+The material out of which the pipe is constructed also has much to do with the pipe's final sound. While recent scientific studies have shown that the nature of the metal used in making the pipe has little or no effect on the final sound, organ builders agree that a tin/lead alloy, for example, creates a very different tone than does zinc or copper metals or spotted or frosted alloys.
+
+
+== References ==
+
+
+== External links ==
+Encyclopedia of Organ Stops

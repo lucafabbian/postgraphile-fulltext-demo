@@ -1,0 +1,17 @@
+Alexander George Bateman is a computational biologist and Head of Protein Sequence Resources at the European Bioinformatics Institute (EBI), part of the European Molecular Biology Laboratory (EMBL) in Cambridge, UK. He has led the development of the Pfam biological database and introduced the Rfam database of RNA families. He has also been involved in the use of Wikipedia for community-based annotation of biological databases.
+
+
+== Education ==
+Bateman received a Bachelor of Science degree in Biochemistry from Newcastle University in 1994. He received his PhD from the University of Cambridge in 1997, for research supervised by Cyrus Chothia on the evolution of the immunoglobulin protein superfamily. During this time, he also worked with Sean Eddy to discover novel protein domains using the HMMER software.
+
+
+== Career and research ==
+In 1997, Bateman joined the Wellcome Trust Sanger Institute to lead the development of the Pfam biological database. In 2003, he introduced the Rfam database of RNA families. He was also involved in providing protein analysis for the publication of the human genome.As of 2012, he has been Head of Protein Sequence Resources at EMBL-EBI.Bateman has also been involved in promoting the use of Wikipedia within the science community and in particular, community-based annotation of biological databases through Wikipedia, for example, annotation of the Rfam database through WikiProject RNA.Bateman served as Executive Editor of the journal Bioinformatics from 2004 to 2012 and has also served as Editor of Nucleic Acids Research, Genome Biology and Current Protocols in Bioinformatics. In 2014, he was appointed one of the first Honorary Editors of Bioinformatics. As of 2015, Bateman also serves on the ISCB Board of Directors.
+
+
+== Awards and honours ==
+Bateman was awarded the 2010 Benjamin Franklin Award in bioinformatics. He became the third former member of Richard Durbin's lab to win the award, following Sean Eddy and Ewan Birney. 
+Bateman was elected an ISCB Fellow in 2017 by the International Society for Computational Biology.
+
+
+== References ==

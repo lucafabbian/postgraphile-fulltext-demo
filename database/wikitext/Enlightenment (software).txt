@@ -1,0 +1,26 @@
+Enlightenment, also known simply as E, is a compositing window manager for the X Window System. Since version 20, Enlightenment is also a Wayland compositor.Enlightenment includes functions to provide a graphical shell and can be used in conjunction with programs written for GNOME or KDE. When used together with the Enlightenment Foundation Libraries (EFL), Enlightenment can refer to an entire desktop environment.
+
+
+== History ==
+The first version of Enlightenment was released by Carsten Haitzler in 1997.Bodhi Linux was built around the Enlightenment 17 desktop, but forked it to create the Moksha desktop. Elive Linux also used a fork of E17 as its main desktop environment until 2019, when the 3.7 series was released.
+The current version is E25.
+
+
+== See also ==
+Terminology (software)
+Comparison of X window managers
+Enlightenment Foundation Libraries
+Bodhi Linux
+OpenGEU
+
+
+== References ==
+
+
+== External links ==
+
+Official website
+Official website for older e16
+Sources(git)
+Operating-systems distribution status Archived 20 March 2016 at the Wayback Machine
+Elive Linux's fork of E17

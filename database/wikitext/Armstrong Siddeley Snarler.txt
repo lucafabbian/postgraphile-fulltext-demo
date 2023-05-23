@@ -1,0 +1,59 @@
+The Armstrong Siddeley Snarler was a small rocket engine used for mixed-power experiments with an early turbojet engine. and was the first British liquid-fuelled rocket engine to fly.
+
+
+== Design and development ==
+Unlike other British rocket engine projects that used hydrogen peroxide as an oxidiser, Armstrong Siddeley's used liquid oxygen. The rocket engine is described as having a dry weight of 215 lbf (960 N) thrust of 2,000 lbf (8.9 kN) and a specific fuel consumption of 20 (lb/h)/lbf thrust. Work began in 1947 and the final configuration was first tested on 29 March 1950.The prototype of the Hawker P.1040 Sea Hawk, VP 401, had a Snarler rocket of 2,000 lbf thrust added in its tail. The Rolls-Royce Nene turbojet, of 5,200 lbf thrust, had a split tailpipe which exhausted either side of the fuselage. The combination was termed the Hawker P.1072.This gave approximately 50% greater thrust, although with twenty times the fuel consumption. It was first used in flight on 20 November 1950, by Hawker's test pilot Trevor "Wimpy" Wade. Half a dozen flights were made using the rocket motor before a minor explosion damaged the aircraft. Although methanol was used in the P.1072, jet fuel could be used for the Snarler. It was decided that reheat was a more practical proposition for boosting jet thrust than rockets.
+An unusual feature of the engine was that the fuel/oxidiser pump was externally driven, by a drive from the gearbox of the P.1072's turbojet engine. This feature continued into the first versions of the subsequent Screamer engine, but was later replaced with a turbine-driven turbopump.
+
+
+== Variants ==
+ASSn.1 Snarler
+The prototype and test engines, (Ministry of Supply designation ASSn.).
+
+
+== Applications ==
+Hawker P.1072
+
+
+== Specifications ==
+Data from Aircraft engines of the World 1953, Flight:6 August 1954:Armstrong Siddeley Snarler
+
+
+=== General characteristics ===
+Type: rocket engine booster
+Length: 94 in (2,400 mm) (overall length); 25.4 in (650 mm) (combustion chamber length)
+Diameter: 12.5 in (320 mm) (nozzle diameter)
+Dry weight: 215 lb (98 kg)
+Propellant capacity: 120 imp gal (140 US gal; 550 L) fuel; 75 imp gal (90 US gal; 340 L) oxidiser
+Fuel: 65% methanol, 35% water
+Oxidiser: liquid oxygen
+
+
+=== Components ===
+Pumps: externally driven accessory gearbox mounted centrifugal pumps with de-aerators
+
+
+=== Performance ===
+Thrust: 1,350–2,350 lbf (6.0–10.5 kN) at 20,000 ft (6,100 m) (dependent on main engine speed)
+Part thrust: 450–750 lbf (2.0–3.3 kN) at 20,000 ft (6,100 m) (dependent on main engine speed)
+Burn time: 
+
+Thrust-to-weight ratio:  6.28–10.93 (part thrust: 2.09–3.49)
+Specific impulse: 195 seconds (1.91 km/s)
+Burn time: 2 minutes 45 seconds (Hawker P.1072 installation)
+
+Thrust specific fuel consumption: 20 lb/(lbf⋅h) (570 g/(kN⋅s))
+
+
+== See also ==
+
+Related development
+
+Armstrong Siddeley Screamer
+
+Related lists
+
+List of aircraft engines
+
+
+== References ==

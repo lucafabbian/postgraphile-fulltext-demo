@@ -1,0 +1,52 @@
+The domain name .local is a special-use domain name reserved by the Internet Engineering Task Force (IETF) so that it may not be installed as a top-level domain in the Domain Name System (DNS) of the Internet.  As such it is similar to the other special domain names, such as .localhost. However, .local has since been designated for use in link-local networking, in applications of multicast DNS (mDNS) and zero-configuration networking (zeroconf) so that DNS service may be established without local installations of conventional DNS infrastructure on local area networks.
+
+
+== Multicast DNS standard ==
+The Internet Engineering Task Force (IETF) reserves the use of the domain name label .local as a special-use domain name for hostnames in local area networks that can be resolved via the Multicast DNS name resolution protocol. Any DNS query for a name ending with the label local must be sent to the mDNS IPv4 link-local multicast address 224.0.0.251, or its IPv6 equivalent ff02::fb. A domain name ending in .local may be resolved concurrently via other mechanisms, for example, unicast DNS.
+
+
+== mDNS implementations ==
+RFC 6762 was authored by Apple Inc. employees Stuart Cheshire and Marc Krochmal, and Apple's Bonjour zeroconf networking software implements mDNS.  That service will automatically resolve the private IP addresses of link-local Macintosh computers running MacOS and mobile devices running iOS if .local is appended to their hostnames. In addition, Bonjour devices will use those .local hostnames when advertising services to DNS Service Discovery clients.
+Most Linux distributions also incorporate and are configured to use zeroconf. By default, each computer's Avahi daemon will respond to mDNS hostname.local queries, and most shell commands and application program calls that attempt to resolve such names are routed to that daemon by the default hosts: line in the Name Service Switch configuration file. It is also possible to configure the nss-mdns modules and Avahi to resolve hostnames with other pseudo-TLDs.
+Windows has some support for mDNS, which can be improved by installing zeroconf software available from Apple and other third parties.
+Finally, many printers and other peripheral devices also implement the mDNS protocol in order to provide simplified connections to them from computers that implement zeroconf.
+
+
+== Microsoft recommendations ==
+The connection of Macintosh and Linux computers or zeroconf peripherals to Windows networks can be problematic if those networks include name servers that use .local as a search domain for internal devices.
+At one time, Microsoft at least suggested the use of .local as a pseudo-TLD for small private networks with internal DNS servers. For example, support article 296250 included the following option:
+
+Make the name a private domain name that is used for name resolution on the internal Small Business Server network. This name is usually configured with the first-level domain of .local. At the present time, the .local domain name is not registered on the Internet.
+However, more recent articles have cautioned or advised against such use of the .local TLD.
+Support article 300684 listed contoso.local as an example of a "best-practice Active Directory domain name", but then added:
+
+We recommend that you register DNS names for the top-most internal and external DNS namespaces with an Internet registrar.
+which would of course preclude using that or any other domain ending with .local.
+Microsoft TechNet article 708159 suggested .local for the exact opposite reason:
+
+Using the .local label for the full DNS name for the internal domain is a more secure configuration because the .local label is not registered for use on the Internet. This separates your internal domain from your public Internet domain name.
+but later recommended against it:
+
+If you have Macintosh client computers that are running the Macintosh OS X version 10.3 operating system or later, ... it is recommended that you do not use the .local label for the full DNS name of your internal domain. If you must use the .local label, then you must also configure settings on the Macintosh computers so they can discover other computers on the network. For more information about how to configure client computers running Macintosh OS X version 10.3 or later, see "Connecting Macintosh Computers to a Windows Small Business Server 2003 Network" on the Microsoft Web site at [1].
+The Microsoft Learn article "Selecting the Forest Root Domain" cautioned against using .local:
+
+...we do not recommend using unregistered suffixes, such as .local.
+By default, a freshly installed Windows Server 2016 Essentials also adds .local as the default dns-prefix when a user doesn't select the advanced option, resulting in a domain with .local extension.
+
+
+== Linux ==
+Linux distributions use the Name Service Switch configuration file /etc/nsswitch.conf in which mDNS name resolution was added via the mdns4_minimal plugin to nsswitch. In this configuration, where mdns4_minimal precedes the standard dns option, which uses /etc/resolv.conf, the mDNS resolution will block subsequent DNS resolution on the local network.
+
+hosts:    files mdns_minimal [NOTFOUND=return] dns # for ipv4 and ipv6 
+or
+
+hosts:    files mdns4_minimal [NOTFOUND=return] dns # for ipv4 only 
+This is a configuration choice made by distributions such as Ubuntu/Debian and SuSE and Red Hat, each of which have their own package configuration script that will install the mdns_minimal module as above.
+In this way .local requests are being prevented from leaking to the internet, but also block legitimate .local requests for configured DNS servers.
+
+
+== Global DNS queries ==
+As local is an officially reserved special-use domain name host names with this top level label are not resolvable in the global Domain Name System.
+
+
+== References ==

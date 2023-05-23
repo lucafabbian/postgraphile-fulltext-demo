@@ -1,0 +1,15 @@
+Kupe orthonairovirus, also called Kupe virus, is a species of virus in the genus Orthonairovirus.
+
+
+== History ==
+The virus was isolated from pooled ticks (Amblyomma gemma and Rhipicephalus pulchellus) collected from cattle hides in Nairobi, Kenya, in October 1999. The word 'Kupe' is Kiswahili for tick.
+
+
+== Genome ==
+The genome is composed a single strand of negative sense RNA in three parts - small (S), medium (M0 and large(L).
+The L segment RNA is 12,330 nucleotides (nt) in length and encodes one open reading frame (ORF) of 4,050 amino acids. There is a non coding regions: the  5′ region of 40 nt and the 3′ region of 137 nt. This open reading frame encodes several modules including a RNA-dependent RNA polymerase. It is probably post translationally cleaved into several proteins but this has yet to be shown.
+The M segment RNA is 4,818 nucleotides in length and contains one open reading frame flanked by 5′ and 3′ non coding regions of 47 and 121 nucleotides respectively. The ORF encodes a protein of 1549 amino acids with 8 potential sites for N-linked glycosylation. It contains a unique potential N-gly site in the Gn and Gc glycoprotein regions at amino acids 612 and 1514 respectively.
+The S segment has 1,694 nt and encodes an ORF of 483 amino acids. The 5′ and 3′ noncoding regions are 49 nt and 193 nt in length respectively.
+
+
+== References ==

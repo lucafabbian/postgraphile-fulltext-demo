@@ -1,0 +1,17 @@
+The African superswell is a region including the Southern and Eastern African plateaus and the Southeastern Atlantic basin where exceptional tectonic uplift has occurred, resulting in terrain much higher than its surroundings. The average elevation of cratons is about 400–500 meters above sea level. Southern Africa exceeds these elevations by more than 500 m, and stands at over 1 km above sea level. The Southern and Eastern African plateaus show similar uplift histories, allowing them to be considered as one topographic unit. When considered this way, the swell is one of the largest topographic anomalies observed on any continent, and spans an area of over 10 million km2. Uplift extends beyond the continents into the Atlantic Ocean, where extremely shallow ocean depths are visible through bathymetric survey.  The region can indeed be considered as one large swell because the bathymetric anomaly to the southwest of Africa is on the same order as the topographic anomaly of the plateaus (approximately 500 m).The superswell is a relatively recent phenomenon, probably beginning between 5 and 30 million years ago.
+
+
+== Proposed mechanisms ==
+Various theories have been proposed as to the cause of the superswell. The main debate comes from whether the region of high topography is being supported by thermal isostatic mechanisms or dynamically.
+
+
+=== Lithospheric heating ===
+Heating of the lithosphere, and the associated increase in buoyancy, is one possible mechanism proposed for the large degrees of uplift of the African superswell. Evidence of extensive volcanism and rifting in eastern Africa during the Cenozoic supports the idea that lithospheric heating was occurring during the time of uplift. Heat flow anomalies must be considered in order to justify lithospheric heating as a possible elevation mechanism in southern Africa. When comparing heat flow measurements in southern Africa mobile belts to average global heat flow values, a positive anomaly is observed. This anomaly may not be attributed to shallow, crustal heat generation, as the mobile belts have differing tectonic histories. Deeper sources of heat generation in the lithosphere can thus be considered as an explanation for heat flow anomalies.  Heating of the lithosphere may also be explained by movement of southern Africa over several hotspots, which now exist beneath the oceanic portion of the superswell. The region of mantle beneath the African superswell would have been insulated by the supercontinent Pangea in the late Paleozoic and Mesozoic, providing a final observation supporting elevated temperature conditions as a mechanism for uplift.
+
+
+=== Dynamic topography ===
+
+One possible explanation for the immense uplift of Africa causing the superswell is dynamic topography. This phenomenon describes changes in the topography of the surface of the Earth due to circulation of the underlying mantle.  In the case of dynamic topography, the uplift in Africa would be supported by flow from the lower mantle.  A deep, low-velocity anomaly under the uplifted region can be seen in tomographic surveys  and has been interpreted as a low-density anomaly coming from the deepest region of the mantle.  By predicting the region's topographic response to the low-density anomaly using dynamic topography calculations, an almost perfect model of the elevated topography of the superswell is achieved.  This provides evidence that, in fact, dynamic response to mantle circulation is likely the cause of the superswell.
+
+
+== References ==

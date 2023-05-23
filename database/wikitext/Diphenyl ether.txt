@@ -1,0 +1,20 @@
+Diphenyl ether is the organic compound with the formula (C6H5)2O. It is a colorless solid.  This, the simplest diaryl ether, has a variety of niche applications.
+
+
+== Synthesis and reactions ==
+Diphenyl ether and many of its properties were first reported as early as 1901. 
+It is synthesized by a modification of the Williamson ether synthesis, here the reaction of phenol and bromobenzene in the presence of base and a catalytic amount of copper:
+
+PhOH  +  PhBr  →  PhOPh  +  HBrInvolving similar reactions, diphenyl ether is a significant side product in the high-pressure hydrolysis of chlorobenzene in the production of phenol.Related compounds are prepared by Ullmann reactions.The compound undergoes reactions typical of other phenyl rings, including hydroxylation, nitration, halogenation, sulfonation, and Friedel–Crafts alkylation or acylation.
+
+
+== Uses ==
+The main application of diphenyl ether is as a eutectic mixture with biphenyl, used as a heat transfer fluid. Such a mixture is well-suited for heat transfer applications because of the relatively large temperature range of its liquid state.  A eutectic mixture [commercially, Dowtherm A] is 73.5% diphenyl ether (diphenyl oxide) and 26.5% biphenyl (diphenyl).Diphenyl ether is a starting material in the production of phenoxathiin via the Ferrario reaction. Phenoxathiin is used in polyamide and polyimide production.Because of its odor reminiscent of scented geranium, as well as its stability and low price, diphenyl ether is used widely in soap perfumes. Diphenyl ether is also used as a processing aid in the production of polyesters.
+
+
+== Related compounds ==
+It is a component of important hormone T3 or triiodothyronine.
+Several polybrominated diphenyl ethers (PBDEs) are useful flame retardants. Of penta-, octa-, and decaBDE, the three most common PBDEs, only decaBDE is still in widespread use since its ban in the European Union in 2003. DecaBDE, also known as decabromodiphenyl oxide, is a high-volume industrial chemical with over 450,000 kilograms produced annually in the United States. Decabromodiphenyl oxide is sold under the trade name Saytex 102 as a flame retardant in the manufacture of paints and reinforced plastics.
+
+
+== References ==

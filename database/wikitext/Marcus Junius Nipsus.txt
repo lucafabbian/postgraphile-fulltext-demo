@@ -1,0 +1,47 @@
+Marcus Junius Nipsus (or Nypsus) was a second-century Roman gromatic writer, whose also dealt with various mathematical questions. His surviving writings are preserved in the Corpus Agrimensorum Romanorum, a compilation of Latin works on land surveying made in the 4th or 5th centuries AD.
+
+
+== Name and transmission ==
+A work in the Corpus Agrimensorum Romanorum is introduced with the words incipit Marci Iuni Nipsi liber II feliciter ("Here begins Marcus Junius Nipsus' second book, well"). Unfortunately, almost nothing is known about this individual. In his work, he gives no information on himself and no other references to him have survived. The text often addresses the reader directly, e.g. cum in agro assignato veneris ("when you come to an assigned piece of land", Nipsius La 286.12) which suggests that it was intended as a practical handbook and it is generally agreed that it was written in the 2nd century AD.The work is only transmitted in a fragmentary state. Scholars differ on exactly which texts should be ascribed to Nipsius. Some ascribe texts attributed to him to another gromatic writer, Agennius Urbicus, instead, others ascribe additional texts to Nipsius. In general, the opinion of Karl lachmann is accepted, which attributes the following three texts to him:
+
+Fluminis Varatio ("Measurement of Rivers")
+Limitis Repositio ("Repositioning of Boundaries")
+Podismus ("Measurement by Feet" or "Hypotenuse")These works are included in the oldest manuscript of the Corpus Agrimensorum Romanorum, the Codex Arcerianus in Wolfenbüttel. Other works are only found in more recent manuscripts. Jelle Bouma has edited the first two works with English translation and thorough explanatory notes.
+
+
+== Works ==
+
+
+=== Fluminis Varatio ===
+Nipsus explains how to measure the width of a river when the other bank is not accessible (e.g., because a hostile force has occupied it). He seeks out a clear landmark on the other bank, like a tall tree. This forms one corner of a right-angled triangle which he constructs. One cathetus (short side) goes in a straight line from the landmark to the surveyor's position. The second cathetus is drawn from the surveyor's position along a path approximately parallel to the riverbank. Halfway along this path, a measuring instrument (ferramentum, groma) is placed, and the hypotenuse (long side) of the triangle runs from this instrument to the landmark on the other side of the river. Then the surveyor constructs a second right-angled triangle, which is the same size as the first one. The hypotenuse of the second triangle continues the hypotenuse of the first triangle and is recorded with a mark on the land. One cathetus is the continuation of the path along the riverbank, the second cathetus goes inland, joining up with the hypotenuse of the second triangle. The length of this second cathetus will be equal to the width of the river.  
+Because of the requirement to form the long path along the river bank and the marking lines, this method is quite time consuming. No attempt is made to apply the mathematically "sophisticated" intercept theorem, which had been known since the first century AD. The task of measuring the width of a river is also referred to by the surveyor Balbus (Ca 204.24), without providing a solution, and by Frontinus (Ca 14.12).
+
+
+=== Limitis Repositio ===
+In the first part of this text (Nipsus, La 286.12-288.17), Nipsus describes how a surveyor restores boundaries and boundary stones in an area that was surveyed long ago and has subsequently fallen into disrepair, with the boundary lines obscured and the stones lost. Using the few remaining boundary stones, he attempts to extend the boundary lines using the orientation of the stones. In the following part (Nipsius, La 288.18-289.17), it is explained how plots of land are formed between different long limites ("boundary lines"). It is possible to produce plots that are not rectangular. Attached drawings clarify the situation. In the third part (Nipsus, La 289.18-295.15), Nipsus describes the division of land into square plots based on a decumanus and a cardo. He goes into various special cases and also explains the subseciva, the plots of wasteland left over in the surveying process.
+
+
+=== Podismus ===
+After some basic definitions of Euclidean geometry and units of volume, this work focusses on trigonometry. The information might be sourced mainly from the Metrica or Geometrica of Hero of Alexandria. However, the excerpts are fragmentary and marred by many reduplications. While Hero discusses the underlying mathematical theory, like the Pythagorean theorem, Nipsus provides only numerical "recipies". In particular, he uses Pythagorean triples (sets of three whole numbers, which form the sides of right-angled triangles). To demonstrate a formula for how one can construct a right-angled triangle using any odd whole number as the length of the shortest cathetus, he naturally uses the 3-4-5 triple:
+
+Hero of Alexander treated the same calculation of the 3-4-5 triple, but he gives the actual Pythagorean theorem:
+
+a²+ b²=c²
+a² + ((a² - 1)/2)² = ((a² - 1)/2 + 1)²
+Nipsus' text never mentions Pythagoras or Euclid by name. Nipsus' calculations have little practical use and are more practice exercises for scholars. Thus, for two Pythagorean triples Nipsus also calculates how further values might be determined, if the sum of the catheti, the hypotenuse and the area are known.
+
+
+== References ==
+
+
+== Editions ==
+Friedrich Blume, Karl Lachmann, Adolf August Friedrich Rudorff, Gromatici veteres. Die Schriften der römischen Feldmesser. 2 Volumes, Berlin 1848–1852.
+Jelle Bouma. Marcus Iunius Nypsus – Fluminis varatio, limitis repositio (= Studien zur klassischen Philologie. Band 77). Peter Lang, Frankfurt 1993, ISBN 3-631-45588-7.
+
+
+== Bibliography ==
+Moritz Cantor. Die römischen Agrimensoren und ihre Stellung in der Geschichte der Feldmesskunst. Leipzig 1876.
+O.A.W. Dilke, The Roman Land Surveyors: An Introduction to the Agrimensores  (1971).
+Menso Folkerts. "Die Mathematik der Agrimensoren – Quellen und Nachwirkung." in Eberhard Knobloch, Cosima Möller, ed., In den Gefilden der römischen Feldmesser. Walter de Gruyter, Berlin/Boston 2014, ISBN 978-3-11-029084-4, pp. 131–148.
+Ulrich Schindel. Nachklassischer Unterricht im Spiegel der gromatischen Schriften. in Okko Behrends, Luigi Capogrossi Colognesi, ed.,  Die römische Feldmesskunst. Interdisziplinäre Beiträge zu ihrer Bedeutung für die Zivilisationsgeschichte Roms. Vandenhoeck und Ruprecht, Göttingen 1992, ISBN 3-525-82480-7, S. 375–397.
+Johannes Tolkiehn: Iunius 108.(in German) In: Realencyclopädie der classischen Altertumswissenschaft (RE). Vol. X,1, Stuttgart 1918, col. 1069 f.

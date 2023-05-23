@@ -1,0 +1,20 @@
+The braille alphabet used for the Tatar language is based on Russian Braille, with several additional letters found in the print Tatar alphabet.
+
+
+== Alphabet ==
+Tatar uses all of the letters of the Russian alphabet, though some just in loans, and has the additional letters ә, җ, ң, һ, ө, ү.
+
+
+== Punctuation ==
+Single punctuation:
+
+Paired punctuation:
+Tatar Braille is reported to use the Russian arithmetical parentheses ⠣ ... ⠜.
+
+
+== Formatting ==
+
+
+== References ==
+
+UNESCO (2013) World Braille Usage, 3rd edition.

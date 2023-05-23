@@ -1,0 +1,42 @@
+DimensioneX is an Open Source (GPL) and totally free Multiplayer Engine designed for beginners and for quick development.
+Aimed at producing browser-based multiplayer games and environments in general, it has been around since 1999 and has been used for MMORPG games, research, education and promotional applications.
+Written in Java and supporting a number of languages including eastern languages such as Chinese and Russian, DimensioneX has been present on SourceForge.net since its beginning.
+
+
+== Key Features ==
+The game world is defined via a dedicated language, named DXW (DimensioneX World) format. The syntax lets the programmer to define rooms, doors/links, items, characters.
+All the remaining necessary interaction is then added via an object-oriented scripting language that is very similar to Visual Basic/VBScript.
+The engine is not a graphics engine, the client is a combination of a server-generated combination of HTML, JavaScript. Scene graphics is obtained by stacking static images and icons provided by the programmer.
+The engine supports in-game sounds and music, as well as flash files and other types of files.
+
+
+== Architecture ==
+The engine of DimensioneX is written in Java language, and relies on HTML+JavaScript for the client part.
+The server object is actually a single Java Servlet that gets instantiated at startup, it reads the world definition from its descriptive DXW file and re-creates it in memory. From then on, the main servlet keeps the word's state in memory and accepts client commands to update the position of characters and items of the managed world.
+The clients are assumed to communicate with the main core via the standard HTTP POST protocol. Messages include a number of commands such as: login, logout, view (gets a view of the current room the player is in), move (4 directions plus up and down), pick, drop, and a number of custom commands with up to 2 parameters.
+Communication between the client and the server is asynchronous and multiple commands can be sent in parallel. Inside the game core a critical section is implemented using a semaphore to ensure resource and game consistency (e.g. an item cannot be picked up by more than one person).
+Inside the DimensioneX world everything happens in real time even though, due to intrinsic nature of web platform used, if nobody is using a game time inside it says "frozen" so that everything happens at the first client contact with server.
+The communication method between the server core (Servlet) and the client (normally HTML with JavaScript) makes it possible to implement a client in any architecture, including mobile devices.
+The game engine is Open Source and open to any user's contribution. It has been used and adopted for several human - to computer interaction studies (see: References)
+
+
+== Games ==
+One of the most popular games written with DimensioneX is the Fantasy MMORPG Game Sottomondo whose English version is known as Underworld Online.
+Network Arena, sci-fi MMORPG.
+Another one that is fairly popular in Italy was Dragon Hunter game
+
+
+== References ==
+Human-Computer Interaction - Amvient, Ubiquitous and Intelligent Interaction, Juile A. Jacko, proceedeings, 2009
+A Virtual Environment for Learning Aiport Emergency Management Protocols, Telmo Zarraonandia, Mario Rafael Ruiz Vargas, Paloma Díaz, Ignacio Aedo, Springer, 2009
+Multi-Channel Gaming Platform João Ribeiro, 2007
+List of game engines on Wikipedia
+Since 2003 it is successfully used at the DAMS Multimedia university course at University of Turin, Italy as a training platform for the development of multimedia multiplayer environments.
+In 2005 it was used at Tromsø, Norway in the FINNET project to experiment roleplay in training, in particular applied to language.
+Starting from December 2005, it was used in Bologna and Ferrara, Italy to teach programming to kids: in a few lessons they were able to develop MMORPG games from scratch.
+
+
+== External links ==
+DimensioneX Homepage
+DimensioneX Developers' Reference
+DimensioneX Wiki

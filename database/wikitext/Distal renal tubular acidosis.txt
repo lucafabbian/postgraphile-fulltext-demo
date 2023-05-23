@@ -1,0 +1,44 @@
+Distal renal tubular acidosis (dRTA)  is the classical form of RTA, being the first described. Distal RTA is characterized by a failure of acid secretion by the alpha intercalated cells of the distal tubule and cortical collecting duct of the distal nephron. This failure of acid secretion may be due to a number of causes. It leads to relatively alkaline urine, due to the kidney's inability to acidify the urine to a pH of less than 5.3.
+
+
+== Symptoms and signs ==
+Because renal excretion is the primary means of eliminating acid from the body, there is consequently a tendency towards acidemia.
+This leads to the clinical features of dRTA:
+Normal anion gap metabolic acidosis/acidemia
+Hypokalemia
+Urinary stone formation (related to alkaline urine, hypercalciuria, and low urinary citrate).
+Nephrocalcinosis (deposition of calcium in the substance of the kidney)
+Bone demineralisation (causing rickets in children and osteomalacia in adults)The symptoms and sequelae of dRTA are variable and range from being completely asymptomatic, to loin pain and hematuria from kidney stones, to failure to thrive and severe rickets in childhood forms as well as possible renal failure and even death.dRTA commonly leads to sodium loss and volume contraction, which causes a compensatory increase in blood levels of aldosterone. Aldosterone causes increased resorption of sodium and loss of potassium in the collecting duct of the kidney, so these increased aldosterone levels cause the hypokalemia which is a common symptom of dRTA.
+
+
+== Causes ==
+
+Autoimmune disease.  Classically Sjögren's syndrome, but it is also associated with systemic lupus erythematosus, rheumatoid arthritis and even hypergammaglobulinemia. Hypokalaemia is often severe in these cases.
+Hereditary causes include mutations of Band 3 the basolateral bicarbonate transporter of the intercalated cell, which may be transmitted in an autosomal dominant fashion in western European cases, or in an autosomal recessive fashion in South East Asian cases. The South East Asian cases are associated with more severe hypokalemia. Other hereditary causes include mutations of subunits of the apical proton pump vH+-ATPase, which are transmitted in an autosomal recessive fashion, and may be associated with sensorineural deafness.
+Liver cirrhosis.
+Nephrocalcinosis.  While it is a consequence of dRTA, it can also be a cause; related to calcium-induced damage of the cortical collecting duct.
+Renal transplantation.
+Sickle cell anemia.
+Toxins, including ifosfamide (more commonly causing pRTA than dRTA), lithium carbonate and amphotericin B.
+Chronic urinary tract obstruction.
+Toluene causes a non-anion gap metabolic acidosis with hypokalemia and a positive urinary anion gap that looks a lot like distal RTA but there is no hydrogen secretion defect and the acidosis is due to acid production during the metabolism of toluene.
+
+
+== Diagnosis ==
+The pH of patient's blood is highly variable, and acidemia is not necessarily characteristic of people with dRTA at any given time. One may have dRTA caused by alpha intercalated cell failure without necessarily being acidemic; termed incomplete dRTA, which is characterized by an inability to acidify urine, without affecting blood pH or plasma bicarbonate levels. The diagnosis of dRTA can be made by the observation of a relatively alkaline urinary pH of greater than 5.3 in the face of a systemic acidemia (usually taken to be a serum bicarbonate of 20 mmol/L or less). In the case of an incomplete dRTA, failure to acidify the urine following an oral acid loading challenge is often used as a test.  The test usually performed is the short ammonium chloride test, in which ammonium chloride capsules are used as the acid load. More recently, an alternative test using furosemide and fludrocortisone has been described.dRTA has been proposed as a possible diagnosis for the unknown malady plaguing Tiny Tim in Charles Dickens' A Christmas Carol.
+
+
+== Treatment ==
+This is relatively straightforward. It involves correction of the acidemia with oral sodium bicarbonate, sodium citrate or potassium citrate. This will correct the acidemia and reverse bone demineralisation. Hypokalemia and urinary stone formation and nephrocalcinosis can be treated with potassium citrate tablets which not only replace potassium but also inhibit calcium excretion and thus do not exacerbate stone disease as sodium bicarbonate or citrate may do.
+
+
+== See also ==
+Renal tubular acidosis
+Proximal renal tubular acidosis
+Ifosfamide
+
+
+== References ==
+
+
+== External links ==

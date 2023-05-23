@@ -1,0 +1,1650 @@
+The London equations, developed by brothers Fritz and Heinz London in 1935, are constitutive relations for a superconductor relating its superconducting current to electromagnetic fields in and around it. Whereas Ohm's law is the simplest constitutive relation for an ordinary conductor, the London equations are the simplest meaningful description of superconducting phenomena, and form the genesis of almost any modern introductory text on the subject. A major triumph of the equations is their ability to explain the Meissner effect, wherein a material exponentially expels all internal magnetic fields as it crosses the superconducting threshold.
+
+
+== Description ==
+There are two London equations when expressed in terms of measurable fields: 
+
+  
+    
+      
+        
+          
+            
+              ∂
+              
+                
+                  j
+                
+                
+                  s
+                
+              
+            
+            
+              ∂
+              t
+            
+          
+        
+        =
+        
+          
+            
+              
+                n
+                
+                  
+                    s
+                  
+                
+              
+              
+                e
+                
+                  2
+                
+              
+            
+            m
+          
+        
+        
+          E
+        
+        ,
+        
+        
+          ∇
+        
+        ×
+        
+          
+            j
+          
+          
+            s
+          
+        
+        =
+        −
+        
+          
+            
+              
+                n
+                
+                  
+                    s
+                  
+                
+              
+              
+                e
+                
+                  2
+                
+              
+            
+            m
+          
+        
+        
+          B
+        
+        .
+      
+    
+    {\displaystyle {\frac {\partial \mathbf {j} _{s}}{\partial t}}={\frac {n_{\rm {s}}e^{2}}{m}}\mathbf {E} ,\qquad \mathbf {\nabla } \times \mathbf {j} _{s}=-{\frac {n_{\rm {s}}e^{2}}{m}}\mathbf {B} .}
+  Here 
+  
+    
+      
+        
+          
+            
+              j
+            
+          
+          
+            
+              s
+            
+          
+        
+      
+    
+    {\displaystyle {\mathbf {j} }_{\rm {s}}}
+   is the (superconducting) current density, E and B are respectively the electric and magnetic fields within the superconductor, 
+
+  
+    
+      
+        e
+        
+      
+    
+    {\displaystyle e\,}
+   
+is the charge of an electron or proton, 
+
+  
+    
+      
+        m
+        
+      
+    
+    {\displaystyle m\,}
+   
+is electron mass, and 
+
+  
+    
+      
+        
+          n
+          
+            
+              s
+            
+          
+        
+        
+      
+    
+    {\displaystyle n_{\rm {s}}\,}
+   
+is a phenomenological constant loosely associated with a number density of superconducting carriers.The two equations can be combined into a single "London Equation"
+
+in terms of a specific vector potential 
+  
+    
+      
+        
+          
+            A
+          
+          
+            
+              s
+            
+          
+        
+      
+    
+    {\displaystyle \mathbf {A} _{\rm {s}}}
+   which has been gauge fixed to the "London gauge", giving:
+
+  
+    
+      
+        
+          
+            j
+          
+          
+            s
+          
+        
+        =
+        −
+        
+          
+            
+              
+                n
+                
+                  
+                    s
+                  
+                
+              
+              
+                e
+                
+                  2
+                
+              
+            
+            m
+          
+        
+        
+          
+            A
+          
+          
+            
+              s
+            
+          
+        
+        .
+      
+    
+    {\displaystyle \mathbf {j} _{s}=-{\frac {n_{\rm {s}}e^{2}}{m}}\mathbf {A} _{\rm {s}}.}
+  In the London gauge, the vector potential obeys the following requirements, ensuring that it can be interpreted as a current density:
+
+  
+    
+      
+        ∇
+        ⋅
+        
+          
+            A
+          
+          
+            
+              s
+            
+          
+        
+        =
+        0
+        ,
+      
+    
+    {\displaystyle \nabla \cdot \mathbf {A} _{\rm {s}}=0,}
+  
+
+  
+    
+      
+        
+          
+            A
+          
+          
+            
+              s
+            
+          
+        
+        =
+        0
+      
+    
+    {\displaystyle \mathbf {A} _{\rm {s}}=0}
+   in the superconductor bulk,
+
+  
+    
+      
+        
+          
+            A
+          
+          
+            
+              s
+            
+          
+        
+        ⋅
+        
+          
+            
+              
+                n
+              
+              ^
+            
+          
+        
+        =
+        0
+        ,
+      
+    
+    {\displaystyle \mathbf {A} _{\rm {s}}\cdot {\hat {\mathbf {n} }}=0,}
+   where 
+  
+    
+      
+        
+          
+            
+              
+                n
+              
+              ^
+            
+          
+        
+      
+    
+    {\displaystyle {\hat {\mathbf {n} }}}
+   is the normal vector at the surface of the superconductor.The first requirement, also known as Coulomb gauge condition, leads to the constant superconducting electron density 
+  
+    
+      
+        
+          
+            
+              
+                ρ
+                ˙
+              
+            
+          
+          
+            
+              s
+            
+          
+        
+        =
+        0
+      
+    
+    {\displaystyle {\dot {\rho }}_{\rm {s}}=0}
+   as expected from the continuity equation. The second requirement is consistent with the fact that supercurrent flows near the surface. The third requirement ensures no accumulation of superconducting electrons on the surface. These requirements do away with all gauge freedom and uniquely determine the vector potential. One can also write the London equation in terms of an arbitrary gauge 
+  
+    
+      
+        
+          A
+        
+      
+    
+    {\displaystyle \mathbf {A} }
+   by simply defining 
+  
+    
+      
+        
+          
+            A
+          
+          
+            
+              s
+            
+          
+        
+        =
+        (
+        
+          A
+        
+        +
+        ∇
+        ϕ
+        )
+      
+    
+    {\displaystyle \mathbf {A} _{\rm {s}}=(\mathbf {A} +\nabla \phi )}
+  , where 
+  
+    
+      
+        ϕ
+      
+    
+    {\displaystyle \phi }
+   is a scalar function and 
+  
+    
+      
+        ∇
+        ϕ
+      
+    
+    {\displaystyle \nabla \phi }
+   is the change in gauge which shifts the arbitrary gauge to the London gauge.
+The vector potential expression holds for magnetic fields that vary slowly in space.
+
+
+== London penetration depth ==
+If the second of London's equations is manipulated by applying Ampere's law,
+
+  
+    
+      
+        ∇
+        ×
+        
+          B
+        
+        =
+        
+          μ
+          
+            0
+          
+        
+        
+          j
+        
+      
+    
+    {\displaystyle \nabla \times \mathbf {B} =\mu _{0}\mathbf {j} }
+  ,then it can be turned into the Helmholtz equation for magnetic field:
+
+  
+    
+      
+        
+          ∇
+          
+            2
+          
+        
+        
+          B
+        
+        =
+        
+          
+            1
+            
+              λ
+              
+                
+                  s
+                
+              
+              
+                2
+              
+            
+          
+        
+        
+          B
+        
+      
+    
+    {\displaystyle \nabla ^{2}\mathbf {B} ={\frac {1}{\lambda _{\rm {s}}^{2}}}\mathbf {B} }
+  where the inverse of the laplacian eigenvalue:
+
+  
+    
+      
+        
+          λ
+          
+            
+              s
+            
+          
+        
+        ≡
+        
+          
+            
+              m
+              
+                
+                  μ
+                  
+                    0
+                  
+                
+                
+                  n
+                  
+                    
+                      s
+                    
+                  
+                
+                
+                  e
+                  
+                    2
+                  
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle \lambda _{\rm {s}}\equiv {\sqrt {\frac {m}{\mu _{0}n_{\rm {s}}e^{2}}}}}
+  is the characteristic length scale, 
+  
+    
+      
+        
+          λ
+          
+            
+              s
+            
+          
+        
+      
+    
+    {\displaystyle \lambda _{\rm {s}}}
+  , over which external magnetic fields are exponentially suppressed: it is called the London penetration depth: typical values are from 50 to 500 nm.
+For example, consider a superconductor within free space where the magnetic field outside the superconductor is a constant value pointed parallel to the superconducting boundary plane in the z direction. If x leads perpendicular to the boundary then the solution inside the superconductor may be shown to be
+
+  
+    
+      
+        
+          B
+          
+            z
+          
+        
+        (
+        x
+        )
+        =
+        
+          B
+          
+            0
+          
+        
+        
+          e
+          
+            −
+            x
+            
+              /
+            
+            
+              λ
+              
+                
+                  s
+                
+              
+            
+          
+        
+        .
+        
+      
+    
+    {\displaystyle B_{z}(x)=B_{0}e^{-x/\lambda _{\rm {s}}}.\,}
+  From here the physical meaning of the London penetration depth can perhaps most easily be discerned.
+
+
+== Rationale for the London equations ==
+
+
+=== Original arguments ===
+While it is important to note that the above equations cannot be formally derived,
+the Londons did follow a certain intuitive logic in the formulation of their theory. Substances across a stunningly wide range of composition behave roughly according to Ohm's law, which states that current is proportional to electric field. However, such a linear relationship is impossible in a superconductor for, almost by definition, the electrons in a superconductor flow with no resistance whatsoever. To this end, the London brothers imagined electrons as if they were free electrons under the influence of a uniform external electric field. According to the Lorentz force law 
+
+  
+    
+      
+        
+          F
+        
+        =
+        m
+        
+          
+            
+              
+                v
+              
+              ˙
+            
+          
+        
+        =
+        −
+        e
+        
+          E
+        
+        +
+        e
+        
+          v
+        
+        ×
+        
+          B
+        
+      
+    
+    {\displaystyle \mathbf {F} =m{\dot {\mathbf {v} }}=-e\mathbf {E} +e\mathbf {v} \times \mathbf {B} }
+  these electrons should encounter a uniform force, and thus they should in fact accelerate uniformly. Assume that the electrons in the superconductor are now driven by an electric field, then according to the definition of current density 
+  
+    
+      
+        
+          
+            j
+          
+          
+            
+              s
+            
+          
+        
+        =
+        −
+        
+          n
+          
+            
+              s
+            
+          
+        
+        e
+        
+          
+            v
+          
+          
+            
+              s
+            
+          
+        
+      
+    
+    {\displaystyle \mathbf {j} _{\rm {s}}=-n_{\rm {s}}e\mathbf {v} _{\rm {s}}}
+  we should have
+
+  
+    
+      
+        
+          
+            
+              ∂
+              
+                
+                  j
+                
+                
+                  s
+                
+              
+            
+            
+              ∂
+              t
+            
+          
+        
+        =
+        −
+        
+          n
+          
+            
+              s
+            
+          
+        
+        e
+        
+          
+            
+              ∂
+              
+                v
+              
+            
+            
+              ∂
+              t
+            
+          
+        
+        =
+        
+          
+            
+              
+                n
+                
+                  
+                    s
+                  
+                
+              
+              
+                e
+                
+                  2
+                
+              
+            
+            m
+          
+        
+        
+          E
+        
+      
+    
+    {\displaystyle {\frac {\partial \mathbf {j} _{s}}{\partial t}}=-n_{\rm {s}}e{\frac {\partial \mathbf {v} }{\partial t}}={\frac {n_{\rm {s}}e^{2}}{m}}\mathbf {E} }
+  
+This is the first London equation. To obtain the second equation, take the curl of the first London equation and apply Faraday's law,
+
+  
+    
+      
+        ∇
+        ×
+        
+          E
+        
+        =
+        −
+        
+          
+            
+              ∂
+              
+                B
+              
+            
+            
+              ∂
+              t
+            
+          
+        
+      
+    
+    {\displaystyle \nabla \times \mathbf {E} =-{\frac {\partial \mathbf {B} }{\partial t}}}
+  ,to obtain
+
+  
+    
+      
+        
+          
+            ∂
+            
+              ∂
+              t
+            
+          
+        
+        
+          (
+          
+            ∇
+            ×
+            
+              
+                j
+              
+              
+                
+                  s
+                
+              
+            
+            +
+            
+              
+                
+                  
+                    n
+                    
+                      
+                        s
+                      
+                    
+                  
+                  
+                    e
+                    
+                      2
+                    
+                  
+                
+                m
+              
+            
+            
+              B
+            
+          
+          )
+        
+        =
+        0.
+      
+    
+    {\displaystyle {\frac {\partial }{\partial t}}\left(\nabla \times \mathbf {j} _{\rm {s}}+{\frac {n_{\rm {s}}e^{2}}{m}}\mathbf {B} \right)=0.}
+  As it currently stands, this equation permits both constant and exponentially decaying solutions. The Londons recognized from the Meissner effect that constant nonzero solutions were nonphysical, and thus postulated that not only was the time derivative of the above expression equal to zero, but also that the expression in the parentheses must be identically zero:
+
+  
+    
+      
+        ∇
+        ×
+        
+          
+            j
+          
+          
+            
+              s
+            
+          
+        
+        +
+        
+          
+            
+              
+                n
+                
+                  
+                    s
+                  
+                
+              
+              
+                e
+                
+                  2
+                
+              
+            
+            m
+          
+        
+        
+          B
+        
+        =
+        0
+      
+    
+    {\displaystyle \nabla \times \mathbf {j} _{\rm {s}}+{\frac {n_{\rm {s}}e^{2}}{m}}\mathbf {B} =0}
+  
+This results in the second London equation and  
+  
+    
+      
+        
+          
+            j
+          
+          
+            s
+          
+        
+        =
+        −
+        
+          
+            
+              
+                n
+                
+                  
+                    s
+                  
+                
+              
+              
+                e
+                
+                  2
+                
+              
+            
+            m
+          
+        
+        
+          
+            A
+          
+          
+            
+              s
+            
+          
+        
+      
+    
+    {\displaystyle \mathbf {j} _{s}=-{\frac {n_{\rm {s}}e^{2}}{m}}\mathbf {A} _{\rm {s}}}
+   (up to a gauge tranformation which is fixed by choosing "London gauge") since the magnetic field is defined through 
+  
+    
+      
+        B
+        =
+        ∇
+        ×
+        
+          A
+          
+            
+              s
+            
+          
+        
+        .
+      
+    
+    {\displaystyle B=\nabla \times A_{\rm {s}}.}
+   
+Additionally, according to Ampere's law 
+  
+    
+      
+        ∇
+        ×
+        
+          B
+        
+        =
+        
+          μ
+          
+            0
+          
+        
+        
+          
+            j
+          
+          
+            
+              s
+            
+          
+        
+      
+    
+    {\displaystyle \nabla \times \mathbf {B} =\mu _{0}\mathbf {j} _{\rm {s}}}
+   , one may derive that: 
+  
+    
+      
+        ∇
+        ×
+        (
+        ∇
+        ×
+        
+          B
+        
+        )
+        =
+        ∇
+        ×
+        
+          μ
+          
+            0
+          
+        
+        
+          
+            j
+          
+          
+            
+              s
+            
+          
+        
+        =
+        −
+        
+          
+            
+              
+                μ
+                
+                  0
+                
+              
+              
+                n
+                
+                  
+                    s
+                  
+                
+              
+              
+                e
+                
+                  2
+                
+              
+            
+            m
+          
+        
+        
+          B
+        
+        .
+      
+    
+    {\displaystyle \nabla \times (\nabla \times \mathbf {B} )=\nabla \times \mu _{0}\mathbf {j} _{\rm {s}}=-{\frac {\mu _{0}n_{\rm {s}}e^{2}}{m}}\mathbf {B} .}
+   
+On the other hand, since 
+  
+    
+      
+        ∇
+        ⋅
+        
+          B
+        
+        =
+        0
+      
+    
+    {\displaystyle \nabla \cdot \mathbf {B} =0}
+  , we have 
+  
+    
+      
+        ∇
+        ×
+        (
+        ∇
+        ×
+        
+          B
+        
+        )
+        =
+        −
+        
+          ∇
+          
+            2
+          
+        
+        
+          B
+        
+      
+    
+    {\displaystyle \nabla \times (\nabla \times \mathbf {B} )=-\nabla ^{2}\mathbf {B} }
+  , which leads to the spatial distribution of magnetic field obeys :
+
+  
+    
+      
+        
+          ∇
+          
+            2
+          
+        
+        
+          B
+        
+        =
+        
+          
+            1
+            
+              λ
+              
+                
+                  s
+                
+              
+              
+                2
+              
+            
+          
+        
+        
+          B
+        
+      
+    
+    {\displaystyle \nabla ^{2}\mathbf {B} ={\frac {1}{\lambda _{\rm {s}}^{2}}}\mathbf {B} }
+  
+with penetration depth 
+  
+    
+      
+        
+          λ
+          
+            
+              s
+            
+          
+        
+        =
+        
+          
+            
+              m
+              
+                
+                  μ
+                  
+                    0
+                  
+                
+                
+                  n
+                  
+                    
+                      s
+                    
+                  
+                
+                
+                  e
+                  
+                    2
+                  
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle \lambda _{\rm {s}}={\sqrt {\frac {m}{\mu _{0}n_{\rm {s}}e^{2}}}}}
+  . In one dimension, such Helmholtz equation has the solution form 
+  
+    
+      
+        
+          B
+          
+            z
+          
+        
+        (
+        x
+        )
+        =
+        
+          B
+          
+            0
+          
+        
+        
+          e
+          
+            −
+            x
+            
+              /
+            
+            
+              λ
+              
+                
+                  s
+                
+              
+            
+          
+        
+        .
+        
+      
+    
+    {\displaystyle B_{z}(x)=B_{0}e^{-x/\lambda _{\rm {s}}}.\,}
+  
+Inside the superconductor 
+  
+    
+      
+        (
+        x
+        >
+        0
+        )
+      
+    
+    {\displaystyle (x>0)}
+  , the magnetic field exponetially decay, which well explains the Meissner effect. With the magnetic field distribution, we can use Ampere's law 
+  
+    
+      
+        ∇
+        ×
+        
+          B
+        
+        =
+        
+          μ
+          
+            0
+          
+        
+        
+          
+            j
+          
+          
+            
+              s
+            
+          
+        
+      
+    
+    {\displaystyle \nabla \times \mathbf {B} =\mu _{0}\mathbf {j} _{\rm {s}}}
+   again to see that the supercurrent  
+  
+    
+      
+        
+          
+            j
+          
+          
+            
+              s
+            
+          
+        
+      
+    
+    {\displaystyle \mathbf {j} _{\rm {s}}}
+  also flows near the surface of superconductor, as expected from the requirment for intepreting 
+  
+    
+      
+        
+          
+            j
+          
+          
+            
+              s
+            
+          
+        
+      
+    
+    {\displaystyle \mathbf {j} _{\rm {s}}}
+  as physical current.
+While the above rationale holds for superconductor, one may also argue in the same way for a perfect conductor. However, one important fact that distinguishes the superconductor from pefect conductor is that pefect conductor does not exhibit Meissner effect for 
+  
+    
+      
+        T
+        <
+        
+          T
+          
+            c
+          
+        
+      
+    
+    {\displaystyle T<T_{c}}
+  . In fact, the postulation 
+  
+    
+      
+        ∇
+        ×
+        
+          
+            j
+          
+          
+            
+              s
+            
+          
+        
+        +
+        
+          
+            
+              
+                n
+                
+                  
+                    s
+                  
+                
+              
+              
+                e
+                
+                  2
+                
+              
+            
+            m
+          
+        
+        
+          B
+        
+        =
+        0
+      
+    
+    {\displaystyle \nabla \times \mathbf {j} _{\rm {s}}+{\frac {n_{\rm {s}}e^{2}}{m}}\mathbf {B} =0}
+   does not hold for a pefect conductor. Instead, the time derivative must be kept and cannot be simply removed. This results in the fact that the time derivative of 
+  
+    
+      
+        
+          B
+        
+      
+    
+    {\displaystyle \mathbf {B} }
+   field (instead of 
+  
+    
+      
+        
+          B
+        
+      
+    
+    {\displaystyle \mathbf {B} }
+   field) obeys:
+
+  
+    
+      
+        
+          ∇
+          
+            2
+          
+        
+        
+          
+            
+              ∂
+              
+                B
+              
+            
+            
+              ∂
+              t
+            
+          
+        
+        =
+        
+          
+            1
+            
+              λ
+              
+                
+                  s
+                
+              
+              
+                2
+              
+            
+          
+        
+        
+          
+            
+              ∂
+              
+                B
+              
+            
+            
+              ∂
+              t
+            
+          
+        
+        .
+      
+    
+    {\displaystyle \nabla ^{2}{\frac {\partial \mathbf {B} }{\partial t}}={\frac {1}{\lambda _{\rm {s}}^{2}}}{\frac {\partial \mathbf {B} }{\partial t}}.}
+  
+For 
+  
+    
+      
+        T
+        <
+        
+          T
+          
+            c
+          
+        
+      
+    
+    {\displaystyle T<T_{c}}
+  , deep inside a perfect conductor we have 
+  
+    
+      
+        
+          
+            
+              
+                B
+              
+              ˙
+            
+          
+        
+        =
+        0
+      
+    
+    {\displaystyle {\dot {\mathbf {B} }}=0}
+   rather than 
+  
+    
+      
+        
+          B
+        
+        =
+        0
+      
+    
+    {\displaystyle \mathbf {B} =0}
+   as the superconductor. Consequently, whether the magnetic flux inside a perfect conductor will vanish depends on the initial condition (whether it's zero-field cooled or not).
+
+
+=== Canonical momentum arguments ===
+It is also possible to justify the London equations by other means.
+Current density is defined according to the equation
+
+  
+    
+      
+        
+          
+            j
+          
+          
+            
+              s
+            
+          
+        
+        =
+        −
+        
+          n
+          
+            
+              s
+            
+          
+        
+        e
+        
+          
+            v
+          
+          
+            
+              s
+            
+          
+        
+        .
+      
+    
+    {\displaystyle \mathbf {j} _{\rm {s}}=-n_{\rm {s}}e\mathbf {v} _{\rm {s}}.}
+  Taking this expression from a classical description to a quantum mechanical one, we must replace values 
+  
+    
+      
+        
+          
+            j
+          
+          
+            
+              s
+            
+          
+        
+      
+    
+    {\displaystyle \mathbf {j} _{\rm {s}}}
+   and 
+  
+    
+      
+        
+          
+            v
+          
+          
+            
+              s
+            
+          
+        
+      
+    
+    {\displaystyle \mathbf {v} _{\rm {s}}}
+   by the expectation values of their operators. The velocity operator
+
+  
+    
+      
+        
+          
+            v
+          
+          
+            
+              s
+            
+          
+        
+        =
+        
+          
+            1
+            m
+          
+        
+        
+          (
+          
+            
+              p
+            
+            +
+            e
+            
+              
+                A
+              
+              
+                
+                  s
+                
+              
+            
+          
+          )
+        
+      
+    
+    {\displaystyle \mathbf {v} _{\rm {s}}={\frac {1}{m}}\left(\mathbf {p} +e\mathbf {A} _{\rm {s}}\right)}
+  is defined by dividing the gauge-invariant, kinematic momentum operator by the particle mass m. Note we are using 
+  
+    
+      
+        −
+        e
+      
+    
+    {\displaystyle -e}
+   as the electron charge.
+We may then make this replacement in the equation above. However, an important assumption from the microscopic theory of superconductivity is that the superconducting state of a system is the ground state, and according to a theorem of Bloch's,
+in such a state the canonical momentum p is zero. This leaves
+
+  
+    
+      
+        
+          j
+        
+        =
+        −
+        
+          
+            
+              
+                n
+                
+                  
+                    s
+                  
+                
+              
+              
+                e
+                
+                  2
+                
+              
+            
+            m
+          
+        
+        
+          
+            A
+          
+          
+            
+              s
+            
+          
+        
+        ,
+      
+    
+    {\displaystyle \mathbf {j} =-{\frac {n_{\rm {s}}e^{2}}{m}}\mathbf {A} _{\rm {s}},}
+  which is the London equation according to the second formulation above.
+
+
+== References ==

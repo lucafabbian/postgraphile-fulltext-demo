@@ -1,0 +1,16 @@
+The S3W reactor is a naval reactor used by the United States Navy to provide electricity generation and propulsion on warships.  The S3W designation stands for:
+
+S – Submarine platform
+3 – Third generation core designed by the contractor
+W – Westinghouse was the contracted designer
+
+
+== Design ==
+This nuclear reactor was a variant of the Submarine Fleet Reactor (SFR), an advance on the pressurized water reactor (PWR) plant design employed on USS Nautilus.  The S3W plant utilized horizontal U-tube steam generators.  This concept developed into vertical U-tube steam generators in the S5W reactor plant, and is in common use today on commercial PWR power plants.
+
+
+== History ==
+USS Halibut and the four Skate-class boats were built with S3W reactors: USS Skate, USS Swordfish, USS Sargo, and  USS Seadragon. USS Swordfish and  USS Seadragon had the S3W reactor installed in the S4W reactor plant, which was an alternate arrangement of the same components.
+
+
+== References ==

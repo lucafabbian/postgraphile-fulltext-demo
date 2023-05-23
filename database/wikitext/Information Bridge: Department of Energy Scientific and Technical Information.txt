@@ -1,0 +1,31 @@
+The Information Bridge: Department of Energy Scientific and Technical Information database provides free public access to over 298,000 full-text electronic documents of Department of Energy (DOE) research report literature. See list of academic databases and search engines.
+The documents are primarily from 1991 forward and were produced by DOE, the DOE contractor community, and/or DOE grantees. Legacy documents are added as they become available in electronic format. Research in physics, chemistry, materials, biology, environmental sciences, energy technologies, engineering, computer and information science, renewable energy, and other topics of interest related to the DOE mission are included. DOE report literature, conference papers, books, dissertations, and patents are available.  The DOE Office of Scientific and Technical Information (OSTI) developed and hosts this website as a public service.
+
+
+== History ==
+The Information Bridge: DOE Scientific and Technical Information was introduced to the U.S. Department of Energy (DOE) community in 1997 and was the first electronic system to provide searchable full-text and bibliographic records of DOE-sponsored research report literature. Originally made available only to DOE and DOE contractors, Information Bridge was launched as a free public access database in April 1998.
+The Atomic Energy Acts of 1946 and 1954, the Energy Reorganization Act of 1974, the Department of Energy Act of 1977, and the Energy Policy Act of 2005, all call for the dissemination of scientific and technical information (STI) to the public, especially information resulting from DOE and predecessor agency research and development R&D.
+The Energy Policy Act of 2005 states: "The Secretary, through the Office of Scientific and Technical Information, shall maintain within the Department publicly available collections of scientific and technical information resulting from research, development, demonstration, and commercial applications activities supported by the Department." Since 1947, OSTI and its predecessor organizations have helped meet requirements for information dissemination on behalf of the Department and predecessor agencies, the Energy Research & Development Administration (ERDA) and the Atomic Energy Commission (AEC).  Throughout its history, OSTI has worked with representatives across the agency – in laboratories, field offices, headquarters – to facilitate access to  information and to promulgate policy and best practices for scientific and technical information (STI) management.
+
+
+== Scope ==
+Topics, or subjects, and Department of Energy disciplines of interest in Information Bridge: DOE Scientific and Technical Information are wide-ranging. Scientific and technical research encompass chemistry, physics, materials, environmental science, geology, engineering, mathematics, climatology, oceanography, computer science, and related disciplines. It includes scientific literature, conference papers, journal articles, books, dissertations, and patents.
+
+
+== Stated capabilities ==
+Full-text documents of scientific and technical information dating primarily from 1991 to the present day are available for download. Legacy documents are added as they become available in electronic format. Most DOE technical reports from the 1940s to 1991 are still only available in hard copy. 
+Information Bridge: DOE Scientific and Technical Information search capabilities include full text, bibliographic citation, title, creator/author, subject, identifier numbers, publication date, system entry date, resource/document type, research organization, sponsoring organization, and/or any combination of these.Results can be sorted by relevance, publication date, system entry date, resource/document type, title, research organization, sponsoring organization, or the unique Office of Scientific Information (OSTI) Identifier. Acquiring a count of search results combined with a link to the actual results is available as well as the ability to receive weekly Alerts in topics of interest. Information about acquiring a non-electronic documents is available.
+
+
+== See also ==
+Other databases
+
+
+== References ==
+
+
+== External links ==
+OSTI
+Science Accelerator
+Science.gov
+WorldWideScience.org

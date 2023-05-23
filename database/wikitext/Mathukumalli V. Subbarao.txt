@@ -1,0 +1,15 @@
+Mathukumalli (Matukumalli) Venkata Subbarao (May 4, 1921 – February 15, 2006) was an Indo-Canadian mathematician, specialising in number theory.  He was a long-time resident of Edmonton, Alberta, Canada.
+Subbarao was born in the small village of Yazali, Guntur, Andhra Pradesh, India. He received his master's degree from Presidency College, Madras in 1941. He went on to complete a doctorate in functional analysis, advised by Ramaswamy S. Vaidyanathaswamy. He worked at Presidency College, Madras, Sri Venkateswara University, and the University of Missouri, before moving in 1963 to the University of Alberta, where he spent the rest of his professional career.In the 1960s Subbarao began to study the congruence properties of the partition function, p(n), which became one of his favourite problems. For example, he conjectured that if A and B are integers with 0 ≤ B < A, there are infinitely many n for which p(An+B) is even and infinitely many n for which p(An+B) is odd. Ken Ono showed that the even case is always true and that if there is one number n such that p(An+B) is odd, then there are infinitely many such numbers n. The odd case was finally settled by Silviu Radu. A more general variant of the conjecture was formulated by Morris Newman predicting that for any given r and m, there are infinitely many n such that p(n)= r(mod m).  At the end of his life, Subbarao co-authored a book on partition theory with A.K. Agarwal and Padmavathamma. Partition theory is ubiquitous in mathematics with connections to the representation theory of the symmetric group and the general linear group, modular forms, and physics.  Thus, Subbarao's conjectures, though seemingly simple, will generate fundamental research activity for years to come.   He also researched special classes of divisors and the corresponding analogues of divisor functions and perfect numbers, such as those arising from the exponential divisors ("e-divisors") which he defined. Many other mathematicians have published papers building on his work in these subjects.
+A prolific collaborator, Subbarao had more than 40 joint authors (including Paul Erdős, giving him Erdős number 1). He continued producing mathematics papers into the final years of his life. He died in Edmonton at the age of 84.
+Subbarao was the father of Prof. Mathukumalli Vidyasagar.
+
+
+== Selected publications ==
+Straus, E. G.; Subbarao, M. V. (1974). "On exponential divisors". Duke Mathematical Journal. 41 (2): 465–471. doi:10.1215/S0012-7094-74-04152-0.
+
+
+== References ==
+
+
+== External links ==
+Mathukumalli V. Subbarao at the Mathematics Genealogy Project

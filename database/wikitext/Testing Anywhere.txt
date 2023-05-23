@@ -1,0 +1,31 @@
+Testing Anywhere is software produced by San Jose-based Automation Anywhere, Inc. (est. 2003). The software allows testers and developers to test applications, Web sites, objects, controls and GUI front-ends.
+The company has been featured in SD Times
+for its creation of "Object Avatars", and has over 25,000 customers.
+
+
+== Uses ==
+Testing Anywhere is used to record, debug, schedule, and run test cases for a wide variety of application types, such as Java, Silverlight, .Net, mainframe, C++, etc.
+
+
+== Automating Test Case Creation ==
+Test cases are created using one of five methods (web recording, object recording, image recognition, Smart recording, editor). These test cases are recorded, saved, and can be edited and enhanced.
+Test cases are edited with an editor. Wizards make it possible for people with no programming skills to create and edit these test cases.
+Executable (EXE) files can be created so that testers can deploy (run) them on remote machines.
+A workflow designer creates high-level business and IT processes and enables the ability to manage them.
+
+
+== Supported OS ==
+Microsoft Windows 8 (32 bit and 64 bit editions), Microsoft Windows 7 (32 bit and 64 bit editions), Microsoft Windows Vista (32 bit and 64 bit editions), Microsoft Windows Server 2012, Microsoft Windows Server 2008 R2, Microsoft Windows Server 2003, Microsoft Windows XP (32 bit and 64 bit editions) with Service Pack 2.
+
+
+== References ==
+
+
+== External links ==
+Official website
+
+
+== See also ==
+Test automation
+GUI software testing
+List of GUI testing tools

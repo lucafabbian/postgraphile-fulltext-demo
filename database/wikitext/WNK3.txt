@@ -1,0 +1,13 @@
+Serine/threonine-protein kinase WNK3, also known as protein kinase lysine-deficient 3, is a protein that in humans is encoded by the WNK3 gene.
+
+
+== Function ==
+WNK3 is a protein belonging to the 'with no lysine' family of serine-threonine protein kinases. These family members lack the catalytic lysine in subdomain II, and instead have a conserved lysine in subdomain I. This family member functions as a positive regulator of the transcellular Ca2+ transport pathway, and it plays a role in the increase of cell survival in a caspase 3 dependent pathway.
+
+
+== References ==
+
+
+== Further reading ==
+
+This article incorporates text from the United States National Library of Medicine, which is in the public domain.

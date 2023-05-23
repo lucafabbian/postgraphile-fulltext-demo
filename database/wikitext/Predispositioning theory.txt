@@ -1,0 +1,83 @@
+Predispositioning theory, in the field of decision theory and systems theory, is a theory focusing on the stages between a complete order and a complete disorder.
+Predispositioning theory was founded by Aron Katsenelinboigen (1927–2005), a professor in the Wharton School who dealt with indeterministic systems such as chess, business, economics, and other fields of knowledge and also made an essential step forward in elaboration of styles and methods of decision-making.
+
+
+== Predispositioning theory ==
+Predispositioning theory is focused on the intermediate stage between a complete order and a complete disorder. According to Katsenelinboigen, the system develops gradually, going through several stages, starting with incomplete and inconsistent linkages between its elements and ending with complete and consistent ones.
+"Mess. The zero phase can be called a mess because it contains no linkages between the system's elements. Such a definition of mess as ‘a disorderly, un-tidy, or dirty state of things’ we find in Webster's New World Dictionary. (...)Chaos. Mess should not be confused with the next phase, chaos, as this term is understood today. Arguably, chaos is the first phase of indeterminism that displays sufficient order to talk of the general problem of system development. 
+The chaos phase is characterized by some ordering of accumulated statistical data and the emergence of the basic rules of interactions of inputs and outputs (not counting boundary conditions). Even such a seemingly limited ordering makes it possible to fix systemic regularities of the sort shown by Feigenbaum numbers and strange attractors. 
+(...) Different types of orderings in the chaos phase may be brought together under the notion of directing, for they point to a possible general direction of system development and even its extreme states. 
+But even if a general path is known, enormous difficulties remain in linking algorithmically the present state with the final one and in operationalizing the algorithms. These objectives are realized in the next two large phases that I call predispositioning and programming. (...)
+Programming. When linkages between states are established through reactive procedures, either by table functions or analytically, it is often assumed that each state is represented only by essentials. For instance, the production function in economics ties together inputs and outputs in physical terms. When a system is represented as an equilibrium or an optimization model, the original and conjugated parameters are stated explicitly; in economics, they are products (resources) and prices, respectively.9 Deterministic economic models have been extensively formalized; they assume full knowledge of inputs, outputs, and existing technologies. 
+(...) Predispositioning (...) exhibits less complete linkages between system's elements than programming but more complete than chaos.": 19–20 Methods like programming and randomness are well-known and developed while the methodology for the intermediate stages lying between complete chaos and complete order as well as their philosophical conceptualization have never been discussed explicitly and no methods of their measurements were elaborated. 
+According to Katsenelinboigen, operative sub-methods of dealing with the system are programming, predispositioning, and randomness. They correspond to three stages of systems development.
+Programming is a formation of complete and consistent linkages between all the stages of the systems' development.
+Predispositioning is a formation of semi-efficient linkages between the stages of the system's development. In other words, predispositioning is a method responsible for creation of a predisposition.
+Randomness is a formation of inconsistent linkages between the stages of the system's development. In this context, for instance, Darwinism emphasizes the exclusive role of chance occurrences in the system's development since it gives top priority to randomness as a method. Conversely, creationism states that the system develops in a comprehensive fashion, i.e. that programming is the only method involved in the development of the system. As Aron Katsenelinboigen notices, both schools neglect the fact that the process of the system's development includes a variety of methods which govern different stages, depending on the systems’ goals and conditions.
+Unfortunately, predispositioning as a method as well as a predisposition as an intermediate stage have never been discussed by scholars, though there were some interesting intuitive attempts to deal with the formation of a predisposition. The game of chess, at this point, was one of the most productive fields in the study of predispositioning as a method. Owing to chess’ focus on the positional style, it elaborated a host of innovative strategies and tactics that Katsenelinboigen analyzed and systematized and made them a basis for his theory.
+To sum up, the main focus of predispositioning theory is on the intermediate stage of systems development, the stage that Katsenelinboigen proposed to call a "predisposition". This stage is distinguished by semi-complete and semi-consistent linkages between its elements. 
+The most vital question when dealing with semi-complete and semi-consistent stages of the system is the question of its evaluation. To this end, Katsenelinboigen elaborated his structure of values, using the game of chess as a model.
+
+
+== Structure of values ==
+According to Katsenelinboigen's predispositioning theory, in the chess game pieces are evaluated from two basic points of view – their weight in a given position on the chessboard and their weight independent to any particular position. 
+Based on the degree of conditionality, the values are:
+
+Fully unconditional
+Unconditional
+Semi-conditional
+ConditionalAccording to Katsenelinboigen, game pieces in chess are evaluated from two basic points of view: their weight with regard to a certain situation on the chessboard and their weight without regard to any particular situation, only to the position of the pieces. The latter are defined by Katsenelinboigen as semi-unconditional values, formed by the sole condition of the rules of piece interaction. The semiunconditional values of the pieces (such as queen 9, rook 5, bishop 3, knight 3, and pawn 1) appear as a result of the rules of interaction of a piece with the opponent's king. All other conditions, such as starting conditions, final goal, and a program that links the initial condition to the final state, are not taken into account. The degree of conditionality is increased by applying preconditions, and the presence of all four preconditions fully forms conditional values.
+Katsenelinboigen outlines two extreme cases of the spectrum of values—fully conditional and fully unconditional—and says that, in actuality, they are ineffectual in evaluating the material and so are sometimes replaced by semiconditional or semiunconditional valuations, which are distinguished by their differing degrees of conditionality. He defines fully conditional values as those based on complete and consistent linkages among all four preconditions.": 144–145 The conditional values are formed by the four basic conditions:
+
+starting conditions
+final goal
+a program that links the initial conditions with the final state
+rules of interactionThe degree of unconditionality is predicated by the necessity to evaluate things under uncertainty (when the future is unknown) and conditions cannot be specified.
+Applying his concept of values to social systems, Katsenelinboigen shows how the degree of unconditionality forms morality and law. According to him, the moral values represented in the Torah as the Ten Commandments are analogous to semi-unconditional values in a chess game, for they are based exclusively on the rules of interactions.
+"The difference between these two approaches is clearly manifested in the various translations of the Torah. For instance, The Holy Scriptures (1955), a new translation based on the masoretic text  (a vast body of the textual criticism of the Hebrew Bible), translates the commandment as ‘Thou shalt not commit murder.’ In The Holy Bible, commonly known as the authorized (King James) version (The Gideons International, 1983), this commandment is translated as ‘Thou shalt not kill.’
+(...) The difference between unconditional and semi-unconditional evaluations will become more prominent if we use the same example of ‘Thou shalt not kill and ‘Thou shalt not murder’ to illustrate the conduct of man in accordance with his precepts.
+In an extreme case, one who follows ‘Thou shalt not kill’ will allow himself to be killed before he kills another. These views are held by one of the Hindu sects in Sri Lanka (the former Ceylon). To the best of my knowledge, the former prime minister of Ceylon, Solomon Bandaranaike (1899-1959), belonged to this sect. He did not allow himself to kill an attacker and was murdered. As he lay bleeding to death, he did crawl over to the murderer and knock the pistol from his hand before it could be used against his wife, Sirimavo Bandaranaike. She later became the prime minister of Ceylon-Sri Lanka.": 135–36 But how does one ascribe weights to certain parameters, establishes the degree of conditionality, etc.? How does the evaluative process go in indeterministic systems?
+
+
+== The role of subjectivity ==
+Katsenelinboigen states that the evaluative category for indeterministic systems is based on subjectivity.
+"This pioneering approach to the evaluative process is the subject of Katsenelinboigen’s work on indeterministic systems. The roots of one’s subjective evaluation lie in the fact that the executor cannot be separated from the evaluator, who evaluates the system in accordance with his or her own particular ability to develop it. This can be observed in chess, in which the same position is evaluated differently by different chess players, or in literature with regard to hermeneutics.": 36 Katsenelinboigen writes:
+
+The subjective element arises not because the set of positional parameters and their valuations are formed based on a player’s intuition. Rather, the choice of relevant parameters depends on the actual executor of the position, that is, the particular strengths and weaknesses of a given player. The role of the executor becomes vital because the actual realization of the position is not known beforehand, so future moves will have to be made based on the contingent situation at hand.Katsenelinboigen clearly explains why subjectivity of the managerial decision is inevitable:
+
+"The original subjective evaluation of the situation by the decision-maker is critical in the creative strategic management. Subjectivity of the managerial decisions is inevitable due to the intrinsically indeterministic nature of the strategic management, meaning that the subjectivity arises not just because of the lack of scientific foundation in business management. The effective approach to the strategic decision-making, as demonstrated in the game of chess, presupposes that each player has a unique, individual vision of his strategic position. To make it more systematic, one should not substitute the player’s intuition with some objective laws that relate essential and positional parameters, but rather complement the intuition with the statistical analysis.": 164 To sum up, subjectivity becomes an important factor in evaluating a predisposition. The roots of one's subjective evaluation lie in the fact that the executor cannot be separated from the evaluator who evaluates the system in accordance with his own particular ability to develop it.
+The structure of values plays an essential part in calculus of predisposition.
+
+
+== Calculus of predispositions ==
+
+Calculus of predispositions, a basic part of predispositioning theory, belongs to the indeterministic procedures. 
+"The key component of any indeterministic procedure is the evaluation of a position. Since it is impossible to devise a deterministic chain linking the inter-mediate state with the outcome of the game, the most complex component of any indeterministic method is assessing these intermediate stages. It is precisely the function of predispositions to assess the impact of an intermediate state upon the future course of development.": 33  
+According to Katsenelinboigen, calculus of predispositions is another method of computing probability. Both methods may lead to the same results and, thus, can be interchangeable. However, it is not always possible to interchange them since computing via frequencies requires availability of statistics, possibility to gather the data as well as having the knowledge of the extent to which one can interlink the system's constituent elements. Also, no statistics can be obtained on unique events and, naturally, in such cases the calculus of predispositions becomes the only option.
+The procedure of calculating predispositions is linked to two steps – dissection of the system on its constituent elements and integration of the analyzed parts in a new whole.  According to Katsenelinboigen, the system is structured by two basic types of parameters – material and positional. The material parameters constitute the skeleton of the system. Relationships between them form positional parameters. The calculus of predispositions primarily deals with 
+
+analyzing the system's material and positional parameters as independent variables and
+measuring them in unconditional valuations."In order to quantify the evaluation of a position we need new techniques, which I have grouped under the heading of calculus of predispositions. This calculus is based on a weight function, which represents a variation on the well-known criterion of optimality for local extremum. This criterion incorporates material parameters and their conditional valuations. 
+The following key elements distinguish the modified weight function from the criterion of optimality:
+
+First and foremost, the weight function includes not only material parameters as independent (controlling) variables, but also positional (relational) parameters.
+The valuations of material and positional parameters composing the weight function are, to a certain extent, unconditional; that is, they are independent of the specific conditions, but do take into account the rules of the game and statistics (experience).": 35 To conclude, there are some basic differences between frequency-based and predispositions-based methods of computing probability.
+
+The frequency-based method is grounded in statistics and frequencies of events.
+The predispositions-based method approaches a system from the point of view of its predisposition. It is used when no statistics is available.
+The predispositions-based method is used for the novel and unique situations.According to Katsenelinboigen, the two methods of computing probability may complement each other if, for instance, they are applied to a multilevel system with an increasing complexity of its composition at higher levels.
+
+
+== See also ==
+Karl Popper
+
+
+== References ==
+
+
+== External links ==
+Concept of cancer
+Economy as a Dynamic System
+The concept of indeterminism and its applications
+The Language of Predispositioning
+A Concept of Dramatic Genre and the Comedy of a New Type

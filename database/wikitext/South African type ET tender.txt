@@ -1,0 +1,29 @@
+The South African type ET tender was a steam locomotive tender.
+Type ET tenders entered service in 1947 and 1948, as tenders to the last batch of 100 Class 15F 4-8-2 Mountain type steam locomotives which entered service on the South African Railways in those years.
+
+
+== Manufacturer ==
+Type ET tenders were built in 1947 and 1948 by North British Locomotive Company (NBL).The South African Railways (SAR) placed its last batch of 100 Class 15F locomotives in service in 1947 and 1948. The original Class 15F locomotive and tender had been designed in 1938 by W.A.J. Day, Chief Mechanical Engineer (CME) of the South African Railways (SAR) from 1936 to 1939, while this last version was built to modified designs by Doctor M.M. Loubser, who succeeded Day as CME in 1939. These 100 engines and their tenders were equipped with mechanical stokers.
+
+
+== Characteristics ==
+The tender rode on four-wheeled bogies and was virtually identical to the earlier Type JT tender, but equipped with a mechanical stoker. Like the Type JT, it also had a 14 long tons (14.2 tonnes) coal capacity and a maximum axle load of 17 long tons 15 hundredweight (18,030 kilograms), but a 380 imperial gallons (1,730 litres) smaller water capacity of 5,620 imperial gallons (25,500 litres) to accommodate the mechanical stoker mechanism, while its empty weight was 1,232 pounds (559 kilograms) more due to the additional stoking equipment. These appear to have been the only differences between the Types JT and ET tenders.
+
+
+== Locomotives ==
+Only the last batch of 100 Class 15F locomotives, built by NBL, were delivered new with Type ET tenders, which were numbered in the range from 3057 to 3156 for their engines. An oval number plate, bearing the engine number and often also the locomotive class and tender type, was attached to the rear end of the tenders.
+
+
+== Classification letters ==
+Since many tender types are interchangeable between different locomotive classes and types, a tender classification system was adopted by the SAR. The first letter of the tender type indicates the classes of engines to which it can be coupled. The "E_" tenders were arranged with mechanical stokers and could be used with the locomotive classes as shown.
+Class 15F, if equipped with a mechanical stoker.
+Class 23.
+Class 25NC.
+Class 26.The second letter indicates the tender's water capacity. The "_T" tenders had a capacity of between 5,587 and 6,000 imperial gallons (25,400 and 27,300 litres; 6,710 and 7,210 US gallons).A number, when added after the letter code, indicates differences between similar tender types, such as function, wheelbase or coal bunker capacity.
+
+
+== Modifications ==
+A subdivision of the Type ET tender was created when the coal bunkers of some of the tenders were enlarged to a 16 long tons (16.3 tonnes) capacity. Such tenders were reclassified to Type ET1.
+
+
+== References ==

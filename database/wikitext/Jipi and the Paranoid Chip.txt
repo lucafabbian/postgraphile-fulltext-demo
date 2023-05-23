@@ -1,0 +1,24 @@
+"Jipi and the Paranoid Chip" is a science fiction short story by Neal Stephenson that appeared in Forbes magazine's July 7, 1997 issue. It is part of the Baroque Cycle/Cryptonomicon universe.
+
+
+== Plot ==
+The story deals with the concepts of mindshare and evolutionary software.
+Jipi, a former Pacific-rim airline flight attendant, is staying with her friend in a high-rise luxury apartment building inside Manila's walled district of Intramuros. The fiftieth floor of a neighboring high-rise houses the Asian-Pacific headquarters of Mindshare Management, under regional supervisor Mr. Cardoza. Goto Engineering is conducting a citywide sewer replacement project which produces unpleasant gases that have hurt the city's hospitality industry. Jipi, looking for work, is given employment by Mr. Cardoza at the Manila Hotel in order to monitor guests in the lobby for signs of having noticed the unpleasant sewer gases and having the guests distracted by Cardoza's actors before they become aware of the construction across the street and lower the hotel's reputation by word of stay experiences.
+Mr. Cardoza explains a new job to Jipi. A California software firm, under contract with requests from law enforcement, have produced evolving software inclined to detect paranoid schizophrenics during conversations over the Internet. Eventually, several million descendent generations of software are evolved that mimics the persona of a paranoid human, thus making them ideal against a hacker trying to shut them down. Shenzhen begins to make pirated wholesale copies of the chip, which are sold to a tariff-free zone city in North Africa, leading to the manufacture of an evolved theft-deterrent - an alarm-activated car bomb. Not knowing a proper amount of explosives to use with the car alarms, one manufacturer's particular shipment of Czech Semtex is equally divided into 48 customer deliveries, each with enough charge to level part of a city block. After one levels a mall in California, Mr. Cardoza, in Manila, is hired to track down the remaining 47 vehicles using each vehicle's wireless internet modems. Recognizing Jipi's charm, he recruits her to type messages in internet conversation to the next of the remaining schizoid-induced personality car alarms via satellite connection to track down clues to its location until local police can shut it down.
+
+
+== Genre ==
+The story takes place in the same universe as The Baroque Cycle and Cryptonomicon. Mention is made of Homer/Homa Goto, presumably a descendant of Goto Dengo, and his firm, Goto Engineering; of the Bank of Manila and Kinakuta; and of the Black Chamber, also known as the International Data Transfer Regulatory Organisation. It is presumably set in the first half of the 21st century, a generation after the events of Cryptonomicon.
+
+
+== See also ==
+Mindshare
+Artificial intelligence
+Genetic programming
+Cyberpunk
+The Great Simoleon Caper
+
+
+== External links ==
+Jipi and the Paranoid Chip Archived 2006-08-30 at the Wayback Machine as it appeared in Forbes, Vol. 160, Issue 1 (7 July 1997)
+NASA Evolutionary Software Automatically Designs Antenna

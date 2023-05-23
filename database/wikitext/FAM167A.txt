@@ -1,0 +1,63 @@
+Family with sequence similarity 167, member A is a protein in humans that is encoded by the FAM167A gene located on chromosome 8.
+FAM167A and its paralogs are protein encoding genes containing the conserved domain DUF3259, a protein of unknown function. FAM167A has many orthologs in which the domain of unknown function is highly conserved.
+
+
+== Gene ==
+
+
+=== Locus ===
+On chromosome 8, FAM167A is positioned between c8orf12 (anti-sense) and BLK (anti-sense). The exact locus of FAM167A is 8p23-22 and spans from 11,278,972 to 11,332,224, a total of 53,253 base pairs. The promoter spans from 11324145 to 11324476 on the negative strand, thereby the first basepair is actually on 11324476. There are no human isoforms found.
+
+
+=== Aliases ===
+Family with Sequence Similarity 167, Member A is also known as FAM167A, c8orf13, or D8S265.
+
+
+== Homology ==
+
+
+=== Paralogs ===
+FAM167A has one paralog, FAM167B also known as c1orf90. FAM167B is located at 1p35.1 on the plus strand and is composed of 163 amino acids and also contains DUF3259.
+
+
+=== Orthologs ===
+
+FAM167A has orthologs in 82 organisms and is conserved across chimpanzees, dog, cow, mouse, chicken, rat, frogs, and zebrafish.
+As shown in the table above, FAM167A is highly conserved across many orthologs of various divergence dates. The exact degree of conservation follows what is expected due to the evolutionary track of a protein.
+
+
+== Protein ==
+
+
+=== Primary sequence ===
+The gene that encodes FAM167A is 214 amino acids in length. The molecular weight in humans of the FAM167A protein is 24.2 kdal and the isoelectric point is measured to be 5.887 in Homo sapiens. Mouse and chicken orthologs were shown to have a molecular weight of ± 0.5 kdal and isoelectric points were ±0.6.
+
+
+=== Variants ===
+
+As per the results on AceView, shown right, the FAM167A gene contains 13 introns. The gene is also "well expressed" at 1.2 times the average gene. Transcription produces 9 different mRNAs, 8 of which are alternatively spliced and 1 unspliced form. 4 of the spliced proteins, which includes 2 isoforms, are considered to be good while the remaining five are partial or not good proteins.
+
+
+=== Secondary structure ===
+FAM167A has a leucine zipper as part of its secondary structure as noted by the four heptad leucine repeat regions shown in SAPS. The leucine zipper is a portion of the DUF domain. Predictions of the secondary structure for the FAM167A protein are mostly that it is made of alpha helices and coiled coils, which would be reasonable as there is a coiled coil domain. The C-terminus end of DUF3259 is generally agreed upon in the PELE program to be a region of potential beta sheets and coiled coils. Using PELE, there is some consensus amongst the eight different outputs given as to the general secondary structure of the protein.  There are no transmembrane domains as predicted on the FAM167A protein.
+
+
+=== Interacting proteins ===
+
+Using the MINT, STRING, and IntAct tools on Genecards, the sources have a consensus on the interactions between FAM167A and BANK1 as well as the BLK gene. These proteins are already known to interact with FAM167A in the development of several diseases such as Sjogren's disease and systemic sclerosis. In both the case of BANK1 and BLK, there is literature to back up the possible connections and interactions between the two proteins in disease development.
+
+
+=== Post-translational modification ===
+No glycosylation sites have been found, as searched using tools on Expasy.org. There was a site for serine phosphorylation on both the human and mouse proteins and two for tyrosine phosphorylation, amino acids 147, 159, and 170 respectfully. Phosphorylation sites are used for various regulatory functions such as enzyme inhibition, protein-protein interactions, and protein degradation.
+
+
+== Function ==
+
+Micro arrays show that FAM167A has varied expression in reactions to cancers, but no information regarding the exact function of FAM167A can be drawn from these micro arrays. FAM167A has ubiquitously low expression in all tissues types throughout the body. In mouse it has a higher expression in the skin, B-cells, and spleen, but the same low expression in all other cell types.
+
+
+== Clinical significance ==
+SNPs in the regions between FAM167A and the BLK gene have been associated with the development of Sjogren's syndrome in a Han Chinese population, as well as in a Scandinavian population. The FAM167A-BLK region has also been linked to systemic sclerosis by comparing functional variants in the C8orf13-BLK locus in a Caucasian population. Results of the study confirms the C8orf13-BLK locus as a systemic sclerosis risk locus, strongest effects were observed in the interactions between that locus and BANK1.
+
+
+== References ==

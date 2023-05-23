@@ -1,0 +1,14 @@
+Digit symbol substitution test (DSST) is a neuropsychological test sensitive to brain damage, dementia, age and depression.
+The test is not sensitive to the location of brain-damage (except for damage comprising part of the visual field). It consists of (e.g. nine) digit-symbol pairs (e.g. 1/-,2/┴ ... 7/Λ,8/X,9/=) followed by a list of digits. Under each digit the subject should write down the corresponding symbol as fast as possible. The number of correct symbols within the allowed time (e.g. 90 or 120 sec) is measured.
+The DSST contained in the Wechsler Adult Intelligence Scale is called 'Digit Symbol' (WAIS-R), 'Digit-Symbol-Coding' (WAIS-III), or most recently, 'Coding' (WAIS-IV). Based on The Boston Process Approach to assessment, in order to examine the role of memory in Digit-Symbol-Coding performance, WAIS-III (but not WAIS-IV) contains an optional implicit learning test: after the Digit Symbol-Coding test paired and free recall of the symbols is assessed.The National Health and Nutrition Examination Survey (NHANES) administered the DSST to over three thousand participants 60 years and older in 2011–2014. Trained interviewers administered the test at the end of a face-to-face private interview in an examination center and two interviewers independently scored the test. An extensive analysis of these data has been published. Scores (mean, 25th percentile, 75th percentile) declined with age: 60-69y: 57, 46, 68; 70-79y: 48, 38, 68; 80+y: 40, 29, 49.
+
+
+== See also ==
+Four boxes test
+
+
+== References ==
+
+
+== External links ==
+Strauss, E.; Sherman, E.M.S. & Spreen, O. (2006). A compendium of neuropsychological tests: administration, norms, and commentary. Oxford: Oxford University Press. p. 301. ISBN 0-19-515957-8.
