@@ -23,13 +23,13 @@
       },
       body: JSON.stringify({ query: `
         query($matches: String) {
-          pages(
+          documents(
             filter: {tsvectorColumn: {matches: $matches}}
             orderBy: TSVECTOR_COLUMN_RANK_DESC
             first: 10
           ) {
             nodes {
-              name
+              title
               id
               data
             }
@@ -50,14 +50,14 @@
   <div v-scope="{ query: '', results: [], totalCount: null }" class="container grid-hero grid-sm py-2">
     <div class="d-flex" style="padding-top: 50px">
       <input v-model="query" class="form-input mx-1" type="text" id="input-example-1" placeholder="Search..."
-        @keyup.enter="search(query).then(r => {results = r.data.pages.nodes; totalCount = r.data.pages.totalCount})"
+        @keyup.enter="search(query).then(r => {results = r.data.documents.nodes; totalCount = r.data.documents.totalCount})"
       >
       <button class="mx-1 btn btn-primary btn-action"
-        @click="search(query).then(r => {results = r.data.pages.nodes; totalCount = r.data.pages.totalCount})"
+        @click="search(query).then(r => {results = r.data.documents.nodes; totalCount = r.data.documents.totalCount})"
       ><i class="icon icon-search"></i></button>
     </div>
     <div class="card mx-1 my-2" v-for="result in results">
-      <h4 class="card-header">{{result.name}}</h4>
+      <h4 class="card-header">{{result.title}}</h4>
       <p class="card-body">{{result.data.length < 1000 ? result.data : result.data.substring(0, 1000) + '...'}}</p>
     </div>
     <p class="mx-1 my-2" v-if="totalCount !== null">totalCount: {{totalCount}}</p>
